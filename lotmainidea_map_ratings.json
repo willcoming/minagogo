@@ -1,0 +1,555 @@
+{
+  "https://maps.app.goo.gl/AMEFwMJdLGw33izE9": {
+    "url": "https://maps.app.goo.gl/AMEFwMJdLGw33izE9",
+    "name": "Ladrio",
+    "rating": "4.1",
+    "reviews": "702",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:18:21.548Z"
+  },
+  "https://maps.app.goo.gl/HUgXt2jr8E2AkhSP9": {
+    "url": "https://maps.app.goo.gl/HUgXt2jr8E2AkhSP9",
+    "final_url": "https://www.google.com/maps/place/%E9%87%A7%E8%B7%AF%E5%92%8C%E5%95%86%E5%B8%82%E5%A0%B4/@42.9892463,144.3799285,17z/data=!3m1!4b1!4m6!3m5!1s0x5f723d6336a8e449:0x119acf0bfb193610!8m2!3d42.9892463!4d144.3799285!16s%2Fg%2F120z6_w9!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDQwNy4wIPu8ASoASAFQAw%3D%3D&skid=11ae63ef-99e9-4d51-b901-21a0bd1b43f1",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Timed out running CDP command \"Page.navigate\" for tab 2",
+    "checked_at": "2026-05-20T22:21:28.652Z"
+  },
+  "https://maps.app.goo.gl/dotX2A9f7gpiZjmL6": {
+    "url": "https://maps.app.goo.gl/dotX2A9f7gpiZjmL6",
+    "name": "㈱さとむら",
+    "rating": "4.2",
+    "reviews": "36",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:21:30.360Z",
+    "final_url": "https://www.google.com/maps/place/%E3%88%B1%E3%81%95%E3%81%A8%E3%82%80%E3%82%89/@42.9889923,144.379889,17z/data=!3m1!4b1!4m6!3m5!1s0x5f723d6336ebc755:0x69e88771619ba625!8m2!3d42.9889923!4d144.379889!16s%2Fg%2F1tkc1xsv!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDQwNy4wIPu8ASoASAFQAw%3D%3D&skid=bc8503bc-daf2-4644-b9cc-fc015d91c1e2"
+  },
+  "https://maps.app.goo.gl/i3u13AYJkWHD3PkG6": {
+    "url": "https://maps.app.goo.gl/i3u13AYJkWHD3PkG6",
+    "final_url": "https://www.google.com/maps/place/%E9%B6%B4%E8%A6%8B%E5%8F%B0/@43.1783562,144.3195307,17z/data=!3m1!4b1!4m6!3m5!1s0x5f726c2906ee3463:0xbd807bd1cff0418f!8m2!3d43.1783562!4d144.3195307!16s%2Fg%2F1v26lxlb!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDQwNy4wIPu8ASoASAFQAw%3D%3D&skid=707a8abf-9af4-43b1-9e3c-6f0e82c1d7f0",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Timed out running CDP command \"Page.navigate\" for tab 2",
+    "checked_at": "2026-05-20T22:21:50.371Z"
+  },
+  "https://maps.app.goo.gl/ULbqkh7rhqLWJVrK9": {
+    "url": "https://maps.app.goo.gl/ULbqkh7rhqLWJVrK9",
+    "name": "Saiwaicho Ryokuchi Park",
+    "rating": "3.8",
+    "reviews": "77",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:21:52.483Z",
+    "final_url": "https://www.google.com/maps/place/Saiwaicho+Ryokuchi+Park/@42.9819879,144.3803297,17z/data=!3m1!4b1!4m6!3m5!1s0x5f723d67cb9da707:0xc49834150d9d040!8m2!3d42.9819879!4d144.3803297!16s%2Fg%2F11cnc5zm0_!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDQwNy4wIPu8ASoASAFQAw%3D%3D&skid=c9138f1d-9eba-4ae6-80e8-23bba87136ce"
+  },
+  "https://maps.app.goo.gl/E1pxPhwxdoy1hvmX7": {
+    "url": "https://maps.app.goo.gl/E1pxPhwxdoy1hvmX7",
+    "name": "Nusamai Bridge",
+    "rating": "4.4",
+    "reviews": "873",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:18:43.825Z"
+  },
+  "https://maps.app.goo.gl/EgLT51A5v4WA4RBq9": {
+    "url": "https://maps.app.goo.gl/EgLT51A5v4WA4RBq9",
+    "name": "停車場餐廳",
+    "rating": "4.2",
+    "reviews": "333",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:18:48.610Z"
+  },
+  "https://maps.app.goo.gl/4FMHVU8me5TXtxaM6": {
+    "url": "https://maps.app.goo.gl/4FMHVU8me5TXtxaM6",
+    "name": "Lake Mashu Observatory No.1",
+    "rating": "4.3",
+    "reviews": "8,702",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:20:29.516Z",
+    "final_url": "https://www.google.com/maps/place/Lake+Mashu+Observatory+No.1/@43.5569599,144.5073882,17z/data=!3m1!4b1!4m6!3m5!1s0x5f6d77229c716333:0x5da7a28d7d0f096e!8m2!3d43.5569599!4d144.5073882!16s%2Fg%2F1tf42r_t!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDQwNy4wIPu8ASoASAFQAw%3D%3D&skid=28516f98-6378-4c4f-8c56-20ecdc990919"
+  },
+  "https://maps.app.goo.gl/tnst4uwVVjoX5aXC6": {
+    "url": "https://maps.app.goo.gl/tnst4uwVVjoX5aXC6",
+    "name": "LANTOKO流冰漫步",
+    "rating": "4.8",
+    "reviews": "66",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:21:53.884Z",
+    "final_url": "https://www.google.com/maps/place/LANTOKO%E6%B5%81%E5%86%B0%E6%BC%AB%E6%AD%A5/@44.0722883,144.9939165,17z/data=!3m1!4b1!4m6!3m5!1s0x5f6cc300202d31b7:0xad7f42e4f3893e4c!8m2!3d44.0722883!4d144.9939165!16s%2Fg%2F11vstvr0w9!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDQwNy4wIPu8ASoASAFQAw%3D%3D&skid=0fb179bd-6505-4592-a08e-30b7cd5341b6"
+  },
+  "https://maps.app.goo.gl/M3PPcWPYEuBVwhHy9": {
+    "url": "https://maps.app.goo.gl/M3PPcWPYEuBVwhHy9",
+    "name": "北濱（北海道）",
+    "rating": "4.3",
+    "reviews": "401",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:21:55.632Z",
+    "final_url": "https://www.google.com.tw/maps/place/%E5%8C%97%E6%BF%B1%EF%BC%88%E5%8C%97%E6%B5%B7%E9%81%93%EF%BC%89/@43.9583953,144.35003,17z/data=!3m1!4b1!4m6!3m5!1s0x5f6d30ea76ed2cff:0xccb239e2e814720c!8m2!3d43.9583953!4d144.3526049!16s%2Fm%2F05z_n23?entry=tts&g_ep=EgoyMDI2MDQwNy4wIPu8ASoASAFQAw%3D%3D&skid=d9a0e5b8-3ea7-4806-b00f-75f125c589fc"
+  },
+  "https://maps.app.goo.gl/6e4Ez65DZDoujh2D9": {
+    "url": "https://maps.app.goo.gl/6e4Ez65DZDoujh2D9",
+    "name": "停車場餐廳",
+    "rating": "4.2",
+    "reviews": "333",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:18:48.595Z"
+  },
+  "https://maps.app.goo.gl/ZiNQSnAwYhbiqiQU8": {
+    "url": "https://maps.app.goo.gl/ZiNQSnAwYhbiqiQU8",
+    "name": "網走監獄博物館",
+    "rating": "4.3",
+    "reviews": "8,384",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:21:57.496Z",
+    "final_url": "https://www.google.com/maps/place/%E7%B6%B2%E8%B5%B0%E7%9B%A3%E7%8D%84%E5%8D%9A%E7%89%A9%E9%A4%A8/@43.9952454,144.2299177,17z/data=!3m1!4b1!4m6!3m5!1s0x5f6d346b1cc3b181:0xa7d6c8cb14d85eed!8m2!3d43.9952454!4d144.2299177!16s%2Fg%2F122jqll9!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDQwNy4wIPu8ASoASAFQAw%3D%3D&skid=6e3b4185-3acb-4c05-b891-ddd3cf026e4b"
+  },
+  "https://maps.app.goo.gl/9vmg846i5ArJZ1su7": {
+    "url": "https://maps.app.goo.gl/9vmg846i5ArJZ1su7",
+    "name": "鄂霍次克流冰館",
+    "rating": "4.1",
+    "reviews": "4,615",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:20:31.117Z",
+    "final_url": "https://www.google.com/maps/place/%E9%84%82%E9%9C%8D%E6%AC%A1%E5%85%8B%E6%B5%81%E5%86%B0%E9%A4%A8/@44.0004555,144.2395563,17z/data=!3m1!4b1!4m6!3m5!1s0x5f6d3473b36809bf:0xfe4493ea8e0d8c32!8m2!3d44.0004555!4d144.2395563!16s%2Fg%2F120x5pc2!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDQwNy4wIPu8ASoASAFQAw%3D%3D&skid=e77311cb-31a4-4691-a6b6-b57ed2a852dc"
+  },
+  "https://maps.app.goo.gl/SqcM5hNHxdw3jVsL9": {
+    "url": "https://maps.app.goo.gl/SqcM5hNHxdw3jVsL9",
+    "name": "(Former)Tsuruya Yofukuten",
+    "rating": "4.4",
+    "reviews": "24",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:21:58.706Z",
+    "final_url": "https://www.google.com/maps/place/(Former)Tsuruya+Yofukuten/@35.6956291,139.7596795,17z/data=!3m1!4b1!4m6!3m5!1s0x60188c111c58d8b5:0x3779bfbcd03d1a2a!8m2!3d35.6956291!4d139.7596795!16s%2Fg%2F11c5_lz75l!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDMwMi4wIPu8ASoASAFQAw%3D%3D&skid=848c0dcd-e77e-4263-bef7-cafe7edcdf1b"
+  },
+  "https://maps.app.goo.gl/5ywvDFy5HAmyeXae9": {
+    "url": "https://maps.app.goo.gl/5ywvDFy5HAmyeXae9",
+    "final_url": "https://www.google.com/maps/place/%E4%BA%94%E5%8D%81%E7%A8%BB%E8%8D%B7%E7%A5%9E%E7%A4%BE/@35.6942326,139.7621065,17z/data=!3m1!4b1!4m6!3m5!1s0x60188c1011a20d07:0x5054a0e59479c86e!8m2!3d35.6942326!4d139.7621065!16s%2Fg%2F11bwqg4tdd!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDMwMi4wIPu8ASoASAFQAw%3D%3D&skid=ee3d6609-07dc-4699-ad62-8e6a98f0fc02",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Timed out running CDP command \"Page.navigate\" for tab 2",
+    "checked_at": "2026-05-20T22:22:18.717Z"
+  },
+  "https://maps.app.goo.gl/7oPbpv7bCEZN2vLc7": {
+    "url": "https://maps.app.goo.gl/7oPbpv7bCEZN2vLc7",
+    "name": "Tam Tam",
+    "rating": "4.1",
+    "reviews": "1,019",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:18:51.309Z"
+  },
+  "https://maps.app.goo.gl/uhLAvYAtHHUp7k8C9": {
+    "url": "https://maps.app.goo.gl/uhLAvYAtHHUp7k8C9",
+    "final_url": "https://www.google.com/maps/place/Extinct+Media+Museum/@35.6896368,139.7679036,17z/data=!3m1!4b1!4m6!3m5!1s0x60188d7f2e9513d1:0x22e77b7e3001a812!8m2!3d35.6896368!4d139.7679036!16s%2Fg%2F11tnmbr5r0!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDMwMi4wIPu8ASoASAFQAw%3D%3D&skid=30c2b5d6-aa63-4f25-ad66-1219ace91589",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Timed out running CDP command \"Page.navigate\" for tab 2",
+    "checked_at": "2026-05-20T22:22:39.128Z"
+  },
+  "https://maps.app.goo.gl/xzCawNbxExChpQBx8": {
+    "url": "https://maps.app.goo.gl/xzCawNbxExChpQBx8",
+    "final_url": "https://www.google.com/maps/place/Cafe+Hinata-ya/@35.6973206,139.7610061,18z/data=!4m6!3m5!1s0x60188c10ed8b410d:0x75edb9e84f1b312!8m2!3d35.696458!4d139.761446!16s%2Fg%2F1w665d63!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDMwMi4wIPu8ASoASAFQAw%3D%3D&skid=cc35feaa-c8af-4e6e-9259-a1975087461c",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com/maps/place/Cafe+Hinata-ya/@35.6973206,139.7610061,18z/data=!4m6!3m5!1s0x60188c10ed8b410d:0x75edb9e84f1b312!8m2!3d35.696458!4d139.761446!16s%2Fg%2F1w665d63!18m1!1e1 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:31.152Z"
+  },
+  "https://maps.app.goo.gl/9Jx4UC6nKWt5QUBn7": {
+    "url": "https://maps.app.goo.gl/9Jx4UC6nKWt5QUBn7",
+    "final_url": "https://www.google.com/maps/place/and+ST+TOKYO/@35.6705208,139.7031067,17z/data=!3m1!4b1!4m6!3m5!1s0x60188dfa82d98557:0x138619cdff5c5b67!8m2!3d35.6705208!4d139.7031067!16s%2Fg%2F11x5tv4z4s!18m1!1e1?entry=tts&g_ep=EgoyMDI2MDMwMi4wIPu8ASoASAFQAw%3D%3D&skid=94c80bfc-7cf5-42e1-acd5-ca6dfe7efbd2",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com/maps/place/and+ST+TOKYO/@35.6705208,139.7031067,17z/data=!3m1!4b1!4m6!3m5!1s0x60188dfa82d98557:0x138619cdff5c5b67!8m2!3d35.6705208!4d139.7031067!16s%2Fg%2F11x5tv4z4s!18m1!1e1 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:31.152Z"
+  },
+  "https://maps.app.goo.gl/Qy4CK2tA6TpzNFyR8": {
+    "url": "https://maps.app.goo.gl/Qy4CK2tA6TpzNFyR8",
+    "name": "AMI Paris - 表参道 CAFÉ & POP-UP",
+    "rating": "3.3",
+    "reviews": "40",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:20:32.662Z",
+    "final_url": "https://www.google.com/maps/place/AMI+Paris+-+%E8%A1%A8%E5%8F%82%E9%81%93+CAF%C3%89+%26+POP-UP/@35.6681648,139.7068217,17z/data=!3m1!4b1!4m6!3m5!1s0x60188d096c85bfb3:0x1582945291b76162!8m2!3d35.6681648!4d139.7068217!16s%2Fg%2F11wps268ml?coh=277533&entry=tts&g_ep=EgoyMDI2MDEyNy4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=904f5d6f-28ca-4a02-888c-5f66f926dc3f"
+  },
+  "https://maps.app.goo.gl/u65aJu3nmHMgSNFCA": {
+    "url": "https://maps.app.goo.gl/u65aJu3nmHMgSNFCA",
+    "name": "Harry Potter Shop Harajuku",
+    "rating": "4.6",
+    "reviews": "605",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:18:54.545Z"
+  },
+  "https://maps.app.goo.gl/S3jxqXTZoNFQtxJ66": {
+    "url": "https://maps.app.goo.gl/S3jxqXTZoNFQtxJ66",
+    "name": "SORA NEWoMan高輪",
+    "rating": "4.7",
+    "reviews": "3",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:18:59.101Z"
+  },
+  "https://maps.app.goo.gl/Rk58bq2DMqHR658k6": {
+    "url": "https://maps.app.goo.gl/Rk58bq2DMqHR658k6",
+    "final_url": "https://www.google.com/maps/place/Neo+Nice+Burger+%E8%A1%A8%E5%8F%82%E9%81%93/@35.6644064,139.7112413,17z/data=!3m1!4b1!4m6!3m5!1s0x60188d006c2fe045:0x394a7ba11532d132!8m2!3d35.6644064!4d139.7112413!16s%2Fg%2F11yq9k430y!18m1!1e1?coh=277533&entry=tts&g_ep=EgoyMDI2MDEyNy4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=09c9bc6e-9278-40f6-88a3-d99c3c91debf",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com/maps/place/Neo+Nice+Burger+%E8%A1%A8%E5%8F%82%E9%81%93/@35.6644064,139.7112413,17z/data=!3m1!4b1!4m6!3m5!1s0x60188d006c2fe045:0x394a7ba11532d132!8m2!3d35.6644064!4d139.7112413!16s%2Fg%2F11yq9k430y!18m1!1e1 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:32.689Z"
+  },
+  "https://maps.app.goo.gl/vLG9nUF9q6MCBnMA7": {
+    "url": "https://maps.app.goo.gl/vLG9nUF9q6MCBnMA7",
+    "final_url": "https://www.google.com/maps/place/NEWoMan+TAKANAWA/@35.636104,139.7400206,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b007d8eedfb:0x1da733ac28f7b737!8m2!3d35.636104!4d139.7400206!16s%2Fg%2F11x0gh_lnx!18m1!1e1?coh=277533&entry=tts&g_ep=EgoyMDI2MDEyNy4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=079979ab-9396-42f7-b08f-fd607cb02677",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com/maps/place/NEWoMan+TAKANAWA/@35.636104,139.7400206,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b007d8eedfb:0x1da733ac28f7b737!8m2!3d35.636104!4d139.7400206!16s%2Fg%2F11x0gh_lnx!18m1!1e1 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:32.695Z"
+  },
+  "https://maps.app.goo.gl/paCkog9pRRU8KrAW7": {
+    "url": "https://maps.app.goo.gl/paCkog9pRRU8KrAW7",
+    "final_url": "https://www.google.com/maps/place/BEAMS+CULTuART+%E9%AB%98%E8%BC%AA/@35.6363473,139.7401057,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b000bf3d1cf:0x70e8fe4cd03a254c!8m2!3d35.6363473!4d139.7401057!16s%2Fg%2F11xdfx8rk8!18m1!1e1?coh=277533&entry=tts&g_ep=EgoyMDI2MDEyNy4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=7bf574c1-b048-44be-a079-a58170b36b66",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com/maps/place/BEAMS+CULTuART+%E9%AB%98%E8%BC%AA/@35.6363473,139.7401057,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b000bf3d1cf:0x70e8fe4cd03a254c!8m2!3d35.6363473!4d139.7401057!16s%2Fg%2F11xdfx8rk8!18m1!1e1 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:32.698Z"
+  },
+  "https://maps.app.goo.gl/SX72j3f7baLXAtRb7": {
+    "url": "https://maps.app.goo.gl/SX72j3f7baLXAtRb7",
+    "name": "SORA NEWoMan高輪",
+    "rating": "4.7",
+    "reviews": "3",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:18:59.093Z"
+  },
+  "https://maps.app.goo.gl/fwgZgbUQod4rRJRA6": {
+    "url": "https://maps.app.goo.gl/fwgZgbUQod4rRJRA6",
+    "name": "THE GOODLAND MARKET",
+    "rating": "4.0",
+    "reviews": "2",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:20:34.064Z",
+    "final_url": "https://www.google.com/maps/place/THE+GOODLAND+MARKET/@35.6348916,139.7368784,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b0064b77031:0x4b1bf99bcc5fcee8!8m2!3d35.6348916!4d139.7394533!16s%2Fg%2F11ycylv734!18m1!1e1?coh=277533&entry=tts&g_ep=EgoyMDI2MDEyNy4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=f376f8d1-2093-493e-a790-94d5d0022bad"
+  },
+  "https://maps.app.goo.gl/8QYy9MnnqSgVTuFt9": {
+    "url": "https://maps.app.goo.gl/8QYy9MnnqSgVTuFt9",
+    "final_url": "https://www.google.com/maps/place/CONVERSE+TOKYO+NEWoMan%E9%AB%98%E8%BC%AA%E5%BA%97/@35.6350176,139.7307954,15.49z/data=!4m7!3m6!1s0x60188b0006c31689:0x6278293b365b71e7!8m2!3d35.636104!4d139.7400206!15sCg5DT05WRVJTRSBUT0tZTyIDiAEBkgEOY2xvdGhpbmdfc3RvcmXgAQA!16s%2Fg%2F11ycypy8_w!18m1!1e1?coh=277533&entry=tts&g_ep=EgoyMDI2MDEyNy4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=24717ee0-8bca-4202-bce5-fe0a1a7f6d2f",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com/maps/place/CONVERSE+TOKYO+NEWoMan%E9%AB%98%E8%BC%AA%E5%BA%97/@35.6350176,139.7307954,15.49z/data=!4m7!3m6!1s0x60188b0006c31689:0x6278293b365b71e7!8m2!3d35.636104!4d139.7400206!15sCg5DT05WRVJTRSBUT0tZTyIDiAEBkgEOY2xvdGhpbmdfc3RvcmXgAQA!16s%2Fg%2F11ycypy8_w!18m1!1e1 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:32.695Z"
+  },
+  "https://maps.app.goo.gl/1zpH1fcKCbJ33Eeu5": {
+    "url": "https://maps.app.goo.gl/1zpH1fcKCbJ33Eeu5",
+    "name": "翠の庭",
+    "rating": "4.5",
+    "reviews": "23",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:20:35.892Z",
+    "final_url": "https://www.google.com/maps/place/%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89%E3%82%A2%E3%83%AD%E3%83%BC%E3%82%BA+%E9%AB%98%E8%BC%AA%E5%BA%97/@35.634481,139.6904755,13.3z/data=!4m7!3m6!1s0x60188b005c53e247:0xa221bbddbbf89529!8m2!3d35.6356794!4d139.7396168!15sCg1Vbml0ZWQgQXJyb3dzWg8iDXVuaXRlZCBhcnJvd3OSAQ5jbG90aGluZ19zdG9yZeABAA!16s%2Fg%2F11xdggd06m!18m1!1e1?coh=277533&entry=tts&g_ep=EgoyMDI2MDEyNy4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=e55fb9da-615d-4425-b588-efe842d04607"
+  },
+  "https://maps.app.goo.gl/JM2ZBbkJyQDiuGqx5": {
+    "url": "https://maps.app.goo.gl/JM2ZBbkJyQDiuGqx5",
+    "final_url": "https://www.google.com/maps/place/%26LOCALS+NEWoMan%E9%AB%98%E8%BC%AA%E5%BA%97/@35.6351358,139.7405584,18z/data=!4m6!3m5!1s0x60188b006749d5c3:0xb8e47951b4825d90!8m2!3d35.6348916!4d139.7394533!16s%2Fg%2F11ycyrk2s4?coh=277533&entry=tts&g_ep=EgoyMDI2MDEyNy4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=1017c619-b52e-4cb9-a920-83c6b8f3b946",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com/maps/place/%26LOCALS+NEWoMan%E9%AB%98%E8%BC%AA%E5%BA%97/@35.6351358,139.7405584,18z/data=!4m6!3m5!1s0x60188b006749d5c3:0xb8e47951b4825d90!8m2!3d35.6348916!4d139.7394533!16s%2Fg%2F11ycyrk2s4 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:34.554Z"
+  },
+  "https://maps.app.goo.gl/TJkXSuQEHocZuNjh8": {
+    "url": "https://maps.app.goo.gl/TJkXSuQEHocZuNjh8",
+    "name": "HIGHTIDE STORE Takanawa",
+    "rating": "2.5",
+    "reviews": "2",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:19:01.589Z"
+  },
+  "https://maps.app.goo.gl/ow71m8RYceHjDmsr8": {
+    "url": "https://maps.app.goo.gl/ow71m8RYceHjDmsr8",
+    "final_url": "https://www.google.com/maps/place/HOKA+NEWoMan%E9%AB%98%E8%BC%AA%E5%BA%97/@35.6364072,139.7375529,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b000fd1edeb:0x7221481ba5320900!8m2!3d35.6364072!4d139.7401278!16s%2Fg%2F11xvd3dlck?coh=277533&entry=tts&g_ep=EgoyMDI2MDEyNy4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=904ff29a-e20f-4023-967b-a747487673a6",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com/maps/place/HOKA+NEWoMan%E9%AB%98%E8%BC%AA%E5%BA%97/@35.6364072,139.7375529,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b000fd1edeb:0x7221481ba5320900!8m2!3d35.6364072!4d139.7401278!16s%2Fg%2F11xvd3dlck in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:34.554Z"
+  },
+  "https://maps.app.goo.gl/5Bo8Z84EYTatdPPs8": {
+    "url": "https://maps.app.goo.gl/5Bo8Z84EYTatdPPs8",
+    "final_url": "https://www.google.com/maps/place/%E8%96%A9%E6%B4%9B%E8%92%99+NEWoMan%E9%AB%98%E8%BC%AA%E5%BA%97/@35.6361696,139.730892,16z/data=!4m7!3m6!1s0x60188b3a3e222c9f:0x66839fc2a786cf14!8m2!3d35.6361696!4d139.7399984!15sCgdTYWxvbW9uWgkiB3NhbG9tb26SARRzcG9ydGluZ19nb29kc19zdG9yZeABAA!16s%2Fg%2F11yjjb9051?coh=277533&entry=tts&g_ep=EgoyMDI2MDEyNy4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=d5efe190-de25-4578-b133-3a7c48ed5365",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com/maps/place/%E8%96%A9%E6%B4%9B%E8%92%99+NEWoMan%E9%AB%98%E8%BC%AA%E5%BA%97/@35.6361696,139.730892,16z/data=!4m7!3m6!1s0x60188b3a3e222c9f:0x66839fc2a786cf14!8m2!3d35.6361696!4d139.7399984!15sCgdTYWxvbW9uWgkiB3NhbG9tb26SARRzcG9ydGluZ19nb29kc19zdG9yZeABAA!16s%2Fg%2F11yjjb9051 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:34.558Z"
+  },
+  "https://maps.app.goo.gl/NJ2Ss4A7qqdwNmfSA": {
+    "url": "https://maps.app.goo.gl/NJ2Ss4A7qqdwNmfSA",
+    "name": "翠の庭",
+    "rating": "4.5",
+    "reviews": "23",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:20:35.883Z",
+    "final_url": "https://www.google.com/maps/place/%E7%BF%A0%E3%81%AE%E5%BA%AD/@35.6361542,139.7395963,18.45z/data=!4m6!3m5!1s0x60188b000e97f43f:0xafd14fe9c8d8bcab!8m2!3d35.6359426!4d139.7396829!16s%2Fg%2F11mkc8vl6l?coh=277533&entry=tts&g_ep=EgoyMDI2MDEyNy4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=b5ab058b-8f0c-422b-ae0f-d20407c81fdc"
+  },
+  "https://maps.app.goo.gl/ERqmKQEP7Svenwct9": {
+    "url": "https://maps.app.goo.gl/ERqmKQEP7Svenwct9",
+    "final_url": "https://www.google.com/maps/place/COIN+LUCK+%E6%9D%B1%E4%BA%AC%E5%BA%97/@35.713971,139.7805644,17z/data=!3m1!4b1!4m6!3m5!1s0x60188fceda69bb69:0x84c42a2a70eb5217!8m2!3d35.713971!4d139.7805644!16s%2Fg%2F11kj_32hfg!18m1!1e1?coh=277533&entry=tts&g_ep=EgoyMDI2MDEyNy4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=fcd7204f-b3f1-411f-8b7c-1f159ae4e8bb",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com/maps/place/COIN+LUCK+%E6%9D%B1%E4%BA%AC%E5%BA%97/@35.713971,139.7805644,17z/data=!3m1!4b1!4m6!3m5!1s0x60188fceda69bb69:0x84c42a2a70eb5217!8m2!3d35.713971!4d139.7805644!16s%2Fg%2F11kj_32hfg!18m1!1e1 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:35.924Z"
+  },
+  "https://maps.app.goo.gl/4WAhQoEeE757yY8J6": {
+    "url": "https://maps.app.goo.gl/4WAhQoEeE757yY8J6",
+    "final_url": "https://www.google.com/maps/place/%E3%82%AB%E3%82%BB%E3%83%83%E3%83%88%E3%83%86%E3%83%BC%E3%83%97%E3%82%AB%E3%83%95%E3%82%A7CASSE%E6%B8%8B%E8%B0%B7/@35.6574267,139.707649,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b627e52336b:0x5d58b869a0d57ba5!8m2!3d35.6574267!4d139.707649!16s%2Fg%2F11yqlvnd_z!18m1!1e1?coh=277533&entry=tts&g_ep=EgoyMDI2MDEyNy4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=96f105cb-2cb7-42cf-9c0e-34dd57d54282",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com/maps/place/%E3%82%AB%E3%82%BB%E3%83%83%E3%83%88%E3%83%86%E3%83%BC%E3%83%97%E3%82%AB%E3%83%95%E3%82%A7CASSE%E6%B8%8B%E8%B0%B7/@35.6574267,139.707649,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b627e52336b:0x5d58b869a0d57ba5!8m2!3d35.6574267!4d139.707649!16s%2Fg%2F11yqlvnd_z!18m1!1e1 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:35.924Z"
+  },
+  "https://maps.app.goo.gl/K7iL55ePo9yyXPKv5": {
+    "url": "https://maps.app.goo.gl/K7iL55ePo9yyXPKv5",
+    "final_url": "https://www.google.com/maps/place/%E6%9B%B8%E6%B3%89%E6%9B%B8%E5%BA%97/@35.6973762,139.7751607,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ea8594e3d2d:0x584342b8f8323fb6!8m2!3d35.6973762!4d139.7751607!16s%2Fg%2F1ttpgx1w!18m1!1e1?coh=277533&entry=tts&g_ep=EgoyMDI2MDEyNy4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=d4a940de-65ed-4ea9-aaba-96d8f75976af",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com/maps/place/%E6%9B%B8%E6%B3%89%E6%9B%B8%E5%BA%97/@35.6973762,139.7751607,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ea8594e3d2d:0x584342b8f8323fb6!8m2!3d35.6973762!4d139.7751607!16s%2Fg%2F1ttpgx1w!18m1!1e1 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:35.924Z"
+  },
+  "https://maps.app.goo.gl/Y242TCX8MXe8ubhX6": {
+    "url": "https://maps.app.goo.gl/Y242TCX8MXe8ubhX6",
+    "final_url": "https://www.google.com/maps/place/%E5%8D%9A%E5%A4%9A%E7%88%90%E7%AB%AF+%E9%AD%9A%E7%94%B7/@33.5843858,130.3995851,16z/data=!3m1!4b1!4m6!3m5!1s0x35419184bfae8e31:0x9880f28c4c804413!8m2!3d33.5843858!4d130.3995851!16s%2Fg%2F1tp0bfzg!18m1!1e1?coh=277533&entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=80a9b607-dc47-4a0b-a1e4-0566e6031c99",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com/maps/place/%E5%8D%9A%E5%A4%9A%E7%88%90%E7%AB%AF+%E9%AD%9A%E7%94%B7/@33.5843858,130.3995851,16z/data=!3m1!4b1!4m6!3m5!1s0x35419184bfae8e31:0x9880f28c4c804413!8m2!3d33.5843858!4d130.3995851!16s%2Fg%2F1tp0bfzg!18m1!1e1 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:35.929Z"
+  },
+  "https://maps.app.goo.gl/ABRgkZ6FpAcrD6SG9": {
+    "url": "https://maps.app.goo.gl/ABRgkZ6FpAcrD6SG9",
+    "name": "生活雜貨.餐具 B･B･B POTTERS",
+    "rating": "4.1",
+    "reviews": "714",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:20:37.064Z",
+    "final_url": "https://www.google.com/maps/place/%E7%94%9F%E6%B4%BB%E9%9B%9C%E8%B2%A8.%E9%A4%90%E5%85%B7+B%EF%BD%A5B%EF%BD%A5B+POTTERS/@33.581928,130.398088,16z/data=!3m1!4b1!4m6!3m5!1s0x35419183a9efa4e1:0x7edb992945ba65c2!8m2!3d33.581928!4d130.398088!16s%2Fg%2F1wz50hg1!18m1!1e1?coh=277533&entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=c9bfe35e-49f5-45b3-800c-4d113e937474"
+  },
+  "https://maps.app.goo.gl/gfHLWzrxkCf5hZ6z9": {
+    "url": "https://maps.app.goo.gl/gfHLWzrxkCf5hZ6z9",
+    "final_url": "https://www.google.com/maps/place/Hightide+Store+Fukuoka/@33.5789476,130.4057681,16z/data=!3m1!4b1!4m6!3m5!1s0x3541922fd42c8441:0xfe477504d679b58b!8m2!3d33.5789476!4d130.4057681!16s%2Fg%2F1tfdb775!18m1!1e1?coh=277533&entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=d137df0e-eb31-4c6e-830c-e83573f8976e",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com/maps/place/Hightide+Store+Fukuoka/@33.5789476,130.4057681,16z/data=!3m1!4b1!4m6!3m5!1s0x3541922fd42c8441:0xfe477504d679b58b!8m2!3d33.5789476!4d130.4057681!16s%2Fg%2F1tfdb775!18m1!1e1 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:37.101Z"
+  },
+  "https://maps.app.goo.gl/oxuUwKm2HDS2EvdB7": {
+    "url": "https://maps.app.goo.gl/oxuUwKm2HDS2EvdB7",
+    "final_url": "https://www.google.com/maps/place/%E7%89%9B%E8%88%8C+%E7%89%9B%E5%B0%BE+%E6%96%99%E7%90%86+-+%E5%AF%8C%E5%A3%AB/@33.5835998,130.3891954,16z/data=!3m1!4b1!4m6!3m5!1s0x354191b91b0b2f63:0xb3289ac41dcf9dc2!8m2!3d33.5835998!4d130.3891954!16s%2Fg%2F11h39zf1lk!18m1!1e1?coh=277533&entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=2723297b-1968-4936-b790-2d3578ccec63",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com/maps/place/%E7%89%9B%E8%88%8C+%E7%89%9B%E5%B0%BE+%E6%96%99%E7%90%86+-+%E5%AF%8C%E5%A3%AB/@33.5835998,130.3891954,16z/data=!3m1!4b1!4m6!3m5!1s0x354191b91b0b2f63:0xb3289ac41dcf9dc2!8m2!3d33.5835998!4d130.3891954!16s%2Fg%2F11h39zf1lk!18m1!1e1 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:37.095Z"
+  },
+  "https://maps.app.goo.gl/U5L4YFWHTfFUwENb9": {
+    "url": "https://maps.app.goo.gl/U5L4YFWHTfFUwENb9",
+    "final_url": "https://www.google.com/maps/place/Espresso/@33.5855277,130.4243751,17z/data=!3m1!4b1!4m6!3m5!1s0x354191b659ad8619:0x4601cacb11873ed3!8m2!3d33.5855277!4d130.4243751!16s%2Fg%2F1tdq8b_7!18m1!1e1?coh=277533&entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=b95dfab1-365a-4ad2-bfa5-51aeb87a1e30",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com/maps/place/Espresso/@33.5855277,130.4243751,17z/data=!3m1!4b1!4m6!3m5!1s0x354191b659ad8619:0x4601cacb11873ed3!8m2!3d33.5855277!4d130.4243751!16s%2Fg%2F1tdq8b_7!18m1!1e1 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:37.104Z"
+  },
+  "https://maps.app.goo.gl/n4G3e46bsBV4Twp77": {
+    "url": "https://maps.app.goo.gl/n4G3e46bsBV4Twp77",
+    "final_url": "https://www.google.com/maps/place/%E5%AE%AE%E5%9C%B0%E5%B6%BD%E7%A5%9E%E7%A4%BE/@33.7799141,130.4862328,17z/data=!3m1!4b1!4m6!3m5!1s0x35419922725ab3e9:0xed12b5521ed2943c!8m2!3d33.7799141!4d130.4862328!16s%2Fm%2F0fpj0bb!18m1!1e1?coh=277533&entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=dd674087-e578-4727-995b-1891db47b348",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com/maps/place/%E5%AE%AE%E5%9C%B0%E5%B6%BD%E7%A5%9E%E7%A4%BE/@33.7799141,130.4862328,17z/data=!3m1!4b1!4m6!3m5!1s0x35419922725ab3e9:0xed12b5521ed2943c!8m2!3d33.7799141!4d130.4862328!16s%2Fm%2F0fpj0bb!18m1!1e1 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:37.104Z"
+  },
+  "https://maps.app.goo.gl/hevCShZEL9n8srrr5": {
+    "url": "https://maps.app.goo.gl/hevCShZEL9n8srrr5",
+    "name": "宮地嶽神社 一の鳥居",
+    "rating": "4.4",
+    "reviews": "41",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:20:38.371Z",
+    "final_url": "https://www.google.com/maps/place/%E5%AE%AE%E5%9C%B0%E5%B6%BD%E7%A5%9E%E7%A4%BE+%E4%B8%80%E3%81%AE%E9%B3%A5%E5%B1%85/@33.7768878,130.4707276,17z/data=!3m1!4b1!4m6!3m5!1s0x3542277537a31935:0x158ac45aa7bd84fd!8m2!3d33.7768878!4d130.4707276!16s%2Fg%2F11fmxqfgzg!18m1!1e1?coh=277533&entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=052468ee-9f38-4cbd-b1bc-473a5f19494b"
+  },
+  "https://maps.app.goo.gl/D4c69gRdp88YGxUq8": {
+    "url": "https://maps.app.goo.gl/D4c69gRdp88YGxUq8",
+    "final_url": "https://www.google.com/maps/place/Hana+Midori/@33.590124,130.4235056,16z/data=!3m1!4b1!4m6!3m5!1s0x354191c854e90f6f:0x9c30b0a302de4400!8m2!3d33.590124!4d130.4235056!16s%2Fg%2F1tdynkrs!18m1!1e1?coh=277533&entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=3669ac91-7aed-4782-9d2a-7053615514a1",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com/maps/place/Hana+Midori/@33.590124,130.4235056,16z/data=!3m1!4b1!4m6!3m5!1s0x354191c854e90f6f:0x9c30b0a302de4400!8m2!3d33.590124!4d130.4235056!16s%2Fg%2F1tdynkrs!18m1!1e1 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:38.403Z"
+  },
+  "https://maps.app.goo.gl/ZXAMyA7AHrEofZmb8": {
+    "url": "https://maps.app.goo.gl/ZXAMyA7AHrEofZmb8",
+    "final_url": "https://www.google.com/maps/place/%26LOCALS+%E5%A4%A7%E6%BF%A0%E5%85%AC%E5%9C%92/@33.5832062,130.3756087,20z/data=!4m6!3m5!1s0x35419353231a986f:0xeecafd7040f8e1d2!8m2!3d33.5827895!4d130.37686!16s%2Fg%2F11k7jnnd5f!18m1!1e1?coh=277533&entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=ecfc15ed-8cc9-4e84-8630-b1f90816998e",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com/maps/place/%26LOCALS+%E5%A4%A7%E6%BF%A0%E5%85%AC%E5%9C%92/@33.5832062,130.3756087,20z/data=!4m6!3m5!1s0x35419353231a986f:0xeecafd7040f8e1d2!8m2!3d33.5827895!4d130.37686!16s%2Fg%2F11k7jnnd5f!18m1!1e1 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:38.411Z"
+  },
+  "https://maps.app.goo.gl/rpDA7xZ5hSHYFtom6": {
+    "url": "https://maps.app.goo.gl/rpDA7xZ5hSHYFtom6",
+    "final_url": "https://www.google.com.tw/maps/place/%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81+%E5%A4%A7%E4%B8%B8%E7%A6%8F%E5%B2%A1%E5%A4%A9%E7%A5%9E%E5%BA%97/@33.5886907,130.3985066,17z/data=!3m1!4b1!4m6!3m5!1s0x3541911ce0fa5943:0xe3a4de32db109946!8m2!3d33.5886907!4d130.4010815!16s%2Fg%2F11tb8wbmj_?entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoASAFQAw%3D%3D&skid=412a3af9-c775-4792-920c-1f1be54bff42",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com.tw/maps/place/%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81+%E5%A4%A7%E4%B8%B8%E7%A6%8F%E5%B2%A1%E5%A4%A9%E7%A5%9E%E5%BA%97/@33.5886907,130.3985066,17z/data=!3m1!4b1!4m6!3m5!1s0x3541911ce0fa5943:0xe3a4de32db109946!8m2!3d33.5886907!4d130.4010815!16s%2Fg%2F11tb8wbmj_ in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:38.414Z"
+  },
+  "https://maps.app.goo.gl/uTM6P8CTsAkECGEo9": {
+    "url": "https://maps.app.goo.gl/uTM6P8CTsAkECGEo9",
+    "final_url": "https://www.google.com.tw/maps/place/%E8%8D%89%E9%96%93%E5%BD%8C%E7%94%9F%E5%8D%97%E7%93%9C%C2%B7%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83%E5%B1%8B%E5%A4%96%E9%9B%95%E5%88%BB/@33.5842744,130.3787914,19z/data=!4m6!3m5!1s0x354193cd82ffbdfd:0x17b070162264fb06!8m2!3d33.5842617!4d130.3794652!16s%2Fg%2F11f53g2vrm?entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoASAFQAw%3D%3D&skid=65805143-fc69-4c68-aa69-03302792bb25",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com.tw/maps/place/%E8%8D%89%E9%96%93%E5%BD%8C%E7%94%9F%E5%8D%97%E7%93%9C%C2%B7%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83%E5%B1%8B%E5%A4%96%E9%9B%95%E5%88%BB/@33.5842744,130.3787914,19z/data=!4m6!3m5!1s0x354193cd82ffbdfd:0x17b070162264fb06!8m2!3d33.5842617!4d130.3794652!16s%2Fg%2F11f53g2vrm in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:38.414Z"
+  },
+  "https://maps.app.goo.gl/jWv4numiybvBRF8A8": {
+    "url": "https://maps.app.goo.gl/jWv4numiybvBRF8A8",
+    "name": "福岡PARCO",
+    "rating": "3.9",
+    "reviews": "7,861",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:20:39.898Z",
+    "final_url": "https://www.google.com.tw/maps/place/%E7%A6%8F%E5%B2%A1PARCO/@33.590828,130.3935373,17z/data=!4m7!3m6!1s0x3541918f00155555:0x468bf115d33eede0!8m2!3d33.5907445!4d130.3986652!15sCgVwYXJjbyIDiAEBWgciBXBhcmNvkgEPc2hvcHBpbmdfY2VudGVy4AEA!16s%2Fg%2F12qbhb677?entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoASAFQAw%3D%3D&skid=a736defd-dc80-441a-b931-8d516d00f7c4"
+  },
+  "https://maps.app.goo.gl/ZbEMvzp6uUqWVLjN7": {
+    "url": "https://maps.app.goo.gl/ZbEMvzp6uUqWVLjN7",
+    "name": "ONE FUKUOKA BLDG.(ワンビル)",
+    "rating": "3.9",
+    "reviews": "577",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:20:42.567Z",
+    "final_url": "https://www.google.com.tw/maps/place/PARCO%E7%A6%8F%E5%B2%A1+%E6%96%B0%E9%A4%A8/@33.590828,130.3935373,17z/data=!3m1!5s0x3541918f007b7a1b:0xdb78b1e2fad2b90!4m7!3m6!1s0x354191707a18b597:0xc7de2b4500f1fef1!8m2!3d33.590828!4d130.3980434!15sCgVwYXJjbyIDiAEBWgciBXBhcmNvkgEPc2hvcHBpbmdfY2VudGVy4AEA!16s%2Fg%2F11f7326jzz?entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoASAFQAw%3D%3D&skid=539ae552-7e9f-4ec3-8134-d05b65119dfa"
+  },
+  "https://maps.app.goo.gl/Kqrhr3ALL3oy6mLf6": {
+    "url": "https://maps.app.goo.gl/Kqrhr3ALL3oy6mLf6",
+    "final_url": "https://www.google.com.tw/maps/place/%E7%B4%A2%E6%8B%89%E5%88%A9%E4%BA%9E%E8%88%9E%E8%87%BA/@33.5904859,130.3963562,17z/data=!3m2!4b1!5s0x3541918fefb4e511:0x1308381a969e72e0!4m6!3m5!1s0x3541918fb0a08ad3:0xf11156218fbf3deb!8m2!3d33.5904859!4d130.3989311!16s%2Fg%2F121k2yj6?entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoASAFQAw%3D%3D&skid=0a743857-8dd7-4ec3-9d44-f675f620b359",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com.tw/maps/place/%E7%B4%A2%E6%8B%89%E5%88%A9%E4%BA%9E%E8%88%9E%E8%87%BA/@33.5904859,130.3963562,17z/data=!3m2!4b1!5s0x3541918fefb4e511:0x1308381a969e72e0!4m6!3m5!1s0x3541918fb0a08ad3:0xf11156218fbf3deb!8m2!3d33.5904859!4d130.3989311!16s%2Fg%2F121k2yj6 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:40.501Z"
+  },
+  "https://maps.app.goo.gl/uGfiwxNjzee5xZeW8": {
+    "url": "https://maps.app.goo.gl/uGfiwxNjzee5xZeW8",
+    "name": "ONE FUKUOKA BLDG.(ワンビル)",
+    "rating": "3.9",
+    "reviews": "577",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:20:42.584Z",
+    "final_url": "https://www.google.com.tw/maps/place/%E7%B4%A2%E6%8B%89%E5%88%A9%E4%BA%9E%E5%BB%A3%E5%A0%B4/@33.5890853,130.3962464,17z/data=!3m2!4b1!5s0x3541918f905e3e25:0x486cece4fd153f10!4m6!3m5!1s0x3541918f86743991:0x2989fe37da4055ef!8m2!3d33.5890853!4d130.3988213!16s%2Fg%2F11fct5rx2x?entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoASAFQAw%3D%3D&skid=ce0fc5f3-2aae-4052-afb8-08b5c9c85241"
+  },
+  "https://maps.app.goo.gl/335NdnSZcKqdh3yY8": {
+    "url": "https://maps.app.goo.gl/335NdnSZcKqdh3yY8",
+    "final_url": "https://www.google.com.tw/maps/place/Mina+%E5%A4%A9%E7%A5%9E/@33.5927599,130.395938,17z/data=!3m2!4b1!5s0x3541918e7b649f07:0x3316f504ccb6ecd0!4m6!3m5!1s0x3541918e7beb23b5:0xfa501c2d5ea93026!8m2!3d33.5927599!4d130.3985129!16s%2Fg%2F1tjf80z5?entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoASAFQAw%3D%3D&skid=23b11311-1b33-4586-b81f-7cdde9bc2d02",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com.tw/maps/place/Mina+%E5%A4%A9%E7%A5%9E/@33.5927599,130.395938,17z/data=!3m2!4b1!5s0x3541918e7b649f07:0x3316f504ccb6ecd0!4m6!3m5!1s0x3541918e7beb23b5:0xfa501c2d5ea93026!8m2!3d33.5927599!4d130.3985129!16s%2Fg%2F1tjf80z5 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:41.061Z"
+  },
+  "https://maps.app.goo.gl/GD7VmBYYJk91tw3f7": {
+    "url": "https://maps.app.goo.gl/GD7VmBYYJk91tw3f7",
+    "name": "ONE FUKUOKA BLDG.(ワンビル)",
+    "rating": "3.9",
+    "reviews": "577",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:20:42.991Z",
+    "final_url": "https://www.google.com.tw/maps/place/ONE+FUKUOKA+%E5%A4%A7%E6%A8%93/@33.5904728,130.3985006,17.31z/data=!4m6!3m5!1s0x35419100779797ed:0x8223a79d80a09f3a!8m2!3d33.5911487!4d130.39945!16s%2Fg%2F11y6933xn1?entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoASAFQAw%3D%3D&skid=85fa54d1-fcd3-4ec0-8e56-cd9788b7bff2"
+  },
+  "https://maps.app.goo.gl/Aqso3opgZxnYqJfb8": {
+    "url": "https://maps.app.goo.gl/Aqso3opgZxnYqJfb8",
+    "final_url": "https://www.google.com.tw/maps/place/%E4%B8%80%E6%A3%B5%E5%83%8F%E7%B4%A0%E6%A8%B9/@33.5904002,130.3988432,18z/data=!3m1!4b1!4m6!3m5!1s0x3541910075fd5977:0x7570c96b0bd0924b!8m2!3d33.5904002!4d130.3995331!16s%2Fg%2F11x2mg1h2z?entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoASAFQAw%3D%3D&skid=7dde52cf-5794-4f18-8cec-82ada028fa70",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com.tw/maps/place/%E4%B8%80%E6%A3%B5%E5%83%8F%E7%B4%A0%E6%A8%B9/@33.5904002,130.3988432,18z/data=!3m1!4b1!4m6!3m5!1s0x3541910075fd5977:0x7570c96b0bd0924b!8m2!3d33.5904002!4d130.3995331!16s%2Fg%2F11x2mg1h2z in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:43.019Z"
+  },
+  "https://maps.app.goo.gl/dYNgGQmqRZJXxk36A": {
+    "url": "https://maps.app.goo.gl/dYNgGQmqRZJXxk36A",
+    "final_url": "https://www.google.com/maps/place/Ropponpon/@33.5743488,130.3779343,17z/data=!3m1!4b1!4m6!3m5!1s0x354193c4f4cef87d:0xc4a8463d422d33cf!8m2!3d33.5743488!4d130.3779343!16s%2Fg%2F11clyt2q_w!18m1!1e1?coh=277533&entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=fcac3b47-f620-4185-83db-743e708a6ac6",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com/maps/place/Ropponpon/@33.5743488,130.3779343,17z/data=!3m1!4b1!4m6!3m5!1s0x354193c4f4cef87d:0xc4a8463d422d33cf!8m2!3d33.5743488!4d130.3779343!16s%2Fg%2F11clyt2q_w!18m1!1e1 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:43.019Z"
+  },
+  "https://maps.app.goo.gl/1dEmkVWeYp7vj6YJ7": {
+    "url": "https://maps.app.goo.gl/1dEmkVWeYp7vj6YJ7",
+    "final_url": "https://www.google.com/maps/place/Matsu%E9%BA%B5%E5%8C%85/@33.5742306,130.37793,20.03z/data=!4m6!3m5!1s0x354193c4f32c72cb:0xf3c4ce2cb5e4fcde!8m2!3d33.574168!4d130.3781338!16s%2Fg%2F11clsg77bx!18m1!1e1?coh=277533&entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=fb8c5f7c-6991-4c2a-b863-9fa62696b7ac",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com/maps/place/Matsu%E9%BA%B5%E5%8C%85/@33.5742306,130.37793,20.03z/data=!4m6!3m5!1s0x354193c4f32c72cb:0xf3c4ce2cb5e4fcde!8m2!3d33.574168!4d130.3781338!16s%2Fg%2F11clsg77bx!18m1!1e1 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:43.024Z"
+  },
+  "https://maps.app.goo.gl/LqvytdnQnMiB25gq9": {
+    "url": "https://maps.app.goo.gl/LqvytdnQnMiB25gq9",
+    "final_url": "https://www.google.com/maps/place/%E5%A4%A7%E8%B0%B7%E8%B3%87%E6%96%99%E9%A4%A8/@36.5999889,139.8247452,17z/data=!3m1!4b1!4m6!3m5!1s0x601f6f3b540a1db7:0xc4ad9a66fa10e724!8m2!3d36.5999889!4d139.8247452!16s%2Fg%2F1q6748x30?coh=277533&entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=bbd0ef38-0d52-434b-bd30-a3ad391ee96a",
+    "name": "",
+    "rating": "",
+    "reviews": "",
+    "status": "error",
+    "error": "Browser Use cannot open https://www.google.com/maps/place/%E5%A4%A7%E8%B0%B7%E8%B3%87%E6%96%99%E9%A4%A8/@36.5999889,139.8247452,17z/data=!3m1!4b1!4m6!3m5!1s0x601f6f3b540a1db7:0xc4ad9a66fa10e724!8m2!3d36.5999889!4d139.8247452!16s%2Fg%2F1q6748x30 in tab 2. Browser reported: net::ERR_ABORTED",
+    "checked_at": "2026-05-20T22:20:43.026Z"
+  },
+  "https://maps.app.goo.gl/vau8thY37cmYimv16": {
+    "url": "https://maps.app.goo.gl/vau8thY37cmYimv16",
+    "name": "宇都宮二荒山神社",
+    "rating": "4.2",
+    "reviews": "2,732",
+    "status": "ok",
+    "checked_at": "2026-05-20T22:20:44.395Z",
+    "final_url": "https://www.google.com/maps/place/%E5%AE%87%E9%83%BD%E5%AE%AE%E4%BA%8C%E8%8D%92%E5%B1%B1%E7%A5%9E%E7%A4%BE/@36.5626523,139.8857926,17z/data=!3m1!4b1!4m6!3m5!1s0x601f67a4c9f2a7dd:0x3763927d31862f08!8m2!3d36.5626523!4d139.8857926!16s%2Fg%2F1233fzkm?coh=277533&entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=b63b3e91-5f3b-4ba9-be02-144cbc7ec5ef"
+  }
+}
