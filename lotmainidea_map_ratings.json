@@ -551,5 +551,101 @@
     "status": "ok",
     "checked_at": "2026-05-20T22:20:44.395Z",
     "final_url": "https://www.google.com/maps/place/%E5%AE%87%E9%83%BD%E5%AE%AE%E4%BA%8C%E8%8D%92%E5%B1%B1%E7%A5%9E%E7%A4%BE/@36.5626523,139.8857926,17z/data=!3m1!4b1!4m6!3m5!1s0x601f67a4c9f2a7dd:0x3763927d31862f08!8m2!3d36.5626523!4d139.8857926!16s%2Fg%2F1233fzkm?coh=277533&entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoKLDEwMDc5MjA2OUgBUAM%3D&skid=b63b3e91-5f3b-4ba9-be02-144cbc7ec5ef"
+  },
+  "https://maps.app.goo.gl/x5zGC1bXkkEbtbvJ6": {
+    "url": "https://maps.app.goo.gl/x5zGC1bXkkEbtbvJ6",
+    "name": "zapady-doo",
+    "rating": "4.2",
+    "reviews": "166",
+    "status": "ok",
+    "checked_at": "2026-05-22T09:44:13.917Z"
+  },
+  "https://maps.app.goo.gl/sDvcHeAnTieV6zx17": {
+    "url": "https://maps.app.goo.gl/sDvcHeAnTieV6zx17",
+    "name": "NONFICTION DAIKANYAMA",
+    "rating": "4.6",
+    "reviews": "32",
+    "status": "ok",
+    "checked_at": "2026-05-22T09:44:17.256Z"
+  },
+  "https://maps.app.goo.gl/5EsDGGEefMasjSvf6": {
+    "url": "https://maps.app.goo.gl/5EsDGGEefMasjSvf6",
+    "name": "TAMBURINS 代官山旗艦店",
+    "rating": "3.5",
+    "reviews": "35",
+    "status": "ok",
+    "checked_at": "2026-05-22T09:44:20.731Z"
+  },
+  "https://maps.app.goo.gl/vnLw2iTk95cgN9eN7": {
+    "url": "https://maps.app.goo.gl/vnLw2iTk95cgN9eN7",
+    "name": "B.C STOCK Daikanyama",
+    "rating": "3.6",
+    "reviews": "14",
+    "status": "ok",
+    "checked_at": "2026-05-22T09:44:23.763Z"
+  },
+  "https://maps.app.goo.gl/qrmsgBdxcoav6HQW8": {
+    "url": "https://maps.app.goo.gl/qrmsgBdxcoav6HQW8",
+    "name": "和食 一芯",
+    "rating": "4.3",
+    "reviews": "1,304",
+    "status": "ok",
+    "checked_at": "2026-05-22T09:44:26.791Z"
+  },
+  "https://maps.app.goo.gl/9ZCzXsRNPWWpabZcA": {
+    "url": "https://maps.app.goo.gl/9ZCzXsRNPWWpabZcA",
+    "name": "舊朝倉家住宅",
+    "rating": "4.4",
+    "reviews": "1,241",
+    "status": "ok",
+    "checked_at": "2026-05-22T09:44:29.623Z"
+  },
+  "https://maps.app.goo.gl/2fmWzXWpyhuZg9KT8": {
+    "url": "https://maps.app.goo.gl/2fmWzXWpyhuZg9KT8",
+    "name": "GARDEN HOUSE CRAFTS DAIKANYAMA",
+    "rating": "4.3",
+    "reviews": "626",
+    "status": "ok",
+    "checked_at": "2026-05-22T09:44:32.802Z"
+  },
+  "https://maps.app.goo.gl/jEmk4rpmUqVCnJxw8": {
+    "url": "https://maps.app.goo.gl/jEmk4rpmUqVCnJxw8",
+    "name": "ANDY COFFEE",
+    "rating": "4.3",
+    "reviews": "161",
+    "status": "ok",
+    "checked_at": "2026-05-22T09:44:35.717Z"
+  },
+  "https://maps.app.goo.gl/k4BK5A78bKAGgFMQA": {
+    "url": "https://maps.app.goo.gl/k4BK5A78bKAGgFMQA",
+    "name": "西鄉山公園",
+    "rating": "4.0",
+    "reviews": "1,429",
+    "status": "ok",
+    "checked_at": "2026-05-22T09:44:38.594Z"
+  },
+  "https://maps.app.goo.gl/EZDuWhmhMzXYHJ5x5": {
+    "url": "https://maps.app.goo.gl/EZDuWhmhMzXYHJ5x5",
+    "name": "TRASPARENTE Nakameguro",
+    "rating": "4.3",
+    "reviews": "508",
+    "status": "ok",
+    "checked_at": "2026-05-22T09:44:42.045Z"
+  },
+  "https://maps.app.goo.gl/2hqbeyFYzmrKEW4B8": {
+    "url": "https://maps.app.goo.gl/2hqbeyFYzmrKEW4B8",
+    "name": "目黑寄生蟲館",
+    "rating": "4.4",
+    "reviews": "2,733",
+    "status": "ok",
+    "checked_at": "2026-05-22T09:44:44.862Z"
+  },
+  "https://maps.app.goo.gl/FZvvLxUD9hd1TgXL8": {
+    "url": "https://maps.app.goo.gl/FZvvLxUD9hd1TgXL8",
+    "name": "左門 雞高湯黑輪",
+    "rating": "3.8",
+    "reviews": "583",
+    "status": "ok",
+    "checked_at": "2026-05-22T09:44:47.805Z"
   }
 }
