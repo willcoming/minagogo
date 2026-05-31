@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube 地點抓取"
+  short_description: "從 YouTube 影片抓取店家、地圖、評價與影片心得，整理成 Markdown。"
+  default_prompt: "分析這支 YouTube 影片，抓出餐廳/咖啡廳店名、地圖連結、Google Maps 評價、YouTube 影片心得、影片連結與頻道名稱，並存成 Markdown。"
