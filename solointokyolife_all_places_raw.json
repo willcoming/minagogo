@@ -1,6 +1,49 @@
 [
   {
     "index": 1,
+    "title": "東京🥯ベーグル屋さんのリピ確あんバター & マンゴークリチ！あんこスイーツ好き必見",
+    "duration": "12:07",
+    "views": "3881次",
+    "published": "2 天前",
+    "url": "https://www.youtube.com/watch?v=F6npv7KG1k0",
+    "id": "F6npv7KG1k0",
+    "channel": "SoloInTokyoLife",
+    "places": [
+      {
+        "name": "ベーグルくらし (Bagel Kurashi)",
+        "time": "00:24",
+        "map_url": "",
+        "youtube_review": "本集東京貝果巡禮造訪「ベーグルくらし (Bagel Kurashi)」，主打 Q 彈貝果、紅豆奶油與芒果奶油起司等口味；描述欄列為章節店家，未提供原始地圖連結。"
+      },
+      {
+        "name": "プロフィテ サンセリテ (Profite Sincerite)",
+        "time": "02:22",
+        "map_url": "",
+        "youtube_review": "本集東京貝果巡禮造訪「プロフィテ サンセリテ (Profite Sincerite)」，主打 Q 彈貝果、紅豆奶油與芒果奶油起司等口味；描述欄列為章節店家，未提供原始地圖連結。"
+      },
+      {
+        "name": "ベストベーグル 池尻大橋店 (BEST BAGEL Ikejiri-Ohashi)",
+        "time": "04:07",
+        "map_url": "",
+        "youtube_review": "本集東京貝果巡禮造訪「ベストベーグル 池尻大橋店 (BEST BAGEL Ikejiri-Ohashi)」，主打 Q 彈貝果、紅豆奶油與芒果奶油起司等口味；描述欄列為章節店家，未提供原始地圖連結。"
+      },
+      {
+        "name": "あんことベーグルanno. (anno)",
+        "time": "06:19",
+        "map_url": "",
+        "youtube_review": "本集東京貝果巡禮造訪「あんことベーグルanno. (anno)」，主打 Q 彈貝果、紅豆奶油與芒果奶油起司等口味；描述欄列為章節店家，未提供原始地圖連結。"
+      },
+      {
+        "name": "ベーグルスタンダード (BAGEL STANDARD)",
+        "time": "09:34",
+        "map_url": "",
+        "youtube_review": "本集東京貝果巡禮造訪「ベーグルスタンダード (BAGEL STANDARD)」，主打 Q 彈貝果、紅豆奶油與芒果奶油起司等口味；描述欄列為章節店家，未提供原始地圖連結。"
+      }
+    ],
+    "transcript_sections": []
+  },
+  {
+    "index": 2,
     "title": "東京 🇯🇵 🥮 門前仲町和菓子聖地！超濃郁抹茶銅鑼燒與老舖糰子 | 日本旅遊美食推薦 | 日本自由行美食 VLOG",
     "duration": "11:59",
     "views": "6419次",
@@ -55,7 +98,7 @@
     "transcript_sections": 8
   },
   {
-    "index": 2,
+    "index": 3,
     "title": "澀谷 🇯🇵 🍰 東橫暖簾街 Hikarie 必吃甜點伴手禮 | 東京旅遊必去・車站直達",
     "duration": "13:17",
     "views": "7970次",
@@ -110,7 +153,7 @@
     "transcript_sections": 8
   },
   {
-    "index": 3,
+    "index": 4,
     "title": "横浜 🇯🇵 🥐 東京近郊名店巡禮 | 避開人潮的安靜街道 | 一口就幸福的「背德紅豆夾心」與絕品可頌",
     "duration": "11:48",
     "views": "8832次",
@@ -153,7 +196,7 @@
     "transcript_sections": 6
   },
   {
-    "index": 4,
+    "index": 5,
     "title": "品川 🇯🇵 🥐 車站內必吃麵包店巡禮 | 東京最強早餐推薦 旅遊美食攻略",
     "duration": "11:18",
     "views": "1萬次",
@@ -196,7 +239,7 @@
     "transcript_sections": 6
   },
   {
-    "index": 5,
+    "index": 6,
     "title": "東京 🇯🇵 銀座 Ginza Six 🥮 荻乃和甘銅鑼燒 & 星野餅紅豆奶油最中 | 日本美食",
     "duration": "12:10",
     "views": "7萬次",
@@ -251,7 +294,7 @@
     "transcript_sections": 8
   },
   {
-    "index": 6,
+    "index": 7,
     "title": "東京車站 🇯🇵 🥐☕️ 站內 & 直通咖啡廳 | 寬敞舒適的人氣麵包店・美味早餐內用 | 日本美食開箱",
     "duration": "11:18",
     "views": "3.2萬次",
@@ -300,7 +343,7 @@
     "transcript_sections": 7
   },
   {
-    "index": 7,
+    "index": 8,
     "title": "東京 🇯🇵 🍞 目黑與五反田的人氣麵包店巡禮｜絕品紅豆奶油吐司與精選烘焙坊 | 日本美食日常",
     "duration": "11:10",
     "views": "1.9萬次",
@@ -343,7 +386,7 @@
     "transcript_sections": 6
   },
   {
-    "index": 8,
+    "index": 9,
     "title": "東京車站 🇯🇵 🍰🍱 大丸百貨人氣甜點與便當攻略 | 東京必吃美食伴手禮",
     "duration": "11:14",
     "views": "5.6萬次",
@@ -398,7 +441,7 @@
     "transcript_sections": 8
   },
   {
-    "index": 9,
+    "index": 10,
     "title": "東京 🇯🇵 🥮 銀座必吃白蘭地銅鑼燒與現做泡芙 | 東銀座美食 旅遊",
     "duration": "11:07",
     "views": "1.4萬次",
@@ -454,7 +497,7 @@
     "transcript_sections": 8
   },
   {
-    "index": 10,
+    "index": 11,
     "title": "東京 🇯🇵 🗼 和菓子天堂！人形町超人氣銅鑼燒、老牌紅豆湯美食散策",
     "duration": "11:10",
     "views": "5.8萬次",
@@ -515,7 +558,7 @@
     "transcript_sections": 9
   },
   {
-    "index": 11,
+    "index": 12,
     "title": "東京 🇯🇵 🥮🍱 銀座三越與松屋銀座必買地下街美食！人氣甜點及精緻便當指南",
     "duration": "11:05",
     "views": "5.9萬次",
@@ -588,7 +631,7 @@
     "transcript_sections": 11
   },
   {
-    "index": 12,
+    "index": 13,
     "title": "東京 🇯🇵 🥯 日式貝果 vs 紐約貝果！探訪日本最強超人氣貝果專賣店",
     "duration": "11:15",
     "views": "1.8萬次",
@@ -631,7 +674,7 @@
     "transcript_sections": 6
   },
   {
-    "index": 13,
+    "index": 14,
     "title": "東京 🇯🇵 太銷魂🔥現做紅豆奶油銅鑼燒、元祖鹽大福等 | 紅豆甜點徹底大介紹",
     "duration": "11:13",
     "views": "2.2萬次",
@@ -674,7 +717,7 @@
     "transcript_sections": 6
   },
   {
-    "index": 14,
+    "index": 15,
     "title": "東京 🇯🇵 日本橋・三越前美食：現擠蒙布朗、焙茶銅鑼燒等！東京單人觀光美食指南",
     "duration": "11:11",
     "views": "6.4萬次",
@@ -723,7 +766,7 @@
     "transcript_sections": 0
   },
   {
-    "index": 15,
+    "index": 16,
     "title": "東京 🇯🇵 🥯 最新貝果專賣店巡禮！經典紅豆奶油到創新奶茶奶油貝果三明治",
     "duration": "11:11",
     "views": "2萬次",
@@ -766,7 +809,7 @@
     "transcript_sections": 6
   },
   {
-    "index": 16,
+    "index": 17,
     "title": "東京 🇯🇵 | 百大名店日式銅鑼燒專賣店！從紅豆、地瓜到蒙布朗口味的東京必買伴手禮",
     "duration": "13:53",
     "views": "2.9萬次",
@@ -821,7 +864,7 @@
     "transcript_sections": 9
   },
   {
-    "index": 17,
+    "index": 18,
     "title": "東京🇯🇵 高輪Gateway車站美食巡禮！必吃人氣甜點、麵包店與咖啡廳",
     "duration": "11:34",
     "views": "8.3萬次",
@@ -876,7 +919,7 @@
     "transcript_sections": 11
   },
   {
-    "index": 18,
+    "index": 19,
     "title": "東京🇯🇵人氣新店【I'm donut?】&【daco】自由之丘麵包甜甜圈之旅 | 最新東京美食散步指南",
     "duration": "15:00",
     "views": "1.1萬次",
@@ -925,7 +968,7 @@
     "transcript_sections": 7
   },
   {
-    "index": 19,
+    "index": 20,
     "title": "東京 🇯🇵 🧇 鯛魚燒 (日式魚形蛋糕) 巡禮！老店到創新的日本街頭美食",
     "duration": "15:00",
     "views": "1萬次",
@@ -980,7 +1023,7 @@
     "transcript_sections": 9
   },
   {
-    "index": 20,
+    "index": 21,
     "title": "東京車站 🇯🇵🍰 12款限定甜點必吃！| 東京伴手禮攻略",
     "duration": "15:00",
     "views": "4.8萬次",
@@ -1035,7 +1078,7 @@
     "transcript_sections": 14
   },
   {
-    "index": 21,
+    "index": 22,
     "title": "東京 🇯🇵 🍞 8間必訪老字號麵包店！必吃栗子紅豆麵包、鬆軟熱狗麵包三明治",
     "duration": "14:54",
     "views": "6018次",
@@ -1096,7 +1139,7 @@
     "transcript_sections": 9
   },
   {
-    "index": 22,
+    "index": 23,
     "title": "東京 🇯🇵 日式甜點新潮流：進化系羊羹 | 紅豆控必看，迷你羊羹總整理！",
     "duration": "13:31",
     "views": "9159次",
@@ -1151,7 +1194,7 @@
     "transcript_sections": 9
   },
   {
-    "index": 23,
+    "index": 24,
     "title": "銀座三越🍰🥪獎勵自己的甜點＆輕食16選｜推薦的日式和洋點心｜百貨地下美食戰利品",
     "duration": "15:00",
     "views": "4.3萬次",
@@ -1206,7 +1249,7 @@
     "transcript_sections": 11
   },
   {
-    "index": 24,
+    "index": 25,
     "title": "東京🥯正宗貝果店的蘭姆葡萄、豆腐奶酪、紅豆奶油等口味｜貝果三明治｜貝果專賣店・咖啡廳",
     "duration": "15:00",
     "views": "3.4萬次",
@@ -1261,7 +1304,7 @@
     "transcript_sections": 8
   },
   {
-    "index": 25,
+    "index": 26,
     "title": "東京🥐🇫🇷正宗法式風味，超美味的8間人氣麵包店推薦｜榮獲大獎的可麗露｜麵包咖啡廳／法式烘焙坊",
     "duration": "13:50",
     "views": "2.2萬次",
@@ -1316,7 +1359,7 @@
     "transcript_sections": 9
   },
   {
-    "index": 26,
+    "index": 27,
     "title": "東京🍵🍡 太厲害了！8間抹茶甜點推薦店家｜從經典名品到意想不到的創意甜點｜絕對讓人喜歡的東京伴手禮",
     "duration": "13:23",
     "views": "9426次",
@@ -1377,7 +1420,7 @@
     "transcript_sections": 9
   },
   {
-    "index": 27,
+    "index": 28,
     "title": "東京🥧不吃太可惜！頂級銅鑼燒嚴選8家超推薦店｜日本酒紅豆餡、紅豆奶油等｜東京送禮首選",
     "duration": "13:02",
     "views": "4.4萬次",
@@ -1432,7 +1475,7 @@
     "transcript_sections": 0
   },
   {
-    "index": 28,
+    "index": 29,
     "title": "中目黑🍞麵包激戰區！東京真正好吃的麵包店＆烘焙咖啡廳巡禮｜Bakery Lounge澤村、星巴克臻選等",
     "duration": "11:15",
     "views": "9650次",
@@ -1481,7 +1524,7 @@
     "transcript_sections": 7
   },
   {
-    "index": 29,
+    "index": 30,
     "title": "東京🧇超推薦8間超棒的鯛魚燒咖啡廳＆專門店｜紅豆甜點",
     "duration": "15:00",
     "views": "4.8萬次",
@@ -1536,7 +1579,7 @@
     "transcript_sections": 9
   },
   {
-    "index": 30,
+    "index": 31,
     "title": "橫濱🥐絕對不能錯過！精選8間麵包・甜點店｜港未來絕美景觀咖啡廳",
     "duration": "16:00",
     "views": "2.6萬次",
@@ -1591,7 +1634,7 @@
     "transcript_sections": 9
   },
   {
-    "index": 31,
+    "index": 32,
     "title": "東京 🇯🇵 超好吃的蛋沙拉三明治 🥪 從人氣名店到在地人推薦的隱藏版8選｜東京麵包店巡禮",
     "duration": "12:16",
     "views": "8198次",
@@ -1646,7 +1689,7 @@
     "transcript_sections": 9
   },
   {
-    "index": 32,
+    "index": 33,
     "title": "銀座三越🍰🍱從新開幕甜點到人氣便當 精選10家｜東京百貨地下美食・伴手禮推薦",
     "duration": "11:29",
     "views": "4.7萬次",
@@ -1701,7 +1744,7 @@
     "transcript_sections": 11
   },
   {
-    "index": 33,
+    "index": 34,
     "title": "東京車站🍞僅限站內・直通區域｜分區攻略10間麵包店｜美味烘焙坊美食散步推薦",
     "duration": "13:42",
     "views": "5.7萬次",
@@ -1756,7 +1799,7 @@
     "transcript_sections": 11
   },
   {
-    "index": 34,
+    "index": 35,
     "title": "東京🥯貝果專門店｜南瓜鷹嘴豆泥三明治、草莓紅豆奶油起司等多種口味",
     "duration": "12:30",
     "views": "2.3萬次",
@@ -1811,7 +1854,7 @@
     "transcript_sections": 0
   },
   {
-    "index": 35,
+    "index": 36,
     "title": "東京🍞🫘從經典到創新款！精選10款紅豆奶油三明治｜紅豆系專門店・麵包店巡禮｜美食散步推薦",
     "duration": "12:30",
     "views": "1.8萬次",
@@ -1866,7 +1909,7 @@
     "transcript_sections": 11
   },
   {
-    "index": 36,
+    "index": 37,
     "title": "淺草 🇯🇵🍡 和風甜點的寶庫！Q彈草莓大福＆極品烤地瓜 | 東京美食漫步",
     "duration": "12:21",
     "views": "4315次",
@@ -1921,7 +1964,7 @@
     "transcript_sections": 9
   },
   {
-    "index": 37,
+    "index": 38,
     "title": "東京🍠地瓜・栗子・南瓜秋季甜點精選7選｜地瓜布丁・蒙布朗可麗餅・南瓜巴斯克起司蛋糕",
     "duration": "9:19",
     "views": "6260次",
@@ -1976,7 +2019,7 @@
     "transcript_sections": 8
   },
   {
-    "index": 38,
+    "index": 39,
     "title": "東京🍞美味しいパン屋６選 | 絶品アボカドトースト | 自由が丘限定ロール | ベーカリー",
     "duration": "10:58",
     "views": "7670次",
@@ -2025,7 +2068,7 @@
     "transcript_sections": 7
   },
   {
-    "index": 39,
+    "index": 40,
     "title": "東京車站Gransta🍰全新開幕甜點區10間店鋪介紹｜伴手禮推薦ChatGPT に質問する",
     "duration": "9:10",
     "views": "10萬次",
@@ -2080,7 +2123,7 @@
     "transcript_sections": 12
   },
   {
-    "index": 40,
+    "index": 41,
     "title": "雪梨🇦🇺咖啡廳巡禮｜Kirribilli 的 Celsius Coffee｜邦迪海灘｜澳洲一人旅行",
     "duration": "11:09",
     "views": "2124次",
@@ -2129,7 +2172,7 @@
     "transcript_sections": 7
   },
   {
-    "index": 41,
+    "index": 42,
     "title": "表参道 | 並ばず美味しいパン屋🍞お買得エコパン | 激カワ🇺🇲カフェ | ドーナツ",
     "duration": "10:05",
     "views": "4734次",
@@ -2184,7 +2227,7 @@
     "transcript_sections": 7
   },
   {
-    "index": 42,
+    "index": 43,
     "title": "中目黑🍞超人氣「AMAM DACOTAN」系列新店「DACO」全新開幕｜東京烘焙咖啡廳",
     "duration": "8:11",
     "views": "9297次",
@@ -2239,7 +2282,7 @@
     "transcript_sections": 10
   },
   {
-    "index": 43,
+    "index": 44,
     "title": "自由が丘 | 黒トリュフたまご🥐 いちじくサンド | 美味しい朝の店６選",
     "duration": "10:14",
     "views": "5715次",
@@ -2294,7 +2337,7 @@
     "transcript_sections": 7
   },
   {
-    "index": 44,
+    "index": 45,
     "title": "表參道🍞全日本最吸睛的麵包店｜超人氣 AMAM DACOTAN 推出新作｜東京烘焙咖啡廳",
     "duration": "8:38",
     "views": "7328次",
@@ -2349,7 +2392,7 @@
     "transcript_sections": 0
   },
   {
-    "index": 45,
+    "index": 46,
     "title": "東京🍩生甜甜圈｜連大人也著迷的人氣甜點｜I'm donut? 澀谷店",
     "duration": "8:30",
     "views": "1萬次",
@@ -2404,7 +2447,7 @@
     "transcript_sections": 9
   },
   {
-    "index": 46,
+    "index": 47,
     "title": "東京🥯抹茶紅豆奶油起司・鮪魚酪梨・生貝果等絕品嚴選9款｜麵包店巡禮",
     "duration": "9:07",
     "views": "1.2萬次",
@@ -2441,7 +2484,7 @@
     "transcript_sections": 5
   },
   {
-    "index": 47,
+    "index": 48,
     "title": "東京🍞大好きあんバター | フレンチトースト | 美味しすぎるパン屋",
     "duration": "9:11",
     "views": "3631次",
@@ -2478,7 +2521,7 @@
     "transcript_sections": 4
   },
   {
-    "index": 48,
+    "index": 49,
     "title": "自由が丘 | 街の様子/ 食べ歩き | 美味しいベーグル & 🍌スフレサンド",
     "duration": "9:42",
     "views": "4813次",
@@ -2527,7 +2570,7 @@
     "transcript_sections": 6
   },
   {
-    "index": 49,
+    "index": 50,
     "title": "目黒 | 庭園の桜 | パン屋さん巡り/お散歩 | 目黒通りインテリアストリート",
     "duration": "9:03",
     "views": "3384次",
@@ -2576,7 +2619,7 @@
     "transcript_sections": 6
   },
   {
-    "index": 50,
+    "index": 51,
     "title": "中目黒 | パン屋さん巡り🍞並んでも食べたい朝食 | ベーカリーカフェ | 人気コーヒー店の桜ラテアート",
     "duration": "9:03",
     "views": "6941次",
@@ -2625,7 +2668,7 @@
     "transcript_sections": 6
   },
   {
-    "index": 51,
+    "index": 52,
     "title": "麻布十番･六本木ヒルズ | 本当に美味しいベーグル & ドーナツ | 街の様子",
     "duration": "9:06",
     "views": "3809次",
@@ -2668,7 +2711,7 @@
     "transcript_sections": 5
   },
   {
-    "index": 52,
+    "index": 53,
     "title": "代官山☕お散歩/カフェ巡り | テラス席が気持ちいい店 | 東京おすすめ",
     "duration": "9:16",
     "views": "1萬次",
@@ -2711,7 +2754,7 @@
     "transcript_sections": 5
   },
   {
-    "index": 53,
+    "index": 54,
     "title": "東京麻布台之丘 🇯🇵🍞 世界第一麵包店 Comme'N TOKYO | 美食市集與%Arabica咖啡探索",
     "duration": "9:03",
     "views": "2.3萬次",

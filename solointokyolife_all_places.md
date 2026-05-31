@@ -2,13 +2,27 @@
 
 - 頻道：[SoloInTokyoLife](https://www.youtube.com/@SoloInTokyoLife)
 - 來源：[頻道影片頁](https://www.youtube.com/@SoloInTokyoLife/videos)
-- 抓取日期：2026-05-20
-- 已掃描影片：53 部
-- 店家列數：344 筆
+- 抓取日期：2026-05-31
+- 已掃描影片：54 部
+- 店家列數：349 筆
 - 原始 Google Maps 連結：58 筆；其餘使用 Google Maps 搜尋連結
-- 評價來源：Google Maps，查核日期 2026-05-20；搜尋連結列因未提供原始地圖，評價標為未取得
+- 評價來源：Google Maps，查核日期 2026-05-31；搜尋連結列因未提供原始地圖，評價標為未取得
 
-## 1. 東京 🇯🇵 🥮 門前仲町和菓子聖地！超濃郁抹茶銅鑼燒與老舖糰子 \| 日本旅遊美食推薦 \| 日本自由行美食 VLOG
+
+## 1. 東京🥯ベーグル屋さんのリピ確あんバター & マンゴークリチ！あんこスイーツ好き必見
+
+- 影片：[YouTube](https://www.youtube.com/watch?v=F6npv7KG1k0)
+- 發布時間：2 天前
+
+| 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
+| --- | --- | --- | --- | --- | --- |
+| ベーグルくらし (Bagel Kurashi) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%99%E3%83%BC%E3%82%B0%E3%83%AB%E3%81%8F%E3%82%89%E3%81%97%20(Bagel%20Kurashi)%20Tokyo%20Japan) | Google Maps 未取得 | 本集東京貝果巡禮造訪「ベーグルくらし (Bagel Kurashi)」，主打 Q 彈貝果、紅豆奶油與芒果奶油起司等口味；描述欄列為章節店家，未提供原始地圖連結。 | [00:24](https://www.youtube.com/watch?v=F6npv7KG1k0&t=24s) | SoloInTokyoLife |
+| プロフィテ サンセリテ (Profite Sincerite) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%86%20%E3%82%B5%E3%83%B3%E3%82%BB%E3%83%AA%E3%83%86%20(Profite%20Sincerite)%20Tokyo%20Japan) | Google Maps 未取得 | 本集東京貝果巡禮造訪「プロフィテ サンセリテ (Profite Sincerite)」，主打 Q 彈貝果、紅豆奶油與芒果奶油起司等口味；描述欄列為章節店家，未提供原始地圖連結。 | [02:22](https://www.youtube.com/watch?v=F6npv7KG1k0&t=142s) | SoloInTokyoLife |
+| ベストベーグル 池尻大橋店 (BEST BAGEL Ikejiri-Ohashi) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%99%E3%82%B9%E3%83%88%E3%83%99%E3%83%BC%E3%82%B0%E3%83%AB%20%E6%B1%A0%E5%B0%BB%E5%A4%A7%E6%A9%8B%E5%BA%97%20(BEST%20BAGEL%20Ikejiri-Ohashi)%20Tokyo%20Japan) | Google Maps 未取得 | 本集東京貝果巡禮造訪「ベストベーグル 池尻大橋店 (BEST BAGEL Ikejiri-Ohashi)」，主打 Q 彈貝果、紅豆奶油與芒果奶油起司等口味；描述欄列為章節店家，未提供原始地圖連結。 | [04:07](https://www.youtube.com/watch?v=F6npv7KG1k0&t=247s) | SoloInTokyoLife |
+| あんことベーグルanno. (anno) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%81%82%E3%82%93%E3%81%93%E3%81%A8%E3%83%99%E3%83%BC%E3%82%B0%E3%83%ABanno.%20(anno)%20Tokyo%20Japan) | Google Maps 未取得 | 本集東京貝果巡禮造訪「あんことベーグルanno. (anno)」，主打 Q 彈貝果、紅豆奶油與芒果奶油起司等口味；描述欄列為章節店家，未提供原始地圖連結。 | [06:19](https://www.youtube.com/watch?v=F6npv7KG1k0&t=379s) | SoloInTokyoLife |
+| ベーグルスタンダード (BAGEL STANDARD) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%99%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%20(BAGEL%20STANDARD)%20Tokyo%20Japan) | Google Maps 未取得 | 本集東京貝果巡禮造訪「ベーグルスタンダード (BAGEL STANDARD)」，主打 Q 彈貝果、紅豆奶油與芒果奶油起司等口味；描述欄列為章節店家，未提供原始地圖連結。 | [09:34](https://www.youtube.com/watch?v=F6npv7KG1k0&t=574s) | SoloInTokyoLife |
+
+## 2. 東京 🇯🇵 🥮 門前仲町和菓子聖地！超濃郁抹茶銅鑼燒與老舖糰子 \| 日本旅遊美食推薦 \| 日本自由行美食 VLOG
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=IyamUppQ5DQ)
 - 發布時間：4 天前
@@ -23,7 +37,7 @@
 | 其角せんべい (Kikaku Senbei) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%85%B6%E8%A7%92%E3%81%9B%E3%82%93%E3%81%B9%E3%81%84%20(Kikaku%20Senbei)%20Tokyo%20Japan) | Google Maps 未取得 | 匯集了多款自信之作的仙貝專賣店；右下角是以「幕之內便當」為主題的糖果；左「福豆太鼓」185日圓、左「薄燒（極辛）」100日圓；撒滿香氣濃郁的七味粉的「極辛」口味。 | [08:16](https://www.youtube.com/watch?v=IyamUppQ5DQ&t=496s) | SoloInTokyoLife |
 | 門仲パン屋 MONPAN (Monnaka Panya MONPAN) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%96%80%E4%BB%B2%E3%83%91%E3%83%B3%E5%B1%8B%20MONPAN%20(Monnaka%20Panya%20MONPAN)%20Tokyo%20Japan) | Google Maps 未取得 | 2025年3月新開幕的在地麵包店；從甜味系到鹹味點心，各式現烤麵包琳瑯滿目；早上8點開始營業☀；左「抹茶核桃大納言」500日圓、右「香蕉麵包（S尺寸）」350日圓。 | [09:58](https://www.youtube.com/watch?v=IyamUppQ5DQ&t=598s) | SoloInTokyoLife |
 
-## 2. 澀谷 🇯🇵 🍰 東橫暖簾街 Hikarie 必吃甜點伴手禮 \| 東京旅遊必去・車站直達
+## 3. 澀谷 🇯🇵 🍰 東橫暖簾街 Hikarie 必吃甜點伴手禮 \| 東京旅遊必去・車站直達
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=e6ZH3w7wx60)
 - 發布時間：2 週前
@@ -38,7 +52,7 @@
 | 桂新堂 (Keishindo) | [Google Maps](https://maps.app.goo.gl/5iqfLFAdxMVSuJxu6) | Google Maps 4.1（15 則評論） | 總部位於愛知縣名古屋市的蝦餅專賣店；使用車蝦或甜蝦製作、追求極致真實口感的蝦餅非常受歡迎；由熟練職人一隻一隻手工烘烤的「姿燒」簡直是藝術；有單片零售的商品也很令人開心。 | [09:07](https://www.youtube.com/watch?v=e6ZH3w7wx60&t=547s) | SoloInTokyoLife |
 | ル パン ドゥ ジョエル・ロブション (LE PAIN de Joël Robuchon) | [Google Maps](https://maps.app.goo.gl/hiRo19XdJ2waqU436) | Google Maps 4.1（404 則評論） | 以甜點聖地巴黎為據點、引領世界的品牌；店鋪地點請查看資訊欄的 Google 地圖；以細緻入口即化為特徵的馬卡龍非常受歡迎；也有使用抹茶製作的馬卡龍。 | [10:55](https://www.youtube.com/watch?v=e6ZH3w7wx60&t=655s) | SoloInTokyoLife |
 
-## 3. 横浜 🇯🇵 🥐 東京近郊名店巡禮 \| 避開人潮的安靜街道 \| 一口就幸福的「背德紅豆夾心」與絕品可頌
+## 4. 横浜 🇯🇵 🥐 東京近郊名店巡禮 \| 避開人潮的安靜街道 \| 一口就幸福的「背德紅豆夾心」與絕品可頌
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=JFc6eVGxkjc)
 - 發布時間：1 個月前
@@ -51,7 +65,7 @@
 | よつばベーカリー (Yotsuba Bakery) | [Google Maps](https://maps.app.goo.gl/x1Xc2MnoVoXZq3UD9) | Google Maps 4.6（129 則評論） | 一家充滿療癒感的街角麵包店；在精巧的空間裡，整齊排列著蓬鬆的麵包；這家店以全家人都能享受的麵包為榮；從鹹點到甜點應有盡有，種類非常均衡。 | [04:25](https://www.youtube.com/watch?v=JFc6eVGxkjc&t=265s) | SoloInTokyoLife |
 | ウチキパン (Uchikipan) | [Google Maps](https://maps.app.goo.gl/uBgcB24K4vhWXZx29) | Google Maps 4.0（1,041 則評論） | 創立於 1888 年，是日本最古老級的傳統麵包店；店裡有許多充滿古早味的麵包 我好喜歡這樣的麵包店；招牌產品是使用啤酒花傳統發酵種製作的「England（山型吐司）」；左「黑麥麵包」280日圓，右「芝麻地瓜麵包」360日圓。 | [05:50](https://www.youtube.com/watch?v=JFc6eVGxkjc&t=350s) | SoloInTokyoLife |
 
-## 4. 品川 🇯🇵 🥐 車站內必吃麵包店巡禮 \| 東京最強早餐推薦 旅遊美食攻略
+## 5. 品川 🇯🇵 🥐 車站內必吃麵包店巡禮 \| 東京最強早餐推薦 旅遊美食攻略
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=uZ1dN6M63Vw)
 - 發布時間：1 個月前
@@ -64,7 +78,7 @@
 | 立町カヌレ (Tatemachi cannele) | [Google Maps](https://maps.app.goo.gl/qofgsMpU1rWZWQAK6) | Google Maps 3.7（45 則評論） | 由廣島甜點店「Castagna」經營的可麗露專賣店；可麗露是法國波爾多地區的傳統烘焙點心；也有冷凍可麗露；左「可麗露（大）」380 日圓，右「杏仁」320 日圓。 | [07:22](https://www.youtube.com/watch?v=uZ1dN6M63Vw&t=442s) | SoloInTokyoLife |
 | ポール (PAUL) | [Google Maps](https://maps.app.goo.gl/368N5hfgvbKtQWTMA) | Google Maps 4.0（498 則評論） | 在法國傳承五代的烘焙坊；以使用發酵奶油製作的可頌為傲；早上 8 點到 11 點提供划算的套組菜單；左起「巧克力可頌」540 日圓、「可麗露」345 日圓、「鮪魚可頌」648 日圓。 | [08:49](https://www.youtube.com/watch?v=uZ1dN6M63Vw&t=529s) | SoloInTokyoLife |
 
-## 5. 東京 🇯🇵 銀座 Ginza Six 🥮 荻乃和甘銅鑼燒 & 星野餅紅豆奶油最中 \| 日本美食
+## 6. 東京 🇯🇵 銀座 Ginza Six 🥮 荻乃和甘銅鑼燒 & 星野餅紅豆奶油最中 \| 日本美食
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=k0Lahr5pRgw)
 - 發布時間：1 個月前
@@ -79,7 +93,7 @@
 | ギンザ 芭蕉堂 (Bashodo) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%82%AE%E3%83%B3%E3%82%B6%20%E8%8A%AD%E8%95%89%E5%A0%82%20(Bashodo)%20Tokyo%20Japan) | Google Maps 未取得 | 這是一間堅持「現切現做」的蕨餅專賣店；蕨餅有很多口味，像是「黑豆粉」、「抹茶」、「黑糖蜜」、「可可」；裝在可愛罐子裡的蕨餅非常適合當作伴手禮；左：「蕨餅生銅鑼燒」380 日圓，右：「麻糬饅頭 櫻花餡」250 日圓。 | [08:31](https://www.youtube.com/watch?v=k0Lahr5pRgw&t=511s) | SoloInTokyoLife |
 | トウキョウ マカプレッソ (TOKYO MACAPRESSO) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%20%E3%83%9E%E3%82%AB%E3%83%97%E3%83%AC%E3%83%83%E3%82%BD%20(TOKYO%20MACAPRESSO)%20Tokyo%20Japan) | Google Maps 未取得 | 在這裡可以買到目前在韓國很流行的杜拜巧克力餅乾；招牌的馬卡龍個頭相當大；也可以在附設的咖啡廳享用 ；抹茶系列 。 | [10:22](https://www.youtube.com/watch?v=k0Lahr5pRgw&t=622s) | SoloInTokyoLife |
 
-## 6. 東京車站 🇯🇵 🥐☕️ 站內 & 直通咖啡廳 \| 寬敞舒適的人氣麵包店・美味早餐內用 \| 日本美食開箱
+## 7. 東京車站 🇯🇵 🥐☕️ 站內 & 直通咖啡廳 \| 寬敞舒適的人氣麵包店・美味早餐內用 \| 日本美食開箱
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=k1rc9Sqk29k)
 - 發布時間：2 個月前
@@ -93,7 +107,7 @@
 | ガトーフェスタ ハラダ グランスタ東京店 (GATEAU FESTA HARADA Gransta Tokyo Store) | [Google Maps](https://maps.app.goo.gl/9jxkPj479JxTe4yZA) | Google Maps 4.3（492 則評論） | 以法國脆餅為主的甜點專賣店；可以將散賣的脆餅放進另售的專用禮盒中；專用禮盒的種類非常豐富！；法國脆餅「GOUTER de ROI」是招牌商品。 | [06:50](https://www.youtube.com/watch?v=k1rc9Sqk29k&t=410s) | SoloInTokyoLife |
 | ザ シティ ベーカリー 丸の内オアゾ (THE CITY BAKERY Marunouchi Oazo) | [Google Maps](https://maps.app.goo.gl/dABtAZXzXvsHbovx9) | Google Maps 4.1（267 則評論） | 早餐菜單種類豐富的烘焙咖啡廳；早餐套餐供應時間為早上 7 點到 10 點 有很多可愛的麵包，讓人心情雀躍！；融合了可頌與椒鹽捲餅的「椒鹽可頌」非常受歡迎；也陳列著活用時令食材製作的蛋糕。 | [08:58](https://www.youtube.com/watch?v=k1rc9Sqk29k&t=538s) | SoloInTokyoLife |
 
-## 7. 東京 🇯🇵 🍞 目黑與五反田的人氣麵包店巡禮｜絕品紅豆奶油吐司與精選烘焙坊 \| 日本美食日常
+## 8. 東京 🇯🇵 🍞 目黑與五反田的人氣麵包店巡禮｜絕品紅豆奶油吐司與精選烘焙坊 \| 日本美食日常
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=eH6NAqtvx1w)
 - 發布時間：2 個月前
@@ -106,7 +120,7 @@
 | ベーグルスタンダード (BAGEL STANDARD) | [Google Maps](https://maps.app.goo.gl/U29hPum19CCwmhU38) | Google Maps 4.2（212 則評論） | 同樣位於山手通沿線的 [BAGEL STANDARD]；紐約風格的貝果專賣店；離剛才的麵包店步行僅需 6 分鐘，可以安排在同一天造訪；陳列著外脆內軟口感的貝果。 | [07:20](https://www.youtube.com/watch?v=eH6NAqtvx1w&t=440s) | SoloInTokyoLife |
 | セゾンベーカリー & コーヒー (SAISON bakery&coffee) | [Google Maps](https://maps.app.goo.gl/MPb7owTmnYpaTRDk7) | Google Maps 4.6（1,305 則評論） | 從清晨開始營業的人氣烘焙咖啡廳；內用菜單有歐姆蛋與水煮嫩蛋；這天也有許多在排隊等內用的客人，如果是外帶的話可以立刻入店；左「巧達濃湯」600 日圓 右「酪梨開放式三明治」950 日圓。 | [09:08](https://www.youtube.com/watch?v=eH6NAqtvx1w&t=548s) | SoloInTokyoLife |
 
-## 8. 東京車站 🇯🇵 🍰🍱 大丸百貨人氣甜點與便當攻略 \| 東京必吃美食伴手禮
+## 9. 東京車站 🇯🇵 🍰🍱 大丸百貨人氣甜點與便當攻略 \| 東京必吃美食伴手禮
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=T52OfC4Inmg)
 - 發布時間：3 個月前
@@ -121,7 +135,7 @@
 | 【舟和】[Funawa] | [Google Maps](https://maps.app.goo.gl/DePATE59Gosx3pKUA) | Google Maps 3.8（50 則評論） | 以地瓜羊羹聞名的【Funawa】；創立於1902年的和菓子老店；創業當時煉羊羹是高級品；據說為了讓一般大眾也能吃到，才想出了地瓜羊羹。 | [08:28](https://www.youtube.com/watch?v=T52OfC4Inmg&t=508s) | SoloInTokyoLife |
 | 【ミート矢澤 テイクアウトステーション】[Meat Yazawa Takeout Station] | [Google Maps](https://maps.app.goo.gl/3SnmpUXDNDJSsjbS6) | Google Maps 4.2（171 則評論） | 使用黑毛和牛製作的牛排、漢堡排便當非常受歡迎；隔著玻璃參觀中；正因為是肉品批發商直營，所以能提供高品質的商品；超人氣的「漢堡排便當」2000日圓。 | [09:44](https://www.youtube.com/watch?v=T52OfC4Inmg&t=584s) | SoloInTokyoLife |
 
-## 9. 東京 🇯🇵 🥮 銀座必吃白蘭地銅鑼燒與現做泡芙 \| 東銀座美食 旅遊
+## 10. 東京 🇯🇵 🥮 銀座必吃白蘭地銅鑼燒與現做泡芙 \| 東銀座美食 旅遊
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=KJ1qZCyMQsM)
 - 發布時間：3 個月前
@@ -136,7 +150,7 @@
 | 銀座に志かわ コーヒーロースタリー (GINZA NISHIKAWA COFFEE ROASTERY) | [Google Maps](https://maps.app.goo.gl/pYZR9WCbdYhBY2xb9) | Google Maps 4.3（111 則評論） | 發揮食材原味的大人風味果醬麵包專賣店；有「究極草莓」、「麝香葡萄」等多種口味的果醬麵包；店卡和貼紙都很可愛，讓人心情大好；果醬給得很大方的「香檳與葡萄」370 日圓。 | [08:09](https://www.youtube.com/watch?v=KJ1qZCyMQsM&t=489s) | SoloInTokyoLife |
 | らぁ麺 牡蠣と貝 (Ramen Kaki to Kai) | [Google Maps](https://maps.app.goo.gl/FJB1hmtCjeFdvGWc8) | Google Maps 4.7（3,414 則評論） | 從東銀座站步行 5 分鐘，從築地站步行 4 分鐘；這是一家將「牡蠣與貝類」素材優點發揮到極致的拉麵店；雖然我不大喜歡那種典型的拉麵店氣氛，但我喜歡這家店的感覺；被安排的位置就在廚房旁邊。 | [09:27](https://www.youtube.com/watch?v=KJ1qZCyMQsM&t=567s) | SoloInTokyoLife |
 
-## 10. 東京 🇯🇵 🗼 和菓子天堂！人形町超人氣銅鑼燒、老牌紅豆湯美食散策
+## 11. 東京 🇯🇵 🗼 和菓子天堂！人形町超人氣銅鑼燒、老牌紅豆湯美食散策
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=iDyk1F7gZCA)
 - 發布時間：4 個月前
@@ -152,7 +166,7 @@
 | 重盛永信堂 (Shigemori Eishindo) | [Google Maps](https://maps.app.goo.gl/MGVfcoc5m24tQcnZA) | Google Maps 4.3（697 則評論） | 人形燒名店[重盛永信堂]；「人形燒」、「登り鮎」等都可以從一個起購，非常有魅力；左：「登鮎（白豆沙）」140 日圓 右：「壺燒（紅豆粒餡）」180 日圓；「登り鮎」裡面包著口感極佳的白豆沙。 | [08:34](https://www.youtube.com/watch?v=iDyk1F7gZCA&t=514s) | SoloInTokyoLife |
 | オリミネベーカーズ 人形町店 (ORIMINE BAKERS Ningyocho) | [Google Maps](https://maps.app.goo.gl/EW8vAVpQPMmDtAjF6) | Google Maps 3.6（109 則評論） | 我最喜歡這種風格了；牆上畫著許多可愛的麵包插畫；這是一家總店位於築地、對食材非常講究的麵包店；看網站介紹，總店似乎沒有小熊招牌。 | [09:38](https://www.youtube.com/watch?v=iDyk1F7gZCA&t=578s) | SoloInTokyoLife |
 
-## 11. 東京 🇯🇵 🥮🍱 銀座三越與松屋銀座必買地下街美食！人氣甜點及精緻便當指南
+## 12. 東京 🇯🇵 🥮🍱 銀座三越與松屋銀座必買地下街美食！人氣甜點及精緻便當指南
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=QX4Fl6pW_Hk)
 - 發布時間：4 個月前
@@ -170,7 +184,7 @@
 | リッチポテトコロッケ東京 (Rich Potato Croquette Tokyo) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%83%E3%83%81%E3%83%9D%E3%83%86%E3%83%88%E3%82%B3%E3%83%AD%E3%83%83%E3%82%B1%E6%9D%B1%E4%BA%AC%20(Rich%20Potato%20Croquette%20Tokyo)%20Tokyo%20Japan) | Google Maps 未取得 | 「奢華馬鈴薯可樂餅」的專賣店；這款便當裡面包含可樂餅；「洋食屋的蛋包飯（多米格拉斯醬）＆馬鈴薯可樂餅拼盤」1296日圓；真不錯呢〜 。 | [08:10](https://www.youtube.com/watch?v=QX4Fl6pW_Hk&t=490s) | SoloInTokyoLife |
 | 【豆源】[Mamegen] 你的按讚和訂閱是這個頻道的最大動力！希望下支影片再見，謝謝你 💖 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%80%90%E8%B1%86%E6%BA%90%E3%80%91%5BMamegen%5D%20%E4%BD%A0%E7%9A%84%E6%8C%89%E8%AE%9A%E5%92%8C%E8%A8%82%E9%96%B1%E6%98%AF%E9%80%99%E5%80%8B%E9%A0%BB%E9%81%93%E7%9A%84%E6%9C%80%E5%A4%A7%E5%8B%95%E5%8A%9B%EF%BC%81%E5%B8%8C%E6%9C%9B%E4%B8%8B%E6%94%AF%E5%BD%B1%E7%89%87%E5%86%8D%E8%A6%8B%EF%BC%8C%E8%AC%9D%E8%AC%9D%E4%BD%A0%20%F0%9F%92%96%20Tokyo%20Japan) | Google Maps 未取得 | 創立於1865年的豆菓子老字號；總店位於麻布十番商店街；左「白蘭地杏仁」864日圓 右「黑咖啡」648日圓；咖啡風味的花生菓子 咖啡和花生真的很搭！。 | [09:35](https://www.youtube.com/watch?v=QX4Fl6pW_Hk&t=575s) | SoloInTokyoLife |
 
-## 12. 東京 🇯🇵 🥯 日式貝果 vs 紐約貝果！探訪日本最強超人氣貝果專賣店
+## 13. 東京 🇯🇵 🥯 日式貝果 vs 紐約貝果！探訪日本最強超人氣貝果專賣店
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Lducb5kMS8Q)
 - 發布時間：5 個月前
@@ -183,7 +197,7 @@
 | ベーグルチェック (Bagel Check) | [Google Maps](https://maps.app.goo.gl/NuLXZ1K51uJvM8fE9) | Google Maps 4.4（92 則評論） | 一家在當地大受歡迎的貝果店，從不動前站步行 5 分鐘；今天我要購買期待已久的聖誕貝果 ；左：「覆盆子夏威夷豆」400 日圓 右：「花環貝果」330 日圓；份量沉甸甸的，我很期待將它切成兩半。 | [07:08](https://www.youtube.com/watch?v=Lducb5kMS8Q&t=428s) | SoloInTokyoLife |
 | ソポベーグル (sopo bagel) | [Google Maps](https://maps.app.goo.gl/Y4KHyoEEyRvGsMaq6) | Google Maps 3.9（62 則評論） | 位於住宅區內，從武藏小山站步行 5 分鐘；早上 8:30 就開始營業，是一家我想早起去光顧的店；今天我要購買剛出爐、我期待已久的商品；左：「雞蛋」320 日圓 右：「香草香腸」350 日圓。 | [09:02](https://www.youtube.com/watch?v=Lducb5kMS8Q&t=542s) | SoloInTokyoLife |
 
-## 13. 東京 🇯🇵 太銷魂🔥現做紅豆奶油銅鑼燒、元祖鹽大福等 \| 紅豆甜點徹底大介紹
+## 14. 東京 🇯🇵 太銷魂🔥現做紅豆奶油銅鑼燒、元祖鹽大福等 \| 紅豆甜點徹底大介紹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=5yyKtO-1DgI)
 - 發布時間：6 個月前
@@ -196,7 +210,7 @@
 | アンコロカフェ (ancolo cafe) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%AD%E3%82%AB%E3%83%95%E3%82%A7%20(ancolo%20cafe)%20Tokyo%20Japan) | Google Maps 未取得 | 一家距離目黑車站步行 2 分鐘的紅豆餡與麻糬專賣店；甜點種類非常豐富，讓人想經常光顧；左「紅豆餡法式巧克力凍 (帶皮栗)」780 日圓 右「紅豆餡起司蛋糕 (黑芝麻)」780 日圓；中間黑色的部分是黑芝麻紅豆餡。 | [6:35](https://www.youtube.com/watch?v=5yyKtO-1DgI&t=395s) | SoloInTokyoLife |
 | 甘味おかめ 有楽町イトシア (Kanmi Okame Yurakucho Itocia) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%94%98%E5%91%B3%E3%81%8A%E3%81%8B%E3%82%81%20%E6%9C%89%E6%A5%BD%E7%94%BA%E3%82%A4%E3%83%88%E3%82%B7%E3%82%A2%20(Kanmi%20Okame%20Yurakucho%20Itocia)%20Tokyo%20Japan) | Google Maps 未取得 | 一家距離有樂町車站步行 1 分鐘的日式甜點店；日式甜點種類豐富，有招牌的御萩和餡蜜等；原創托特包 ；「甜鹹便當」（御萩 + 關東煮）1200 日圓。 | [8:30](https://www.youtube.com/watch?v=5yyKtO-1DgI&t=510s) | SoloInTokyoLife |
 
-## 14. 東京 🇯🇵 日本橋・三越前美食：現擠蒙布朗、焙茶銅鑼燒等！東京單人觀光美食指南
+## 15. 東京 🇯🇵 日本橋・三越前美食：現擠蒙布朗、焙茶銅鑼燒等！東京單人觀光美食指南
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=DORb03tMCt0)
 - 發布時間：6 個月前
@@ -210,7 +224,7 @@
 | 榮太樓總本鋪 日本橋本店 (Eitaro Sohonpo Nihonbashi Honten) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%A6%AE%E5%A4%AA%E6%A8%93%E7%B8%BD%E6%9C%AC%E9%8B%AA%20%E6%97%A5%E6%9C%AC%E6%A9%8B%E6%9C%AC%E5%BA%97%20(Eitaro%20Sohonpo%20Nihonbashi%20Honten)%20Tokyo%20Japan) | Google Maps 未取得 | 影片僅列出店家，未提供明確心得。 | [7:12](https://www.youtube.com/watch?v=DORb03tMCt0&t=432s) | SoloInTokyoLife |
 | 五代目 花山うどん 日本橋店 (Godaime Hanayama Udon Nihonbashi) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E4%BA%94%E4%BB%A3%E7%9B%AE%20%E8%8A%B1%E5%B1%B1%E3%81%86%E3%81%A9%E3%82%93%20%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%BA%97%20(Godaime%20Hanayama%20Udon%20Nihonbashi)%20Tokyo%20Japan) | Google Maps 未取得 | 影片僅列出店家，未提供明確心得。 | [10:01](https://www.youtube.com/watch?v=DORb03tMCt0&t=601s) | SoloInTokyoLife |
 
-## 15. 東京 🇯🇵 🥯 最新貝果專賣店巡禮！經典紅豆奶油到創新奶茶奶油貝果三明治
+## 16. 東京 🇯🇵 🥯 最新貝果專賣店巡禮！經典紅豆奶油到創新奶茶奶油貝果三明治
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Svd-da64MLI)
 - 發布時間：7 個月前
@@ -223,7 +237,7 @@
 | ベーグル マス (Bagel Mas) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%99%E3%83%BC%E3%82%B0%E3%83%AB%20%E3%83%9E%E3%82%B9%20(Bagel%20Mas)%20Tokyo%20Japan) | Google Maps 未取得 | 第一家新店是【MUGI BAGEL】，於 2025 年 8 月 17 日開幕；距離目黑站徒步 3 分鐘；這是一家附設咖啡廳，可以從早餐開始享用的店；這裡有約 20 種 Q 彈有嚼勁口感的貝果。 | [6:38](https://www.youtube.com/watch?v=Svd-da64MLI&t=398s) | SoloInTokyoLife |
 | アルムベーグル 新大久保店 (AREUM BAGEL Shin-Okubo) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AB%E3%83%A0%E3%83%99%E3%83%BC%E3%82%B0%E3%83%AB%20%E6%96%B0%E5%A4%A7%E4%B9%85%E4%BF%9D%E5%BA%97%20(AREUM%20BAGEL%20Shin-Okubo)%20Tokyo%20Japan) | Google Maps 未取得 | 一家距離藏前站徒步 2 分鐘，從清晨就開始營業的店；據說貝果沒有使用奶油、雞蛋、牛奶；這裡陳列著注重食材的美麗貝果；剛開店時的三明治似乎只有奶油起司口味。 | [8:35](https://www.youtube.com/watch?v=Svd-da64MLI&t=515s) | SoloInTokyoLife |
 
-## 16. 東京 🇯🇵 \| 百大名店日式銅鑼燒專賣店！從紅豆、地瓜到蒙布朗口味的東京必買伴手禮
+## 17. 東京 🇯🇵 \| 百大名店日式銅鑼燒專賣店！從紅豆、地瓜到蒙布朗口味的東京必買伴手禮
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=WbjuVVVInPo)
 - 發布時間：7 個月前
@@ -238,7 +252,7 @@
 | 森幸四郎 (Mori Koushiro) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%A3%AE%E5%B9%B8%E5%9B%9B%E9%83%8E%20(Mori%20Koushiro)%20Tokyo%20Japan) | Google Maps 未取得 | 文明堂傳奇卡斯特拉職人森幸四郎先生的品牌；「森幸四郎的紅豆粒餡銅鑼燒」，237 日圓；銅鑼燒的外皮有較深的烘烤色；雖然不厚，但感覺很蓬鬆。 | [8:22](https://www.youtube.com/watch?v=WbjuVVVInPo&t=502s) | SoloInTokyoLife |
 | 菓子工房 福どら (Kashikobo Fukudora) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%8F%93%E5%AD%90%E5%B7%A5%E6%88%BF%20%E7%A6%8F%E3%81%A9%E3%82%89%20(Kashikobo%20Fukudora)%20Tokyo%20Japan) | Google Maps 未取得 | 距離森下車站步行 3 分鐘的銅鑼燒專賣店；可以在店內用餐；創意銅鑼燒種類豐富，推薦給喜歡新口味的人；這是一間讓人享受挑選要買哪一個的樂趣的店。 | [9:22](https://www.youtube.com/watch?v=WbjuVVVInPo&t=562s) | SoloInTokyoLife |
 
-## 17. 東京🇯🇵 高輪Gateway車站美食巡禮！必吃人氣甜點、麵包店與咖啡廳
+## 18. 東京🇯🇵 高輪Gateway車站美食巡禮！必吃人氣甜點、麵包店與咖啡廳
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Ig4GGC0GwuA)
 - 發布時間：8 個月前
@@ -253,7 +267,7 @@
 | ビチェリン ニュウマン高輪 (Bicerin NEWOMAN TAKANAWA) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%93%E3%83%81%E3%82%A7%E3%83%AA%E3%83%B3%20%E3%83%8B%E3%83%A5%E3%82%A6%E3%83%9E%E3%83%B3%E9%AB%98%E8%BC%AA%20(Bicerin%20NEWOMAN%20TAKANAWA)%20Tokyo%20Japan) | Google Maps 未取得 | 號稱是義大利杜林歷史最悠久的咖啡廳；除了可以外帶的義式冰淇淋之外， 也有內用菜單；下次我會再來吃。 | [7:50](https://www.youtube.com/watch?v=Ig4GGC0GwuA&t=470s) | SoloInTokyoLife |
 | ソー コーヒー ロースターズ (Sow Coffee Roasters) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%82%BD%E3%83%BC%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E3%83%AD%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%20(Sow%20Coffee%20Roasters)%20Tokyo%20Japan) | Google Maps 未取得 | 這裡陳列著使用當季食材製作的甜點；原創杯子好有品味〜。 | [8:17](https://www.youtube.com/watch?v=Ig4GGC0GwuA&t=497s) | SoloInTokyoLife |
 
-## 18. 東京🇯🇵人氣新店【I'm donut?】&【daco】自由之丘麵包甜甜圈之旅 \| 最新東京美食散步指南
+## 19. 東京🇯🇵人氣新店【I'm donut?】&【daco】自由之丘麵包甜甜圈之旅 \| 最新東京美食散步指南
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=ipyHXYcSKTs)
 - 發布時間：8 個月前
@@ -267,7 +281,7 @@
 | 自由が丘ベーカリー (Jiyugaoka Bakery) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E3%83%99%E3%83%BC%E3%82%AB%E3%83%AA%E3%83%BC%20(Jiyugaoka%20Bakery)%20Tokyo%20Japan) | Google Maps 未取得 | 從自由之丘車站步行 1 分鐘；這是一家 100% 米粉製成的無麩質麵包店；麵包和熟食的種類非常豐富；蛋糕類也很齊全。 | [12:03](https://www.youtube.com/watch?v=ipyHXYcSKTs&t=723s) | SoloInTokyoLife |
 | スプレッド (Spread) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%20(Spread)%20Tokyo%20Japan) | Google Maps 未取得 | 一家三明治專賣店，從武藏小山車站步行 5 分鐘；就在我剛介紹過的 [Bread Matière] 附近；「季節水果三明治」（桃子） 702 日圓；鮮奶油的甜度和份量都很清淡。 | [13:47](https://www.youtube.com/watch?v=ipyHXYcSKTs&t=827s) | SoloInTokyoLife |
 
-## 19. 東京 🇯🇵 🧇 鯛魚燒 (日式魚形蛋糕) 巡禮！老店到創新的日本街頭美食
+## 20. 東京 🇯🇵 🧇 鯛魚燒 (日式魚形蛋糕) 巡禮！老店到創新的日本街頭美食
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=HUdT9Hm3owQ)
 - 發布時間：9 個月前
@@ -282,7 +296,7 @@
 | 麻布十番浪花家総本店 (Azabu Juban Naniwaya Sohonten) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%BA%BB%E5%B8%83%E5%8D%81%E7%95%AA%E6%B5%AA%E8%8A%B1%E5%AE%B6%E7%B7%8F%E6%9C%AC%E5%BA%97%20(Azabu%20Juban%20Naniwaya%20Sohonten)%20Tokyo%20Japan) | Google Maps 未取得 | 從麻布十番車站步行 1 分鐘；這是明治 42 年創業的老店；據說這家店是熱門歌曲「游吧！鯛魚燒君」的 原型店；這是 2 樓的咖啡廳菜單。 | [9:41](https://www.youtube.com/watch?v=HUdT9Hm3owQ&t=581s) | SoloInTokyoLife |
 | 大黒堂 (Daikokudo) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%BB%92%E5%A0%82%20(Daikokudo)%20Tokyo%20Japan) | Google Maps 未取得 | 從多摩川車站步行 3 分鐘 這家店以「香魚燒」而非鯛魚燒為傲；除了「香魚燒」之外，還有日本人形燒和米果；店內氣氛令人心曠神怡；「香魚燒聖代（抹茶）」550 日圓。 | [10:40](https://www.youtube.com/watch?v=HUdT9Hm3owQ&t=640s) | SoloInTokyoLife |
 
-## 20. 東京車站 🇯🇵🍰 12款限定甜點必吃！\| 東京伴手禮攻略
+## 21. 東京車站 🇯🇵🍰 12款限定甜點必吃！\| 東京伴手禮攻略
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=twMCaz41W2g)
 - 發布時間：9 個月前
@@ -297,7 +311,7 @@
 | ナウオンチーズ ハロー トウキョウ ステーション (Now on Cheese♪ Hello, Tokyo Station !) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%8A%E3%82%A6%E3%82%AA%E3%83%B3%E3%83%81%E3%83%BC%E3%82%BA%20%E3%83%8F%E3%83%AD%E3%83%BC%20%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%20%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20(Now%20on%20Cheese%E2%99%AA%20Hello%2C%20Tokyo%20Station%20!)%20Tokyo%20Japan) | Google Maps 未取得 | 這是起司甜點專賣店的東京車站限定品牌；擺滿了許多可愛包裝的商品；單手就能輕鬆享用的起司蛋糕大受歡迎；「起司蛋糕三明治」410 日圓。 | [5:50](https://www.youtube.com/watch?v=twMCaz41W2g&t=350s) | SoloInTokyoLife |
 | ヌエヴォ バイ ブンメイドウ (nuevo by BUNMEIDO) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%8C%E3%82%A8%E3%83%B4%E3%82%A9%20%E3%83%90%E3%82%A4%20%E3%83%96%E3%83%B3%E3%83%A1%E3%82%A4%E3%83%89%E3%82%A6%20(nuevo%20by%20BUNMEIDO)%20Tokyo%20Japan) | Google Maps 未取得 | 這是從長崎蛋糕老店「文明堂」誕生的新品牌；單人份長崎蛋糕的種類非常豐富；「楓糖長崎蛋糕」648 日圓；這是一道能享受楓糖漿濕潤口感的點心。 | [7:05](https://www.youtube.com/watch?v=twMCaz41W2g&t=425s) | SoloInTokyoLife |
 
-## 21. 東京 🇯🇵 🍞 8間必訪老字號麵包店！必吃栗子紅豆麵包、鬆軟熱狗麵包三明治
+## 22. 東京 🇯🇵 🍞 8間必訪老字號麵包店！必吃栗子紅豆麵包、鬆軟熱狗麵包三明治
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=aPTQ2pfN5iI)
 - 發布時間：10 個月前
@@ -313,7 +327,7 @@
 | ほしのベーカリー (Hoshino Bakery) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%81%BB%E3%81%97%E3%81%AE%E3%83%99%E3%83%BC%E3%82%AB%E3%83%AA%E3%83%BC%20(Hoshino%20Bakery)%20Tokyo%20Japan) | Google Maps 未取得 | 【Hoshino Bakery】；從戶越銀座站步行 2 分鐘 創立於 1954 年（昭和 29 年）；位於以「美食街」聞名的 「戶越銀座商店街」；在「感動鯛魚燒」影片中介紹的 「大阪燒鯛魚燒」也能在這條商店街吃到喔 。 | [9:29](https://www.youtube.com/watch?v=aPTQ2pfN5iI&t=569s) | SoloInTokyoLife |
 | 木村屋總本店 (Kimuraya Sohonten) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9C%A8%E6%9D%91%E5%B1%8B%E7%B8%BD%E6%9C%AC%E5%BA%97%20(Kimuraya%20Sohonten)%20Tokyo%20Japan) | Google Maps 未取得 | 【Kimuraya Sohonten】；從銀座站步行 1 分鐘 創立於 1869 年（明治 2 年）；位於銀座 4 丁目路口附近；以在日本首次發想並販售「紅豆麵包」而聞名。 | [11:15](https://www.youtube.com/watch?v=aPTQ2pfN5iI&t=675s) | SoloInTokyoLife |
 
-## 22. 東京 🇯🇵 日式甜點新潮流：進化系羊羹 \| 紅豆控必看，迷你羊羹總整理！
+## 23. 東京 🇯🇵 日式甜點新潮流：進化系羊羹 \| 紅豆控必看，迷你羊羹總整理！
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=8tJtr3aI6Mk)
 - 發布時間：10 個月前
@@ -328,7 +342,7 @@
 | ショコラ ベルアメール 自由が丘店 (Bel Amer) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%20%E3%83%99%E3%83%AB%E3%82%A2%E3%83%A1%E3%83%BC%E3%83%AB%20%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E5%BA%97%20(Bel%20Amer)%20Tokyo%20Japan) | Google Maps 未取得 | 【Chocolat Bel Amer 自由之丘店】；距離自由之丘站步行 3 分鐘， 是巧克力專賣店；自由之丘店設有咖啡廳；「巧克力水羊羹 3 入」832 日圓（季節限定）。 | [8:14](https://www.youtube.com/watch?v=8tJtr3aI6Mk&t=494s) | SoloInTokyoLife |
 | ブルーボトルコーヒー 三軒茶屋カフェ (Blue Bottle Coffee) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%96%E3%83%AB%E3%83%BC%E3%83%9C%E3%83%88%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B%E3%82%AB%E3%83%95%E3%82%A7%20(Blue%20Bottle%20Coffee)%20Tokyo%20Japan) | Google Maps 未取得 | 【Blue Bottle Coffee 三軒茶屋店】；菜單上有與咖啡非常搭配的羊羹；請注意，餐點內容因店鋪而異；他們在點餐後才會沖泡每一杯咖啡。 | [9:53](https://www.youtube.com/watch?v=8tJtr3aI6Mk&t=593s) | SoloInTokyoLife |
 
-## 23. 銀座三越🍰🥪獎勵自己的甜點＆輕食16選｜推薦的日式和洋點心｜百貨地下美食戰利品
+## 24. 銀座三越🍰🥪獎勵自己的甜點＆輕食16選｜推薦的日式和洋點心｜百貨地下美食戰利品
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Wu0r7snJatA)
 - 發布時間：11 個月前
@@ -343,7 +357,7 @@
 | 銀座 鹿乃子 (Ginza Kanoko) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%8A%80%E5%BA%A7%20%E9%B9%BF%E4%B9%83%E5%AD%90%20(Ginza%20Kanoko)%20Tokyo%20Japan) | Google Maps 未取得 | 日式點心【銀座鹿乃子】；是「鹿乃子」（用寒天凝固豆子的點心）和 「餡蜜」的專賣店；這些全部都是「鹿乃子」；內含豆沙餡的「鬆軟燒饅」。 | [8:35](https://www.youtube.com/watch?v=Wu0r7snJatA&t=515s) | SoloInTokyoLife |
 | 木村屋總本店 (Kimuraya Sohonten) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9C%A8%E6%9D%91%E5%B1%8B%E7%B8%BD%E6%9C%AC%E5%BA%97%20(Kimuraya%20Sohonten)%20Tokyo%20Japan) | Google Maps 未取得 | 麵包店：【木村屋總本店】；這是以紅豆麵包聞名的【木村屋】 針對百貨公司和超市的產品品牌；櫥窗裡擺滿了看起來很美味的麵包；左「醬汁滿滿可樂餅麵包」331日圓 右「全麥麵粉滿滿雞蛋麵包」361日圓。 | [10:01](https://www.youtube.com/watch?v=Wu0r7snJatA&t=601s) | SoloInTokyoLife |
 
-## 24. 東京🥯正宗貝果店的蘭姆葡萄、豆腐奶酪、紅豆奶油等口味｜貝果三明治｜貝果專賣店・咖啡廳
+## 25. 東京🥯正宗貝果店的蘭姆葡萄、豆腐奶酪、紅豆奶油等口味｜貝果三明治｜貝果專賣店・咖啡廳
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=gmVkGWBNNCI)
 - 發布時間：11 個月前
@@ -358,7 +372,7 @@
 | テコナ ベーグル (Tecona Bagel) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%B3%E3%83%8A%20%E3%83%99%E3%83%BC%E3%82%B0%E3%83%AB%20(Tecona%20Bagel)%20Tokyo%20Japan) | Google Maps 未取得 | 【Tekona Bagel】；從自由之丘站步行 3 分鐘，位於 Maple Farm 內；以「鬆軟」、「Q彈」、「紮實」3 種口感的貝果而聞名；「鬆軟」的特色是蓬鬆柔軟的口感。 | [11:27](https://www.youtube.com/watch?v=gmVkGWBNNCI&t=687s) | SoloInTokyoLife |
 | ヨウヘイ ミヤグチ (Yohei Miyaguchi) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%A8%E3%82%A6%E3%83%98%E3%82%A4%20%E3%83%9F%E3%83%A4%E3%82%B0%E3%83%81%20(Yohei%20Miyaguchi)%20Tokyo%20Japan) | Google Maps 未取得 | 【Yohei Miyaguchi】；從自由之丘站步行 30 秒， 位於自由之丘百貨 1 樓；以粉紅色為主色調的可愛店內 陳列著美麗的貝果；創始人宮口陽平先生是糕點師出身。 | [13:35](https://www.youtube.com/watch?v=gmVkGWBNNCI&t=815s) | SoloInTokyoLife |
 
-## 25. 東京🥐🇫🇷正宗法式風味，超美味的8間人氣麵包店推薦｜榮獲大獎的可麗露｜麵包咖啡廳／法式烘焙坊
+## 26. 東京🥐🇫🇷正宗法式風味，超美味的8間人氣麵包店推薦｜榮獲大獎的可麗露｜麵包咖啡廳／法式烘焙坊
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=P9Q-es7FW18)
 - 發布時間：1 年前
@@ -373,7 +387,7 @@
 | ル カフェ ラ ブティック ドゥ ジョエル・ロブション（LE CAFÉ LA BOUTIQUE de Joël Robuchon） | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%AB%20%E3%82%AB%E3%83%95%E3%82%A7%20%E3%83%A9%20%E3%83%96%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20%E3%83%89%E3%82%A5%20%E3%82%B8%E3%83%A7%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%AD%E3%83%96%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%88LE%20CAF%C3%89%20LA%20BOUTIQUE%20de%20Jo%C3%ABl%20Robuchon%EF%BC%89%20Tokyo%20Japan) | Google Maps 未取得 | 【RITUEL 虎之門】；與虎之門之丘站直通， 位於虎之門之丘森大樓 2 樓；店內深處設有餐廳， 可以享用套餐；大量運用法國傳統烘焙技術的 美麗麵包。 | [9:44](https://www.youtube.com/watch?v=P9Q-es7FW18&t=584s) | SoloInTokyoLife |
 | ポール (Paul) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%9D%E3%83%BC%E3%83%AB%20(Paul)%20Tokyo%20Japan) | Google Maps 未取得 | 同系列店： 【Le Café La Boutique de Joël Robuchon】；位於虎之門之丘 Business Tower 1 樓， 可以享用法式薄餅；「生火腿可麗餅」1200 日圓；雖然顏色樸素，擔心無法傳達美味， 但非常非常推薦喔。 | [10:37](https://www.youtube.com/watch?v=P9Q-es7FW18&t=637s) | SoloInTokyoLife |
 
-## 26. 東京🍵🍡 太厲害了！8間抹茶甜點推薦店家｜從經典名品到意想不到的創意甜點｜絕對讓人喜歡的東京伴手禮
+## 27. 東京🍵🍡 太厲害了！8間抹茶甜點推薦店家｜從經典名品到意想不到的創意甜點｜絕對讓人喜歡的東京伴手禮
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=7G5N9wLxHwk)
 - 發布時間：1 年前
@@ -389,7 +403,7 @@
 | ななや 青山店 (Nanaya Aoyama) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%81%AA%E3%81%AA%E3%82%84%20%E9%9D%92%E5%B1%B1%E5%BA%97%20(Nanaya%20Aoyama)%20Tokyo%20Japan) | Google Maps 未取得 | 【NANAYA 青山店】；從表參道站步行 7 分鐘；使用靜岡抹茶製成的義式冰淇淋有 7 種濃度；No. 7 是世界上最濃的抹茶義式冰淇淋， No. 1 的濃度與市售抹茶冰淇淋相當。 | [8:01](https://www.youtube.com/watch?v=7G5N9wLxHwk&t=481s) | SoloInTokyoLife |
 | マジドゥショコラ (Magie du Chocolat) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%9E%E3%82%B8%E3%83%89%E3%82%A5%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%20(Magie%20du%20Chocolat)%20Tokyo%20Japan) | Google Maps 未取得 | 【MAGIE DU CHOCOLAT】；從自由之丘站步行 3 分鐘的巧克力專賣店；這裡有很多奢侈地使用自家引以為傲的巧克力 製成的商品；商品種類非常豐富。 | [10:24](https://www.youtube.com/watch?v=7G5N9wLxHwk&t=624s) | SoloInTokyoLife |
 
-## 27. 東京🥧不吃太可惜！頂級銅鑼燒嚴選8家超推薦店｜日本酒紅豆餡、紅豆奶油等｜東京送禮首選
+## 28. 東京🥧不吃太可惜！頂級銅鑼燒嚴選8家超推薦店｜日本酒紅豆餡、紅豆奶油等｜東京送禮首選
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=g8-39BbAbDY)
 - 發布時間：1 年前
@@ -404,7 +418,7 @@
 | 黒船 自由が丘本店 (Quolofune) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%BB%92%E8%88%B9%20%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E6%9C%AC%E5%BA%97%20(Quolofune)%20Tokyo%20Japan) | Google Maps 未取得 | 影片僅列出店家，未提供明確心得。 | [8:26](https://www.youtube.com/watch?v=g8-39BbAbDY&t=506s) | SoloInTokyoLife |
 | 果匠正庵（かしょうしょうあん）(Kashou Shoan) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9E%9C%E5%8C%A0%E6%AD%A3%E5%BA%B5%EF%BC%88%E3%81%8B%E3%81%97%E3%82%87%E3%81%86%E3%81%97%E3%82%87%E3%81%86%E3%81%82%E3%82%93%EF%BC%89(Kashou%20Shoan)%20Tokyo%20Japan) | Google Maps 未取得 | 影片僅列出店家，未提供明確心得。 | [10:24](https://www.youtube.com/watch?v=g8-39BbAbDY&t=624s) | SoloInTokyoLife |
 
-## 28. 中目黑🍞麵包激戰區！東京真正好吃的麵包店＆烘焙咖啡廳巡禮｜Bakery Lounge澤村、星巴克臻選等
+## 29. 中目黑🍞麵包激戰區！東京真正好吃的麵包店＆烘焙咖啡廳巡禮｜Bakery Lounge澤村、星巴克臻選等
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=kOH0kUs5R8Q)
 - 發布時間：1 年前
@@ -418,7 +432,7 @@
 | フラワーアンドウォーター中目黒 (flour+water) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%89%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E4%B8%AD%E7%9B%AE%E9%BB%92%20(flour%2Bwater)%20Tokyo%20Japan) | Google Maps 未取得 | [flower & water 中目黑]；在之前的影片中，我介紹了他們人氣早午餐 您可以從概要欄的連結觀看⬇；晚餐時間可以吃到柴火窯烤披薩；我早上10點左右造訪店裡，看到了滿滿的美麗麵包。 | [7:29](https://www.youtube.com/watch?v=kOH0kUs5R8Q&t=449s) | SoloInTokyoLife |
 | スターバックス リザーブ ロースタリー トウキョウ (Starbucks Reserve Roastery Tokyo) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9%20%E3%83%AA%E3%82%B6%E3%83%BC%E3%83%96%20%E3%83%AD%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%BC%20%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%20(Starbucks%20Reserve%20Roastery%20Tokyo)%20Tokyo%20Japan) | Google Maps 未取得 | [星巴克臻選烘焙工坊 東京]；從中目黑站步行14分鐘，位於目黑川旁；其實這裡有很多美味的麵包和甜點；有櫻花圖案的原創商品（手帕）。 | [8:55](https://www.youtube.com/watch?v=kOH0kUs5R8Q&t=535s) | SoloInTokyoLife |
 
-## 29. 東京🧇超推薦8間超棒的鯛魚燒咖啡廳＆專門店｜紅豆甜點
+## 30. 東京🧇超推薦8間超棒的鯛魚燒咖啡廳＆專門店｜紅豆甜點
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Jmo7y7DFKMs)
 - 發布時間：1 年前
@@ -433,7 +447,7 @@
 | 鯛のないたい焼き屋オヨゲ (Oyoge) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%AF%9B%E3%81%AE%E3%81%AA%E3%81%84%E3%81%9F%E3%81%84%E7%84%BC%E3%81%8D%E5%B1%8B%E3%82%AA%E3%83%A8%E3%82%B2%20(Oyoge)%20Tokyo%20Japan) | Google Maps 未取得 | 【沒有鯛魚的鯛魚燒店 OYOGE】；從六本木站步行 2 分鐘，就在東京中城附近；販售形狀為沙丁魚、竹筴魚、蛤蜊的商品 取代了鯛魚；除了經典商品，還有季節限定商品。 | [8:32](https://www.youtube.com/watch?v=Jmo7y7DFKMs&t=512s) | SoloInTokyoLife |
 | 奥萬屋 (Okumanya) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%A5%A5%E8%90%AC%E5%B1%8B%20(Okumanya)%20Tokyo%20Japan) | Google Maps 未取得 | 【奧萬屋】；從赤坂站步行 3 分鐘，可以內用的鯛魚燒專賣店；這裡有很多名字有趣的鯛魚燒商品；店內除了鯛魚燒， 還提供日式甜點套餐。 | [10:48](https://www.youtube.com/watch?v=Jmo7y7DFKMs&t=648s) | SoloInTokyoLife |
 
-## 30. 橫濱🥐絕對不能錯過！精選8間麵包・甜點店｜港未來絕美景觀咖啡廳
+## 31. 橫濱🥐絕對不能錯過！精選8間麵包・甜點店｜港未來絕美景觀咖啡廳
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=0n0owsoukIw)
 - 發布時間：1 年前
@@ -448,7 +462,7 @@
 | レナーズ (Leonard’s Bakery) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%AC%E3%83%8A%E3%83%BC%E3%82%BA%20(Leonard%E2%80%99s%20Bakery)%20Tokyo%20Japan) | Google Maps 未取得 | 【Leonard's】；總店位於夏威夷瓦胡島的老字號麵包店的 日本第一家分店；感覺就像一場小小的夏威夷之旅；可以買到和夏威夷一樣，剛炸好的馬拉薩達（炸麵包）。 | [10:51](https://www.youtube.com/watch?v=0n0owsoukIw&t=651s) | SoloInTokyoLife |
 | ゴディバ カフェ (Godiva cafe) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%82%B4%E3%83%87%E3%82%A3%E3%83%90%20%E3%82%AB%E3%83%95%E3%82%A7%20(Godiva%20cafe)%20Tokyo%20Japan) | Google Maps 未取得 | 【Godiva Cafe】；與港未來站直通；店面寬敞得讓人感覺不像是在車站裡；可以購買使用他們引以為傲的巧克力製作的麵包和甜點。 | [12:55](https://www.youtube.com/watch?v=0n0owsoukIw&t=775s) | SoloInTokyoLife |
 
-## 31. 東京 🇯🇵 超好吃的蛋沙拉三明治 🥪 從人氣名店到在地人推薦的隱藏版8選｜東京麵包店巡禮
+## 32. 東京 🇯🇵 超好吃的蛋沙拉三明治 🥪 從人氣名店到在地人推薦的隱藏版8選｜東京麵包店巡禮
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Y8piJqgoyJM)
 - 發布時間：1 年前
@@ -463,7 +477,7 @@
 | コム・ン グルテンフリー (Comme'N Gluten Free) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%83%A0%E3%83%BB%E3%83%B3%20%E3%82%B0%E3%83%AB%E3%83%86%E3%83%B3%E3%83%95%E3%83%AA%E3%83%BC%20(Comme'N%20Gluten%20Free)%20Tokyo%20Japan) | Google Maps 未取得 | 【Com'un Gluten Free】；從九品佛站步行 1 分鐘，從自由之丘站步行 10 分鐘；對面是超人氣麵包店【Com’un】，這是其無麩質專門店；「無麩質三明治」1600日圓。 | [7:06](https://www.youtube.com/watch?v=Y8piJqgoyJM&t=426s) | SoloInTokyoLife |
 | レ ジュド ベベ (les joues de BeBe) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%AC%20%E3%82%B8%E3%83%A5%E3%83%89%20%E3%83%99%E3%83%99%20(les%20joues%20de%20BeBe)%20Tokyo%20Japan) | Google Maps 未取得 | 影片僅列出店家，未提供明確心得。 | [8:06](https://www.youtube.com/watch?v=Y8piJqgoyJM&t=486s) | SoloInTokyoLife |
 
-## 32. 銀座三越🍰🍱從新開幕甜點到人氣便當 精選10家｜東京百貨地下美食・伴手禮推薦
+## 33. 銀座三越🍰🍱從新開幕甜點到人氣便當 精選10家｜東京百貨地下美食・伴手禮推薦
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Eh0FBt7xsfU)
 - 發布時間：1 年前
@@ -478,7 +492,7 @@
 | 千疋屋総本店 (Sembikiya-Sohonten) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E7%96%8B%E5%B1%8B%E7%B7%8F%E6%9C%AC%E5%BA%97%20(Sembikiya-Sohonten)%20Tokyo%20Japan) | Google Maps 未取得 | 水果系甜點的 [千疋屋總本店]；收到一定會很開心的「糖漬栗子」；這也是經典款呢；「水果蛋糕」5 個裝 1404 日圓。 | [6:17](https://www.youtube.com/watch?v=Eh0FBt7xsfU&t=377s) | SoloInTokyoLife |
 | 木村屋總本店 (Kimuraya Sohonten) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9C%A8%E6%9D%91%E5%B1%8B%E7%B8%BD%E6%9C%AC%E5%BA%97%20(Kimuraya%20Sohonten)%20Tokyo%20Japan) | Google Maps 未取得 | 紅豆麵包很受歡迎的 [銀座木村家]；從歷史悠久的酒種紅豆麵包開始，還有甜麵包、吐司 和熟食麵包；我今天的目標是這個；季節紅豆麵包「酒種甜王草莓」341 日圓。 | [7:31](https://www.youtube.com/watch?v=Eh0FBt7xsfU&t=451s) | SoloInTokyoLife |
 
-## 33. 東京車站🍞僅限站內・直通區域｜分區攻略10間麵包店｜美味烘焙坊美食散步推薦
+## 34. 東京車站🍞僅限站內・直通區域｜分區攻略10間麵包店｜美味烘焙坊美食散步推薦
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=roQ0BtWGD78)
 - 發布時間：1 年前
@@ -493,7 +507,7 @@
 | ゆーパイむ (Juch-pie-m)【グランスタ東京】【スクエアゼロエリア】 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%82%86%E3%83%BC%E3%83%91%E3%82%A4%E3%82%80%20(Juch-pie-m)%E3%80%90%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B9%E3%82%BF%E6%9D%B1%E4%BA%AC%E3%80%91%E3%80%90%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E3%82%BC%E3%83%AD%E3%82%A8%E3%83%AA%E3%82%A2%E3%80%91%20Tokyo%20Japan) | Google Maps 未取得 | 【GRANSTA Tokyo】【Square Zero Area】 U-Pie-Mu；這是洋菓子製造商「Juchheim」開設的派專賣店；店裡深處有用餐區；美麗的烤色看起來非常美味。 | [6:34](https://www.youtube.com/watch?v=roQ0BtWGD78&t=394s) | SoloInTokyoLife |
 | ブルディガラ (BURDIGALA)【グランスタ東京】【銀の鈴エリア】 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%96%E3%83%AB%E3%83%87%E3%82%A3%E3%82%AC%E3%83%A9%20(BURDIGALA)%E3%80%90%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B9%E3%82%BF%E6%9D%B1%E4%BA%AC%E3%80%91%E3%80%90%E9%8A%80%E3%81%AE%E9%88%B4%E3%82%A8%E3%83%AA%E3%82%A2%E3%80%91%20Tokyo%20Japan) | Google Maps 未取得 | 【GRANSTA Tokyo】【銀之鈴區域】 Burdigala；這是一家在廣尾設有總店的人氣店家；有各式各樣充滿聖誕氣氛的商品；將奶油、砂糖、葡萄乾和柳橙皮等混合 烘烤而成的「潘妮朵妮」。 | [8:05](https://www.youtube.com/watch?v=roQ0BtWGD78&t=485s) | SoloInTokyoLife |
 
-## 34. 東京🥯貝果專門店｜南瓜鷹嘴豆泥三明治、草莓紅豆奶油起司等多種口味
+## 35. 東京🥯貝果專門店｜南瓜鷹嘴豆泥三明治、草莓紅豆奶油起司等多種口味
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=zjukW6jYbdQ)
 - 發布時間：1 年前
@@ -508,7 +522,7 @@
 | ベスト ベーグル (BEST BAGEL) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%99%E3%82%B9%E3%83%88%20%E3%83%99%E3%83%BC%E3%82%B0%E3%83%AB%20(BEST%20BAGEL)%20Tokyo%20Japan) | Google Maps 未取得 | 影片僅列出店家，未提供明確心得。 | [9:00](https://www.youtube.com/watch?v=zjukW6jYbdQ&t=540s) | SoloInTokyoLife |
 | ベーグルチェック (BAGEL CHECK) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%99%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%20(BAGEL%20CHECK)%20Tokyo%20Japan) | Google Maps 未取得 | 影片僅列出店家，未提供明確心得。 | [10:55](https://www.youtube.com/watch?v=zjukW6jYbdQ&t=655s) | SoloInTokyoLife |
 
-## 35. 東京🍞🫘從經典到創新款！精選10款紅豆奶油三明治｜紅豆系專門店・麵包店巡禮｜美食散步推薦
+## 36. 東京🍞🫘從經典到創新款！精選10款紅豆奶油三明治｜紅豆系專門店・麵包店巡禮｜美食散步推薦
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=bN-GnM82P-Q)
 - 發布時間：1 年前
@@ -523,7 +537,7 @@
 | ボブ ベーグル (bob bagel) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%9C%E3%83%96%20%E3%83%99%E3%83%BC%E3%82%B0%E3%83%AB%20(bob%20bagel)%20Tokyo%20Japan) | Google Maps 未取得 | 第六家是 [Bob's Bagels]；從新馬場車站步行 3 分鐘，位於商店街內；在我的「絕品貝果」影片中 我介紹了人氣 No.1 的「鮪魚」貝果；今天的目標是司康。 | [7:33](https://www.youtube.com/watch?v=bN-GnM82P-Q&t=453s) | SoloInTokyoLife |
 | パンとエスプレッソと (BREAD, ESPRESSO &） | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%91%E3%83%B3%E3%81%A8%E3%82%A8%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%82%BD%E3%81%A8%20(BREAD%2C%20ESPRESSO%20%26%EF%BC%89%20Tokyo%20Japan) | Google Maps 未取得 | 第七家是 [Pan to Espresso to]；從表參道車站步行 5 分鐘，是一家以早餐聞名的店；在我的「表參道」影片中 我介紹了這家店的各種麵包；可愛的外觀讓我想全部都嚐嚐看。 | [8:38](https://www.youtube.com/watch?v=bN-GnM82P-Q&t=518s) | SoloInTokyoLife |
 
-## 36. 淺草 🇯🇵🍡 和風甜點的寶庫！Q彈草莓大福＆極品烤地瓜 \| 東京美食漫步
+## 37. 淺草 🇯🇵🍡 和風甜點的寶庫！Q彈草莓大福＆極品烤地瓜 \| 東京美食漫步
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=FVyNjkr6Pds)
 - 發布時間：1 年前
@@ -538,7 +552,7 @@
 | 浅草茶屋たばねのし (Asakusachaya Tabanenoshi) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%B5%85%E8%8D%89%E8%8C%B6%E5%B1%8B%E3%81%9F%E3%81%B0%E3%81%AD%E3%81%AE%E3%81%97%20(Asakusachaya%20Tabanenoshi)%20Tokyo%20Japan) | Google Maps 未取得 | 第六家是日式可麗餅專賣店[淺草茶屋Tabanenoshi]；這是一家可以品嚐到傳統與現代融合風味的店家；可以吃到使用講究抹茶製作的甜點；我點了人氣的「掛川抹茶烤布蕾」。 | [8:08](https://www.youtube.com/watch?v=FVyNjkr6Pds&t=488s) | SoloInTokyoLife |
 | クラージュ (Courage) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%B8%E3%83%A5%20(Courage)%20Tokyo%20Japan) | Google Maps 未取得 | 第七家是麵包店[Courage]；印有「淺草」字樣的紅豆麵包很受歡迎；第一次來卻感覺有些懷舊的氛圍；有使用「野澤菜」和「艾草」等日式食材的麵包。 | [9:44](https://www.youtube.com/watch?v=FVyNjkr6Pds&t=584s) | SoloInTokyoLife |
 
-## 37. 東京🍠地瓜・栗子・南瓜秋季甜點精選7選｜地瓜布丁・蒙布朗可麗餅・南瓜巴斯克起司蛋糕
+## 38. 東京🍠地瓜・栗子・南瓜秋季甜點精選7選｜地瓜布丁・蒙布朗可麗餅・南瓜巴斯克起司蛋糕
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=FmcLy5k16Qo)
 - 發布時間：1 年前
@@ -553,7 +567,7 @@
 | マーロウ (MARLOWE) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%9E%E3%83%BC%E3%83%AD%E3%82%A6%20(MARLOWE)%20Tokyo%20Japan) | Google Maps 未取得 | 第六間是位於銀座 Six 地下 2 樓的 [Marlowe]；這是一家以使用嚴選食材製作的布丁而聞名的店；布丁容器只要沒有破損或髒污 每個可以回收 100 日圓（含稅）；我買了經典的「南瓜布丁」。 | [7:08](https://www.youtube.com/watch?v=FmcLy5k16Qo&t=428s) | SoloInTokyoLife |
 | ダンボ ドーナツ&コーヒー 自由が丘店 (DUMBO Doughnuts and Coffee) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%80%E3%83%B3%E3%83%9C%20%E3%83%89%E3%83%BC%E3%83%8A%E3%83%84%26%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%E5%BA%97%20(DUMBO%20Doughnuts%20and%20Coffee)%20Tokyo%20Japan) | Google Maps 未取得 | 第七間是 [Dumbo Doughnuts & Coffee]，我在「自由之丘」影片中詳細介紹過店內；從自由之丘車站步行 5 分鐘，位於「Trainchi 自由之丘」1 樓；有季節限定的栗子和紫地瓜蒙布朗；栗子蒙布朗 在鬆軟的甜甜圈上 鋪著義大利產的栗子泥和鮮奶油。 | [8:15](https://www.youtube.com/watch?v=FmcLy5k16Qo&t=495s) | SoloInTokyoLife |
 
-## 38. 東京🍞美味しいパン屋６選 \| 絶品アボカドトースト \| 自由が丘限定ロール \| ベーカリー
+## 39. 東京🍞美味しいパン屋６選 \| 絶品アボカドトースト \| 自由が丘限定ロール \| ベーカリー
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=_VJTwqZsUqs)
 - 發布時間：1 年前
@@ -567,7 +581,7 @@
 | オズブレッド (OZ bread) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%82%AA%E3%82%BA%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%20(OZ%20bread)%20Tokyo%20Japan) | Google Maps 未取得 | 第二家是距離目黑車站步行 3 分鐘的 [Les joues de bebe]；這是一家自 2022 年開業以來人氣不減的麵包店；今天我要在店內享用非常受歡迎的早餐；一進店，美味的麵包們就迎接我。 | [8:16](https://www.youtube.com/watch?v=_VJTwqZsUqs&t=496s) | SoloInTokyoLife |
 | ウッドベリー ベーカリー (WOODBERRY BAKERY) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%82%A6%E3%83%83%E3%83%89%E3%83%99%E3%83%AA%E3%83%BC%20%E3%83%99%E3%83%BC%E3%82%AB%E3%83%AA%E3%83%BC%20(WOODBERRY%20BAKERY)%20Tokyo%20Japan) | Google Maps 未取得 | 第六家是距離惠比壽車站步行 8 分鐘的 [Woodbury Bakery] 這是由人氣咖啡店 [Woodberry Coffee] 經營的 麵包咖啡館；陽光灑落的明亮氛圍，非常適合早餐呢；除了麵包，烤點心種類也很豐富；首先是冰黑三拿鐵。 | [9:26](https://www.youtube.com/watch?v=_VJTwqZsUqs&t=566s) | SoloInTokyoLife |
 
-## 39. 東京車站Gransta🍰全新開幕甜點區10間店鋪介紹｜伴手禮推薦ChatGPT に質問する
+## 40. 東京車站Gransta🍰全新開幕甜點區10間店鋪介紹｜伴手禮推薦ChatGPT に質問する
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=kMIo2ZSPtSo)
 - 發布時間：1 年前
@@ -582,7 +596,7 @@
 | アム ストラム グラム ノボリクダリ (AM STRAM GRAM nobolyquedaly) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%A0%20%E3%82%B9%E3%83%88%E3%83%A9%E3%83%A0%20%E3%82%B0%E3%83%A9%E3%83%A0%20%E3%83%8E%E3%83%9C%E3%83%AA%E3%82%AF%E3%83%80%E3%83%AA%20(AM%20STRAM%20GRAM%20nobolyquedaly)%20Tokyo%20Japan) | Google Maps 未取得 | 第六間是塔派專賣店 【Ame Strom Gram NOBORIKUDARI】；這是惠比壽的人氣塔派專賣店；齊備約14種使用當季食材的塔派；結合紅豆餡和麻糬的全新口感塔派是Gransta限定。 | [5:48](https://www.youtube.com/watch?v=kMIo2ZSPtSo&t=348s) | SoloInTokyoLife |
 | アトリエうかい (atelier UKAI) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%88%E3%83%AA%E3%82%A8%E3%81%86%E3%81%8B%E3%81%84%20(atelier%20UKAI)%20Tokyo%20Japan) | Google Maps 未取得 | 第七間是【Atelier Ukai】；這是以東京、神奈川為中心經營餐廳的Ukai集團旗下的 西式糕點專賣店；除了禮盒，也有可以單片購買的獨立包裝餅乾。 | [6:21](https://www.youtube.com/watch?v=kMIo2ZSPtSo&t=381s) | SoloInTokyoLife |
 
-## 40. 雪梨🇦🇺咖啡廳巡禮｜Kirribilli 的 Celsius Coffee｜邦迪海灘｜澳洲一人旅行
+## 41. 雪梨🇦🇺咖啡廳巡禮｜Kirribilli 的 Celsius Coffee｜邦迪海灘｜澳洲一人旅行
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=m_OmaZ00Hqk)
 - 發布時間：1 年前
@@ -596,7 +610,7 @@
 | スピードス カフェ (Speedos Cafe) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%82%B9%20%E3%82%AB%E3%83%95%E3%82%A7%20(Speedos%20Cafe)%20Sydney) | Google Maps 未取得 | [Speedos Cafe] 以早餐菜單聞名；位於邦代海灘沿岸 一早就有許多當地顧客光顧；有能看到海灘的吧台座位和餐桌座位；首先來一杯薑汁拿鐵。 | [8:27](https://www.youtube.com/watch?v=m_OmaZ00Hqk&t=507s) | SoloInTokyoLife |
 | オー！ブー チョコレート (Oh! Boo Chocolates) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%82%AA%E3%83%BC%EF%BC%81%E3%83%96%E3%83%BC%20%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%20(Oh!%20Boo%20Chocolates)%20Sydney) | Google Maps 未取得 | [Oh! Boo Chocolates]；從達令港步行即可到達；這是一家位於巴蘭加魯地區的巧克力專賣店；陳列著許多適合當作伴手禮的可愛巧克力。 | [10:14](https://www.youtube.com/watch?v=m_OmaZ00Hqk&t=614s) | SoloInTokyoLife |
 
-## 41. 表参道 \| 並ばず美味しいパン屋🍞お買得エコパン \| 激カワ🇺🇲カフェ \| ドーナツ
+## 42. 表参道 \| 並ばず美味しいパン屋🍞お買得エコパン \| 激カワ🇺🇲カフェ \| ドーナツ
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=hxWSFYv89X4)
 - 發布時間：1 年前
@@ -611,7 +625,7 @@
 | ラニカイジュース (Lanikai Juice) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%83%8B%E3%82%AB%E3%82%A4%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9%20(Lanikai%20Juice)%20Tokyo%20Japan) | Google Maps 未取得 | The fifth shop is [Lanikai Juice], a popular Hawaiian store；A specialty store for acai bowls and smoothies；They say they use the same recipe as the main store in Hawaii。 | [7:43](https://www.youtube.com/watch?v=hxWSFYv89X4&t=463s) | SoloInTokyoLife |
 | アイム ドーナツ表参道店 (I'm donut ? Omotesando) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%82%A4%E3%83%A0%20%E3%83%89%E3%83%BC%E3%83%8A%E3%83%84%E8%A1%A8%E5%8F%82%E9%81%93%E5%BA%97%20(I'm%20donut%20%3F%20Omotesando)%20Tokyo%20Japan) | Google Maps 未取得 | The sixth shop is [I'm donut?]；Today, I'll buy the limited menu item at the Omotesando store；Other doughnuts are introduced in detail in the \"I'm donut?\" video。 | [8:49](https://www.youtube.com/watch?v=hxWSFYv89X4&t=529s) | SoloInTokyoLife |
 
-## 42. 中目黑🍞超人氣「AMAM DACOTAN」系列新店「DACO」全新開幕｜東京烘焙咖啡廳
+## 43. 中目黑🍞超人氣「AMAM DACOTAN」系列新店「DACO」全新開幕｜東京烘焙咖啡廳
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=rNpyV0DWFl4)
 - 發布時間：1 年前
@@ -626,7 +640,7 @@
 | 生メロンパン (Nama Melon Pan) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%94%9F%E3%83%A1%E3%83%AD%E3%83%B3%E3%83%91%E3%83%B3%20(Nama%20Melon%20Pan)%20Tokyo%20Japan) | Google Maps 未取得 | 生菠蘿麵包；這是一款將受歡迎的生甜甜圈蓋上餅乾麵團後烤製而成的點心；這是一種新口感的菠蘿麵包；裡面的麵團比看起來更蓬鬆。 | [4:58](https://www.youtube.com/watch?v=rNpyV0DWFl4&t=298s) | SoloInTokyoLife |
 | 明太ジェノベーゼ (Mentai Genovese) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%98%8E%E5%A4%AA%E3%82%B8%E3%82%A7%E3%83%8E%E3%83%99%E3%83%BC%E3%82%BC%20(Mentai%20Genovese)%20Tokyo%20Japan) | Google Maps 未取得 | 明太子青醬；由大葉製成的青醬與明太子的組合；[Amamudacotan]的「明太子蒜香辣椒」麵包口感酥脆，而；這款麵包質地較軟。 | [5:28](https://www.youtube.com/watch?v=rNpyV0DWFl4&t=328s) | SoloInTokyoLife |
 
-## 43. 自由が丘 \| 黒トリュフたまご🥐 いちじくサンド \| 美味しい朝の店６選
+## 44. 自由が丘 \| 黒トリュフたまご🥐 いちじくサンド \| 美味しい朝の店６選
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=66fdnk_smUA)
 - 發布時間：1 年前
@@ -641,7 +655,7 @@
 | なんとかプレッソ (Nantoka Presso) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%81%AA%E3%82%93%E3%81%A8%E3%81%8B%E3%83%97%E3%83%AC%E3%83%83%E3%82%BD%20(Nantoka%20Presso)%20Tokyo%20Japan) | Google Maps 未取得 | The fifth shop is [Nantoka Presso], a 3-minute walk from the station；It's a sister shop of the popular cafe & bakery in Omotesando, \"Bread, Espresso &\"。 | [6:12](https://www.youtube.com/watch?v=66fdnk_smUA&t=372s) | SoloInTokyoLife |
 | ダンボ ドーナツ&コーヒー (DUMBO Doughnuts and Coffee) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%80%E3%83%B3%E3%83%9C%20%E3%83%89%E3%83%BC%E3%83%8A%E3%83%84%26%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20(DUMBO%20Doughnuts%20and%20Coffee)%20Tokyo%20Japan) | Google Maps 未取得 | The sixth shop is [DUMBO Doughnuts and Coffee], a 2-minute walk from the station；It's my favorite NY style doughnut shop；All the doughnuts are super satisfying with their NY size and cute appearance。 | [8:26](https://www.youtube.com/watch?v=66fdnk_smUA&t=506s) | SoloInTokyoLife |
 
-## 44. 表參道🍞全日本最吸睛的麵包店｜超人氣 AMAM DACOTAN 推出新作｜東京烘焙咖啡廳
+## 45. 表參道🍞全日本最吸睛的麵包店｜超人氣 AMAM DACOTAN 推出新作｜東京烘焙咖啡廳
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=C448-jP1Q6Q)
 - 發布時間：1 年前
@@ -656,7 +670,7 @@
 | たまごのハニートースト | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%81%9F%E3%81%BE%E3%81%94%E3%81%AE%E3%83%8F%E3%83%8B%E3%83%BC%E3%83%88%E3%83%BC%E3%82%B9%E3%83%88%20Tokyo%20Japan) | Google Maps 未取得 | 影片僅列出店家，未提供明確心得。 | [6:03](https://www.youtube.com/watch?v=C448-jP1Q6Q&t=363s) | SoloInTokyoLife |
 | シナモンロール | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%8A%E3%83%A2%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%AB%20Tokyo%20Japan) | Google Maps 未取得 | 影片僅列出店家，未提供明確心得。 | [6:50](https://www.youtube.com/watch?v=C448-jP1Q6Q&t=410s) | SoloInTokyoLife |
 
-## 45. 東京🍩生甜甜圈｜連大人也著迷的人氣甜點｜I'm donut? 澀谷店
+## 46. 東京🍩生甜甜圈｜連大人也著迷的人氣甜點｜I'm donut? 澀谷店
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=SO3boNbVA_Q)
 - 發布時間：1 年前
@@ -671,7 +685,7 @@
 | 明太たまご | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%98%8E%E5%A4%AA%E3%81%9F%E3%81%BE%E3%81%94%20Tokyo%20Japan) | Google Maps 未取得 | 明太子蛋；布里歐修麵團，炒蛋；美乃滋，明太子奶油的組合；這是使用大量雞蛋製成的雞蛋布里歐修麵團。 | [5:23](https://www.youtube.com/watch?v=SO3boNbVA_Q&t=323s) | SoloInTokyoLife |
 | フルーツ | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%20Tokyo%20Japan) | Google Maps 未取得 | 水果；雞蛋布里歐修麵團，混合乾果；乾果用白葡萄酒浸泡過；乾果塞滿到最裡面。 | [6:22](https://www.youtube.com/watch?v=SO3boNbVA_Q&t=382s) | SoloInTokyoLife |
 
-## 46. 東京🥯抹茶紅豆奶油起司・鮪魚酪梨・生貝果等絕品嚴選9款｜麵包店巡禮
+## 47. 東京🥯抹茶紅豆奶油起司・鮪魚酪梨・生貝果等絕品嚴選9款｜麵包店巡禮
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=j2YpwWjKtWQ)
 - 發布時間：1 年前
@@ -683,7 +697,7 @@
 | ニュー ニューヨーク クラブ ベーグル & サンドイッチショップ (NEW NEW YORK CLUB BAGEL & SANDWICH SHOP) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%8B%E3%83%A5%E3%83%BC%20%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%20%E3%82%AF%E3%83%A9%E3%83%96%20%E3%83%99%E3%83%BC%E3%82%B0%E3%83%AB%20%26%20%E3%82%B5%E3%83%B3%E3%83%89%E3%82%A4%E3%83%83%E3%83%81%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%20(NEW%20NEW%20YORK%20CLUB%20BAGEL%20%26%20SANDWICH%20SHOP)%20Tokyo%20Japan) | Google Maps 未取得 | 第三家是麻布十番的 [NEW NEW YORK CLUB BAGEL & SANDWICH SHOP]；從南北線麻布十番車站 A1 出口步行 3 分鐘；全麥貝果、培根蛋起司、美乃滋；酥脆的培根和雞蛋搭配得天衣無縫。 | [4:15](https://www.youtube.com/watch?v=j2YpwWjKtWQ&t=255s) | SoloInTokyoLife |
 | テコナ ベーグル (Tecona bagel) 自由が丘 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%B3%E3%83%8A%20%E3%83%99%E3%83%BC%E3%82%B0%E3%83%AB%20(Tecona%20bagel)%20%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%20Tokyo%20Japan) | Google Maps 未取得 | 最後是自由之丘的 [TEKONA BAGEL]；從東急線自由之丘車站步行 3 分鐘；附設令人開心的內用空間；我之前介紹的三家都是紐約風格。 | [5:33](https://www.youtube.com/watch?v=j2YpwWjKtWQ&t=333s) | SoloInTokyoLife |
 
-## 47. 東京🍞大好きあんバター \| フレンチトースト \| 美味しすぎるパン屋
+## 48. 東京🍞大好きあんバター \| フレンチトースト \| 美味しすぎるパン屋
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=XnPwlU2FPbI)
 - 發布時間：2 年前
@@ -695,7 +709,7 @@
 | レ ジュド ベベ (les joues de BeBe) 目黒 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%AC%20%E3%82%B8%E3%83%A5%E3%83%89%20%E3%83%99%E3%83%99%20(les%20joues%20de%20BeBe)%20%E7%9B%AE%E9%BB%92%20Tokyo%20Japan) | Google Maps 未取得 | This time, I'll introduce my favorite bakeries；All of them are highly recommended shops。 | [2:56](https://www.youtube.com/watch?v=XnPwlU2FPbI&t=176s) | SoloInTokyoLife |
 | ル リュー ユニーク (Le Lieu Unique) 武蔵小山 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%AB%20%E3%83%AA%E3%83%A5%E3%83%BC%20%E3%83%A6%E3%83%8B%E3%83%BC%E3%82%AF%20(Le%20Lieu%20Unique)%20%E6%AD%A6%E8%94%B5%E5%B0%8F%E5%B1%B1%20Tokyo%20Japan) | Google Maps 未取得 | The first shop is [La Boutique de Joël Robuchon] in Ebisu；Supervised by Michelin three-star chef Joël Robuchon；It's a patisserie & boulangerie inside Ebisu Garden Place。 | [5:44](https://www.youtube.com/watch?v=XnPwlU2FPbI&t=344s) | SoloInTokyoLife |
 
-## 48. 自由が丘 \| 街の様子/ 食べ歩き \| 美味しいベーグル & 🍌スフレサンド
+## 49. 自由が丘 \| 街の様子/ 食べ歩き \| 美味しいベーグル & 🍌スフレサンド
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=SG1DhXg4akc)
 - 發布時間：2 年前
@@ -709,7 +723,7 @@
 | テコナ ベーグル (Tecona bagel) 自由が丘 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%B3%E3%83%8A%20%E3%83%99%E3%83%BC%E3%82%B0%E3%83%AB%20(Tecona%20bagel)%20%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98%20Tokyo%20Japan) | Google Maps 未取得 | I arrived at [Tekona Bagel] (address is in the description box)；There are so many kinds of bagels, it's hard to choose；I bought spinach bacon；I'll show you in detail later。 | [6:14](https://www.youtube.com/watch?v=SG1DhXg4akc&t=374s) | SoloInTokyoLife |
 | フリッパーズ (FLIPPER'S) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%E3%82%BA%20(FLIPPER'S)%20Tokyo%20Japan) | Google Maps 未取得 | I arrived at my destination, [FLIPPER'S]；Their \"Miracle Pancakes\" are very popular (address is in the description box)；I'll buy a Soufflé Sandwich (Chocolate Banana) to go。 | [8:39](https://www.youtube.com/watch?v=SG1DhXg4akc&t=519s) | SoloInTokyoLife |
 
-## 49. 目黒 \| 庭園の桜 \| パン屋さん巡り/お散歩 \| 目黒通りインテリアストリート
+## 50. 目黒 \| 庭園の桜 \| パン屋さん巡り/お散歩 \| 目黒通りインテリアストリート
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=8r2GhxXg38w)
 - 發布時間：2 年前
@@ -723,7 +737,7 @@
 | Le Lieu Unique （ル リュー ユニーク） | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Le%20Lieu%20Unique%20%EF%BC%88%E3%83%AB%20%E3%83%AA%E3%83%A5%E3%83%BC%20%E3%83%A6%E3%83%8B%E3%83%BC%E3%82%AF%EF%BC%89%20Tokyo%20Japan) | Google Maps 未取得 | Arrived at [Les joues de bebe]；Their morning set is very popular, and there was a line for eat-in；If you're taking out, you can enter right away；There are so many kinds of bread, I can't decide which one to choose。 | [6:22](https://www.youtube.com/watch?v=8r2GhxXg38w&t=382s) | SoloInTokyoLife |
 | ブレッド マチエール (Bread&Bar Matiere) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%20%E3%83%9E%E3%83%81%E3%82%A8%E3%83%BC%E3%83%AB%20(Bread%26Bar%20Matiere)%20Tokyo%20Japan) | Google Maps 未取得 | I came to [Bread Matiere] right nearby；The nearest station is Musashi-Koyama on the Tokyu Meguro Line；This is a prosciutto and arugula sandwich；Lots of prosciutto and crispy arugula。 | [7:16](https://www.youtube.com/watch?v=8r2GhxXg38w&t=436s) | SoloInTokyoLife |
 
-## 50. 中目黒 \| パン屋さん巡り🍞並んでも食べたい朝食 \| ベーカリーカフェ \| 人気コーヒー店の桜ラテアート
+## 51. 中目黒 \| パン屋さん巡り🍞並んでも食べたい朝食 \| ベーカリーカフェ \| 人気コーヒー店の桜ラテアート
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=ADk7M-S0klU)
 - 發布時間：2 年前
@@ -737,7 +751,7 @@
 | ベーカリーラウンジ 沢村 中目黒 (Bakery Lounge Sawamura) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%99%E3%83%BC%E3%82%AB%E3%83%AA%E3%83%BC%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8%20%E6%B2%A2%E6%9D%91%20%E4%B8%AD%E7%9B%AE%E9%BB%92%20(Bakery%20Lounge%20Sawamura)%20Tokyo%20Japan) | Google Maps 未取得 | I came to [Bakery Lounge Sawamura]；There's a sister shop, [Bakery & Grill Sawamura], in Toranomon Hills；I plan to buy some bread as a souvenir for myself。 | [5:36](https://www.youtube.com/watch?v=ADk7M-S0klU&t=336s) | SoloInTokyoLife |
 | ヒルバレー (Hill Valley)） | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%92%E3%83%AB%E3%83%90%E3%83%AC%E3%83%BC%20(Hill%20Valley)%EF%BC%89%20Tokyo%20Japan) | Google Maps 未取得 | I arrived at [HillValley], Japan's first flavored popcorn specialty shop；They say it's air-popped corn that expands with hot air alone, without using oil。 | [8:13](https://www.youtube.com/watch?v=ADk7M-S0klU&t=493s) | SoloInTokyoLife |
 
-## 51. 麻布十番･六本木ヒルズ \| 本当に美味しいベーグル & ドーナツ \| 街の様子
+## 52. 麻布十番･六本木ヒルズ \| 本当に美味しいベーグル & ドーナツ \| 街の様子
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=cx-BFZS9M_I)
 - 發布時間：2 年前
@@ -750,7 +764,7 @@
 | 椀もなか 花一会 (Hanaichie) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%A4%80%E3%82%82%E3%81%AA%E3%81%8B%20%E8%8A%B1%E4%B8%80%E4%BC%9A%20(Hanaichie)%20Tokyo%20Japan) | Google Maps 未取得 | I'll make a detour to [Hanaichie], a specialty shop for bowl-shaped monaka；It's a shop that sells ochazuke, miso soup, and other soups；I bought a tulip miso soup Arrived at my target, [Dumbo Doughnuts and Coffee]。 | [7:08](https://www.youtube.com/watch?v=cx-BFZS9M_I&t=428s) | SoloInTokyoLife |
 | ダンボ ドーナツ アンド コーヒー (Dumbo Donuts and Coffee) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%80%E3%83%B3%E3%83%9C%20%E3%83%89%E3%83%BC%E3%83%8A%E3%83%84%20%E3%82%A2%E3%83%B3%E3%83%89%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20(Dumbo%20Donuts%20and%20Coffee)%20Tokyo%20Japan) | Google Maps 未取得 | It's an NY-style doughnut shop；I ordered the framboise without hesitation；This is a soy milk hojicha latte；On this channel, I deliver a lot of information on delicious food tours and bakery hopping。 | [7:32](https://www.youtube.com/watch?v=cx-BFZS9M_I&t=452s) | SoloInTokyoLife |
 
-## 52. 代官山☕お散歩/カフェ巡り \| テラス席が気持ちいい店 \| 東京おすすめ
+## 53. 代官山☕お散歩/カフェ巡り \| テラス席が気持ちいい店 \| 東京おすすめ
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=dhR1kXA3LIA)
 - 發布時間：2 年前
@@ -763,7 +777,7 @@
 | カフェ コトー (Cafe Coteau) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%95%E3%82%A7%20%E3%82%B3%E3%83%88%E3%83%BC%20(Cafe%20Coteau)%20Tokyo%20Japan) | Google Maps 未取得 | It's [Urth Caffe], an organic coffee cafe from Los Angeles, USA；I'm drinking an almond hojicha latte on the terrace first thing in the morning to calm my mind。 | [6:28](https://www.youtube.com/watch?v=dhR1kXA3LIA&t=388s) | SoloInTokyoLife |
 | ルピシア ボンマルシェ (LUPICIA Bon Marche) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%83%AB%E3%83%94%E3%82%B7%E3%82%A2%20%E3%83%9C%E3%83%B3%E3%83%9E%E3%83%AB%E3%82%B7%E3%82%A7%20(LUPICIA%20Bon%20Marche)%20Tokyo%20Japan) | Google Maps 未取得 | I came to [Lupicia Bon Marche], which handles domestic and imported foods With the concept of \"mottainai\" (don't waste) to reduce food loss,；they sell products with slightly shorter shelf lives or overproduced items at special prices。 | [8:04](https://www.youtube.com/watch?v=dhR1kXA3LIA&t=484s) | SoloInTokyoLife |
 
-## 53. 東京麻布台之丘 🇯🇵🍞 世界第一麵包店 Comme'N TOKYO \| 美食市集與%Arabica咖啡探索
+## 54. 東京麻布台之丘 🇯🇵🍞 世界第一麵包店 Comme'N TOKYO \| 美食市集與%Arabica咖啡探索
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=237ZlSb1vFo)
 - 發布時間：2 年前

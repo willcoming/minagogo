@@ -1,15 +1,46 @@
 # Hina Life in Japan 全頻道地點清單
 
 - 頻道：[Hina Life in Japan](https://www.youtube.com/@HinaLifeinJapan)
-- 抓取日期：2026-05-25
+- 抓取日期：2026-05-31
 - 整理流程：YouTube 頻道影片清單與描述欄抓取；Gemini 網頁版整理 YouTube 評價欄；店名、地圖連結與影片連結仍使用 YouTube 描述欄驗證資料。
-- 本檔整理影片：116 部；成功讀取影片描述欄：116 部。
-- 店家/地點總筆數：860 筆；描述欄原始 Google/Share 地圖連結 428 筆，搜尋補足 432 筆，去重後 834 條。
-- Gemini 已整理 YouTube 評價：860 / 860 筆。
+- 本檔整理影片：119 部；成功讀取影片描述欄：119 部。
+- 店家/地點總筆數：873 筆；描述欄原始 Google/Share 地圖連結 440 筆，搜尋補足 433 筆，去重後 847 條。
+- Gemini 已整理 YouTube 評價：873 / 873 筆。
 - Google Maps 評分本輪未逐筆查核，欄位標示未取得。
 - 無店家資料影片清單：見 [hinalifeinjapan_no_places.md](./hinalifeinjapan_no_places.md)。
 
-## 1. BEST 10 Must - Visit Ginza, Tokyo🇯🇵｜ Tonkatsu, Shopping, Ginza Mitsukoshi & Sightseeing
+
+## 1. japan diaries: exploring tokyo + full 5 day itinerary \| coffee shops, food, shopping!
+
+- 影片：[YouTube](https://www.youtube.com/watch?v=HcSvq3GprBE)
+- 發布時間：4 天前；觀看次數：觀看次數：2944次
+
+| 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
+| --- | --- | --- | --- | --- | --- |
+| Azabudai Hills | [Google Maps](https://share.google/s1JJNp83RhXeelmx1) | Google Maps 未取得 | 影片把「Azabudai Hills」放進東京 5 日行程，作為咖啡、美食、購物或散步路線的一站。 | [00:42](https://www.youtube.com/watch?v=HcSvq3GprBE&t=42s) | Hina Life in Japan |
+| Shokudo Wata | [Google Maps](https://share.google/julRaFZsUh1Llxwlq) | Google Maps 未取得 | 影片把「Shokudo Wata」放進東京 5 日行程，作為咖啡、美食、購物或散步路線的一站。 | [14:58](https://www.youtube.com/watch?v=HcSvq3GprBE&t=898s) | Hina Life in Japan |
+| COVERT COFFEE ROASTERY | [Google Maps](https://maps.app.goo.gl/TNTjBhHwphc2URH49) | Google Maps 未取得 | 影片把「COVERT COFFEE ROASTERY」放進東京 5 日行程，作為咖啡、美食、購物或散步路線的一站。 | [20:30](https://www.youtube.com/watch?v=HcSvq3GprBE&t=1230s) | Hina Life in Japan |
+| Shunmai | [Google Maps](https://maps.app.goo.gl/6SP4C11z44wXUE5h6) | Google Maps 未取得 | 影片把「Shunmai」放進東京 5 日行程，作為咖啡、美食、購物或散步路線的一站。 | [31:32](https://www.youtube.com/watch?v=HcSvq3GprBE&t=1892s) | Hina Life in Japan |
+| Sushi Kissa Sususu | [Google Maps](https://maps.app.goo.gl/FVa6ZGSQNv2uSt8N8) | Google Maps 未取得 | 影片把「Sushi Kissa Sususu」放進東京 5 日行程，作為咖啡、美食、購物或散步路線的一站。 | [37:30](https://www.youtube.com/watch?v=HcSvq3GprBE&t=2250s) | Hina Life in Japan |
+| Piacere | [Google Maps](https://maps.app.goo.gl/5XNKb3Sc2Ci3oGER9) | Google Maps 未取得 | 影片把「Piacere」放進東京 5 日行程，作為咖啡、美食、購物或散步路線的一站。 | [40:10](https://www.youtube.com/watch?v=HcSvq3GprBE&t=2410s) | Hina Life in Japan |
+| CAFE de la PRESSE | [Google Maps](https://maps.app.goo.gl/LQzubbioJo5hEqaN9) | Google Maps 未取得 | 影片把「CAFE de la PRESSE」放進東京 5 日行程，作為咖啡、美食、購物或散步路線的一站。 | [41:42](https://www.youtube.com/watch?v=HcSvq3GprBE&t=2502s) | Hina Life in Japan |
+| oar | [Google Maps](https://maps.app.goo.gl/rxCCxiBxS4U6SgFD6) | Google Maps 未取得 | 影片把「oar」放進東京 5 日行程，作為咖啡、美食、購物或散步路線的一站。 | [43:25](https://www.youtube.com/watch?v=HcSvq3GprBE&t=2605s) | Hina Life in Japan |
+| DAILY by LONG TRACK FOODS | [Google Maps](https://maps.app.goo.gl/nASa7BH1kWHFGYhW9) | Google Maps 未取得 | 影片把「DAILY by LONG TRACK FOODS」放進東京 5 日行程，作為咖啡、美食、購物或散步路線的一站。 | [45:07](https://www.youtube.com/watch?v=HcSvq3GprBE&t=2707s) | Hina Life in Japan |
+| Osteria Comacina | [Google Maps](https://maps.app.goo.gl/yWUyU4F4eTVfCutaA) | Google Maps 未取得 | 影片把「Osteria Comacina」放進東京 5 日行程，作為咖啡、美食、購物或散步路線的一站。 | [46:51](https://www.youtube.com/watch?v=HcSvq3GprBE&t=2811s) | Hina Life in Japan |
+| Slow Rush Coffee | [Google Maps](https://maps.app.goo.gl/RaiRnNFq1QkLntCn6) | Google Maps 未取得 | 影片把「Slow Rush Coffee」放進東京 5 日行程，作為咖啡、美食、購物或散步路線的一站。 | [48:35](https://www.youtube.com/watch?v=HcSvq3GprBE&t=2915s) | Hina Life in Japan |
+| Ocean Harvest Cocomo | [Google Maps](https://maps.app.goo.gl/KTaZVT8WSBvCufpM8) | Google Maps 未取得 | 影片把「Ocean Harvest Cocomo」放進東京 5 日行程，作為咖啡、美食、購物或散步路線的一站。 | [51:08](https://www.youtube.com/watch?v=HcSvq3GprBE&t=3068s) | Hina Life in Japan |
+
+
+## 2. 2026 Best Cherry Blossom cafe in Tokyo, Shibuya
+
+- 影片：[YouTube](https://www.youtube.com/watch?v=i-_TPNQSljY)
+- 發布時間：2026-04-05；觀看次數：觀看次數：467次
+
+| 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
+| --- | --- | --- | --- | --- | --- |
+| Nadoya no katte | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Nadoya%20no%20katte%20Tokyo%20Shibuya) | Google Maps 未取得（以搜尋連結代替） | 短片標註 Nadoya no katte，主題是東京澀谷賞櫻咖啡店；描述欄未提供原始地圖連結。 | [YouTube](https://www.youtube.com/watch?v=i-_TPNQSljY) | Hina Life in Japan |
+
+## 3. BEST 10 Must - Visit Ginza, Tokyo🇯🇵｜ Tonkatsu, Shopping, Ginza Mitsukoshi & Sightseeing
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=u0OxEP4ctlA)
 - 發布時間：16 小時前；觀看次數：觀看次數：2718次
@@ -27,7 +58,7 @@
 | Ginza Shiraishi Betei | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Ginza%20Shiraishi%20Betei%20BEST%2010%20Must%20-%20Visit%20Ginza%2C%20Tokyo%20Tonkatsu%2C%20Shopping%2C%20Ginza%20Mitsukoshi%20Sightseei) | Google Maps 未取得（以搜尋連結代替） | 影片將這些地點列入銀座必訪路線，適合作為購物、散步與品嚐炸豬排的行程參考。 描述欄將「Ginza Shiraishi Betei」列為本集出現的店家或地點。 | [21:47](https://www.youtube.com/watch?v=u0OxEP4ctlA&t=1307s) | Hina Life in Japan |
 | THE CITY BAKERY 銀座 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=THE%20CITY%20BAKERY%20%E9%8A%80%E5%BA%A7%20BEST%2010%20Must%20-%20Visit%20Ginza%2C%20Tokyo%20Tonkatsu%2C%20Shopping%2C%20Ginza%20Mitsukoshi%20Sightseei) | Google Maps 未取得（以搜尋連結代替） | 影片將這些地點列入銀座必訪路線，適合作為購物、散步與品嚐炸豬排的行程參考。 描述欄將「THE CITY BAKERY 銀座」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=u0OxEP4ctlA) | Hina Life in Japan |
 
-## 2. BEST 11 Michelin Guide Tokyo Restaurants 2026  | Japan Ultimate Guide🗼🇯🇵
+## 4. BEST 11 Michelin Guide Tokyo Restaurants 2026  | Japan Ultimate Guide🗼🇯🇵
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=X7Yqi4vn2IQ)
 - 發布時間：6 天前；觀看次數：觀看次數：4637次
@@ -46,7 +77,7 @@
 | Anagoya Ginza Hirai | [Google Maps](https://maps.app.goo.gl/nLgi4EyXLhqvQctw5) | Google Maps 未取得 | 創作者分享了自己從300家東京餐廳中精選出深刻難忘的米其林推薦美食指南。 描述欄將「Anagoya Ginza Hirai」列為本集出現的店家或地點。 | [25:52](https://www.youtube.com/watch?v=X7Yqi4vn2IQ&t=1552s) | Hina Life in Japan |
 | Tonpachitei | [Google Maps](https://maps.app.goo.gl/7tQEehn4oRPiax4FA) | Google Maps 未取得 | 創作者分享了自己從300家東京餐廳中精選出深刻難忘的米其林推薦美食指南。 描述欄將「Tonpachitei」列為本集出現的店家或地點。 | [27:41](https://www.youtube.com/watch?v=X7Yqi4vn2IQ&t=1661s) | Hina Life in Japan |
 
-## 3. BEST 11 MUST VISIT SPOTS IN TOKYO, JAPAN 2026｜Japan Travel Guide🇯🇵✨
+## 5. BEST 11 MUST VISIT SPOTS IN TOKYO, JAPAN 2026｜Japan Travel Guide🇯🇵✨
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Y82Di59En0A)
 - 發布時間：10 天前；觀看次數：觀看次數：3164次
@@ -63,7 +94,7 @@
 | GYRE Gallery | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=GYRE%20Gallery%20BEST%2011%20MUST%20VISIT%20SPOTS%20IN%20TOKYO%2C%20JAPAN%202026%20Japan%20Travel%20Guide) | Google Maps 未取得（以搜尋連結代替） | 影片將這些地點列入表參道、東京車站與大井町新開幕商場的主題，適合作為東京旅遊的參考。 描述欄將「GYRE Gallery」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=Y82Di59En0A) | Hina Life in Japan |
 | PostCoffee®︎ KIOSK Daimaru Tokyo | [Google Maps](https://share.google/KS5eXu2BpbGraEskH) | Google Maps 未取得 | 影片將這些地點列入表參道、東京車站與大井町新開幕商場的主題，適合作為東京旅遊的參考。 描述欄將「PostCoffee®︎ KIOSK Daimaru Tokyo」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=Y82Di59En0A) | Hina Life in Japan |
 
-## 4. Exploring Tokyo’s Hidden Neighborhoods｜Cafes, Local Streets & Sakura Tram｜Tokyo Vlog
+## 6. Exploring Tokyo’s Hidden Neighborhoods｜Cafes, Local Streets & Sakura Tram｜Tokyo Vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=1dSMczakiuM)
 - 發布時間：2 週前；觀看次數：觀看次數：2304次
@@ -75,7 +106,7 @@
 | GRANARYS COFFEE | [Google Maps](https://share.google/lklJhML7H0fZmhjnW) | Google Maps 未取得 | 記錄了在東京王子櫻花路面電車沿線的春季一日遊，造訪在地人才知道的賞櫻秘境與迷人咖啡廳。 描述欄將「GRANARYS COFFEE」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=1dSMczakiuM) | Hina Life in Japan |
 | Yatagarasu | [Google Maps](https://share.google/AA1tMRk7iEUzzekvT) | Google Maps 未取得 | 記錄了在東京王子櫻花路面電車沿線的春季一日遊，造訪在地人才知道的賞櫻秘境與迷人咖啡廳。 描述欄將「Yatagarasu」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=1dSMczakiuM) | Hina Life in Japan |
 
-## 5. The best of KICHIJOJI, Tokyo🇯🇵｜Must-Visit Cafes, Inokashira Park & Local Zoo 2026🌿
+## 7. The best of KICHIJOJI, Tokyo🇯🇵｜Must-Visit Cafes, Inokashira Park & Local Zoo 2026🌿
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=FebbZm7bZCY)
 - 發布時間：3 週前；觀看次數：觀看次數：1407次
@@ -86,7 +117,7 @@
 | Inokashira Onshi Park | [Google Maps](https://share.google/g5PEqetkEK9f0Nwnx) | Google Maps 未取得 | 帶領觀眾體驗吉祥寺舒適的春季慢活氛圍，走訪綠意盎然的井之頭公園與在地咖啡廳。 描述欄將「Inokashira Onshi Park」列為本集出現的店家或地點。 | [03:13](https://www.youtube.com/watch?v=FebbZm7bZCY&t=193s) | Hina Life in Japan |
 | Cafe salon & Bar Arg | [Google Maps](https://share.google/EYDGuWb0i0nLd1r5o) | Google Maps 未取得 | 帶領觀眾體驗吉祥寺舒適的春季慢活氛圍，走訪綠意盎然的井之頭公園與在地咖啡廳。 描述欄將「Cafe salon & Bar Arg」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=FebbZm7bZCY) | Hina Life in Japan |
 
-## 6. MUST-VISIT ULTIMATE FOOD SPOTS IN TOYOSU TOKYO🇯🇵｜Tokyo vlog 2026｜Toyosu Senkyaku Banrai
+## 8. MUST-VISIT ULTIMATE FOOD SPOTS IN TOYOSU TOKYO🇯🇵｜Tokyo vlog 2026｜Toyosu Senkyaku Banrai
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=c-WTmPYV_GQ)
 - 發布時間：3 週前；觀看次數：觀看次數：765次
@@ -97,7 +128,7 @@
 | CAFE＆BAR YOLO | [Google Maps](https://share.google/n4nksWwu8dzANqcGP) | Google Maps 未取得 | 介紹豐洲全新開幕的複合式食宿商場「千客萬來」，結合了新鮮海鮮、江戶風街景與高空足湯體驗。 描述欄將「CAFE＆BAR YOLO」列為本集出現的店家或地點。 | [6:50](https://www.youtube.com/watch?v=c-WTmPYV_GQ&t=410s) | Hina Life in Japan |
 | tricot.bakery and cafe | [Google Maps](https://share.google/L1lsd4fLgD9TS4ttD) | Google Maps 未取得 | 介紹豐洲全新開幕的複合式食宿商場「千客萬來」，結合了新鮮海鮮、江戶風街景與高空足湯體驗。 描述欄將「tricot.bakery and cafe」列為本集出現的店家或地點。 | [9:02](https://www.youtube.com/watch?v=c-WTmPYV_GQ&t=542s) | Hina Life in Japan |
 
-## 7. TOKYO STATION FOOD & SHOPPING ULTIMATE GUIDE 2026｜Tokyo vlog🗼｜Marunouchi Walk
+## 9. TOKYO STATION FOOD & SHOPPING ULTIMATE GUIDE 2026｜Tokyo vlog🗼｜Marunouchi Walk
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=1BjWBbAcw7U)
 - 發布時間：3 週前；觀看次數：觀看次數：3241次
@@ -110,7 +141,7 @@
 | eric’S by Eric Trochon | [Google Maps](https://share.google/FEDtVYSw0wRZvbev4) | Google Maps 未取得 | 影片將這些地點列入東京車站與丸之內的飲食購物路線，適合作為東京旅遊的參考。 描述欄將「eric’S by Eric Trochon」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=1BjWBbAcw7U) | Hina Life in Japan |
 | Spiral Garden Shin-Marunouchi Building | [Google Maps](https://share.google/O4bx7w87YHFyThDD7) | Google Maps 未取得 | 影片將這些地點列入東京車站與丸之內的飲食購物路線，適合作為東京旅遊的參考。 描述欄將「Spiral Garden Shin-Marunouchi Building」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=1BjWBbAcw7U) | Hina Life in Japan |
 
-## 8. Must-Visit Tokyo 2026🌸｜Exploring Nakameguro, Daikanyama and Meguro｜Cafes, Shopping
+## 10. Must-Visit Tokyo 2026🌸｜Exploring Nakameguro, Daikanyama and Meguro｜Cafes, Shopping
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=MEW07RHN6Mc)
 - 發布時間：4 週前；觀看次數：觀看次數：2510次
@@ -123,7 +154,7 @@
 | Daikanyama T-SITE | [Google Maps](https://share.google/EOfXACEPDW40lxj5s) | Google Maps 未取得 | 展現了中目黑美麗的櫻花景致，並漫步於代官山與目黑一帶的優雅咖啡廳和購物景點。 描述欄將「Daikanyama T-SITE」列為本集出現的店家或地點。 | [09:18](https://www.youtube.com/watch?v=MEW07RHN6Mc&t=558s) | Hina Life in Japan |
 | Randy's Donuts | [Google Maps](https://maps.app.goo.gl/MsGQCYGqUi5mHeGy9) | Google Maps 未取得 | 展現了中目黑美麗的櫻花景致，並漫步於代官山與目黑一帶的優雅咖啡廳和購物景點。 描述欄將「Randy's Donuts」列為本集出現的店家或地點。 | [12:24](https://www.youtube.com/watch?v=MEW07RHN6Mc&t=744s) | Hina Life in Japan |
 
-## 9. TOYOSU FISH MARKET Tokyo 2026: Uogashi Yokocho & Best Kaisendon | Japan Food Guide🐟
+## 11. TOYOSU FISH MARKET Tokyo 2026: Uogashi Yokocho & Best Kaisendon | Japan Food Guide🐟
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=QgYKo7Hrj8g)
 - 發布時間：1 個月前；觀看次數：觀看次數：1675次
@@ -133,7 +164,7 @@
 | Blue Bottle Coffee Toyosu | [Google Maps](https://share.google/aDvgKuVY0sIFVyq8V) | Google Maps 未取得 | 初次探索規模宏大的豐洲市場，開箱美味的海鮮丼與充滿活力的魚河岸橫丁。 描述欄將「Blue Bottle Coffee Toyosu」列為本集出現的店家或地點。 | [00:27](https://www.youtube.com/watch?v=QgYKo7Hrj8g&t=27s) | Hina Life in Japan |
 | Toyosu Outer Market | [Google Maps](https://share.google/ASke3NvZ7WZgDvuGU) | Google Maps 未取得 | 初次探索規模宏大的豐洲市場，開箱美味的海鮮丼與充滿活力的魚河岸橫丁。 描述欄將「Toyosu Outer Market」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=QgYKo7Hrj8g) | Hina Life in Japan |
 
-## 10. BEST 12 MUST-VISIT ULTIMATE COFFEE SHOPS IN TOKYO, JAPAN☕️🍴｜Tokyo vlog 2026
+## 12. BEST 12 MUST-VISIT ULTIMATE COFFEE SHOPS IN TOKYO, JAPAN☕️🍴｜Tokyo vlog 2026
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=1z9yNq9QZVc)
 - 發布時間：1 個月前；觀看次數：觀看次數：5381次
@@ -154,7 +185,7 @@
 | Ladrio | [Google Maps](https://www.google.com/maps/search/?api=1&query=ラドリオ+神保町) | Google Maps 未取得 | 由在東京生活超過20年的在地人，精選出12家真正擄獲人心的東京極致咖啡廳。 描述欄將「Ladrio」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=1z9yNq9QZVc) | Hina Life in Japan |
 | Valley Park Stand | [Google Maps](https://www.google.com/maps/search/?api=1&query=Valley+Park+Stand) | Google Maps 未取得 | 由在東京生活超過20年的在地人，精選出12家真正擄獲人心的東京極致咖啡廳。 描述欄將「Valley Park Stand」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=1z9yNq9QZVc) | Hina Life in Japan |
 
-## 11. MUST-VISIT ULTIMATE FOOD & CAFE SPOTS IN GINZA, TOKYO 🇯🇵｜Tokyo Vlog 2026｜Ginza Guide
+## 13. MUST-VISIT ULTIMATE FOOD & CAFE SPOTS IN GINZA, TOKYO 🇯🇵｜Tokyo Vlog 2026｜Ginza Guide
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=lTWdEqSJZxs)
 - 發布時間：1 個月前；觀看次數：觀看次數：1.1萬次
@@ -169,7 +200,7 @@
 | IGOR COSY | [Google Maps](https://share.google/uu9fCb01KcyPfBIIs) | Google Maps 未取得 | 聚焦於優雅的銀座購物與美食，打破奢華刻板印象，介紹許多平易近人的好店。 描述欄將「IGOR COSY」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=lTWdEqSJZxs) | Hina Life in Japan |
 | Lantern | [Google Maps](https://share.google/39izOySXBT6c3dDJb) | Google Maps 未取得 | 聚焦於優雅的銀座購物與美食，打破奢華刻板印象，介紹許多平易近人的好店。 描述欄將「Lantern」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=lTWdEqSJZxs) | Hina Life in Japan |
 
-## 12. MUST-VISIT ULTIMATE FOOD SPOTS IN TSUKIJI, TOKYO🇯🇵｜Tokyo vlog 2026｜Tsukiji Outer Market
+## 14. MUST-VISIT ULTIMATE FOOD SPOTS IN TSUKIJI, TOKYO🇯🇵｜Tokyo vlog 2026｜Tsukiji Outer Market
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=VKiiTmD8Iqs)
 - 發布時間：1 個月前；觀看次數：觀看次數：1.5萬次
@@ -190,7 +221,7 @@
 | Tsukiji Yamanaga | [Google Maps](https://share.google/bR1dsQUaVz423iLH5) | Google Maps 未取得 | 清晨造訪熱門的築地場外市場，享受邊走邊吃的街頭美食朝聖之旅。 描述欄將「Tsukiji Yamanaga」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=VKiiTmD8Iqs) | Hina Life in Japan |
 | Urikiriya | [Google Maps](https://share.google/Y1ZcDFNAzEcGDrb5j) | Google Maps 未取得 | 清晨造訪熱門的築地場外市場，享受邊走邊吃的街頭美食朝聖之旅。 描述欄將「Urikiriya」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=VKiiTmD8Iqs) | Hina Life in Japan |
 
-## 13. BEST 10 MUST-VISIT ULTIMATE COFFEE SHOPS IN TOKYO, JAPAN☕️｜Tokyo vlog 2026
+## 15. BEST 10 MUST-VISIT ULTIMATE COFFEE SHOPS IN TOKYO, JAPAN☕️｜Tokyo vlog 2026
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=zJPqthuoOLQ)
 - 發布時間：1 個月前；觀看次數：觀看次數：1.6萬次
@@ -212,7 +243,7 @@
 | Switch Coffee Tokyo | [Google Maps](https://www.google.com/maps/search/?api=1&query=Switch+Coffee+Tokyo) | Google Maps 未取得 | 東京在地饕客私房推薦，分享親自造訪且真心喜愛的愛店名單。 描述欄將「Switch Coffee Tokyo」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=zJPqthuoOLQ) | Hina Life in Japan |
 | Yoyogiuehara | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Yoyogiuehara%20BEST%2010%20MUST-VISIT%20ULTIMATE%20COFFEE%20SHOPS%20IN%20TOKYO%2C%20JAPAN%20Tokyo%20vlog%202026) | Google Maps 未取得（以搜尋連結代替） | 東京在地饕客私房推薦，分享親自造訪且真心喜愛的愛店名單。 描述欄將「Yoyogiuehara」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=zJPqthuoOLQ) | Hina Life in Japan |
 
-## 14. Hokkaido Winter Trip | Exploring Snowy Sapporo, Cafes & Sushi | JAPAN VLOG
+## 16. Hokkaido Winter Trip | Exploring Snowy Sapporo, Cafes & Sushi | JAPAN VLOG
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=BKRRht8xk9I)
 - 發布時間：2 個月前；觀看次數：觀看次數：1843次
@@ -225,7 +256,7 @@
 | KiosQ coffee rotary | [Google Maps](https://share.google/y8mGwt2gIHMh3xUZc) | Google Maps 未取得 | 記錄了初次前往北海道的冬季旅行，享受白雪皚皚的札幌、在地壽司與舒適的咖啡廳。 描述欄將「KiosQ coffee rotary」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=BKRRht8xk9I) | Hina Life in Japan |
 | poool | [Google Maps](https://share.google/QNKiCGnhX4mUipoPm) | Google Maps 未取得 | 記錄了初次前往北海道的冬季旅行，享受白雪皚皚的札幌、在地壽司與舒適的咖啡廳。 描述欄將「poool」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=BKRRht8xk9I) | Hina Life in Japan |
 
-## 15. Tokyo Vlog | Exploring Ginza Cafes, Fashion, Japanese Food and Lifestyle Shops
+## 17. Tokyo Vlog | Exploring Ginza Cafes, Fashion, Japanese Food and Lifestyle Shops
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=TO9FlFiXYU4)
 - 發布時間：2 個月前；觀看次數：觀看次數：3477次
@@ -239,7 +270,7 @@
 | Mr.CHEESE CAKE | [Google Maps](https://share.google/YuDFwI9xs7RJlzs5e) | Google Maps 未取得 | 以在地人的視角重新詮釋銀座，介紹除了奢侈品牌之外的質感生活風格小店與美食。 描述欄將「Mr.CHEESE CAKE」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=TO9FlFiXYU4) | Hina Life in Japan |
 | Sumibi Baisen Coffee Rin | [Google Maps](https://share.google/40Br2eJLXXyx6YbVh) | Google Maps 未取得 | 以在地人的視角重新詮釋銀座，介紹除了奢侈品牌之外的質感生活風格小店與美食。 描述欄將「Sumibi Baisen Coffee Rin」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=TO9FlFiXYU4) | Hina Life in Japan |
 
-## 16. Exploring Tokyo’s Shinjuku & Shibuya | Cafes, Fashion & Lifestyle Shops | JAPAN TRAVEL VLOG
+## 18. Exploring Tokyo’s Shinjuku & Shibuya | Cafes, Fashion & Lifestyle Shops | JAPAN TRAVEL VLOG
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=wyOqcfIWDzo)
 - 發布時間：2 個月前；觀看次數：觀看次數：1752次
@@ -252,7 +283,7 @@
 | PRETTY PORK FACTORY | [Google Maps](https://share.google/2kueUwCmVDMgJuxCR) | Google Maps 未取得 | 一次打包新宿的熱鬧街景、澀谷的經典十字路口與表參道的時尚氛圍，非常適合初訪東京者參考。 描述欄將「PRETTY PORK FACTORY」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=wyOqcfIWDzo) | Hina Life in Japan |
 | VALLEY STAND PARK | [Google Maps](https://share.google/yHW4hEkUXiCysAVEX) | Google Maps 未取得 | 一次打包新宿的熱鬧街景、澀谷的經典十字路口與表參道的時尚氛圍，非常適合初訪東京者參考。 描述欄將「VALLEY STAND PARK」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=wyOqcfIWDzo) | Hina Life in Japan |
 
-## 17. One day in Tokyo｜Tonkatsu lunch, Starbucks Reserve Roastery & walking around Nakameguro
+## 19. One day in Tokyo｜Tonkatsu lunch, Starbucks Reserve Roastery & walking around Nakameguro
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=V_Jf914BSyg)
 - 發布時間：2 個月前；觀看次數：觀看次數：2794次
@@ -269,7 +300,7 @@
 | cafe The SUN LIVES HERE | [Google Maps](https://share.google/1vxWnPxQB1qpg94Md) | Google Maps 未取得 | 在東京度過充實的一天，包含在中目黑與三軒茶屋一帶散步、品嚐炸豬排與漫遊咖啡廳。 描述欄將「cafe The SUN LIVES HERE」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=V_Jf914BSyg) | Hina Life in Japan |
 | Heidi | [Google Maps](https://share.google/A3D8b0UwDz4n5YiiV) | Google Maps 未取得 | 在東京度過充實的一天，包含在中目黑與三軒茶屋一帶散步、品嚐炸豬排與漫遊咖啡廳。 描述欄將「Heidi」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=V_Jf914BSyg) | Hina Life in Japan |
 
-## 18. One day in Tokyo｜Exploring retro Tokyo, cafes, and charming local streets in Tokyo, Japan
+## 20. One day in Tokyo｜Exploring retro Tokyo, cafes, and charming local streets in Tokyo, Japan
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=ygpWOK9PjVE)
 - 發布時間：2 個月前；觀看次數：觀看次數：3770次
@@ -287,7 +318,7 @@
 | LADRIO | [Google Maps](https://share.google/fpDKMb5ILOanzS9SH) | Google Maps 未取得 | 漫步於上野、神保町與谷中銀座，感受東京充滿人情味的老街風情與復古氛圍。 描述欄將「LADRIO」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=ygpWOK9PjVE) | Hina Life in Japan |
 | Uokusa | [Google Maps](https://share.google/7v0QsZiNcH3wYUpCa) | Google Maps 未取得 | 漫步於上野、神保町與谷中銀座，感受東京充滿人情味的老街風情與復古氛圍。 描述欄將「Uokusa」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=ygpWOK9PjVE) | Hina Life in Japan |
 
-## 19. 3 Days in Kanazawa｜Exploring a Traditional Japanese City, Wagashi & Art｜Solo Travel VLOG
+## 21. 3 Days in Kanazawa｜Exploring a Traditional Japanese City, Wagashi & Art｜Solo Travel VLOG
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=p_fG3wbmfNE)
 - 發布時間：2 個月前；觀看次數：觀看次數：1085次
@@ -310,7 +341,7 @@
 | Terashima Kurando-Tei | [Google Maps](https://share.google/YtnPsMt1L2pIMjk2H) | Google Maps 未取得 | 獨自前往西海岸的古城金澤旅行，沉浸在保存完好的武士住宅區、傳統茶屋與現代藝術之中。 描述欄將「Terashima Kurando-Tei」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=p_fG3wbmfNE) | Hina Life in Japan |
 | Yaoyorozu Honpo | [Google Maps](https://share.google/zwxuByRpJC1j66hrm) | Google Maps 未取得 | 獨自前往西海岸的古城金澤旅行，沉浸在保存完好的武士住宅區、傳統茶屋與現代藝術之中。 描述欄將「Yaoyorozu Honpo」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=p_fG3wbmfNE) | Hina Life in Japan |
 
-## 20. One day in GINZA｜ Tonkatsu lunch, boutique shopping, and cafe hopping in Tokyo, Japan
+## 22. One day in GINZA｜ Tonkatsu lunch, boutique shopping, and cafe hopping in Tokyo, Japan
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=_BthL7A2W3M)
 - 發布時間：3 個月前；觀看次數：觀看次數：1.2萬次
@@ -323,7 +354,7 @@
 | Pokémon Store Tokyo Station Shop | [Google Maps](https://share.google/BdjOsy7Y059jAURT5) | Google Maps 未取得 | 以輕鬆休閒的角度漫步丸之內與銀座，發掘不需要特別盛裝也能享受的優雅日常小店。 描述欄將「Pokémon Store Tokyo Station Shop」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=_BthL7A2W3M) | Hina Life in Japan |
 | TRAVELER'S FACTORY | [Google Maps](https://share.google/6ViQSGnQi2x7FXTkv) | Google Maps 未取得 | 以輕鬆休閒的角度漫步丸之內與銀座，發掘不需要特別盛裝也能享受的優雅日常小店。 描述欄將「TRAVELER'S FACTORY」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=_BthL7A2W3M) | Hina Life in Japan |
 
-## 21. Life in Tokyo 🗼 Discovering Neighborhoods Along the Asakusa Line: Asakusa, Kuramae & Beyond
+## 23. Life in Tokyo 🗼 Discovering Neighborhoods Along the Asakusa Line: Asakusa, Kuramae & Beyond
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=8b2OxMJC_RQ)
 - 發布時間：3 個月前；觀看次數：觀看次數：7478次
@@ -338,7 +369,7 @@
 | Nui | [Google Maps](https://share.google/6ZfG4A32xNmt0Ho5g) | Google Maps 未取得 | 沿著都營淺草線散步，沿途探索人形町的傳統工藝老店與藏前的迷人街區。 描述欄將「Nui」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=8b2OxMJC_RQ) | Hina Life in Japan |
 | Ozeki Tokyo Gallery | [Google Maps](https://maps.app.goo.gl/QokwmES3S4VXeia17?g_st=ic) | Google Maps 未取得 | 沿著都營淺草線散步，沿途探索人形町的傳統工藝老店與藏前的迷人街區。 描述欄將「Ozeki Tokyo Gallery」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=8b2OxMJC_RQ) | Hina Life in Japan |
 
-## 22. Tokyo vlog｜Yokohama in 24 Hours
+## 24. Tokyo vlog｜Yokohama in 24 Hours
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=NlkUoRI0DSI)
 - 發布時間：3 個月前；觀看次數：觀看次數：1795次
@@ -352,7 +383,7 @@
 | Edosei pork buns | [Google Maps](https://share.google/rFTCHYEEb2NReE6Nq) | Google Maps 未取得 | 離開東京市區前往橫濱展開24小時快閃個人短途旅行，造訪中華街與港未來海灣區。 描述欄將「Edosei pork buns」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=NlkUoRI0DSI) | Hina Life in Japan |
 | PIER21 | [Google Maps](https://share.google/X5XT1EBnTNYvKULn9) | Google Maps 未取得 | 離開東京市區前往橫濱展開24小時快閃個人短途旅行，造訪中華街與港未來海灣區。 描述欄將「PIER21」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=NlkUoRI0DSI) | Hina Life in Japan |
 
-## 23. Tokyo Vlog 🗼✨ A Winter Guide to Shopping, Eating and Coffee in Tokyo
+## 25. Tokyo Vlog 🗼✨ A Winter Guide to Shopping, Eating and Coffee in Tokyo
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=fVIwSECYBgk)
 - 發布時間：3 個月前；觀看次數：觀看次數：1964次
@@ -374,7 +405,7 @@
 | Motsuyaki Ban | [Google Maps](https://maps.app.goo.gl/Qa7bNjBccCTmNVv1A) | Google Maps 未取得 | 沿著東急東橫線一線到底，串聯澀谷、中目黑與代官山，非常適合安排一趟放鬆的咖啡購物一日遊。 描述欄將「Motsuyaki Ban」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=fVIwSECYBgk) | Hina Life in Japan |
 | The Conran Shop | [Google Maps](https://share.google/I8PdqZy1dcYC7NgPi) | Google Maps 未取得 | 沿著東急東橫線一線到底，串聯澀谷、中目黑與代官山，非常適合安排一趟放鬆的咖啡購物一日遊。 描述欄將「The Conran Shop」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=fVIwSECYBgk) | Hina Life in Japan |
 
-## 24. Life in Tokyo｜Exploring Tokyo Between History and Modern Life Around the City Core
+## 26. Life in Tokyo｜Exploring Tokyo Between History and Modern Life Around the City Core
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=KYq-X4i_ebo)
 - 發布時間：3 個月前；觀看次數：觀看次數：1468次
@@ -391,7 +422,7 @@
 | um cafe & bar | [Google Maps](https://share.google/wbZTSgGuY1ZlYvnxT) | Google Maps 未取得 | 沿著東京地鐵日比谷線漫步，到增上寺進行新年參拜，並在東京鐵塔旁享受安靜的慢活時光。 描述欄將「um cafe & bar」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=KYq-X4i_ebo) | Hina Life in Japan |
 | Yakiniku Reimen Yuchan | [Google Maps](https://share.google/ELo8i4SLMgaCcfL5Z) | Google Maps 未取得 | 沿著東京地鐵日比谷線漫步，到增上寺進行新年參拜，並在東京鐵塔旁享受安靜的慢活時光。 描述欄將「Yakiniku Reimen Yuchan」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=KYq-X4i_ebo) | Hina Life in Japan |
 
-## 25. Life in Tokyo | Asakusa, Skytree Area & Local Tokyo in 3 Days
+## 27. Life in Tokyo | Asakusa, Skytree Area & Local Tokyo in 3 Days
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=H1eG3mU17T4)
 - 發布時間：3 個月前；觀看次數：觀看次數：1624次
@@ -403,7 +434,7 @@
 | Kimuraya Ningyo-yaki | [Google Maps](https://share.google/NNdsu1JCrz3vvjQ4p) | Google Maps 未取得 | 影片將這些地點列入淺草、中野與新宿的3日遊路線，適合作為隨性漫遊東京的參考。 描述欄將「Kimuraya Ningyo-yaki」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=H1eG3mU17T4) | Hina Life in Japan |
 | Mejiro Garden | [Google Maps](https://share.google/hvYyL1F4Qx1ZzYuao) | Google Maps 未取得 | 影片將這些地點列入淺草、中野與新宿的3日遊路線，適合作為隨性漫遊東京的參考。 描述欄將「Mejiro Garden」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=H1eG3mU17T4) | Hina Life in Japan |
 
-## 26. Tokyo Vlog | Art & Museums, Cafes and Bars, City Nights in the Heart of Tokyo
+## 28. Tokyo Vlog | Art & Museums, Cafes and Bars, City Nights in the Heart of Tokyo
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=oy5aabAdQ58)
 - 發布時間：3 個月前；觀看次數：觀看次數：3185次
@@ -424,7 +455,7 @@
 | tokimeshi | [Google Maps](https://share.google/3P6aYK0MfjJvtiPbr) | Google Maps 未取得 | 專為藝術愛好者設計的行程，主要探訪銀座與六本木一帶的博物館、藝廊與設計景點。 描述欄將「tokimeshi」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=oy5aabAdQ58) | Hina Life in Japan |
 | VERVE COFFEE ROASTERS ROPPONGI | [Google Maps](https://share.google/TKxdTMzu5AYEhGSnt) | Google Maps 未取得 | 專為藝術愛好者設計的行程，主要探訪銀座與六本木一帶的博物館、藝廊與設計景點。 描述欄將「VERVE COFFEE ROASTERS ROPPONGI」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=oy5aabAdQ58) | Hina Life in Japan |
 
-## 27. Tokyo Neighborhoods｜Cafes, Gachapon & Retro Spots | Life in Tokyo VLOG
+## 29. Tokyo Neighborhoods｜Cafes, Gachapon & Retro Spots | Life in Tokyo VLOG
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=9mYXx7NxAv8)
 - 發布時間：4 個月前；觀看次數：觀看次數：2842次
@@ -440,7 +471,7 @@
 | super potato | [Google Maps](https://share.google/OEIIiUUMvmsICgNJ9) | Google Maps 未取得 | 搭乘總武線漫遊，在秋葉原尋找動漫週邊，隨後前往水道橋欣賞秋季紅葉的漸層美景。 描述欄將「super potato」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=9mYXx7NxAv8) | Hina Life in Japan |
 | toggle hotel cafe | [Google Maps](https://share.google/HRZNZHZ8iWVeqKcby) | Google Maps 未取得 | 搭乘總武線漫遊，在秋葉原尋找動漫週邊，隨後前往水道橋欣賞秋季紅葉的漸層美景。 描述欄將「toggle hotel cafe」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=9mYXx7NxAv8) | Hina Life in Japan |
 
-## 28. Life in Tokyo｜A Local Tokyo Walk Along the Setagaya Line
+## 30. Life in Tokyo｜A Local Tokyo Walk Along the Setagaya Line
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=kEWIJS-edSk)
 - 發布時間：4 個月前；觀看次數：觀看次數：1201次
@@ -455,7 +486,7 @@
 | Seijo 5 Chome Inomata Garden | [Google Maps](https://share.google/Nyy5GFp7yW1gXXCYC) | Google Maps 未取得 | 搭乘世田谷線探索東京在地街區，走訪黃昏時分寧靜的豪德寺以及成城學園前的隱密景點。 描述欄將「Seijo 5 Chome Inomata Garden」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=kEWIJS-edSk) | Hina Life in Japan |
 | Swallow | [Google Maps](https://share.google/x9vJiH0MmiLVaLFmP) | Google Maps 未取得 | 搭乘世田谷線探索東京在地街區，走訪黃昏時分寧靜的豪德寺以及成城學園前的隱密景點。 描述欄將「Swallow」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=kEWIJS-edSk) | Hina Life in Japan |
 
-## 29. Life in Tokyo｜Spending 5 Days in Tokyo: Cafes, Thrift Shopping & Travel
+## 31. Life in Tokyo｜Spending 5 Days in Tokyo: Cafes, Thrift Shopping & Travel
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=HOVPfbroWBg)
 - 發布時間：4 個月前；觀看次數：未取得
@@ -482,7 +513,7 @@
 | Takanawa Newoman | [Google Maps](https://share.google/yTY5ZC6yFk4nRWY0Q) | Google Maps 未取得 | 以放慢腳步的悠閒節奏漫步東京，分享自己私下常去的咖啡廳、古著店與日常私房景點。 描述欄將「Takanawa Newoman」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=HOVPfbroWBg) | Hina Life in Japan |
 | The Life Sized UNICORN GUNDAM Statue | [Google Maps](https://share.google/yqha2lXUU2SAuMcA2) | Google Maps 未取得 | 以放慢腳步的悠閒節奏漫步東京，分享自己私下常去的咖啡廳、古著店與日常私房景點。 描述欄將「The Life Sized UNICORN GUNDAM Statue」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=HOVPfbroWBg) | Hina Life in Japan |
 
-## 30. Life in Tokyo｜Spending the Day in Tokyo, Exploring Retro and Deep Nakano
+## 32. Life in Tokyo｜Spending the Day in Tokyo, Exploring Retro and Deep Nakano
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=oS9Wg4ir5So)
 - 發布時間：4 個月前；觀看次數：未取得
@@ -494,7 +525,7 @@
 | Okajoki Nakano | [Google Maps](https://share.google/Cr80GrjKzsG8nZZTL) | Google Maps 未取得 | 深入探訪洋溢復古在地氛圍的中野地區，並以集結動漫收藏的中野百老匯為中心展開舒適的散策。 描述欄將「Okajoki Nakano」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=oS9Wg4ir5So) | Hina Life in Japan |
 | Oyaki Dokoro Refu Tei | [Google Maps](https://share.google/FGzsXJZyavvZrOEde) | Google Maps 未取得 | 深入探訪洋溢復古在地氛圍的中野地區，並以集結動漫收藏的中野百老匯為中心展開舒適的散策。 描述欄將「Oyaki Dokoro Refu Tei」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=oS9Wg4ir5So) | Hina Life in Japan |
 
-## 31. Life in Tokyo｜Hotel Dining in Tokyo: Breakfast, Buffets & Bars
+## 33. Life in Tokyo｜Hotel Dining in Tokyo: Breakfast, Buffets & Bars
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=5QWk5FXIMUE)
 - 發布時間：4 個月前；觀看次數：未取得
@@ -515,7 +546,7 @@
 | Four Seasons Hotel Tokyo at Otemachi／VIRTÙ | [Google Maps](https://share.google/ah7iA93kd2timWTkV) | Google Maps 未取得 | 拋開趕行程的觀光束縛，帶領觀眾開箱自己日常鍾愛的東京各大飯店精緻餐飲、酒廊與悠閒酒吧。 描述欄將「Four Seasons Hotel Tokyo at Otemachi／VIRTÙ」列為本集出現的店家或地點。 | [31:54](https://www.youtube.com/watch?v=5QWk5FXIMUE&t=1914s) | Hina Life in Japan |
 | The Capitol Hotel Tokyu／The Capitol Bar | [Google Maps](https://maps.app.goo.gl/6s3ZpDuQjTsPwvti6) | Google Maps 未取得 | 拋開趕行程的觀光束縛，帶領觀眾開箱自己日常鍾愛的東京各大飯店精緻餐飲、酒廊與悠閒酒吧。 描述欄將「The Capitol Hotel Tokyu／The Capitol Bar」列為本集出現的店家或地點。 | [34:20](https://www.youtube.com/watch?v=5QWk5FXIMUE&t=2060s) | Hina Life in Japan |
 
-## 32. Life in Tokyo｜Spending the Day in SHIBUYA: Cafes & Local Shopping
+## 34. Life in Tokyo｜Spending the Day in SHIBUYA: Cafes & Local Shopping
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=2umzDfIATF4)
 - 發布時間：4 個月前；觀看次數：未取得
@@ -530,7 +561,7 @@
 | Kokappou Ohashi | [Google Maps](https://share.google/pcR4L0Ce4D20kyX8P) | Google Maps 未取得 | 順著自己的步調漫遊澀谷、表參道與原宿，造訪愛店、逛逛常去的商鋪，呈現最真實的東京日常。 描述欄將「Kokappou Ohashi」列為本集出現的店家或地點。 | [25:00](https://www.youtube.com/watch?v=2umzDfIATF4&t=1500s) | Hina Life in Japan |
 | Goog Good Not Bad | [Google Maps](https://share.google/34u7B0EKlgctsofaK) | Google Maps 未取得 | 順著自己的步調漫遊澀谷、表參道與原宿，造訪愛店、逛逛常去的商鋪，呈現最真實的東京日常。 描述欄將「Goog Good Not Bad」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=2umzDfIATF4) | Hina Life in Japan |
 
-## 33. Life in Tokyo｜Spending the Day in Ginza: Shopping & Food
+## 35. Life in Tokyo｜Spending the Day in Ginza: Shopping & Food
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=QuVFYeC9etE)
 - 發布時間：4 個月前；觀看次數：未取得
@@ -547,7 +578,7 @@
 | Tokyo International Forum | [Google Maps](https://maps.app.goo.gl/zTBDDZvCsxMfVfkv6) | Google Maps 未取得 | 避開喧囂的觀光大眾景點，專注介紹自己在銀座回訪率極高的口袋名單餐廳、咖啡廳與愛逛店舖。 描述欄將「Tokyo International Forum」列為本集出現的店家或地點。 | [23:20](https://www.youtube.com/watch?v=QuVFYeC9etE&t=1400s) | Hina Life in Japan |
 | VIRTÙ Four Seasons Hotel | [Google Maps](https://share.google/ILzJhyAPPhKwcTLIl) | Google Maps 未取得 | 避開喧囂的觀光大眾景點，專注介紹自己在銀座回訪率極高的口袋名單餐廳、咖啡廳與愛逛店舖。 描述欄將「VIRTÙ Four Seasons Hotel」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=QuVFYeC9etE) | Hina Life in Japan |
 
-## 34. Life in Tokyo｜A Day of Cafes, Vintage Finds & Books in Tokyo📚☕️
+## 36. Life in Tokyo｜A Day of Cafes, Vintage Finds & Books in Tokyo📚☕️
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=eC7COrg5KgE)
 - 發布時間：5 個月前；觀看次數：未取得
@@ -569,7 +600,7 @@
 | TAMBURINS | [Google Maps](https://share.google/MwR4ZaiZ2ErhayWbd) | Google Maps 未取得 | 漫步於銀杏簇擁的表參道享受購物，隨後沿著小田急線探訪下北澤與代官山一帶的迷人小店，次日更延伸至神保町度過書香時光。 描述欄將「TAMBURINS」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=eC7COrg5KgE) | Hina Life in Japan |
 | Yoyogi-uehara | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Yoyogi-uehara%20Life%20in%20Tokyo%20A%20Day%20of%20Cafes%2C%20Vintage%20Finds%20Books%20in%20Tokyo) | Google Maps 未取得（以搜尋連結代替） | 漫步於銀杏簇擁的表參道享受購物，隨後沿著小田急線探訪下北澤與代官山一帶的迷人小店，次日更延伸至神保町度過書香時光。 描述欄將「Yoyogi-uehara」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=eC7COrg5KgE) | Hina Life in Japan |
 
-## 35. Life in Tokyo｜Vintage Finds, Cozy Cafes & Tokyo Streets☕️🎧
+## 37. Life in Tokyo｜Vintage Finds, Cozy Cafes & Tokyo Streets☕️🎧
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=a-bPndpKXiA)
 - 發布時間：5 個月前；觀看次數：未取得
@@ -595,7 +626,7 @@
 | Punk Doily | [Google Maps](https://share.google/svnIajfARbxPpw1hU) | Google Maps 未取得 | 展開一場以美食為出發點的東京個人冒險，隨心所欲遊走於吉祥寺、下北澤與自由之丘等心儀街區。 描述欄將「Punk Doily」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=a-bPndpKXiA) | Hina Life in Japan |
 | teal | [Google Maps](https://share.google/cNBEAPR3DbSVVYsVj) | Google Maps 未取得 | 展開一場以美食為出發點的東京個人冒險，隨心所欲遊走於吉祥寺、下北澤與自由之丘等心儀街區。 描述欄將「teal」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=a-bPndpKXiA) | Hina Life in Japan |
 
-## 36. Life in Tokyo｜The Quiet Side of Shinjuku & Toshima Edition, Cozy Cafes & Shoppin 2025
+## 38. Life in Tokyo｜The Quiet Side of Shinjuku & Toshima Edition, Cozy Cafes & Shoppin 2025
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=EwwWbI13wss)
 - 發布時間：5 個月前；觀看次數：未取得
@@ -613,7 +644,7 @@
 | Miyazaki Fudo Kuwanne | [Google Maps](https://maps.app.goo.gl/Mh1KhrDLEGxuEvPW8) | Google Maps 未取得 | 發掘隱身於新宿與豐島市中心的寧靜一隅，走訪幽靜的庭園與隱密咖啡廳，享受遠離喧囂的慢活風景。 描述欄將「Miyazaki Fudo Kuwanne」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=EwwWbI13wss) | Hina Life in Japan |
 | Parklet | [Google Maps](https://share.google/mtxCkiGe4fTAgf1Bu) | Google Maps 未取得 | 發掘隱身於新宿與豐島市中心的寧靜一隅，走訪幽靜的庭園與隱密咖啡廳，享受遠離喧囂的慢活風景。 描述欄將「Parklet」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=EwwWbI13wss) | Hina Life in Japan |
 
-## 37. BEST 10  Michelin Guide Tokyo Restaurants & Tabelogu Top 100 Restaurants in TOKYO｜Japan Food Guide🇯🇵
+## 39. BEST 10  Michelin Guide Tokyo Restaurants & Tabelogu Top 100 Restaurants in TOKYO｜Japan Food Guide🇯🇵
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=3mHmU2zBgLM)
 - 發布時間：5 個月前；觀看次數：未取得
@@ -631,7 +662,7 @@
 | Tsukiji Bunkajin | [Google Maps](https://share.google/GDdXSIoGQaX2CAJwI) | Google Maps 未取得 | 精選10家深受在地人喜愛、榮獲米其林指南肯定或日本食評網認證的頂級實力派餐廳指南。 描述欄將「Tsukiji Bunkajin」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=3mHmU2zBgLM) | Hina Life in Japan |
 | Zakuro Ginza | [Google Maps](https://share.google/FGg72br0emdCsNeLj) | Google Maps 未取得 | 精選10家深受在地人喜愛、榮獲米其林指南肯定或日本食評網認證的頂級實力派餐廳指南。 描述欄將「Zakuro Ginza」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=3mHmU2zBgLM) | Hina Life in Japan |
 
-## 38. Life in Tokyo｜10 Favorite Tokyo Spots: My Go-To Japanese Restaurants & Cozy Cafes 2025
+## 40. Life in Tokyo｜10 Favorite Tokyo Spots: My Go-To Japanese Restaurants & Cozy Cafes 2025
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Ze0IizspsQA)
 - 發布時間：5 個月前；觀看次數：未取得
@@ -649,7 +680,7 @@
 | Tempura Funabashiya | [Google Maps](https://share.google/LTCb9Jhk2uA5CrcdZ) | Google Maps 未取得 | 大方公開10個私房推薦的東京必訪美食景點，包含私藏的傳統日式料理餐廳與舒適咖啡廳。 描述欄將「Tempura Funabashiya」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=Ze0IizspsQA) | Hina Life in Japan |
 | Tonpachitei | [Google Maps](https://share.google/qdPCdm9awgr8SiMDK) | Google Maps 未取得 | 大方公開10個私房推薦的東京必訪美食景點，包含私藏的傳統日式料理餐廳與舒適咖啡廳。 描述欄將「Tonpachitei」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=Ze0IizspsQA) | Hina Life in Japan |
 
-## 39. Life in Tokyo｜Old-Town Atmosphere, Cozy Cafes & Retro Shops 2025
+## 41. Life in Tokyo｜Old-Town Atmosphere, Cozy Cafes & Retro Shops 2025
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=6Sr7Z0XQa5c)
 - 發布時間：5 個月前；觀看次數：未取得
@@ -666,7 +697,7 @@
 | MIA MIA | [Google Maps](https://maps.app.goo.gl/n8AhiF9gQNEEQNwz5) | Google Maps 未取得 | 慢步漫遊於淺草、藏前、上野與神保町，細細品味東京舊城區獨有的懷舊氛圍與歲月魅力。 描述欄將「MIA MIA」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=6Sr7Z0XQa5c) | Hina Life in Japan |
 | Pretty good | [Google Maps](https://maps.app.goo.gl/sbvCVqgkb2oadKcb8) | Google Maps 未取得 | 慢步漫遊於淺草、藏前、上野與神保町，細細品味東京舊城區獨有的懷舊氛圍與歲月魅力。 描述欄將「Pretty good」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=6Sr7Z0XQa5c) | Hina Life in Japan |
 
-## 40. Life in Tokyo｜Exploring New Spots, Shopping & Cafe Hopping 2025
+## 42. Life in Tokyo｜Exploring New Spots, Shopping & Cafe Hopping 2025
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=kOlkaHbBZMY)
 - 發布時間：5 個月前；觀看次數：未取得
@@ -684,7 +715,7 @@
 | PRETTY THINGS | [Google Maps](https://maps.app.goo.gl/L5MqTUUa6ePfTRTaA) | Google Maps 未取得 | 出差返台後再度踩點東京，帶領觀眾開箱多個近期蔚為話題、新開幕的矚目複合式購物商場。 描述欄將「PRETTY THINGS」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=kOlkaHbBZMY) | Hina Life in Japan |
 | The SUN LIVES HERE | [Google Maps](https://share.google/3d1EjFUJsp62f9ke6) | Google Maps 未取得 | 出差返台後再度踩點東京，帶領觀眾開箱多個近期蔚為話題、新開幕的矚目複合式購物商場。 描述欄將「The SUN LIVES HERE」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=kOlkaHbBZMY) | Hina Life in Japan |
 
-## 41. BEST 50 MUST BUY SOUVENIRS at Shibuya MEGA Don Quijote 2025｜Japan  Ultimate Guide
+## 43. BEST 50 MUST BUY SOUVENIRS at Shibuya MEGA Don Quijote 2025｜Japan  Ultimate Guide
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Bul7F3Zygrk)
 - 發布時間：5 個月前；觀看次數：未取得
@@ -693,7 +724,7 @@
 | --- | --- | --- | --- | --- | --- |
 | Shibuya Mega Don Quijote | [Google Maps](https://share.google/Rv0EBlEQGMyesPe3U) | Google Maps 未取得 | 影片將這些地點列入澀谷驚安殿堂購物主題，適合作為挑選日本旅遊伴手禮的參考。 描述欄將「Shibuya Mega Don Quijote」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=Bul7F3Zygrk) | Hina Life in Japan |
 
-## 42. 🇯🇵🗼TOKYO VLOG｜Exploring Ueno｜Food spots, Shopping, cozy cafe and Sightseeing
+## 44. 🇯🇵🗼TOKYO VLOG｜Exploring Ueno｜Food spots, Shopping, cozy cafe and Sightseeing
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Oeaub98Y9V8)
 - 發布時間：6 個月前；觀看次數：未取得
@@ -706,7 +737,7 @@
 | Nagi Ueno | [Google Maps](https://share.google/GVCNAL0Pd2wjxXsXY) | Google Maps 未取得 | 在氣氛慵懶悠閒的上野地區展開一日遊，邊走邊吃在地點心並放慢腳步享受愜意行程。 描述欄將「Nagi Ueno」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=Oeaub98Y9V8) | Hina Life in Japan |
 | Tompachitei | [Google Maps](https://share.google/bmc4m6u6hzJ1CAefH) | Google Maps 未取得 | 在氣氛慵懶悠閒的上野地區展開一日遊，邊走邊吃在地點心並放慢腳步享受愜意行程。 描述欄將「Tompachitei」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=Oeaub98Y9V8) | Hina Life in Japan |
 
-## 43. Life in Tokyo Vlog｜Perfect days in Tokyo｜Ultimate Spots in Shibuya + Tokyo cosy cafes Tour🍁☕️
+## 45. Life in Tokyo Vlog｜Perfect days in Tokyo｜Ultimate Spots in Shibuya + Tokyo cosy cafes Tour🍁☕️
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=j3kYZFftxio)
 - 發布時間：6 個月前；觀看次數：未取得
@@ -734,7 +765,7 @@
 | Tokyo Station | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Tokyo%20Station%20Life%20in%20Tokyo%20Vlog%20Perfect%20days%20in%20Tokyo%20Ultimate%20Spots%20in%20Shibuya%20Tokyo%20cosy%20ca) | Google Maps 未取得（以搜尋連結代替） | 利用在東京的最後一週回訪最愛的街區，一邊品嚐好咖啡與美食，一邊採購心中第一名的日本回國伴手禮。 描述欄將「Tokyo Station」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=j3kYZFftxio) | Hina Life in Japan |
 | Yoyogi-uehara | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Yoyogi-uehara%20Life%20in%20Tokyo%20Vlog%20Perfect%20days%20in%20Tokyo%20Ultimate%20Spots%20in%20Shibuya%20Tokyo%20cosy%20ca) | Google Maps 未取得（以搜尋連結代替） | 利用在東京的最後一週回訪最愛的街區，一邊品嚐好咖啡與美食，一邊採購心中第一名的日本回國伴手禮。 描述欄將「Yoyogi-uehara」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=j3kYZFftxio) | Hina Life in Japan |
 
-## 44. How to Enjoy Tokyo Like a Local｜TOKYO VLOG｜retro town day trip, antique market and japanese foods
+## 46. How to Enjoy Tokyo Like a Local｜TOKYO VLOG｜retro town day trip, antique market and japanese foods
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=sXbqwt-N8i0)
 - 發布時間：6 個月前；觀看次數：未取得
@@ -748,7 +779,7 @@
 | Toraya | [Google Maps](https://share.google/CjEoT8ob4BLh8YSIr) | Google Maps 未取得 | 與好友造訪充滿懷舊下町風情的柴又地區，漫步柴又帝釋天參道，感受舊時光的獨特魅力。 描述欄將「Toraya」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=sXbqwt-N8i0) | Hina Life in Japan |
 | Yamamoto Tei | [Google Maps](https://share.google/EH7Ndn2gvgYmMVGRj) | Google Maps 未取得 | 與好友造訪充滿懷舊下町風情的柴又地區，漫步柴又帝釋天參道，感受舊時光的獨特魅力。 描述欄將「Yamamoto Tei」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=sXbqwt-N8i0) | Hina Life in Japan |
 
-## 45. HOW TO SPEND 3DAYS IN TOKYO, JAPAN｜Japan Ultimate Guide 2025
+## 47. HOW TO SPEND 3DAYS IN TOKYO, JAPAN｜Japan Ultimate Guide 2025
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=H37BTHmfYXc)
 - 發布時間：6 個月前；觀看次數：未取得
@@ -770,7 +801,7 @@
 | Tempura Funabashiya Shinjuku Hon Ten | [Google Maps](https://share.google/YZawZHE81qXbEtFZQ) | Google Maps 未取得 | 為時間有限的旅人規劃三天兩夜東京高效行程，網羅經典地標與在地人熱愛的人氣好去處。 描述欄將「Tempura Funabashiya Shinjuku Hon Ten」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=H37BTHmfYXc) | Hina Life in Japan |
 | Tokyo Metropolitan Building | [Google Maps](https://share.google/qOeT0pnRNVAKZJFZN) | Google Maps 未取得 | 為時間有限的旅人規劃三天兩夜東京高效行程，網羅經典地標與在地人熱愛的人氣好去處。 描述欄將「Tokyo Metropolitan Building」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=H37BTHmfYXc) | Hina Life in Japan |
 
-## 46. BEST 10 WHAT I EAT IN A DAY IN TOKYO 2025｜Japan Ultimate Guide
+## 48. BEST 10 WHAT I EAT IN A DAY IN TOKYO 2025｜Japan Ultimate Guide
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=TbSsmQKWbjA)
 - 發布時間：6 個月前；觀看次數：未取得
@@ -788,7 +819,7 @@
 | Tasuke Sushi | [Google Maps](https://share.google/Z0twPPfP4nV111Mh5) | Google Maps 未取得 | 一日東京美食馬拉松，造訪包含道地壽司、新潮咖啡廳、抹茶飲品與飯店百匯等10家美味驚豔的餐廳。 描述欄將「Tasuke Sushi」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=TbSsmQKWbjA) | Hina Life in Japan |
 | Tsukiji Sushi Sei | [Google Maps](https://share.google/Hf5K7yvefXFisamZG) | Google Maps 未取得 | 一日東京美食馬拉松，造訪包含道地壽司、新潮咖啡廳、抹茶飲品與飯店百匯等10家美味驚豔的餐廳。 描述欄將「Tsukiji Sushi Sei」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=TbSsmQKWbjA) | Hina Life in Japan |
 
-## 47. THE PERFECT 72HOURS ITINERARY IN TOKYO🗼🍡｜Japan Ultimate Guide 2025
+## 49. THE PERFECT 72HOURS ITINERARY IN TOKYO🗼🍡｜Japan Ultimate Guide 2025
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=O4cv7FBaR_0)
 - 發布時間：6 個月前；觀看次數：未取得
@@ -809,7 +840,7 @@
 | Super Potato | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Super%20Potato%20THE%20PERFECT%2072HOURS%20ITINERARY%20IN%20TOKYO%20Japan%20Ultimate%20Guide%202025) | Google Maps 未取得（以搜尋連結代替） | 充實的東京三日遊黃金路線，第三天更從新宿出發延伸至溫泉勝地箱根，兼顧城市購物與近郊自然。 描述欄將「Super Potato」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=O4cv7FBaR_0) | Hina Life in Japan |
 | Ueno Park | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Ueno%20Park%20Ueno%20Park%2C%20Taito-ku%2C%20Tokyo) | Google Maps 未取得（以搜尋連結代替） | 充實的東京三日遊黃金路線，第三天更從新宿出發延伸至溫泉勝地箱根，兼顧城市購物與近郊自然。 描述欄將「Ueno Park」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=O4cv7FBaR_0) | Hina Life in Japan |
 
-## 48. THE BEST MATCHA SPOTS IN JAPAN 2025｜Japan Ultimate Guide
+## 50. THE BEST MATCHA SPOTS IN JAPAN 2025｜Japan Ultimate Guide
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=ROf3HBnMTt8)
 - 發布時間：7 個月前；觀看次數：未取得
@@ -828,7 +859,7 @@
 | ONN KYOTO GOKOMACHI | [Google Maps](https://share.google/8ZRf5uLOs8KBqZ1oQ) | Google Maps 未取得 | 深度聚焦日本抹茶文化，從東京極具設計感的新潮店舖一路開箱到京都歷史悠久的傳統老茶屋。 描述欄將「ONN KYOTO GOKOMACHI」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=ROf3HBnMTt8) | Hina Life in Japan |
 | THE MATCHA TOKYO | [Google Maps](https://share.google/zHCed1Kh7lmipLgeF) | Google Maps 未取得 | 深度聚焦日本抹茶文化，從東京極具設計感的新潮店舖一路開箱到京都歷史悠久的傳統老茶屋。 描述欄將「THE MATCHA TOKYO」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=ROf3HBnMTt8) | Hina Life in Japan |
 
-## 49. WHAT TO DO IN TOKYO FOR 3 DAYS🗼 | Japan Ultimate Guide 2025
+## 51. WHAT TO DO IN TOKYO FOR 3 DAYS🗼 | Japan Ultimate Guide 2025
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=cd9plh515Yw)
 - 發布時間：7 個月前；觀看次數：未取得
@@ -850,7 +881,7 @@
 | Tempura Funabashiya Shinjuku Hon Ten | [Google Maps](https://share.google/YZawZHE81qXbEtFZQ) | Google Maps 未取得 | 專為初訪旅客設計的東京三日遊指南，從必訪的地標景點到藏身街巷的在地美食一應俱全。 描述欄將「Tempura Funabashiya Shinjuku Hon Ten」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=cd9plh515Yw) | Hina Life in Japan |
 | Tokyo Metropolitan Building | [Google Maps](https://share.google/qOeT0pnRNVAKZJFZN) | Google Maps 未取得 | 專為初訪旅客設計的東京三日遊指南，從必訪的地標景點到藏身街巷的在地美食一應俱全。 描述欄將「Tokyo Metropolitan Building」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=cd9plh515Yw) | Hina Life in Japan |
 
-## 50. BEST 10 MUST VISIT ULTIMATE SPOTS IN GINZA, TOKYO｜Japan Travel Guide 2025
+## 52. BEST 10 MUST VISIT ULTIMATE SPOTS IN GINZA, TOKYO｜Japan Travel Guide 2025
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=TOtm9wFGoFs)
 - 發布時間：7 個月前；觀看次數：未取得
@@ -868,7 +899,7 @@
 | UNIQLO FLAGSHIP STORE GINZA | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=UNIQLO%20FLAGSHIP%20STORE%20GINZA%20Ginza%20Komatsu%20East%20Building%201F%E2%80%9312F%2C%206-9-5%20Ginza%2C%20Chuo-ku%2C%20Tokyo) | Google Maps 未取得（以搜尋連結代替） | 探索散發優雅格調的銀座商圈，網羅質感咖啡廳、隱藏版美食與高級精品店的完美散策計畫。 描述欄將「UNIQLO FLAGSHIP STORE GINZA」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=TOtm9wFGoFs) | Hina Life in Japan |
 | Wako Clock Tower | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Wako%20Clock%20Tower%20BEST%2010%20MUST%20VISIT%20ULTIMATE%20SPOTS%20IN%20GINZA%2C%20TOKYO%20Japan%20Travel%20Guide%202025) | Google Maps 未取得（以搜尋連結代替） | 探索散發優雅格調的銀座商圈，網羅質感咖啡廳、隱藏版美食與高級精品店的完美散策計畫。 描述欄將「Wako Clock Tower」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=TOtm9wFGoFs) | Hina Life in Japan |
 
-## 51. BEST 10 Ultimate Japanese Foods to Eat in a Day in Tokyo｜Japan Travel Guide 2025
+## 53. BEST 10 Ultimate Japanese Foods to Eat in a Day in Tokyo｜Japan Travel Guide 2025
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=-ktxCItkewQ)
 - 發布時間：7 個月前；觀看次數：未取得
@@ -886,7 +917,7 @@
 | Tonpachi Tei | [Google Maps](https://maps.app.goo.gl/NrpDccE5jhY5vK4i8) | Google Maps 未取得 | 體現傳統和食的平衡與風味，精選介紹多間榮登米其林名單的頂級炸豬排、壽司與天婦羅名店。 描述欄將「Tonpachi Tei」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=-ktxCItkewQ) | Hina Life in Japan |
 | Yukimura | [Google Maps](https://maps.app.goo.gl/iC5BvHjGMynSMJHR7) | Google Maps 未取得 | 體現傳統和食的平衡與風味，精選介紹多間榮登米其林名單的頂級炸豬排、壽司與天婦羅名店。 描述欄將「Yukimura」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=-ktxCItkewQ) | Hina Life in Japan |
 
-## 52. Day trips from Tokyo | Ghibli-Like Seaside Town 'Kamakura' | JAPAN TRAVEL VLOG 2025
+## 54. Day trips from Tokyo | Ghibli-Like Seaside Town 'Kamakura' | JAPAN TRAVEL VLOG 2025
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=EeOiJqCkkXo)
 - 發布時間：8 個月前；觀看次數：未取得
@@ -899,7 +930,7 @@
 | Komachi Street | [Google Maps](https://maps.app.goo.gl/pDg17bCqdsMMyVAA8) | Google Maps 未取得 | 從東京出發前往充滿吉卜力溫馨感的沿海小鎮鎌倉，搭乘江之電、欣賞海景並參拜鎌倉大佛。 描述欄將「Komachi Street」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=EeOiJqCkkXo) | Hina Life in Japan |
 | Miffiy Oyatsudo | [Google Maps](https://maps.app.goo.gl/fbGME6xVUk6AH6KX7) | Google Maps 未取得 | 從東京出發前往充滿吉卜力溫馨感的沿海小鎮鎌倉，搭乘江之電、欣賞海景並參拜鎌倉大佛。 描述欄將「Miffiy Oyatsudo」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=EeOiJqCkkXo) | Hina Life in Japan |
 
-## 53. BEST 10 WHAT I EAT IN A DAY TOKYO, JAPAN 2025｜Japan Ultimate Guide
+## 55. BEST 10 WHAT I EAT IN A DAY TOKYO, JAPAN 2025｜Japan Ultimate Guide
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=rXD1_QI-X4A)
 - 發布時間：8 個月前；觀看次數：未取得
@@ -916,7 +947,7 @@
 | Sushi Yamaken Ginza | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Sushi%20Yamaken%20Ginza%20BEST%2010%20WHAT%20I%20EAT%20IN%20A%20DAY%20TOKYO%2C%20JAPAN%202025%20Japan%20Ultimate%20Guide) | Google Maps 未取得（以搜尋連結代替） | 基於真實造訪經驗，精選推薦10家能品嚐到炸豬排、親子丼及壽喜燒等正宗日式傳統和食的餐廳。 描述欄將「Sushi Yamaken Ginza」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=rXD1_QI-X4A) | Hina Life in Japan |
 | Tori Jaya Bettei | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Tori%20Jaya%20Bettei%20BEST%2010%20WHAT%20I%20EAT%20IN%20A%20DAY%20TOKYO%2C%20JAPAN%202025%20Japan%20Ultimate%20Guide) | Google Maps 未取得（以搜尋連結代替） | 基於真實造訪經驗，精選推薦10家能品嚐到炸豬排、親子丼及壽喜燒等正宗日式傳統和食的餐廳。 描述欄將「Tori Jaya Bettei」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=rXD1_QI-X4A) | Hina Life in Japan |
 
-## 54. 24 hours Escape to Rural Tokyo Just 40 Minutes from Shinjuku｜Japan Ultimate Guide 2025
+## 56. 24 hours Escape to Rural Tokyo Just 40 Minutes from Shinjuku｜Japan Ultimate Guide 2025
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=iqciP7KA0Mo)
 - 發布時間：8 個月前；觀看次數：未取得
@@ -927,7 +958,7 @@
 | Matsuba Chaya | [Google Maps](https://share.google/jmcCyhy8SwbHYpzyO) | Google Maps 未取得 | 逃離喧囂來到距離新宿僅40分鐘的深大寺，徜徉於綠意盎然的古剎並品嚐傳統手作蕎麥麵。 描述欄將「Matsuba Chaya」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=iqciP7KA0Mo) | Hina Life in Japan |
 | Yumori no Sato | [Google Maps](https://share.google/hEigH10ZZCK9DK7WX) | Google Maps 未取得 | 逃離喧囂來到距離新宿僅40分鐘的深大寺，徜徉於綠意盎然的古剎並品嚐傳統手作蕎麥麵。 描述欄將「Yumori no Sato」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=iqciP7KA0Mo) | Hina Life in Japan |
 
-## 55. BEST 30 MUST-BUY JAPANESE ULTIMATE SOUVENIRS IN SHIBUYA MEGA DonQuijote 2025 ｜Tokyo Travel Guide
+## 57. BEST 30 MUST-BUY JAPANESE ULTIMATE SOUVENIRS IN SHIBUYA MEGA DonQuijote 2025 ｜Tokyo Travel Guide
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=rX_AhcDwX_0)
 - 發布時間：1 年前；觀看次數：觀看次數：15萬次
@@ -936,7 +967,7 @@
 | --- | --- | --- | --- | --- | --- |
 | Shibuya Mega Don Quijote | [Google Maps](https://maps.app.goo.gl/3q8jodcjaaqj5YbY8) | Google Maps 未取得 | 第13次造訪全東京最熱鬧好玩的澀谷驚安殿堂，帶來熟門熟路的極致伴手禮採購指南。 描述欄將「Shibuya Mega Don Quijote」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=rX_AhcDwX_0) | Hina Life in Japan |
 
-## 56. BEST 10 GINZA FOOD & SHOPPING ULTIMATE GUIDE: Japan Travel Guide 2024
+## 58. BEST 10 GINZA FOOD & SHOPPING ULTIMATE GUIDE: Japan Travel Guide 2024
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=SdWhgoSISrU)
 - 發布時間：2 年前；觀看次數：觀看次數：8.2萬次
@@ -952,7 +983,7 @@
 | BONGEN COFFEE Tokyo Ginza | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=BONGEN%20COFFEE%20Tokyo%20Ginza%20BEST%2010%20GINZA%20FOOD%20SHOPPING%20ULTIMATE%20GUIDE%20Japan%20Travel%20Guide%202024) | Google Maps 未取得（以搜尋連結代替） | 從全年踩點超過200家店的精選名單中，為觀眾開箱與澀谷、新宿齊名的銀座必訪美食與經典地標。 描述欄將「BONGEN COFFEE Tokyo Ginza」列為本集出現的店家或地點。 | [17:51](https://www.youtube.com/watch?v=SdWhgoSISrU&t=1071s) | Hina Life in Japan |
 | Hibiya Park | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Hibiya%20Park%20BEST%2010%20GINZA%20FOOD%20SHOPPING%20ULTIMATE%20GUIDE%20Japan%20Travel%20Guide%202024) | Google Maps 未取得（以搜尋連結代替） | 從全年踩點超過200家店的精選名單中，為觀眾開箱與澀谷、新宿齊名的銀座必訪美食與經典地標。 描述欄將「Hibiya Park」列為本集出現的店家或地點。 | [19:21](https://www.youtube.com/watch?v=SdWhgoSISrU&t=1161s) | Hina Life in Japan |
 
-## 57. BEST 23 Michelin Guide Tokyo Restaurants 2025  | Japan Ultimate Guide
+## 59. BEST 23 Michelin Guide Tokyo Restaurants 2025  | Japan Ultimate Guide
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=H7dn5qrViCY)
 - 發布時間：11 個月前；觀看次數：觀看次數：6.3萬次
@@ -983,7 +1014,7 @@
 | Tonpachi Tei | [Google Maps](https://maps.app.goo.gl/bhjNq5Uuh8YnK9zh9) | Google Maps 未取得 | 由長居東京的在地饕客帶路，大方公開23家榮獲米其林指南肯定的極致私房口袋餐廳。 描述欄將「Tonpachi Tei」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=H7dn5qrViCY) | Hina Life in Japan |
 | Yukimura | [Google Maps](https://maps.app.goo.gl/zQ2UHuhXFYt5LFDy9) | Google Maps 未取得 | 由長居東京的在地饕客帶路，大方公開23家榮獲米其林指南肯定的極致私房口袋餐廳。 描述欄將「Yukimura」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=H7dn5qrViCY) | Hina Life in Japan |
 
-## 58. BEST 20 MUST-VISIT ULTIMATE SPOTS IN GINZA,TOKYO | Japan Travel Guide 2025
+## 60. BEST 20 MUST-VISIT ULTIMATE SPOTS IN GINZA,TOKYO | Japan Travel Guide 2025
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=y99iEo15XeU)
 - 發布時間：1 年前；觀看次數：觀看次數：4.5萬次
@@ -1011,7 +1042,7 @@
 | Uniqlo Ginza Flagship Store | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Uniqlo%20Ginza%20Flagship%20Store%20Tokyo%2C%20Chuo%20City%2C%20Ginza%2C%206%20Chome%E2%88%929%E2%88%925%2012F) | Google Maps 未取得（以搜尋連結代替） | 帶領觀眾走進傳統與現代優雅交織的銀座，一口氣網羅洋食老店、傳統壽司與頂級購物中心。 描述欄將「Uniqlo Ginza Flagship Store」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=y99iEo15XeU) | Hina Life in Japan |
 | Yoshokuya Ginza Lamptei | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Yoshokuya%20Ginza%20Lamptei%20BEST%2020%20MUST-VISIT%20ULTIMATE%20SPOTS%20IN%20GINZA%2CTOKYO%20Japan%20Travel%20Guide%202025) | Google Maps 未取得（以搜尋連結代替） | 帶領觀眾走進傳統與現代優雅交織的銀座，一口氣網羅洋食老店、傳統壽司與頂級購物中心。 描述欄將「Yoshokuya Ginza Lamptei」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=y99iEo15XeU) | Hina Life in Japan |
 
-## 59. TSUKIJI FISH MARKETSTREET FOOD TOUR 2024｜Japan Ultimate Guide 2024
+## 61. TSUKIJI FISH MARKETSTREET FOOD TOUR 2024｜Japan Ultimate Guide 2024
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=DZ7wKFkc3uA)
 - 發布時間：1 年前；觀看次數：觀看次數：4.4萬次
@@ -1037,7 +1068,7 @@
 | Tsukiji Yamachou | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Tsukiji%20Yamachou%20TSUKIJI%20FISH%20MARKETSTREET%20FOOD%20TOUR%202024%20Japan%20Ultimate%20Guide%202024) | Google Maps 未取得（以搜尋連結代替） | 影片將這些地點列入築地市場美食街頭朝聖路線，適合作為品嚐在地小吃的餐飲參考。 描述欄將「Tsukiji Yamachou」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=DZ7wKFkc3uA) | Hina Life in Japan |
 | Tsukiji Yamanaga | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Tsukiji%20Yamanaga%20TSUKIJI%20FISH%20MARKETSTREET%20FOOD%20TOUR%202024%20Japan%20Ultimate%20Guide%202024) | Google Maps 未取得（以搜尋連結代替） | 影片將這些地點列入築地市場美食街頭朝聖路線，適合作為品嚐在地小吃的餐飲參考。 描述欄將「Tsukiji Yamanaga」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=DZ7wKFkc3uA) | Hina Life in Japan |
 
-## 60. 10 Japan coffee shops you should visit in Tokyo: Japan Travel Guide
+## 62. 10 Japan coffee shops you should visit in Tokyo: Japan Travel Guide
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=5lS-2thcoYw)
 - 發布時間：2 年前；觀看次數：觀看次數：4.4萬次
@@ -1053,7 +1084,7 @@
 | Rec Coffee | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Rec%20Coffee%2010%20Japan%20coffee%20shops%20you%20should%20visit%20in%20Tokyo%20Japan%20Travel%20Guide) | Google Maps 未取得（以搜尋連結代替） | 影片將這些地點列入東京必訪十大人氣咖啡廳主題，適合作為安排下午茶與放鬆行程的參考。 描述欄將「Rec Coffee」列為本集出現的店家或地點。 | [12:38](https://www.youtube.com/watch?v=5lS-2thcoYw&t=758s) | Hina Life in Japan |
 | Here Comes the Sun. | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Here%20Comes%20the%20Sun.%2010%20Japan%20coffee%20shops%20you%20should%20visit%20in%20Tokyo%20Japan%20Travel%20Guide) | Google Maps 未取得（以搜尋連結代替） | 影片將這些地點列入東京必訪十大人氣咖啡廳主題，適合作為安排下午茶與放鬆行程的參考。 描述欄將「Here Comes the Sun.」列為本集出現的店家或地點。 | [16:25](https://www.youtube.com/watch?v=5lS-2thcoYw&t=985s) | Hina Life in Japan |
 
-## 61. BEST 10 WHAT I EAT IN A DAY TOKYO, JAPAN: Japan Ultimate Guide 2025
+## 63. BEST 10 WHAT I EAT IN A DAY TOKYO, JAPAN: Japan Ultimate Guide 2025
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=JXalNTTJ2EQ)
 - 發布時間：1 年前；觀看次數：觀看次數：4.2萬次
@@ -1071,7 +1102,7 @@
 | Taketomi Jima | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Taketomi%20Jima%20B1F%2C%20Daito%20Ginza%20Building%2C%206-12-13%20Ginza%2C%20Chuo-city%2C%20Tokyo) | Google Maps 未取得（以搜尋連結代替） | 不藏私分享20家最深得心的人氣咖啡廳，無論是專注工作或日常慵懶放鬆都非常適合。 描述欄將「Taketomi Jima」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=JXalNTTJ2EQ) | Hina Life in Japan |
 | Ten-don Senmon Ginza Itsuki | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Ten-don%20Senmon%20Ginza%20Itsuki%20BEST%2010%20WHAT%20I%20EAT%20IN%20A%20DAY%20TOKYO%2C%20JAPAN%20Japan%20Ultimate%20Guide%202025) | Google Maps 未取得（以搜尋連結代替） | 不藏私分享20家最深得心的人氣咖啡廳，無論是專注工作或日常慵懶放鬆都非常適合。 描述欄將「Ten-don Senmon Ginza Itsuki」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=JXalNTTJ2EQ) | Hina Life in Japan |
 
-## 62. The best of GINZA, Tokyo: 6 Must Visit Special restaurants, cozy cafe
+## 64. The best of GINZA, Tokyo: 6 Must Visit Special restaurants, cozy cafe
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=4udbkore2mI)
 - 發布時間：3 年前；觀看次數：觀看次數：4.2萬次
@@ -1083,7 +1114,7 @@
 | Bar S | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Bar%20S%20The%20best%20of%20GINZA%2C%20Tokyo%206%20Must%20Visit%20Special%20restaurants%2C%20cozy%20cafe) | Google Maps 未取得（以搜尋連結代替） | 專為嚮往優雅精緻氛圍的旅人設計，精選出適合精緻約會的銀座絕景餐廳與質感高空酒吧。 描述欄將「Bar S」列為本集出現的店家或地點。 | [07:20](https://www.youtube.com/watch?v=4udbkore2mI&t=440s) | Hina Life in Japan |
 | GINZA SIX ROOFTOP ART PARK | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=GINZA%20SIX%20ROOFTOP%20ART%20PARK%20The%20best%20of%20GINZA%2C%20Tokyo%206%20Must%20Visit%20Special%20restaurants%2C%20cozy%20cafe) | Google Maps 未取得（以搜尋連結代替） | 專為嚮往優雅精緻氛圍的旅人設計，精選出適合精緻約會的銀座絕景餐廳與質感高空酒吧。 描述欄將「GINZA SIX ROOFTOP ART PARK」列為本集出現的店家或地點。 | [09:10](https://www.youtube.com/watch?v=4udbkore2mI&t=550s) | Hina Life in Japan |
 
-## 63. The best of HAKONE: 6 Must-See Cafes, Hot Springs & Restaurants
+## 65. The best of HAKONE: 6 Must-See Cafes, Hot Springs & Restaurants
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=QJo1FutH6vs)
 - 發布時間：3 年前；觀看次數：觀看次數：4萬次
@@ -1096,7 +1127,7 @@
 | IRORISARYO Hachiri | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=IRORISARYO%20Hachiri%20The%20best%20of%20HAKONE%206%20Must-See%20Cafes%2C%20Hot%20Springs%20Restaurants) | Google Maps 未取得（以搜尋連結代替） | 影片將這些地點列入箱根溫泉泡湯與人氣餐飲路線，適合作為安排一日遊或兩日一夜住宿的參考。 描述欄將「IRORISARYO Hachiri」列為本集出現的店家或地點。 | [07:37](https://www.youtube.com/watch?v=QJo1FutH6vs&t=457s) | Hina Life in Japan |
 | Stay↓ | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Stay%E2%86%93%20The%20best%20of%20HAKONE%206%20Must-See%20Cafes%2C%20Hot%20Springs%20Restaurants) | Google Maps 未取得（以搜尋連結代替） | 影片將這些地點列入箱根溫泉泡湯與人氣餐飲路線，適合作為安排一日遊或兩日一夜住宿的參考。 描述欄將「Stay↓」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=QJo1FutH6vs) | Hina Life in Japan |
 
-## 64. TOKYO STATION FOOD & SHOPPING ULTIMATE GUIDE: Japan Travel Guide 2024
+## 66. TOKYO STATION FOOD & SHOPPING ULTIMATE GUIDE: Japan Travel Guide 2024
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Gr6_zeqZ1nE)
 - 發布時間：2 年前；觀看次數：觀看次數：3.5萬次
@@ -1114,7 +1145,7 @@
 | Sakaba Mihama Tokyo | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Sakaba%20Mihama%20Tokyo%20TOKYO%20STATION%20FOOD%20SHOPPING%20ULTIMATE%20GUIDE%20Japan%20Travel%20Guide%202024) | Google Maps 未取得（以搜尋連結代替） | 帶領美食愛好者解鎖東京車站周邊，深度開箱隱藏在各大地下街與精緻商場內的頂級日式餐廳。 描述欄將「Sakaba Mihama Tokyo」列為本集出現的店家或地點。 | [29:00](https://www.youtube.com/watch?v=Gr6_zeqZ1nE&t=1740s) | Hina Life in Japan |
 | Shin  Marunouchi Bldg 5F 1-5-1 Marunouchi, Chiyoda, Tokyo | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Shin%20%20Marunouchi%20Bldg%205F%201-5-1%20Marunouchi%2C%20Chiyoda%2C%20Tokyo%20TOKYO%20STATION%20FOOD%20SHOPPING%20ULTIMATE%20GUIDE%20Japan%20Travel%20Guide%202024) | Google Maps 未取得（以搜尋連結代替） | 帶領美食愛好者解鎖東京車站周邊，深度開箱隱藏在各大地下街與精緻商場內的頂級日式餐廳。 描述欄將「Shin  Marunouchi Bldg 5F 1-5-1 Marunouchi, Chiyoda, Tokyo」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=Gr6_zeqZ1nE) | Hina Life in Japan |
 
-## 65. BEST 6 ULTIMATE JAPANESE BUFFETS TOUR IN TOKYO: Japan Travel Guide 2024
+## 67. BEST 6 ULTIMATE JAPANESE BUFFETS TOUR IN TOKYO: Japan Travel Guide 2024
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=6JYUirChbMQ)
 - 發布時間：2 年前；觀看次數：觀看次數：3.4萬次
@@ -1126,7 +1157,7 @@
 | Aloft Tokyo Ginza The WAREHOUSE | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Aloft%20Tokyo%20Ginza%20The%20WAREHOUSE%20BEST%206%20ULTIMATE%20JAPANESE%20BUFFETS%20TOUR%20IN%20TOKYO%20Japan%20Travel%20Guide%202024) | Google Maps 未取得（以搜尋連結代替） | 網羅銀座、日本橋、澀谷及東京車站周邊的頂級日式飯店與星巴克精緻吃到飽美食巡禮。 描述欄將「Aloft Tokyo Ginza The WAREHOUSE」列為本集出現的店家或地點。 | [12:07](https://www.youtube.com/watch?v=6JYUirChbMQ&t=727s) | Hina Life in Japan |
 | Grand Prince Hotel Shin Takanawa | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Grand%20Prince%20Hotel%20Shin%20Takanawa%20BEST%206%20ULTIMATE%20JAPANESE%20BUFFETS%20TOUR%20IN%20TOKYO%20Japan%20Travel%20Guide%202024) | Google Maps 未取得（以搜尋連結代替） | 網羅銀座、日本橋、澀谷及東京車站周邊的頂級日式飯店與星巴克精緻吃到飽美食巡禮。 描述欄將「Grand Prince Hotel Shin Takanawa」列為本集出現的店家或地點。 | [14:51](https://www.youtube.com/watch?v=6JYUirChbMQ&t=891s) | Hina Life in Japan |
 
-## 66. BEST 10 MUST-VISIT ULTIMATE SPOTS IN GINZA,TOKYO｜Japan Travel Guide 2025
+## 68. BEST 10 MUST-VISIT ULTIMATE SPOTS IN GINZA,TOKYO｜Japan Travel Guide 2025
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=YSaYWBulmfE)
 - 發布時間：1 年前；觀看次數：觀看次數：3.3萬次
@@ -1141,7 +1172,7 @@
 | Washoku Dokoro Gotou | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Washoku%20Dokoro%20Gotou%20Tokyo%20Kotsu%20Kaikan%20B1F%2C%202-10-1%20Yurakucho%2C%20Chiyoda%20City%2C%20Tokyo) | Google Maps 未取得（以搜尋連結代替） | 由土生土長的日本在地人帶路，精選出12個能在一天之內深度體驗銀座魅力的極致必訪景點。 描述欄將「Washoku Dokoro Gotou」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=YSaYWBulmfE) | Hina Life in Japan |
 | Yoshokuya Ginza Lamptei | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Yoshokuya%20Ginza%20Lamptei%20The%20Royal%20Park%20Hotel%20Ginza%206-chome%201F%2C%206-16-14%20Ginza%2C%20Chuo%20City%2C%20Tokyo%3B%20Uniqlo%20TOKYO%3B%20Marronnier%20Gate%20Ginza%202%2C%201F%E2%80%934F%2C%203-2-1%20Ginza%2C%20Chuo%20City%2C%20Tokyo) | Google Maps 未取得（以搜尋連結代替） | 由土生土長的日本在地人帶路，精選出12個能在一天之內深度體驗銀座魅力的極致必訪景點。 描述欄將「Yoshokuya Ginza Lamptei」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=YSaYWBulmfE) | Hina Life in Japan |
 
-## 67. TOP 10 BEST THINGS TO DO IN TOKYO  | Japan Ultimate Guide 2024
+## 69. TOP 10 BEST THINGS TO DO IN TOKYO  | Japan Ultimate Guide 2024
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=SeX1OsR_4Ns)
 - 發布時間：1 年前；觀看次數：觀看次數：3.3萬次
@@ -1156,7 +1187,7 @@
 | Gotoku-ji Temple | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Gotoku-ji%20Temple%20TOP%2010%20BEST%20THINGS%20TO%20DO%20IN%20TOKYO%20Japan%20Ultimate%20Guide%202024) | Google Maps 未取得（以搜尋連結代替） | 由一年外食超過200次的旅遊達人帶路，一次打包新宿、澀谷及銀座一帶最不可錯過的十大必玩體驗。 描述欄將「Gotoku-ji Temple」列為本集出現的店家或地點。 | [15:05](https://www.youtube.com/watch?v=SeX1OsR_4Ns&t=905s) | Hina Life in Japan |
 | Nakano Broadway | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Nakano%20Broadway%20TOP%2010%20BEST%20THINGS%20TO%20DO%20IN%20TOKYO%20Japan%20Ultimate%20Guide%202024) | Google Maps 未取得（以搜尋連結代替） | 由一年外食超過200次的旅遊達人帶路，一次打包新宿、澀谷及銀座一帶最不可錯過的十大必玩體驗。 描述欄將「Nakano Broadway」列為本集出現的店家或地點。 | [17:43](https://www.youtube.com/watch?v=SeX1OsR_4Ns&t=1063s) | Hina Life in Japan |
 
-## 68. TOP 30 BEST THINGS TO DO IN TOKYO  | Japan Ultimate Guide 2024
+## 70. TOP 30 BEST THINGS TO DO IN TOKYO  | Japan Ultimate Guide 2024
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Lkh3av87amM)
 - 發布時間：1 年前；觀看次數：觀看次數：3.3萬次
@@ -1189,7 +1220,7 @@
 | Meguro River | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Meguro%20River%20TOP%2030%20BEST%20THINGS%20TO%20DO%20IN%20TOKYO%20Japan%20Ultimate%20Guide%202024) | Google Maps 未取得（以搜尋連結代替） | 影片將這些地點列入東京必做的三十件經典體驗主題，適合作為規劃地標觀光與動漫朝聖的參考。 描述欄將「Meguro River」列為本集出現的店家或地點。 | [56:40](https://www.youtube.com/watch?v=Lkh3av87amM&t=3400s) | Hina Life in Japan |
 | Happo-en | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Happo-en%20TOP%2030%20BEST%20THINGS%20TO%20DO%20IN%20TOKYO%20Japan%20Ultimate%20Guide%202024) | Google Maps 未取得（以搜尋連結代替） | 影片將這些地點列入東京必做的三十件經典體驗主題，適合作為規劃地標觀光與動漫朝聖的參考。 描述欄將「Happo-en」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=Lkh3av87amM) | Hina Life in Japan |
 
-## 69. BEST 10 MUST VISIT SPOTS IN GINZA, TOKYO｜Japan Ultimate Guide 2025
+## 71. BEST 10 MUST VISIT SPOTS IN GINZA, TOKYO｜Japan Ultimate Guide 2025
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=gGPtGRcCn5A)
 - 發布時間：1 年前；觀看次數：觀看次數：2.8萬次
@@ -1207,7 +1238,7 @@
 | Uniqlo Tokyo | [Google Maps](https://maps.app.goo.gl/8sMBLh2spn3hFfet5) | Google Maps 未取得 | 影片將這些地點列入銀座必訪的十大經典與現代交織地標主題，適合作為東京精緻散策的參考。 描述欄將「Uniqlo Tokyo」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=gGPtGRcCn5A) | Hina Life in Japan |
 | WAKO Clock Tower | [Google Maps](https://maps.app.goo.gl/ethxttKoU3xnHmiJ9) | Google Maps 未取得 | 影片將這些地點列入銀座必訪的十大經典與現代交織地標主題，適合作為東京精緻散策的參考。 描述欄將「WAKO Clock Tower」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=gGPtGRcCn5A) | Hina Life in Japan |
 
-## 70. Kyoto's Top 10 Hidden Gems: Unforgettable Hotels, Restaurants & Cafes You Can't Miss!
+## 72. Kyoto's Top 10 Hidden Gems: Unforgettable Hotels, Restaurants & Cafes You Can't Miss!
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=1u9oLCGEYLA)
 - 發布時間：3 年前；觀看次數：觀看次數：2.8萬次
@@ -1223,7 +1254,7 @@
 | Gombee | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Gombee%20Kyoto%20s%20Top%2010%20Hidden%20Gems%20Unforgettable%20Hotels%2C%20Restaurants%20Cafes%20You%20Can%20t%20Mis) | Google Maps 未取得（以搜尋連結代替） | 影片將這些地點列入京都嵐山與中京區的隱藏版人文餐旅路線，適合作為深度慢遊京都的參考。 描述欄將「Gombee」列為本集出現的店家或地點。 | [11:00](https://www.youtube.com/watch?v=1u9oLCGEYLA&t=660s) | Hina Life in Japan |
 | Walden Woods Kyoto | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Walden%20Woods%20Kyoto%20Kyoto%20s%20Top%2010%20Hidden%20Gems%20Unforgettable%20Hotels%2C%20Restaurants%20Cafes%20You%20Can%20t%20Mis) | Google Maps 未取得（以搜尋連結代替） | 影片將這些地點列入京都嵐山與中京區的隱藏版人文餐旅路線，適合作為深度慢遊京都的參考。 描述欄將「Walden Woods Kyoto」列為本集出現的店家或地點。 | [11:51](https://www.youtube.com/watch?v=1u9oLCGEYLA&t=711s) | Hina Life in Japan |
 
-## 71. BEST 20  ULTIMATE JAPANESE FOOD TOUR IN TOKYO: Japan Travel Guide 2024
+## 73. BEST 20  ULTIMATE JAPANESE FOOD TOUR IN TOKYO: Japan Travel Guide 2024
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=JbwqGEm4KNk)
 - 發布時間：2 年前；觀看次數：觀看次數：2.5萬次
@@ -1251,7 +1282,7 @@
 | Sakanamamire Shinkichi Yoyogihachiman | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Sakanamamire%20Shinkichi%20Yoyogihachiman%20BEST%2020%20ULTIMATE%20JAPANESE%20FOOD%20TOUR%20IN%20TOKYO%20Japan%20Travel%20Guide%202024) | Google Maps 未取得（以搜尋連結代替） | 引領觀眾穿梭於澀谷、新宿與銀座，展開網羅壽司到天婦羅等20家頂級餐廳的東京美食大探索。 描述欄將「Sakanamamire Shinkichi Yoyogihachiman」列為本集出現的店家或地點。 | [56:11](https://www.youtube.com/watch?v=JbwqGEm4KNk&t=3371s) | Hina Life in Japan |
 | Nihonbashi Takashimaya S・C Shinkan6F | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Nihonbashi%20Takashimaya%20S%E3%83%BBC%20Shinkan6F%20BEST%2020%20ULTIMATE%20JAPANESE%20FOOD%20TOUR%20IN%20TOKYO%20Japan%20Travel%20Guide%202024) | Google Maps 未取得（以搜尋連結代替） | 引領觀眾穿梭於澀谷、新宿與銀座，展開網羅壽司到天婦羅等20家頂級餐廳的東京美食大探索。 描述欄將「Nihonbashi Takashimaya S・C Shinkan6F」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=JbwqGEm4KNk) | Hina Life in Japan |
 
-## 72. BEST 20 MUST-VISIT ULTIMATE SPOTS IN KYOTO 2024 | restaurants, cafe, Bar, Sightseeing spots
+## 74. BEST 20 MUST-VISIT ULTIMATE SPOTS IN KYOTO 2024 | restaurants, cafe, Bar, Sightseeing spots
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=6-t-19xIZOA)
 - 發布時間：1 年前；觀看次數：觀看次數：2.4萬次
@@ -1271,7 +1302,7 @@
 | Syn | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Syn%20BEST%2020%20MUST-VISIT%20ULTIMATE%20SPOTS%20IN%20KYOTO%202024%20restaurants%2C%20cafe%2C%20Bar%2C%20Sightsee) | Google Maps 未取得（以搜尋連結代替） | 從東京品川站出發，展開一場兩天一夜的京都經典之旅，完美融合同風歷史、鴨川自然與在地美食。 描述欄將「Syn」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=6-t-19xIZOA) | Hina Life in Japan |
 | Yasaka Shrine | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Yasaka%20Shrine%20BEST%2020%20MUST-VISIT%20ULTIMATE%20SPOTS%20IN%20KYOTO%202024%20restaurants%2C%20cafe%2C%20Bar%2C%20Sightsee) | Google Maps 未取得（以搜尋連結代替） | 從東京品川站出發，展開一場兩天一夜的京都經典之旅，完美融合同風歷史、鴨川自然與在地美食。 描述欄將「Yasaka Shrine」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=6-t-19xIZOA) | Hina Life in Japan |
 
-## 73. TOP 10 BEST THINGS TO DO IN TOKYO  | Japan Ultimate Guide 2024
+## 75. TOP 10 BEST THINGS TO DO IN TOKYO  | Japan Ultimate Guide 2024
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Ugex0oOVHTM)
 - 發布時間：1 年前；觀看次數：觀看次數：2.4萬次
@@ -1285,7 +1316,7 @@
 | Shingle O Hamacho | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Shingle%20O%20Hamacho%20TOP%2010%20BEST%20THINGS%20TO%20DO%20IN%20TOKYO%20Japan%20Ultimate%20Guide%202024) | Google Maps 未取得（以搜尋連結代替） | 深度走訪澀谷、原宿、淺草與銀座，為期待充實行程的旅人獻上結合逛街購物與傳統文化的內行私房推薦。 描述欄將「Shingle O Hamacho」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=Ugex0oOVHTM) | Hina Life in Japan |
 | Tendon Semmon Ginza Itsuki | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Tendon%20Semmon%20Ginza%20Itsuki%20TOP%2010%20BEST%20THINGS%20TO%20DO%20IN%20TOKYO%20Japan%20Ultimate%20Guide%202024) | Google Maps 未取得（以搜尋連結代替） | 深度走訪澀谷、原宿、淺草與銀座，為期待充實行程的旅人獻上結合逛街購物與傳統文化的內行私房推薦。 描述欄將「Tendon Semmon Ginza Itsuki」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=Ugex0oOVHTM) | Hina Life in Japan |
 
-## 74. TOKYO HAS CHANGED: BEST 10 NEW THINGS TO DO IN TOKYO 2024
+## 76. TOKYO HAS CHANGED: BEST 10 NEW THINGS TO DO IN TOKYO 2024
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=vYWhieW4Wj0)
 - 發布時間：1 年前；觀看次數：觀看次數：2.4萬次
@@ -1300,7 +1331,7 @@
 | Dougenzaka-dori | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Dougenzaka-dori%20TOKYO%20HAS%20CHANGED%20BEST%2010%20NEW%20THINGS%20TO%20DO%20IN%20TOKYO%202024) | Google Maps 未取得（以搜尋連結代替） | 全面解鎖東京最新蛻變，深入探訪全新落成的摩天大樓、奢華餐飲與極具未來感的熱門地標指南。 描述欄將「Dougenzaka-dori」列為本集出現的店家或地點。 | [25:40](https://www.youtube.com/watch?v=vYWhieW4Wj0&t=1540s) | Hina Life in Japan |
 | Harakado | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Harakado%20TOKYO%20HAS%20CHANGED%20BEST%2010%20NEW%20THINGS%20TO%20DO%20IN%20TOKYO%202024) | Google Maps 未取得（以搜尋連結代替） | 全面解鎖東京最新蛻變，深入探訪全新落成的摩天大樓、奢華餐飲與極具未來感的熱門地標指南。 描述欄將「Harakado」列為本集出現的店家或地點。 | [38:42](https://www.youtube.com/watch?v=vYWhieW4Wj0&t=2322s) | Hina Life in Japan |
 
-## 75. BEST 10 WHAT I EAT IN A DAY TOKYO, JAPAN: Japan Ultimate Guide 2024
+## 77. BEST 10 WHAT I EAT IN A DAY TOKYO, JAPAN: Japan Ultimate Guide 2024
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=xloXdeHE9JU)
 - 發布時間：1 年前；觀看次數：觀看次數：2.3萬次
@@ -1315,7 +1346,7 @@
 | Tori gin Ginza | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Tori%20gin%20Ginza%20BEST%2010%20WHAT%20I%20EAT%20IN%20A%20DAY%20TOKYO%2C%20JAPAN%20Japan%20Ultimate%20Guide%202024) | Google Maps 未取得（以搜尋連結代替） | 透過 Trip.com 輕鬆預訂票券，一日內暢吃壽司、天婦羅、炸豬排等十家東京必吃的人氣美食。 描述欄將「Tori gin Ginza」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=xloXdeHE9JU) | Hina Life in Japan |
 | Umegaoka Sushi No Midori | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Umegaoka%20Sushi%20No%20Midori%20BEST%2010%20WHAT%20I%20EAT%20IN%20A%20DAY%20TOKYO%2C%20JAPAN%20Japan%20Ultimate%20Guide%202024) | Google Maps 未取得（以搜尋連結代替） | 透過 Trip.com 輕鬆預訂票券，一日內暢吃壽司、天婦羅、炸豬排等十家東京必吃的人氣美食。 描述欄將「Umegaoka Sushi No Midori」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=xloXdeHE9JU) | Hina Life in Japan |
 
-## 76. 7 Must-Visit Hotels in Japan for the Trip of a Lifetime!
+## 78. 7 Must-Visit Hotels in Japan for the Trip of a Lifetime!
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=7E_BQeRh5cE)
 - 發布時間：3 年前；觀看次數：觀看次數：232次
@@ -1328,7 +1359,7 @@
 | K5 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=K5%207%20Must-Visit%20Hotels%20in%20Japan%20for%20the%20Trip%20of%20a%20Lifetime) | Google Maps 未取得（以搜尋連結代替） | 嚴選從京都到東京等七家日本極致設計感旅宿，承諾帶給旅客一輩子難忘的無上住宿體驗。 描述欄將「K5」列為本集出現的店家或地點。 | [05:48](https://www.youtube.com/watch?v=7E_BQeRh5cE&t=348s) | Hina Life in Japan |
 | PETALS TOKYO2 Chome−1 T-LOTUS,  Higashishinagawa, Shinagawa City, Tokyo | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=PETALS%20TOKYO2%20Chome%E2%88%921%20T-LOTUS%2C%20%20Higashishinagawa%2C%20Shinagawa%20City%2C%20Tokyo%207%20Must-Visit%20Hotels%20in%20Japan%20for%20the%20Trip%20of%20a%20Lifetime) | Google Maps 未取得（以搜尋連結代替） | 嚴選從京都到東京等七家日本極致設計感旅宿，承諾帶給旅客一輩子難忘的無上住宿體驗。 描述欄將「PETALS TOKYO2 Chome−1 T-LOTUS,  Higashishinagawa, Shinagawa City, Tokyo」列為本集出現的店家或地點。 | [09:34](https://www.youtube.com/watch?v=7E_BQeRh5cE&t=574s) | Hina Life in Japan |
 
-## 77. 3 DAYS IN KYOTO : 11 Must Visit Spots, Kyoto Hotel, cozy cafe and bar🍷
+## 79. 3 DAYS IN KYOTO : 11 Must Visit Spots, Kyoto Hotel, cozy cafe and bar🍷
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=_64n7qi0tX0)
 - 發布時間：3 年前；觀看次數：觀看次數：486次
@@ -1345,7 +1376,7 @@
 | Wagurisemmon sawori | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Wagurisemmon%20sawori%203%20DAYS%20IN%20KYOTO%2011%20Must%20Visit%20Spots%2C%20Kyoto%20Hotel%2C%20cozy%20cafe%20and%20bar) | Google Maps 未取得（以搜尋連結代替） | 精選京都三日遊不可錯過的質感飯店、精品咖啡廳、餐酒館與經典古剎清水寺的浪漫漫遊。 描述欄將「Wagurisemmon sawori」列為本集出現的店家或地點。 | [17:35](https://www.youtube.com/watch?v=_64n7qi0tX0&t=1055s) | Hina Life in Japan |
 | GoKYU PANTOCHO BETTEI | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=GoKYU%20PANTOCHO%20BETTEI%203%20DAYS%20IN%20KYOTO%2011%20Must%20Visit%20Spots%2C%20Kyoto%20Hotel%2C%20cozy%20cafe%20and%20bar) | Google Maps 未取得（以搜尋連結代替） | 精選京都三日遊不可錯過的質感飯店、精品咖啡廳、餐酒館與經典古剎清水寺的浪漫漫遊。 描述欄將「GoKYU PANTOCHO BETTEI」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=_64n7qi0tX0) | Hina Life in Japan |
 
-## 78. Tokyo's Nearby Escape: Dive into the Unique Aroma of Kusatsu Onsen
+## 80. Tokyo's Nearby Escape: Dive into the Unique Aroma of Kusatsu Onsen
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=OhgWMGAZi8Y)
 - 發布時間：3 年前；觀看次數：觀看次數：383次
@@ -1363,7 +1394,7 @@
 | Kusatsu, Agatsuma District, Gunma | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Kusatsu%2C%20Agatsuma%20District%2C%20Gunma%20Tokyo%20s%20Nearby%20Escape%20Dive%20into%20the%20Unique%20Aroma%20of%20Kusatsu%20Onsen) | Google Maps 未取得（以搜尋連結代替） | 從東京出發僅需兩小時，帶領觀眾深入日本頂級溫泉鄉草津溫泉，感受療癒的湯泉與道地和風香氣。 描述欄將「Kusatsu, Agatsuma District, Gunma」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=OhgWMGAZi8Y) | Hina Life in Japan |
 | Matsumoto | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Matsumoto%20Tokyo%20s%20Nearby%20Escape%20Dive%20into%20the%20Unique%20Aroma%20of%20Kusatsu%20Onsen) | Google Maps 未取得（以搜尋連結代替） | 從東京出發僅需兩小時，帶領觀眾深入日本頂級溫泉鄉草津溫泉，感受療癒的湯泉與道地和風香氣。 描述欄將「Matsumoto」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=OhgWMGAZi8Y) | Hina Life in Japan |
 
-## 79. Discover Japan Beyond Tokyo: Uncover the Wonders of Oirase, Aomori
+## 81. Discover Japan Beyond Tokyo: Uncover the Wonders of Oirase, Aomori
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=UcN2IKpTkF0)
 - 發布時間：2 年前；觀看次數：觀看次數：1945次
@@ -1378,7 +1409,7 @@
 | Hoshino Resorts Oirase Keiryu Hotel ’Sonore’ | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Hoshino%20Resorts%20Oirase%20Keiryu%20Hotel%20%E2%80%99Sonore%E2%80%99%20Discover%20Japan%20Beyond%20Tokyo%20Uncover%20the%20Wonders%20of%20Oirase%2C%20Aomori) | Google Maps 未取得（以搜尋連結代替） | 飛往日本東北的蘋果之鄉青森，探索奧入瀨溪流的自然魅力，並開箱星野集團的高質感度假體驗。 描述欄將「Hoshino Resorts Oirase Keiryu Hotel ’Sonore’」列為本集出現的店家或地點。 | [03:22](https://www.youtube.com/watch?v=UcN2IKpTkF0&t=202s) | Hina Life in Japan |
 | Hoshino Resorts Oirase Keiryu Hotel Keiryu Snow Shoe Tour | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Hoshino%20Resorts%20Oirase%20Keiryu%20Hotel%20Keiryu%20Snow%20Shoe%20Tour%20Discover%20Japan%20Beyond%20Tokyo%20Uncover%20the%20Wonders%20of%20Oirase%2C%20Aomori) | Google Maps 未取得（以搜尋連結代替） | 飛往日本東北的蘋果之鄉青森，探索奧入瀨溪流的自然魅力，並開箱星野集團的高質感度假體驗。 描述欄將「Hoshino Resorts Oirase Keiryu Hotel Keiryu Snow Shoe Tour」列為本集出現的店家或地點。 | [03:22](https://www.youtube.com/watch?v=UcN2IKpTkF0&t=202s) | Hina Life in Japan |
 
-## 80. HOW TO SPEND IN JAPAN: Discover Aomori, Hotels, Tourist Spots, and Activities Guide
+## 82. HOW TO SPEND IN JAPAN: Discover Aomori, Hotels, Tourist Spots, and Activities Guide
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=oUkjBdpUqfc)
 - 發布時間：2 年前；觀看次數：觀看次數：570次
@@ -1398,7 +1429,7 @@
 | JAL Misawa Airport to Tokyo International Airport | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=JAL%20Misawa%20Airport%20to%20Tokyo%20International%20Airport%20HOW%20TO%20SPEND%20IN%20JAPAN%20Discover%20Aomori%2C%20Hotels%2C%20Tourist%20Spots%2C%20and%20Activities%20Gui) | Google Maps 未取得（以搜尋連結代替） | 深度探索兼具豐富歷史與自然景觀的青森，開箱星野集團青森屋、在地藝術館與獨特的飲品文化。 描述欄將「JAL Misawa Airport to Tokyo International Airport」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=oUkjBdpUqfc) | Hina Life in Japan |
 | Oyamada-8 Misawa, Aomori-ken | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Oyamada-8%20Misawa%2C%20Aomori-ken%20HOW%20TO%20SPEND%20IN%20JAPAN%20Discover%20Aomori%2C%20Hotels%2C%20Tourist%20Spots%2C%20and%20Activities%20Gui) | Google Maps 未取得（以搜尋連結代替） | 深度探索兼具豐富歷史與自然景觀的青森，開箱星野集團青森屋、在地藝術館與獨特的飲品文化。 描述欄將「Oyamada-8 Misawa, Aomori-ken」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=oUkjBdpUqfc) | Hina Life in Japan |
 
-## 81. The Best Guide Tokyo 2023 : Discover Marunouchi's Hidden Foodie Treasures
+## 83. The Best Guide Tokyo 2023 : Discover Marunouchi's Hidden Foodie Treasures
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=D_ccT3GxTaQ)
 - 發布時間：2 年前；觀看次數：觀看次數：511次
@@ -1410,7 +1441,7 @@
 | Bar Portillo DE ESPANA | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Bar%20Portillo%20DE%20ESPANA%20The%20Best%20Guide%20Tokyo%202023%20Discover%20Marunouchi%20s%20Hidden%20Foodie%20Treasures) | Google Maps 未取得（以搜尋連結代替） | 聚焦東京車站旁的丸之內與八重洲一帶，挖掘隱藏在繁華金融區之中的精緻美食寶藏。 描述欄將「Bar Portillo DE ESPANA」列為本集出現的店家或地點。 | [05:38](https://www.youtube.com/watch?v=D_ccT3GxTaQ&t=338s) | Hina Life in Japan |
 | Noodle House Laundry | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Noodle%20House%20Laundry%20B1F%2C%20GRANSTA%20TOKYO%2C1-chome-9-9-1%2C%20Marunouchi%2C%20Chiyoda%20City%2C%20Tokyo) | Google Maps 未取得（以搜尋連結代替） | 聚焦東京車站旁的丸之內與八重洲一帶，挖掘隱藏在繁華金融區之中的精緻美食寶藏。 描述欄將「Noodle House Laundry」列為本集出現的店家或地點。 | [08:20](https://www.youtube.com/watch?v=D_ccT3GxTaQ&t=500s) | Hina Life in Japan |
 
-## 82. Day trip to Hakone from Tokyo : Discover the Hidden Charms of this Scenic Haven
+## 84. Day trip to Hakone from Tokyo : Discover the Hidden Charms of this Scenic Haven
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=v3IPIILLDk4)
 - 發布時間：2 年前；觀看次數：觀看次數：229次
@@ -1424,7 +1455,7 @@
 | Obanshojaya | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Obanshojaya%20Day%20trip%20to%20Hakone%20from%20Tokyo%20Discover%20the%20Hidden%20Charms%20of%20this%20Scenic%20Haven) | Google Maps 未取得（以搜尋連結代替） | 影片將這些地點列入箱根一日遊路線，適合作為從東京市區出發觀光與泡湯的行程參考。 描述欄將「Obanshojaya」列為本集出現的店家或地點。 | [08:15](https://www.youtube.com/watch?v=v3IPIILLDk4&t=495s) | Hina Life in Japan |
 | Yunosato-Okada | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Yunosato-Okada%20Day%20trip%20to%20Hakone%20from%20Tokyo%20Discover%20the%20Hidden%20Charms%20of%20this%20Scenic%20Haven) | Google Maps 未取得（以搜尋連結代替） | 影片將這些地點列入箱根一日遊路線，適合作為從東京市區出發觀光與泡湯的行程參考。 描述欄將「Yunosato-Okada」列為本集出現的店家或地點。 | [10:41](https://www.youtube.com/watch?v=v3IPIILLDk4&t=641s) | Hina Life in Japan |
 
-## 83. Japanese  Food  Tour in TOKYO, GINZA : BEST GUIDE OF JAPAN
+## 85. Japanese  Food  Tour in TOKYO, GINZA : BEST GUIDE OF JAPAN
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=gN7zePRBT9w)
 - 發布時間：2 年前；觀看次數：觀看次數：607次
@@ -1437,7 +1468,7 @@
 | THE R.C.ARMS Yurakucho | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=THE%20R.C.ARMS%20Yurakucho%20Yurakucho%20Denki%20Building%201F%2C%201%20Chome7-1%2C%20Yurakucho%2C%20Chiyoda-city%2C%20Tokyo) | Google Maps 未取得（以搜尋連結代替） | 精心規劃頂級購物區銀座的完美約會指南，從精緻日式壽司到浪漫的高空花園景觀一網打盡。 描述欄將「THE R.C.ARMS Yurakucho」列為本集出現的店家或地點。 | [06:28](https://www.youtube.com/watch?v=gN7zePRBT9w&t=388s) | Hina Life in Japan |
 | Tokyo Midtown Hibiya Park View Garden | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Tokyo%20Midtown%20Hibiya%20Park%20View%20Garden%20Japanese%20Food%20Tour%20in%20TOKYO%2C%20GINZA%20BEST%20GUIDE%20OF%20JAPAN) | Google Maps 未取得（以搜尋連結代替） | 精心規劃頂級購物區銀座的完美約會指南，從精緻日式壽司到浪漫的高空花園景觀一網打盡。 描述欄將「Tokyo Midtown Hibiya Park View Garden」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=gN7zePRBT9w) | Hina Life in Japan |
 
-## 84. Discover Tokyo Through Starbucks: Top 5 Unique Experiences Beyond Coffee!
+## 86. Discover Tokyo Through Starbucks: Top 5 Unique Experiences Beyond Coffee!
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=6hnTu8rBIKQ)
 - 發布時間：2 年前；觀看次數：觀看次數：576次
@@ -1450,7 +1481,7 @@
 | STARBUCKS RESERVE® BAR Ginza Tsutaya Books | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=STARBUCKS%20RESERVE%C2%AE%20BAR%20Ginza%20Tsutaya%20Books%20GINZASIX%206F%2C%206%20Chome%E2%88%9210%E2%88%921%2C%20Ginza%2C%20Chuo%20City%2C%20Tokyo) | Google Maps 未取得（以搜尋連結代替） | 透過五家各具特色的東京星巴克門市，解鎖融合手沖工藝與大自然景觀的非凡咖啡體驗。 描述欄將「STARBUCKS RESERVE® BAR Ginza Tsutaya Books」列為本集出現的店家或地點。 | [10:58](https://www.youtube.com/watch?v=6hnTu8rBIKQ&t=658s) | Hina Life in Japan |
 | Starbucks Coffee - Komazawa 1-chome | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Starbucks%20Coffee%20-%20Komazawa%201-chome%20Discover%20Tokyo%20Through%20Starbucks%20Top%205%20Unique%20Experiences%20Beyond%20Coffee) | Google Maps 未取得（以搜尋連結代替） | 透過五家各具特色的東京星巴克門市，解鎖融合手沖工藝與大自然景觀的非凡咖啡體驗。 描述欄將「Starbucks Coffee - Komazawa 1-chome」列為本集出現的店家或地點。 | [13:02](https://www.youtube.com/watch?v=6hnTu8rBIKQ&t=782s) | Hina Life in Japan |
 
-## 85. Road Trip to Yamanashi, Japan : Discovering Japan's Off-The-Beaten Path Around Fuji
+## 87. Road Trip to Yamanashi, Japan : Discovering Japan's Off-The-Beaten Path Around Fuji
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=667xNA9CCpk)
 - 發布時間：2 年前；觀看次數：觀看次數：768次
@@ -1465,7 +1496,7 @@
 | Houtou Fudou Kawaguchiko North Main Shop | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Houtou%20Fudou%20Kawaguchiko%20North%20Main%20Shop%20Road%20Trip%20to%20Yamanashi%2C%20Japan%20Discovering%20Japan%20s%20Off-The-Beaten%20Path%20Around%20Fuj) | Google Maps 未取得（以搜尋連結代替） | 自駕暢遊山梨縣的都留市、山中湖與河口湖，沿途尋找避開人潮、能獨享富士山絕景的秘境小店。 描述欄將「Houtou Fudou Kawaguchiko North Main Shop」列為本集出現的店家或地點。 | [10:34](https://www.youtube.com/watch?v=667xNA9CCpk&t=634s) | Hina Life in Japan |
 | Tabi-no-eki kawaguchiko base | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Tabi-no-eki%20kawaguchiko%20base%20Road%20Trip%20to%20Yamanashi%2C%20Japan%20Discovering%20Japan%20s%20Off-The-Beaten%20Path%20Around%20Fuj) | Google Maps 未取得（以搜尋連結代替） | 自駕暢遊山梨縣的都留市、山中湖與河口湖，沿途尋找避開人潮、能獨享富士山絕景的秘境小店。 描述欄將「Tabi-no-eki kawaguchiko base」列為本集出現的店家或地點。 | [11:44](https://www.youtube.com/watch?v=667xNA9CCpk&t=704s) | Hina Life in Japan |
 
-## 86. Let’s feel Edo period with Tokyo Nihonbashi traditional lunch
+## 88. Let’s feel Edo period with Tokyo Nihonbashi traditional lunch
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=iatOTL9fWJA)
 - 發布時間：2 年前；觀看次數：觀看次數：1326次
@@ -1477,7 +1508,7 @@
 | Omusubi To Sekai No Gohan | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Omusubi%20To%20Sekai%20No%20Gohan%20SOHO30%201F%2C%2011-19%20Nihonbashitomizawacho%20Chuo%20City%20Tokyo) | Google Maps 未取得（以搜尋連結代替） | 深入東京歷史核心日本橋，發掘將傳統江戶風情與現代都市完美融合的極致午餐名店。 描述欄將「Omusubi To Sekai No Gohan」列為本集出現的店家或地點。 | [05:28](https://www.youtube.com/watch?v=iatOTL9fWJA&t=328s) | Hina Life in Japan |
 | Puukuu dining | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Puukuu%20dining%20Let%20s%20feel%20Edo%20period%20with%20Tokyo%20Nihonbashi%20traditional%20lunch) | Google Maps 未取得（以搜尋連結代替） | 深入東京歷史核心日本橋，發掘將傳統江戶風情與現代都市完美融合的極致午餐名店。 描述欄將「Puukuu dining」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=iatOTL9fWJA) | Hina Life in Japan |
 
-## 87. The Best Guide Of Yokohama 2023: JAPAN TRAVEL
+## 89. The Best Guide Of Yokohama 2023: JAPAN TRAVEL
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=WHexI6BjwLY)
 - 發布時間：2 年前；觀看次數：觀看次數：256次
@@ -1491,7 +1522,7 @@
 | sakura cafe | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=sakura%20cafe%20The%20Best%20Guide%20Of%20Yokohama%202023%20JAPAN%20TRAVEL) | Google Maps 未取得（以搜尋連結代替） | 前往橫濱發掘外國遊客少有涉足的隱藏版人文咖啡廳，點綴出截然不同的質感日本之旅。 描述欄將「sakura cafe」列為本集出現的店家或地點。 | [08:00](https://www.youtube.com/watch?v=WHexI6BjwLY&t=480s) | Hina Life in Japan |
 | Kanagawa University Minatomirai 1F, 4 Chome−5−3, Minatomirai, Nishi Ward, Yokohama, Kanagawa | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Kanagawa%20University%20Minatomirai%201F%2C%204%20Chome%E2%88%925%E2%88%923%2C%20Minatomirai%2C%20Nishi%20Ward%2C%20Yokohama%2C%20Kanagawa%20The%20Best%20Guide%20Of%20Yokohama%202023%20JAPAN%20TRAVEL) | Google Maps 未取得（以搜尋連結代替） | 前往橫濱發掘外國遊客少有涉足的隱藏版人文咖啡廳，點綴出截然不同的質感日本之旅。 描述欄將「Kanagawa University Minatomirai 1F, 4 Chome−5−3, Minatomirai, Nishi Ward, Yokohama, Kanagawa」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=WHexI6BjwLY) | Hina Life in Japan |
 
-## 88. $100 for Japan's Luxury: Top 3 High-End Hotels in Tokyo with Perfect Location, Design, and Comfort!
+## 90. $100 for Japan's Luxury: Top 3 High-End Hotels in Tokyo with Perfect Location, Design, and Comfort!
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=JbuI5770O9k)
 - 發布時間：2 年前；觀看次數：觀看次數：2479次
@@ -1500,7 +1531,7 @@
 | --- | --- | --- | --- | --- | --- |
 | The Gate Hotel Ryogoku by HULIC | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=The%20Gate%20Hotel%20Ryogoku%20by%20HULIC%20100%20for%20Japan%20s%20Luxury%20Top%203%20High-End%20Hotels%20in%20Tokyo%20with%20Perfect%20Location%2C%20Des) | Google Maps 未取得（以搜尋連結代替） | 開箱三家東京極具話題性的指標旅宿，主打優越的地理位置、卓越設計感與飽覽絕美都市夜景。  描述欄將「The Gate Hotel Ryogoku by HULIC」列為本集出現的店家或地點。 | [8:40](https://www.youtube.com/watch?v=JbuI5770O9k&t=520s) | Hina Life in Japan |
 
-## 89. BEST 3 LAXURY BUFFETS IN TOKYO HOTELS : Japan Travel Guide
+## 91. BEST 3 LAXURY BUFFETS IN TOKYO HOTELS : Japan Travel Guide
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=GyfYqbukE0g)
 - 發布時間：2 年前；觀看次數：觀看次數：1183次
@@ -1511,7 +1542,7 @@
 | Hilton Tokyo Marble Lounge | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Hilton%20Tokyo%20Marble%20Lounge%20Hilton%20Tokyom%2C6%20Chome-6-2%20Nishishinjuku%2C%20Shinjuku%20City%2C%20Tokyo) | Google Maps 未取得（以搜尋連結代替） | 精選東京頂級飯店的三大奢華百匯吃到飽，為旅人打造精緻且難忘的舌尖美食記憶。 描述欄將「Hilton Tokyo Marble Lounge」列為本集出現的店家或地點。 | [3:34](https://www.youtube.com/watch?v=GyfYqbukE0g&t=214s) | Hina Life in Japan |
 | Conrad Tokyo Cerise | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Conrad%20Tokyo%20Cerise%20Conrad%20Tokyo%2C%201%20Chome-9-1%20Higashishinbashi%2C%20Minato%20City%2C%20Tokyo) | Google Maps 未取得（以搜尋連結代替） | 精選東京頂級飯店的三大奢華百匯吃到飽，為旅人打造精緻且難忘的舌尖美食記憶。 描述欄將「Conrad Tokyo Cerise」列為本集出現的店家或地點。 | [8:08](https://www.youtube.com/watch?v=GyfYqbukE0g&t=488s) | Hina Life in Japan |
 
-## 90. Under $50 Hotel Buffet : TOKYO BEST GUIDE
+## 92. Under $50 Hotel Buffet : TOKYO BEST GUIDE
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=C0-Cvbml2ck)
 - 發布時間：2 年前；觀看次數：觀看次數：643次
@@ -1522,7 +1553,7 @@
 | Mitsui Garden Hotel Nihonbashi PREMIER | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Mitsui%20Garden%20Hotel%20Nihonbashi%20PREMIER%20Under%2050%20Hotel%20Buffet%20TOKYO%20BEST%20GUIDE) | Google Maps 未取得（以搜尋連結代替） | 小資族首選！精選三家低於50美元的高CP值美味飯店百匯，其中更包含鄰近東京迪士尼度假區的餐廳。 描述欄將「Mitsui Garden Hotel Nihonbashi PREMIER」列為本集出現的店家或地點。 | [2:32](https://www.youtube.com/watch?v=C0-Cvbml2ck&t=152s) | Hina Life in Japan |
 | The Kitchen Salvatore Cuomo GINZA | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=The%20Kitchen%20Salvatore%20Cuomo%20GINZA%20Daiwa%20Roynet%20Hotel%20Ginza%20PREMIER%202F%2C%201-13-15%20Ginza%2C%20Chuo-ku%2C%20Tokyo) | Google Maps 未取得（以搜尋連結代替） | 小資族首選！精選三家低於50美元的高CP值美味飯店百匯，其中更包含鄰近東京迪士尼度假區的餐廳。 描述欄將「The Kitchen Salvatore Cuomo GINZA」列為本集出現的店家或地點。 | [5:52](https://www.youtube.com/watch?v=C0-Cvbml2ck&t=352s) | Hina Life in Japan |
 
-## 91. LUXURY HOTEL STAY BEST6: Ultimate Tokyo Hotel Tour
+## 93. LUXURY HOTEL STAY BEST6: Ultimate Tokyo Hotel Tour
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=HLZo1Su4sQg)
 - 發布時間：2 年前；觀看次數：觀看次數：804次
@@ -1535,7 +1566,7 @@
 | Mitsui Garden Hotel Nihonbashi PREMIER | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Mitsui%20Garden%20Hotel%20Nihonbashi%20PREMIER%20LUXURY%20HOTEL%20STAY%20BEST6%20Ultimate%20Tokyo%20Hotel%20Tour) | Google Maps 未取得（以搜尋連結代替） | 東京頂級奢華酒店大巡禮，精選六家從神樂坂到麻布十番、各具獨特美學的高規格質感住宿。 描述欄將「Mitsui Garden Hotel Nihonbashi PREMIER」列為本集出現的店家或地點。 | [12:43](https://www.youtube.com/watch?v=HLZo1Su4sQg&t=763s) | Hina Life in Japan |
 | THE LIVELY Tokyo Azabujuban | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=THE%20LIVELY%20Tokyo%20Azabujuban%20LUXURY%20HOTEL%20STAY%20BEST6%20Ultimate%20Tokyo%20Hotel%20Tour) | Google Maps 未取得（以搜尋連結代替） | 東京頂級奢華酒店大巡禮，精選六家從神樂坂到麻布十番、各具獨特美學的高規格質感住宿。 描述欄將「THE LIVELY Tokyo Azabujuban」列為本集出現的店家或地點。 | [24:07](https://www.youtube.com/watch?v=HLZo1Su4sQg&t=1447s) | Hina Life in Japan |
 
-## 92. BEST JAPANESE SUSHI TOUR IN TOKYO: JAPAN TRAVEL GUIDE 2023
+## 94. BEST JAPANESE SUSHI TOUR IN TOKYO: JAPAN TRAVEL GUIDE 2023
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Ii4--RUhDUs)
 - 發布時間：2 年前；觀看次數：觀看次數：968次
@@ -1548,7 +1579,7 @@
 | Sushi Ginza Onodera Toryumon | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Sushi%20Ginza%20Onodera%20Toryumon%20050-3204-0718%3B%20USB%201F%2C%205%20Chome-14-17%2C%20Ginza%2C%20Chuo%20City%2C%20Tokyo) | Google Maps 未取得（以搜尋連結代替） | 打破東京壽司昂貴的刻板印象，搜羅從千圓有找的超值午餐到萬元日幣的高品質精緻壽司名單。 描述欄將「Sushi Ginza Onodera Toryumon」列為本集出現的店家或地點。 | [5:05](https://www.youtube.com/watch?v=Ii4--RUhDUs&t=305s) | Hina Life in Japan |
 | Aoyama Sanaka | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Aoyama%20Sanaka%2003-3498-3750%3B%20Kanazawa%20building3F%2C%206%20Chome-14-1%2C%20Jingumae%2C%20Shibuya%20City%2C%20Tokyo) | Google Maps 未取得（以搜尋連結代替） | 打破東京壽司昂貴的刻板印象，搜羅從千圓有找的超值午餐到萬元日幣的高品質精緻壽司名單。 描述欄將「Aoyama Sanaka」列為本集出現的店家或地點。 | [7:36](https://www.youtube.com/watch?v=Ii4--RUhDUs&t=456s) | Hina Life in Japan |
 
-## 93. BEST 10 JAPANESE ULTIMATE FOOD TOUR: Japan Guide 2023
+## 95. BEST 10 JAPANESE ULTIMATE FOOD TOUR: Japan Guide 2023
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=jrPOQIeOyNI)
 - 發布時間：2 年前；觀看次數：觀看次數：2015次
@@ -1564,7 +1595,7 @@
 | Hana | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Hana%20BEST%2010%20JAPANESE%20ULTIMATE%20FOOD%20TOUR%20Japan%20Guide%202023) | Google Maps 未取得（以搜尋連結代替） | 為造訪東京感到迷茫的饕客指路，不藏私公開在銀座、新宿等地親自認證過的十大人氣美味餐廳。 描述欄將「Hana」列為本集出現的店家或地點。 | [14:17](https://www.youtube.com/watch?v=jrPOQIeOyNI&t=857s) | Hina Life in Japan |
 | Toyamahamasa | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Toyamahamasa%20Nihonbashitaiei%20building1%2C%201%20Chome-2-6%2C%20Nihonbashimuromachi%2C%20Chuo%20City%2C%20Tokyo) | Google Maps 未取得（以搜尋連結代替） | 為造訪東京感到迷茫的饕客指路，不藏私公開在銀座、新宿等地親自認證過的十大人氣美味餐廳。 描述欄將「Toyamahamasa」列為本集出現的店家或地點。 | [16:11](https://www.youtube.com/watch?v=jrPOQIeOyNI&t=971s) | Hina Life in Japan |
 
-## 94. LUXURY HOTEL BUFFETS IN TOKYO: Best Things to do in Japan 2023
+## 96. LUXURY HOTEL BUFFETS IN TOKYO: Best Things to do in Japan 2023
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=3cEnpg_EN4k)
 - 發布時間：2 年前；觀看次數：觀看次數：845次
@@ -1575,7 +1606,7 @@
 | All Day Dining Orchid ／The Okura Tokyo | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=All%20Day%20Dining%20Orchid%20%EF%BC%8FThe%20Okura%20Tokyo%20The%20Okura%20Tokyo%20Prestige%20Tower%205F%202-10-4%20Toranomon%2C%20Minato-ku%2C%20Tokyo) | Google Maps 未取得（以搜尋連結代替） | 評選東京三大頂級飯店的奢華自助餐，溫馨提醒部分熱門時段需提前預約才能享用。 描述欄將「All Day Dining Orchid ／The Okura Tokyo」列為本集出現的店家或地點。 | [4:26](https://www.youtube.com/watch?v=3cEnpg_EN4k&t=266s) | Hina Life in Japan |
 | Cascade cafe／ANA INTERCONTINENTAL TOKYO | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Cascade%20cafe%EF%BC%8FANA%20INTERCONTINENTAL%20TOKYO%20ANA%20InterContinental%20Tokyo%202F%2C%201-12-33%2C%20Akasaka%2C%20Minato-ku%2C%20Tokyo) | Google Maps 未取得（以搜尋連結代替） | 評選東京三大頂級飯店的奢華自助餐，溫馨提醒部分熱門時段需提前預約才能享用。 描述欄將「Cascade cafe／ANA INTERCONTINENTAL TOKYO」列為本集出現的店家或地點。 | [6:32](https://www.youtube.com/watch?v=3cEnpg_EN4k&t=392s) | Hina Life in Japan |
 
-## 95. TOKYO ITALIAN ADVENTURE TOUR 2023!
+## 97. TOKYO ITALIAN ADVENTURE TOUR 2023!
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=hj0BCqmhI8w)
 - 發布時間：2 年前；觀看次數：觀看次數：1002次
@@ -1587,7 +1618,7 @@
 | Don Bravo | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Don%20Bravo%20TOKYO%20ITALIAN%20ADVENTURE%20TOUR%202023) | Google Maps 未取得（以搜尋連結代替） | 東京義式料理美食冒險，搜羅多家老饕必訪、極具異國情調的高評價義大利餐廳名單。 描述欄將「Don Bravo」列為本集出現的店家或地點。 | [5:28](https://www.youtube.com/watch?v=hj0BCqmhI8w&t=328s) | Hina Life in Japan |
 | Bar Alimentari DANIELA | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Bar%20Alimentari%20DANIELA%20TOKYO%20ITALIAN%20ADVENTURE%20TOUR%202023) | Google Maps 未取得（以搜尋連結代替） | 東京義式料理美食冒險，搜羅多家老饕必訪、極具異國情調的高評價義大利餐廳名單。 描述欄將「Bar Alimentari DANIELA」列為本集出現的店家或地點。 | [6:47](https://www.youtube.com/watch?v=hj0BCqmhI8w&t=407s) | Hina Life in Japan |
 
-## 96. BEST 10 JAPANESE COZY CAFE TOUR: Japan Guide 2023
+## 98. BEST 10 JAPANESE COZY CAFE TOUR: Japan Guide 2023
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=ZPRbkc3pJcc)
 - 發布時間：2 年前；觀看次數：觀看次數：688次
@@ -1596,7 +1627,7 @@
 | --- | --- | --- | --- | --- | --- |
 | Kissa Streamer | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Kissa%20Streamer%20BEST%2010%20JAPANESE%20COZY%20CAFE%20TOUR%20Japan%20Guide%202023) | Google Maps 未取得（以搜尋連結代替） | 誠實開箱東京多間風格咖啡廳，並貼心提醒週末人潮眾多，是規劃精緻東京行必備的參考指南。 描述欄將「Kissa Streamer」列為本集出現的店家或地點。 | [10:33](https://www.youtube.com/watch?v=ZPRbkc3pJcc&t=633s) | Hina Life in Japan |
 
-## 97. BEST JAPANESE FOOD 2023: Tokyo Guide
+## 99. BEST JAPANESE FOOD 2023: Tokyo Guide
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=7FAkloX36YM)
 - 發布時間：2 年前；觀看次數：觀看次數：207次
@@ -1610,7 +1641,7 @@
 | Nakameguro Kunsei Apartment Restaurant | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Nakameguro%20Kunsei%20Apartment%20Restaurant%20BEST%20JAPANESE%20FOOD%202023%20Tokyo%20Guide) | Google Maps 未取得（以搜尋連結代替） | 漫步於以星巴克、目黑川櫻花聞名的人氣文青區中目黑，深入開箱在地極具質感的餐飲與咖啡店。 描述欄將「Nakameguro Kunsei Apartment Restaurant」列為本集出現的店家或地點。 | [7:47](https://www.youtube.com/watch?v=7FAkloX36YM&t=467s) | Hina Life in Japan |
 | epulor | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=epulor%20Tokyo%2C%20Meguro%20City%2C%20Aobadai%2C%201%20Chome%E2%88%9219%E2%88%9210%20Escenario%20Aobadai%201F) | Google Maps 未取得（以搜尋連結代替） | 漫步於以星巴克、目黑川櫻花聞名的人氣文青區中目黑，深入開箱在地極具質感的餐飲與咖啡店。 描述欄將「epulor」列為本集出現的店家或地點。 | [10:18](https://www.youtube.com/watch?v=7FAkloX36YM&t=618s) | Hina Life in Japan |
 
-## 98. BEST 5 ULTIMATE JAPANESE FOOD IN TOKYO: JAPAN TRAVEL GUIDE 2023
+## 100. BEST 5 ULTIMATE JAPANESE FOOD IN TOKYO: JAPAN TRAVEL GUIDE 2023
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=BP1I3L17Iwc)
 - 發布時間：2 年前；觀看次數：觀看次數：581次
@@ -1625,7 +1656,7 @@
 | Tokyo, Minato City, Akasaka, 9−7−4 Tokyo Midtown Garden Terrace B1 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Tokyo%2C%20Minato%20City%2C%20Akasaka%2C%209%E2%88%927%E2%88%924%20Tokyo%20Midtown%20Garden%20Terrace%20B1%20BEST%205%20ULTIMATE%20JAPANESE%20FOOD%20IN%20TOKYO%20JAPAN%20TRAVEL%20GUIDE%202023) | Google Maps 未取得（以搜尋連結代替） | 走進東京代名詞之一的奢華商圈六本木，嚴選周邊最值得造訪的五大精緻美食與藝術景點。 描述欄將「Tokyo, Minato City, Akasaka, 9−7−4 Tokyo Midtown Garden Terrace B1」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=BP1I3L17Iwc) | Hina Life in Japan |
 | Tokyo, Minato City, Akasaka, 9−7−6 Tokyo Midtown Garden | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Tokyo%2C%20Minato%20City%2C%20Akasaka%2C%209%E2%88%927%E2%88%926%20Tokyo%20Midtown%20Garden%20BEST%205%20ULTIMATE%20JAPANESE%20FOOD%20IN%20TOKYO%20JAPAN%20TRAVEL%20GUIDE%202023) | Google Maps 未取得（以搜尋連結代替） | 走進東京代名詞之一的奢華商圈六本木，嚴選周邊最值得造訪的五大精緻美食與藝術景點。 描述欄將「Tokyo, Minato City, Akasaka, 9−7−6 Tokyo Midtown Garden」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=BP1I3L17Iwc) | Hina Life in Japan |
 
-## 99. ULTIMATE JAPANESE FOOD TOUR IN KYOTO: JAPAN TRAVEL GUIDE 2023
+## 101. ULTIMATE JAPANESE FOOD TOUR IN KYOTO: JAPAN TRAVEL GUIDE 2023
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=MqjDjnqt9IQ)
 - 發布時間：2 年前；觀看次數：觀看次數：7464次
@@ -1643,7 +1674,7 @@
 | HOO | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=HOO%20ULTIMATE%20JAPANESE%20FOOD%20TOUR%20IN%20KYOTO%20JAPAN%20TRAVEL%20GUIDE%202023) | Google Maps 未取得（以搜尋連結代替） | 穿梭於京都經典的祇園白川與清水寺，開箱融合歷史古韻、精緻旅宿與在地美食的極致京都之旅。 描述欄將「HOO」列為本集出現的店家或地點。 | [24:00](https://www.youtube.com/watch?v=MqjDjnqt9IQ&t=1440s) | Hina Life in Japan |
 | Sueyoshicho, Higashiyama Ward, Kyoto | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Sueyoshicho%2C%20Higashiyama%20Ward%2C%20Kyoto%20ULTIMATE%20JAPANESE%20FOOD%20TOUR%20IN%20KYOTO%20JAPAN%20TRAVEL%20GUIDE%202023) | Google Maps 未取得（以搜尋連結代替） | 穿梭於京都經典的祇園白川與清水寺，開箱融合歷史古韻、精緻旅宿與在地美食的極致京都之旅。 描述欄將「Sueyoshicho, Higashiyama Ward, Kyoto」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=MqjDjnqt9IQ) | Hina Life in Japan |
 
-## 100. BSET 5 JAPANESE CURRY TOUR IN TOKYO: JAPAN TRAVEL GUIDE 2023
+## 102. BSET 5 JAPANESE CURRY TOUR IN TOKYO: JAPAN TRAVEL GUIDE 2023
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=AiTl_cJTD1o)
 - 發布時間：2 年前；觀看次數：觀看次數：1335次
@@ -1654,7 +1685,7 @@
 | soup curry & dining ELVIS | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=soup%20curry%20%26%20dining%20ELVIS%20BSET%205%20JAPANESE%20CURRY%20TOUR%20IN%20TOKYO%20JAPAN%20TRAVEL%20GUIDE%202023) | Google Maps 未取得（以搜尋連結代替） | 聚焦東京下北澤與青山一帶，網羅五家湯咖哩愛好者絕對不可錯過的特製日式咖哩名店。 描述欄將「soup curry & dining ELVIS」列為本集出現的店家或地點。 | [2:21](https://www.youtube.com/watch?v=AiTl_cJTD1o&t=141s) | Hina Life in Japan |
 | Tokyo, Minato City, Akasaka, 9−7−4 Tokyo Midtown Garden Terrace B1 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Tokyo%2C%20Minato%20City%2C%20Akasaka%2C%209%E2%88%927%E2%88%924%20Tokyo%20Midtown%20Garden%20Terrace%20B1%20BSET%205%20JAPANESE%20CURRY%20TOUR%20IN%20TOKYO%20JAPAN%20TRAVEL%20GUIDE%202023) | Google Maps 未取得（以搜尋連結代替） | 聚焦東京下北澤與青山一帶，網羅五家湯咖哩愛好者絕對不可錯過的特製日式咖哩名店。 描述欄將「Tokyo, Minato City, Akasaka, 9−7−4 Tokyo Midtown Garden Terrace B1」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=AiTl_cJTD1o) | Hina Life in Japan |
 
-## 101. BEST10 JAPANESE FOOD TOUR IN TOKYO, GINZA: JAPAN TRAVEL GUIDE2023
+## 103. BEST10 JAPANESE FOOD TOUR IN TOKYO, GINZA: JAPAN TRAVEL GUIDE2023
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=uKXnke6NnIA)
 - 發布時間：2 年前；觀看次數：觀看次數：1245次
@@ -1671,7 +1702,7 @@
 | Kamameshi Daitoryo | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Kamameshi%20Daitoryo%20BEST10%20JAPANESE%20FOOD%20TOUR%20IN%20TOKYO%2C%20GINZA%20JAPAN%20TRAVEL%20GUIDE2023) | Google Maps 未取得（以搜尋連結代替） | 從東京車站搭車兩分鐘即達，精選介紹多間銀座商圈內價格親民卻無比精緻的高CP值餐廳。 描述欄將「Kamameshi Daitoryo」列為本集出現的店家或地點。 | [18:43](https://www.youtube.com/watch?v=uKXnke6NnIA&t=1123s) | Hina Life in Japan |
 | Tempura to Wine Oshio | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Tempura%20to%20Wine%20Oshio%20BEST10%20JAPANESE%20FOOD%20TOUR%20IN%20TOKYO%2C%20GINZA%20JAPAN%20TRAVEL%20GUIDE2023) | Google Maps 未取得（以搜尋連結代替） | 從東京車站搭車兩分鐘即達，精選介紹多間銀座商圈內價格親民卻無比精緻的高CP值餐廳。 描述欄將「Tempura to Wine Oshio」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=uKXnke6NnIA) | Hina Life in Japan |
 
-## 102. BEST 6 JAPANESE LUXURY HOTEL BUFFETS IN TOKYO: JAPAN TRAVEL GUIDE 2023
+## 104. BEST 6 JAPANESE LUXURY HOTEL BUFFETS IN TOKYO: JAPAN TRAVEL GUIDE 2023
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=GRrkgOFFU-I)
 - 發布時間：2 年前；觀看次數：觀看次數：2.2萬次
