@@ -1,17 +1,17 @@
 # 老辣妹 全頻道地點清單
 
 - 頻道：[老辣妹](https://www.youtube.com/@lotmainidea)
-- 抓取日期：2026-05-22
-- 更新內容：新增 2026-05-22 檢查到的新影片，並用 Gemini 網頁版整理該影片的 YouTube 評價欄。
-- 本檔整理影片：58 部。
-- 地點總筆數：1067 筆；含原始 Google Maps 連結 906 筆，去重後 860 條。
-- 評價來源：Google Maps；本次已查得 40 條評分，其餘保留地圖連結並標示未取得。
-- 未抓到地點資料：#8 🇯🇵在東京完成 20萬訂閱Q&A，年紀？收入？另一半？｜老辣妹
+- 抓取日期：2026-06-17
+- 整理流程：本輪重新抓取 YouTube 頻道影片清單；舊影片地點沿用既有抽取資料，新增影片解析 YouTube 描述欄/章節。
+- 本檔整理影片：58 部；本輪新增或補抓描述欄：0 部。
+- 店家/地點總筆數：1067 筆；原始 Google/Share 地圖連結 906 筆，搜尋補足 161 筆，Naver Map 0 筆。
+- Google Maps 評分本輪未逐筆重查；既有評分保留，新增列標示未取得。
+- 無店家資料影片清單：見 [lotmainidea_no_places.md](./lotmainidea_no_places.md)。
 
 ## 1. 🇯🇵你有多久沒逛過東京的代官山、中目黑？｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=1YqBgp2Cq4I)
-- 發布時間：22 小時前；觀看次數：4.9萬次
+- 發布時間：3 週前；觀看次數：觀看次數：15萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -31,7 +31,7 @@
 ## 2. 🇯🇵不用自駕就能把北海道道東玩得這麼精彩？｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=PxYa8pdpDIs)
-- 發布時間：1 個月前；觀看次數：13萬次
+- 發布時間：2 個月前；觀看次數：觀看次數：14萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -41,10 +41,10 @@
 | 幸町緑地 冬季樂園 | [Google Maps](https://maps.app.goo.gl/ULbqkh7rhqLWJVrK9) | Google Maps 3.8（77 則評論） | 影片介紹本集路線時提到：「北海道道東，出了名的美麗！ 這次選在白雪皚皚的寒冬前來 （2026/01/27-02/09） 正是被各種冬季限定吸引」此處依描述欄列為出場地點。 | [5:56](https://www.youtube.com/watch?v=PxYa8pdpDIs&t=356s) | 老辣妹 |
 | 幣舞橋 | [Google Maps](https://maps.app.goo.gl/E1pxPhwxdoy1hvmX7) | Google Maps 4.4（873 則評論） | 影片介紹本集路線時提到：「北海道道東，出了名的美麗！ 這次選在白雪皚皚的寒冬前來 （2026/01/27-02/09） 正是被各種冬季限定吸引」此處依描述欄列為出場地點。 | [5:56](https://www.youtube.com/watch?v=PxYa8pdpDIs&t=356s) | 老辣妹 |
 | 炉ばた | [Google Maps](https://maps.app.goo.gl/EgLT51A5v4WA4RBq9) | Google Maps 4.2（333 則評論） | 影片介紹本集路線時提到：「北海道道東，出了名的美麗！ 這次選在白雪皚皚的寒冬前來 （2026/01/27-02/09） 正是被各種冬季限定吸引」此處依描述欄列為出場地點。 | [9:35](https://www.youtube.com/watch?v=PxYa8pdpDIs&t=575s) | 老辣妹 |
-| SL 冬季濕原號 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=SL%20%E5%86%AC%E5%AD%A3%E6%BF%95%E5%8E%9F%E8%99%9F%20%E9%87%A7%E8%B7%AF) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「北海道道東，出了名的美麗！ 這次選在白雪皚皚的寒冬前來 （2026/01/27-02/09） 正是被各種冬季限定吸引」此處依描述欄列為出場地點。 | [11:53](https://www.youtube.com/watch?v=PxYa8pdpDIs&t=713s) | 老辣妹 |
+| SL 冬季濕原號 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=SL%20%E5%86%AC%E5%AD%A3%E6%BF%95%E5%8E%9F%E8%99%9F) | Google Maps 未取得 | 影片介紹本集路線時提到：「北海道道東，出了名的美麗！ 這次選在白雪皚皚的寒冬前來 （2026/01/27-02/09） 正是被各種冬季限定吸引」此處依描述欄列為出場地點。 | [11:53](https://www.youtube.com/watch?v=PxYa8pdpDIs&t=713s) | 老辣妹 |
 | 摩周湖第一展望台 | [Google Maps](https://maps.app.goo.gl/4FMHVU8me5TXtxaM6) | Google Maps 4.3（8,702 則評論） | 影片介紹本集路線時提到：「北海道道東，出了名的美麗！ 這次選在白雪皚皚的寒冬前來 （2026/01/27-02/09） 正是被各種冬季限定吸引」此處依描述欄列為出場地點。 | [15:19](https://www.youtube.com/watch?v=PxYa8pdpDIs&t=919s) | 老辣妹 |
 | LANTOKO 流氷遊ウォーク | [Google Maps](https://maps.app.goo.gl/tnst4uwVVjoX5aXC6) | Google Maps 4.8（66 則評論） | 影片介紹本集路線時提到：「北海道道東，出了名的美麗！ 這次選在白雪皚皚的寒冬前來 （2026/01/27-02/09） 正是被各種冬季限定吸引」此處依描述欄列為出場地點。 | [19:07](https://www.youtube.com/watch?v=PxYa8pdpDIs&t=1147s) | 老辣妹 |
-| 流冰物語號 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%B5%81%E5%86%B0%E7%89%A9%E8%AA%9E%E8%99%9F%20%E7%9F%A5%E5%BA%8A) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「北海道道東，出了名的美麗！ 這次選在白雪皚皚的寒冬前來 （2026/01/27-02/09） 正是被各種冬季限定吸引」此處依描述欄列為出場地點。 | [25:03](https://www.youtube.com/watch?v=PxYa8pdpDIs&t=1503s) | 老辣妹 |
+| 流冰物語號 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%B5%81%E5%86%B0%E7%89%A9%E8%AA%9E%E8%99%9F) | Google Maps 未取得 | 影片介紹本集路線時提到：「北海道道東，出了名的美麗！ 這次選在白雪皚皚的寒冬前來 （2026/01/27-02/09） 正是被各種冬季限定吸引」此處依描述欄列為出場地點。 | [25:03](https://www.youtube.com/watch?v=PxYa8pdpDIs&t=1503s) | 老辣妹 |
 | JR 北浜駅 | [Google Maps](https://maps.app.goo.gl/M3PPcWPYEuBVwhHy9) | Google Maps 4.3（401 則評論） | 影片介紹本集路線時提到：「北海道道東，出了名的美麗！ 這次選在白雪皚皚的寒冬前來 （2026/01/27-02/09） 正是被各種冬季限定吸引」此處依描述欄列為出場地點。 | [25:03](https://www.youtube.com/watch?v=PxYa8pdpDIs&t=1503s) | 老辣妹 |
 | 喫茶 停車場 | [Google Maps](https://maps.app.goo.gl/6e4Ez65DZDoujh2D9) | Google Maps 4.2（333 則評論） | 影片介紹本集路線時提到：「北海道道東，出了名的美麗！ 這次選在白雪皚皚的寒冬前來 （2026/01/27-02/09） 正是被各種冬季限定吸引」此處依描述欄列為出場地點。 | [YouTube](https://www.youtube.com/watch?v=PxYa8pdpDIs) | 老辣妹 |
 | 博物館 網走監獄 | [Google Maps](https://maps.app.goo.gl/ZiNQSnAwYhbiqiQU8) | Google Maps 4.3（8,384 則評論） | 影片介紹本集路線時提到：「北海道道東，出了名的美麗！ 這次選在白雪皚皚的寒冬前來 （2026/01/27-02/09） 正是被各種冬季限定吸引」此處依描述欄列為出場地點。 | [26:50](https://www.youtube.com/watch?v=PxYa8pdpDIs&t=1610s) | 老辣妹 |
@@ -53,7 +53,7 @@
 ## 3. 🇯🇵東京最有復古味的路線？再帶男生逛新的原宿｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=MqSHYx4GKIw)
-- 發布時間：2 個月前；觀看次數：16萬次
+- 發布時間：3 個月前；觀看次數：觀看次數：17萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -68,7 +68,7 @@
 ## 4. 🇯🇵我又搜集了一些2026來東京玩的新選擇｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=MAMVtv82W2w)
-- 發布時間：3 個月前；觀看次數：38萬次
+- 發布時間：4 個月前；觀看次數：觀看次數：41萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -94,7 +94,7 @@
 ## 5. 🇯🇵這些是我搜集的福岡新清單！｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=aY8s5LIcJxE)
-- 發布時間：4 個月前；觀看次數：32萬次
+- 發布時間：5 個月前；觀看次數：觀看次數：34萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -125,7 +125,7 @@
 ## 6. 🇯🇵從東京就能出發的兩天一夜玩法？｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=lCe8UWgwZ9Y)
-- 發布時間：5 個月前；觀看次數：12萬次
+- 發布時間：6 個月前；觀看次數：觀看次數：13萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -148,7 +148,7 @@
 ## 7. 🇯🇵為什麼廣島值得去？這是我不曾體驗過的旅行｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Tucvptgz_Xw)
-- 發布時間：6 個月前；觀看次數：28萬次
+- 發布時間：7 個月前；觀看次數：觀看次數：30萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -198,17 +198,10 @@
 | BEAMS JAPAN 宮島 | [Google Maps](https://maps.app.goo.gl/zDShSNyzDiJz1TRA6) | Google Maps 未取得 | 影片介紹本集路線時提到：「廣島是一個有故事的地方 不論是歷史景點或瀨戶內海上的小島 都讓這次的拍攝又哭又笑的🙂」此處依描述欄列為出場地點。 | [39:02](https://www.youtube.com/watch?v=Tucvptgz_Xw&t=2342s) | 老辣妹 |
 | ‼️這個渡船口離彈珠汽水工廠比較近‼️ | [Google Maps](https://maps.app.goo.gl/tpbbGBmvKV13XMhK6) | Google Maps 未取得 | 影片介紹本集路線時提到：「廣島是一個有故事的地方 不論是歷史景點或瀨戶內海上的小島 都讓這次的拍攝又哭又笑的🙂」此處依描述欄列為出場地點。 | [YouTube](https://www.youtube.com/watch?v=Tucvptgz_Xw) | 老辣妹 |
 
-## 8. 🇯🇵在東京完成 20萬訂閱Q&A，年紀？收入？另一半？｜老辣妹
-
-- 影片：[YouTube](https://www.youtube.com/watch?v=eFeCCAHsDnU)
-- 發布時間：7 個月前；觀看次數：32萬次
-
-此影片未從描述欄或章節抓到可整理的店家/地點清單。
-
 ## 9. 🇯🇵沒想到東京的龜有、藏前會這麼有趣？再去橫濱新逛街景點！｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=fmBz7azgE1k)
-- 發布時間：8 個月前；觀看次數：27萬次
+- 發布時間：9 個月前；觀看次數：觀看次數：28萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -232,7 +225,7 @@
 ## 10. 🇯🇵去東京玩能參考這些YouTuber推薦的美食嗎？｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=7NdUPksUmho)
-- 發布時間：9 個月前；觀看次數：34萬次
+- 發布時間：10 個月前；觀看次數：觀看次數：35萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -261,7 +254,7 @@
 ## 11. 🇯🇵沖繩自由行精選：絕對不會是我最後一次來這裡！｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=_4pGeMzAZHE)
-- 發布時間：10 個月前；觀看次數：47萬次
+- 發布時間：11 個月前；觀看次數：觀看次數：48萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -308,7 +301,7 @@
 ## 12. 🇯🇵大阪自由行精選 第三章：梅田、中之島、夢洲｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=vctjD9CdC54)
-- 發布時間：11 個月前；觀看次數：17萬次
+- 發布時間：1 年前；觀看次數：觀看次數：17萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -337,7 +330,7 @@
 ## 13. 🇯🇵這是一條東京市區內，新手與老手都會有驚喜的路線？｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=r26KUeSIgKg)
-- 發布時間：1 年前；觀看次數：40萬次
+- 發布時間：1 年前；觀看次數：觀看次數：41萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -358,7 +351,7 @@
 ## 14. 🇯🇵旅遊淡季在幾乎沒有觀光客的日本北陸有多好玩？｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=_MIBvm14oBA)
-- 發布時間：1 年前；觀看次數：25萬次
+- 發布時間：1 年前；觀看次數：觀看次數：25萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -367,11 +360,11 @@
 | 富山城址公園 | [Google Maps](https://maps.app.goo.gl/HJzeUW7NqDwk4Dby9) | Google Maps 未取得 | 影片介紹本集路線時提到：「為了圓夢 我們踏上了北陸三縣之一的富山 作為山脈富翁的地區 真的好幾度美哭我」此處依描述欄列為出場地點。 | [6:15](https://www.youtube.com/watch?v=_MIBvm14oBA&t=375s) | 老辣妹 |
 | 池田屋安兵衛商店 | [Google Maps](https://maps.app.goo.gl/VdKoGj7MMQDWgQhY6) | Google Maps 未取得 | 影片介紹本集路線時提到：「為了圓夢 我們踏上了北陸三縣之一的富山 作為山脈富翁的地區 真的好幾度美哭我」此處依描述欄列為出場地點。 | [8:16](https://www.youtube.com/watch?v=_MIBvm14oBA&t=496s) | 老辣妹 |
 | 富山市ガラス美術館 | [Google Maps](https://maps.app.goo.gl/wJjc9CDM9bA7jHnFA) | Google Maps 未取得 | 影片介紹本集路線時提到：「為了圓夢 我們踏上了北陸三縣之一的富山 作為山脈富翁的地區 真的好幾度美哭我」此處依描述欄列為出場地點。 | [10:10](https://www.youtube.com/watch?v=_MIBvm14oBA&t=610s) | 老辣妹 |
-| 富山市観光協会 Instagram | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E5%B8%82%E8%A6%B3%E5%85%89%E5%8D%94%E4%BC%9A%20Instagram%20%E5%AF%8C%E5%B1%B1) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「為了圓夢 我們踏上了北陸三縣之一的富山 作為山脈富翁的地區 真的好幾度美哭我」此處依描述欄列為出場地點。 | [12:27](https://www.youtube.com/watch?v=_MIBvm14oBA&t=747s) | 老辣妹 |
+| 富山市観光協会 Instagram | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E5%B8%82%E8%A6%B3%E5%85%89%E5%8D%94%E4%BC%9A%20Instagram) | Google Maps 未取得 | 影片介紹本集路線時提到：「為了圓夢 我們踏上了北陸三縣之一的富山 作為山脈富翁的地區 真的好幾度美哭我」此處依描述欄列為出場地點。 | [12:27](https://www.youtube.com/watch?v=_MIBvm14oBA&t=747s) | 老辣妹 |
 | スターバックス コーヒー 富山環水公園店 | [Google Maps](https://maps.app.goo.gl/byaRSTKuNgmw1GHdA) | Google Maps 未取得 | 影片介紹本集路線時提到：「為了圓夢 我們踏上了北陸三縣之一的富山 作為山脈富翁的地區 真的好幾度美哭我」此處依描述欄列為出場地點。 | [11:20](https://www.youtube.com/watch?v=_MIBvm14oBA&t=680s) | 老辣妹 |
 | 富山県美術館 | [Google Maps](https://maps.app.goo.gl/hSd38zQEtyt9BhLZ8) | Google Maps 未取得 | 影片介紹本集路線時提到：「為了圓夢 我們踏上了北陸三縣之一的富山 作為山脈富翁的地區 真的好幾度美哭我」此處依描述欄列為出場地點。 | [12:27](https://www.youtube.com/watch?v=_MIBvm14oBA&t=747s) | 老辣妹 |
 | ラーメン一心 富山駅前本店 | [Google Maps](https://maps.app.goo.gl/z3RE8bemaGdZUh41A) | Google Maps 未取得 | 影片介紹本集路線時提到：「為了圓夢 我們踏上了北陸三縣之一的富山 作為山脈富翁的地區 真的好幾度美哭我」此處依描述欄列為出場地點。 | [14:52](https://www.youtube.com/watch?v=_MIBvm14oBA&t=892s) | 老辣妹 |
-| 瑰麗山海號 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%91%B0%E9%BA%97%E5%B1%B1%E6%B5%B7%E8%99%9F%20%E5%AF%8C%E5%B1%B1) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「為了圓夢 我們踏上了北陸三縣之一的富山 作為山脈富翁的地區 真的好幾度美哭我」此處依描述欄列為出場地點。 | [17:17](https://www.youtube.com/watch?v=_MIBvm14oBA&t=1037s) | 老辣妹 |
+| 瑰麗山海號 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%91%B0%E9%BA%97%E5%B1%B1%E6%B5%B7%E8%99%9F) | Google Maps 未取得 | 影片介紹本集路線時提到：「為了圓夢 我們踏上了北陸三縣之一的富山 作為山脈富翁的地區 真的好幾度美哭我」此處依描述欄列為出場地點。 | [17:17](https://www.youtube.com/watch?v=_MIBvm14oBA&t=1037s) | 老辣妹 |
 | 氷見牛専門店 たなか | [Google Maps](https://maps.app.goo.gl/aYB4GbsXwnp6M5DK7) | Google Maps 未取得 | 影片介紹本集路線時提到：「為了圓夢 我們踏上了北陸三縣之一的富山 作為山脈富翁的地區 真的好幾度美哭我」此處依描述欄列為出場地點。 | [18:22](https://www.youtube.com/watch?v=_MIBvm14oBA&t=1102s) | 老辣妹 |
 | 氷見市潮風ギャラリー 藤子不二雄Ⓐアートコレクション | [Google Maps](https://maps.app.goo.gl/jjZCrM5phRkPgPdK9) | Google Maps 未取得 | 影片介紹本集路線時提到：「為了圓夢 我們踏上了北陸三縣之一的富山 作為山脈富翁的地區 真的好幾度美哭我」此處依描述欄列為出場地點。 | [20:16](https://www.youtube.com/watch?v=_MIBvm14oBA&t=1216s) | 老辣妹 |
 | 光禅寺 | [Google Maps](https://maps.app.goo.gl/sg3w5wGK2Zf4rrSQ6) | Google Maps 未取得 | 影片介紹本集路線時提到：「為了圓夢 我們踏上了北陸三縣之一的富山 作為山脈富翁的地區 真的好幾度美哭我」此處依描述欄列為出場地點。 | [27:35](https://www.youtube.com/watch?v=_MIBvm14oBA&t=1655s) | 老辣妹 |
@@ -384,7 +377,7 @@
 ## 15. 🇯🇵我搜集了一些2025來東京玩的新選擇｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=_ypi5OsP2h8)
-- 發布時間：1 年前；觀看次數：54萬次
+- 發布時間：1 年前；觀看次數：觀看次數：54萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -407,7 +400,7 @@
 ## 16. 🇯🇵東北的仙台是怎麼變成我抗拒不了的城市？｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=OcnELfl_jm8)
-- 發布時間：1 年前；觀看次數：57萬次
+- 發布時間：1 年前；觀看次數：觀看次數：59萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -427,7 +420,7 @@
 | 松島雪竹屋 | [Google Maps](https://maps.app.goo.gl/XFf9EdqscJEBqNfC7) | Google Maps 未取得 | 影片介紹本集路線時提到：「仙台，是東北最大的城市 也是許多臺灣人旅行會挑選的前幾名 這裡富含著不少特色美食 尤其是牛舌🥩和毛豆泥🫛 就足以成為我再度構思下一趟旅行的動力」此處依描述欄列為出場地點。 | [24:45](https://www.youtube.com/watch?v=OcnELfl_jm8&t=1485s) | 老辣妹 |
 | 松島レトロ館 | [Google Maps](https://maps.app.goo.gl/yYskadNVQrwcVWQw9) | Google Maps 未取得 | 影片介紹本集路線時提到：「仙台，是東北最大的城市 也是許多臺灣人旅行會挑選的前幾名 這裡富含著不少特色美食 尤其是牛舌🥩和毛豆泥🫛 就足以成為我再度構思下一趟旅行的動力」此處依描述欄列為出場地點。 | [22:41](https://www.youtube.com/watch?v=OcnELfl_jm8&t=1361s) | 老辣妹 |
 | 瑞巌寺 五大堂 | [Google Maps](https://maps.app.goo.gl/S26uxZbbr9WtgJaC9) | Google Maps 未取得 | 影片介紹本集路線時提到：「仙台，是東北最大的城市 也是許多臺灣人旅行會挑選的前幾名 這裡富含著不少特色美食 尤其是牛舌🥩和毛豆泥🫛 就足以成為我再度構思下一趟旅行的動力」此處依描述欄列為出場地點。 | [24:45](https://www.youtube.com/watch?v=OcnELfl_jm8&t=1485s) | 老辣妹 |
-| POKÉMON with YOU列車 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=POK%C3%89MON%20with%20YOU%E5%88%97%E8%BB%8A%20%E6%B0%A3%E4%BB%99%E6%B2%BC) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「仙台，是東北最大的城市 也是許多臺灣人旅行會挑選的前幾名 這裡富含著不少特色美食 尤其是牛舌🥩和毛豆泥🫛 就足以成為我再度構思下一趟旅行的動力」此處依描述欄列為出場地點。 | [31:49](https://www.youtube.com/watch?v=OcnELfl_jm8&t=1909s) | 老辣妹 |
+| POKÉMON with YOU列車 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=POK%C3%89MON%20with%20YOU%E5%88%97%E8%BB%8A) | Google Maps 未取得 | 影片介紹本集路線時提到：「仙台，是東北最大的城市 也是許多臺灣人旅行會挑選的前幾名 這裡富含著不少特色美食 尤其是牛舌🥩和毛豆泥🫛 就足以成為我再度構思下一趟旅行的動力」此處依描述欄列為出場地點。 | [31:49](https://www.youtube.com/watch?v=OcnELfl_jm8&t=1909s) | 老辣妹 |
 | 氷の水族館 | [Google Maps](https://maps.app.goo.gl/gLZ7DCp9S2a435rZ6) | Google Maps 未取得 | 影片介紹本集路線時提到：「仙台，是東北最大的城市 也是許多臺灣人旅行會挑選的前幾名 這裡富含著不少特色美食 尤其是牛舌🥩和毛豆泥🫛 就足以成為我再度構思下一趟旅行的動力」此處依描述欄列為出場地點。 | [28:29](https://www.youtube.com/watch?v=OcnELfl_jm8&t=1709s) | 老辣妹 |
 | K-port | [Google Maps](https://maps.app.goo.gl/UY34b1Suf2rxx8C39) | Google Maps 未取得 | 影片介紹本集路線時提到：「仙台，是東北最大的城市 也是許多臺灣人旅行會挑選的前幾名 這裡富含著不少特色美食 尤其是牛舌🥩和毛豆泥🫛 就足以成為我再度構思下一趟旅行的動力」此處依描述欄列為出場地點。 | [31:49](https://www.youtube.com/watch?v=OcnELfl_jm8&t=1909s) | 老辣妹 |
 | げいび観光センター遊覧乗船券発売所 | [Google Maps](https://maps.app.goo.gl/JBMFhJvyXfNjhiqG7) | Google Maps 未取得 | 影片介紹本集路線時提到：「仙台，是東北最大的城市 也是許多臺灣人旅行會挑選的前幾名 這裡富含著不少特色美食 尤其是牛舌🥩和毛豆泥🫛 就足以成為我再度構思下一趟旅行的動力」此處依描述欄列為出場地點。 | [39:06](https://www.youtube.com/watch?v=OcnELfl_jm8&t=2346s) | 老辣妹 |
@@ -438,7 +431,7 @@
 ## 17. 🇯🇵冬天暴雪的北海道不自駕之旅該怎麼玩？｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=U55jilj0Mk4)
-- 發布時間：1 年前；觀看次數：42萬次
+- 發布時間：1 年前；觀看次數：觀看次數：42萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -474,7 +467,7 @@
 ## 18. 🇯🇵京都兩天一夜快閃，這麼短的時間可以去哪裡？｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=DYmnbZ8oaws)
-- 發布時間：1 年前；觀看次數：30萬次
+- 發布時間：1 年前；觀看次數：觀看次數：30萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -498,17 +491,17 @@
 ## 19. 🇯🇵從東京出發！如何用兩天一夜玩箱根溫泉鄉？｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=2GltAqaBJr0)
-- 發布時間：1 年前；觀看次數：24萬次
+- 發布時間：1 年前；觀看次數：觀看次數：24萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 泡湯、散策，慢慢的玩。 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%B3%A1%E6%B9%AF%E3%80%81%E6%95%A3%E7%AD%96%EF%BC%8C%E6%85%A2%E6%85%A2%E7%9A%84%E7%8E%A9%E3%80%82) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [0:50](https://www.youtube.com/watch?v=2GltAqaBJr0&t=50s) | 老辣妹 |
-| JR東海道線 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=JR%E6%9D%B1%E6%B5%B7%E9%81%93%E7%B7%9A) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [1:36](https://www.youtube.com/watch?v=2GltAqaBJr0&t=96s) | 老辣妹 |
-| JR上野東京線 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=JR%E4%B8%8A%E9%87%8E%E6%9D%B1%E4%BA%AC%E7%B7%9A) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [2:43](https://www.youtube.com/watch?v=2GltAqaBJr0&t=163s) | 老辣妹 |
-| JR湘南新宿線 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=JR%E6%B9%98%E5%8D%97%E6%96%B0%E5%AE%BF%E7%B7%9A) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [3:36](https://www.youtube.com/watch?v=2GltAqaBJr0&t=216s) | 老辣妹 |
-| 東海道新幹線 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%B5%B7%E9%81%93%E6%96%B0%E5%B9%B9%E7%B7%9A) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [4:50](https://www.youtube.com/watch?v=2GltAqaBJr0&t=290s) | 老辣妹 |
-| 快速急行 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%BF%AB%E9%80%9F%E6%80%A5%E8%A1%8C) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [7:59](https://www.youtube.com/watch?v=2GltAqaBJr0&t=479s) | 老辣妹 |
-| 浪漫特快 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%B5%AA%E6%BC%AB%E7%89%B9%E5%BF%AB) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [9:51](https://www.youtube.com/watch?v=2GltAqaBJr0&t=591s) | 老辣妹 |
+| 泡湯、散策，慢慢的玩。 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%B3%A1%E6%B9%AF%E3%80%81%E6%95%A3%E7%AD%96%EF%BC%8C%E6%85%A2%E6%85%A2%E7%9A%84%E7%8E%A9%E3%80%82) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [0:50](https://www.youtube.com/watch?v=2GltAqaBJr0&t=50s) | 老辣妹 |
+| JR東海道線 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=JR%E6%9D%B1%E6%B5%B7%E9%81%93%E7%B7%9A) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [1:36](https://www.youtube.com/watch?v=2GltAqaBJr0&t=96s) | 老辣妹 |
+| JR上野東京線 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=JR%E4%B8%8A%E9%87%8E%E6%9D%B1%E4%BA%AC%E7%B7%9A) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [2:43](https://www.youtube.com/watch?v=2GltAqaBJr0&t=163s) | 老辣妹 |
+| JR湘南新宿線 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=JR%E6%B9%98%E5%8D%97%E6%96%B0%E5%AE%BF%E7%B7%9A) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [3:36](https://www.youtube.com/watch?v=2GltAqaBJr0&t=216s) | 老辣妹 |
+| 東海道新幹線 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%B5%B7%E9%81%93%E6%96%B0%E5%B9%B9%E7%B7%9A) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [4:50](https://www.youtube.com/watch?v=2GltAqaBJr0&t=290s) | 老辣妹 |
+| 快速急行 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%BF%AB%E9%80%9F%E6%80%A5%E8%A1%8C) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [7:59](https://www.youtube.com/watch?v=2GltAqaBJr0&t=479s) | 老辣妹 |
+| 浪漫特快 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%B5%AA%E6%BC%AB%E7%89%B9%E5%BF%AB) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [9:51](https://www.youtube.com/watch?v=2GltAqaBJr0&t=591s) | 老辣妹 |
 | 箱根湯本駅 - 車站 ID：OH51 | [Google Maps](https://maps.app.goo.gl/JutqY8U5Xy6DWY2m8) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [0:50](https://www.youtube.com/watch?v=2GltAqaBJr0&t=50s) | 老辣妹 |
 | 籠清かまぼこ横丁 みつき店 | [Google Maps](https://maps.app.goo.gl/BgzbAtbMi8KuTor19) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [1:36](https://www.youtube.com/watch?v=2GltAqaBJr0&t=96s) | 老辣妹 |
 | 箱根てゑらみす | [Google Maps](https://maps.app.goo.gl/FEgMUMi2Lg21rrDC8) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [2:43](https://www.youtube.com/watch?v=2GltAqaBJr0&t=163s) | 老辣妹 |
@@ -532,7 +525,7 @@
 ## 20. 🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=E_z5AGwMDSg)
-- 發布時間：1 年前；觀看次數：78萬次
+- 發布時間：1 年前；觀看次數：觀看次數：80萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -586,11 +579,11 @@
 ## 21. 🇯🇵據說熱海是時下日本年輕人最愛的度假勝地？｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Hnn2_uC3-Eo)
-- 發布時間：1 年前；觀看次數：26萬次
+- 發布時間：1 年前；觀看次數：觀看次數：26萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 蜜得絲 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%9C%9C%E5%BE%97%E7%B5%B2) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「帶著他去日本趴趴走 除了能讓我每天閃閃發光之外 重點是只要一瓶！ 就可以達到以前擦專櫃好多瓶的保養效果～」此處依描述欄列為出場地點。 | [1:28](https://www.youtube.com/watch?v=Hnn2_uC3-Eo&t=88s) | 老辣妹 |
+| 蜜得絲 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%9C%9C%E5%BE%97%E7%B5%B2) | Google Maps 未取得 | 影片介紹本集路線時提到：「帶著他去日本趴趴走 除了能讓我每天閃閃發光之外 重點是只要一瓶！ 就可以達到以前擦專櫃好多瓶的保養效果～」此處依描述欄列為出場地點。 | [1:28](https://www.youtube.com/watch?v=Hnn2_uC3-Eo&t=88s) | 老辣妹 |
 | 熱海駅前平和通り名店街 | [Google Maps](https://maps.app.goo.gl/dqz5nQBd3fzjByDq9) | Google Maps 未取得 | 影片介紹本集路線時提到：「帶著他去日本趴趴走 除了能讓我每天閃閃發光之外 重點是只要一瓶！ 就可以達到以前擦專櫃好多瓶的保養效果～」此處依描述欄列為出場地點。 | [3:27](https://www.youtube.com/watch?v=Hnn2_uC3-Eo&t=207s) | 老辣妹 |
 | 磯揚げ まる天 熱海店 | [Google Maps](https://maps.app.goo.gl/mRuPChFzFVE2yudc9) | Google Maps 未取得 | 影片介紹本集路線時提到：「帶著他去日本趴趴走 除了能讓我每天閃閃發光之外 重點是只要一瓶！ 就可以達到以前擦專櫃好多瓶的保養效果～」此處依描述欄列為出場地點。 | [5:23](https://www.youtube.com/watch?v=Hnn2_uC3-Eo&t=323s) | 老辣妹 |
 | 又一庵謹製熱海ばたーあん | [Google Maps](https://maps.app.goo.gl/pvvgEhrTFnFtJ7rh9) | Google Maps 未取得 | 影片介紹本集路線時提到：「帶著他去日本趴趴走 除了能讓我每天閃閃發光之外 重點是只要一瓶！ 就可以達到以前擦專櫃好多瓶的保養效果～」此處依描述欄列為出場地點。 | [1:28](https://www.youtube.com/watch?v=Hnn2_uC3-Eo&t=88s) | 老辣妹 |
@@ -618,11 +611,11 @@
 ## 22. 🇯🇵九州自由行精選：熊本、由布院、長崎、三台觀光列車｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=CYj8g5GZojc)
-- 發布時間：1 年前；觀看次數：45萬次
+- 發布時間：1 年前；觀看次數：觀看次數：45萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 壹岐島 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%A3%B9%E5%B2%90%E5%B3%B6) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這次利用JR Pass玩北九州 跑了幾個自己私心很想去的地方～ 雖然不是最經典的路線 但就很想讓大家看看不一樣的風景」此處依描述欄列為出場地點。 | [1:25](https://www.youtube.com/watch?v=CYj8g5GZojc&t=85s) | 老辣妹 |
+| 壹岐島 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%A3%B9%E5%B2%90%E5%B3%B6) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次利用JR Pass玩北九州 跑了幾個自己私心很想去的地方～ 雖然不是最經典的路線 但就很想讓大家看看不一樣的風景」此處依描述欄列為出場地點。 | [1:25](https://www.youtube.com/watch?v=CYj8g5GZojc&t=85s) | 老辣妹 |
 | 熊本城 | [Google Maps](https://maps.app.goo.gl/vembieZ4YBvPLqtS9) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次利用JR Pass玩北九州 跑了幾個自己私心很想去的地方～ 雖然不是最經典的路線 但就很想讓大家看看不一樣的風景」此處依描述欄列為出場地點。 | [1:25](https://www.youtube.com/watch?v=CYj8g5GZojc&t=85s) | 老辣妹 |
 | 桜の馬場 城彩苑 | [Google Maps](https://maps.app.goo.gl/cbh9TUhGpWCqpXw98) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次利用JR Pass玩北九州 跑了幾個自己私心很想去的地方～ 雖然不是最經典的路線 但就很想讓大家看看不一樣的風景」此處依描述欄列為出場地點。 | [3:16](https://www.youtube.com/watch?v=CYj8g5GZojc&t=196s) | 老辣妹 |
 | お茶の泉園 熊本城店 | [Google Maps](https://maps.app.goo.gl/E9KVRtCw5HRLZDMz5) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次利用JR Pass玩北九州 跑了幾個自己私心很想去的地方～ 雖然不是最經典的路線 但就很想讓大家看看不一樣的風景」此處依描述欄列為出場地點。 | [1:25](https://www.youtube.com/watch?v=CYj8g5GZojc&t=85s) | 老辣妹 |
@@ -654,11 +647,11 @@
 ## 23. 🇯🇵東京最熱鬧的表參道除了精品還有什麼？精選超過20個地標！｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=DoWV0Np4OC8)
-- 發布時間：1 年前；觀看次數：42萬次
+- 發布時間：1 年前；觀看次數：觀看次數：43萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 表參道20個精選地標 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%A1%A8%E5%8F%83%E9%81%9320%E5%80%8B%E7%B2%BE%E9%81%B8%E5%9C%B0%E6%A8%99) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這次快速整理出 我的「表參道20個精選地標」 不知道大家有沒有快速mark起來？」此處依描述欄列為出場地點。 | [0:58](https://www.youtube.com/watch?v=DoWV0Np4OC8&t=58s) | 老辣妹 |
+| 表參道20個精選地標 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%A1%A8%E5%8F%83%E9%81%9320%E5%80%8B%E7%B2%BE%E9%81%B8%E5%9C%B0%E6%A8%99) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次快速整理出 我的「表參道20個精選地標」 不知道大家有沒有快速mark起來？」此處依描述欄列為出場地點。 | [0:58](https://www.youtube.com/watch?v=DoWV0Np4OC8&t=58s) | 老辣妹 |
 | AMAM DACOTAN | [Google Maps](https://maps.app.goo.gl/yxFkcchwfwuKihLB9) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次快速整理出 我的「表參道20個精選地標」 不知道大家有沒有快速mark起來？」此處依描述欄列為出場地點。 | [2:35](https://www.youtube.com/watch?v=DoWV0Np4OC8&t=155s) | 老辣妹 |
 | トンカツドットジェイピー | [Google Maps](https://maps.app.goo.gl/KQJowGEYjbz2bE156) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次快速整理出 我的「表參道20個精選地標」 不知道大家有沒有快速mark起來？」此處依描述欄列為出場地點。 | [3:25](https://www.youtube.com/watch?v=DoWV0Np4OC8&t=205s) | 老辣妹 |
 | The SHEL’TTER TOKYO | [Google Maps](https://maps.app.goo.gl/ScV4E5LYh5adcN6Z8) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次快速整理出 我的「表參道20個精選地標」 不知道大家有沒有快速mark起來？」此處依描述欄列為出場地點。 | [4:57](https://www.youtube.com/watch?v=DoWV0Np4OC8&t=297s) | 老辣妹 |
@@ -689,15 +682,15 @@
 ## 24. 🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=8afg4EHWmPU)
-- 發布時間：1 年前；觀看次數：30萬次
+- 發布時間：1 年前；觀看次數：觀看次數：31萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
 | 東京大神宮 | [Google Maps](https://maps.app.goo.gl/J4m9FagN3CztiRQU6) | Google Maps 未取得 | 影片介紹本集路線時提到：「東京散步系列又來了～ 讓我們從新宿開始出發吧！」此處依描述欄列為出場地點。 | [0:37](https://www.youtube.com/watch?v=8afg4EHWmPU&t=37s) | 老辣妹 |
 | 白髭泡芙工房 | [Google Maps](https://maps.app.goo.gl/oqJ6vWe21djew64t9) | Google Maps 未取得 | 影片介紹本集路線時提到：「東京散步系列又來了～ 讓我們從新宿開始出發吧！」此處依描述欄列為出場地點。 | [4:03](https://www.youtube.com/watch?v=8afg4EHWmPU&t=243s) | 老辣妹 |
 | Corn Barley | [Google Maps](https://maps.app.goo.gl/9PRzshQH4iR67grn6) | Google Maps 未取得 | 影片介紹本集路線時提到：「東京散步系列又來了～ 讓我們從新宿開始出發吧！」此處依描述欄列為出場地點。 | [5:33](https://www.youtube.com/watch?v=8afg4EHWmPU&t=333s) | 老辣妹 |
-| ORiental TRaffic | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=ORiental%20TRaffic) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「東京散步系列又來了～ 讓我們從新宿開始出發吧！」此處依描述欄列為出場地點。 | [6:37](https://www.youtube.com/watch?v=8afg4EHWmPU&t=397s) | 老辣妹 |
-| 5.5折優惠 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=5.5%E6%8A%98%E5%84%AA%E6%83%A0) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「東京散步系列又來了～ 讓我們從新宿開始出發吧！」此處依描述欄列為出場地點。 | [9:48](https://www.youtube.com/watch?v=8afg4EHWmPU&t=588s) | 老辣妹 |
+| ORiental TRaffic | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=ORiental%20TRaffic) | Google Maps 未取得 | 影片介紹本集路線時提到：「東京散步系列又來了～ 讓我們從新宿開始出發吧！」此處依描述欄列為出場地點。 | [6:37](https://www.youtube.com/watch?v=8afg4EHWmPU&t=397s) | 老辣妹 |
+| 5.5折優惠 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=5.5%E6%8A%98%E5%84%AA%E6%83%A0) | Google Maps 未取得 | 影片介紹本集路線時提到：「東京散步系列又來了～ 讓我們從新宿開始出發吧！」此處依描述欄列為出場地點。 | [9:48](https://www.youtube.com/watch?v=8afg4EHWmPU&t=588s) | 老辣妹 |
 | 新宿区立あかぎ児童遊園 | [Google Maps](https://maps.app.goo.gl/gnUYtrQMt8aSSNM58) | Google Maps 未取得 | 影片介紹本集路線時提到：「東京散步系列又來了～ 讓我們從新宿開始出發吧！」此處依描述欄列為出場地點。 | [0:37](https://www.youtube.com/watch?v=8afg4EHWmPU&t=37s) | 老辣妹 |
 | 梅花亭 神楽坂本店 | [Google Maps](https://maps.app.goo.gl/NgCu7B2pwGm4cxa87) | Google Maps 未取得 | 影片介紹本集路線時提到：「東京散步系列又來了～ 讓我們從新宿開始出發吧！」此處依描述欄列為出場地點。 | [0:37](https://www.youtube.com/watch?v=8afg4EHWmPU&t=37s) | 老辣妹 |
 | 神楽坂ねこの郵便局というなまえのお店 | [Google Maps](https://maps.app.goo.gl/YYeFCUD1RFrvYjrD6) | Google Maps 未取得 | 影片介紹本集路線時提到：「東京散步系列又來了～ 讓我們從新宿開始出發吧！」此處依描述欄列為出場地點。 | [4:03](https://www.youtube.com/watch?v=8afg4EHWmPU&t=243s) | 老辣妹 |
@@ -716,13 +709,13 @@
 ## 25. 🇯🇵這會是東京最便宜的一日遊行程嗎？｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=tLejaVtiAuk)
-- 發布時間：1 年前；觀看次數：25萬次
+- 發布時間：1 年前；觀看次數：觀看次數：25萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 東京有沒有一個地方是可以輕鬆玩、有風景又還有美食的呢？ | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E6%9C%89%E6%B2%92%E6%9C%89%E4%B8%80%E5%80%8B%E5%9C%B0%E6%96%B9%E6%98%AF%E5%8F%AF%E4%BB%A5%E8%BC%95%E9%AC%86%E7%8E%A9%E3%80%81%E6%9C%89%E9%A2%A8%E6%99%AF%E5%8F%88%E9%82%84%E6%9C%89%E7%BE%8E%E9%A3%9F%E7%9A%84%E5%91%A2%EF%BC%9F) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「很常有人會問我： 「東京有沒有一個地方是可以輕鬆玩、有風景又還有美食的呢？」」此處依描述欄列為出場地點。 | [0:42](https://www.youtube.com/watch?v=tLejaVtiAuk&t=42s) | 老辣妹 |
-| 都電荒川線一日遊 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E9%9B%BB%E8%8D%92%E5%B7%9D%E7%B7%9A%E4%B8%80%E6%97%A5%E9%81%8A) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「很常有人會問我： 「東京有沒有一個地方是可以輕鬆玩、有風景又還有美食的呢？」」此處依描述欄列為出場地點。 | [2:26](https://www.youtube.com/watch?v=tLejaVtiAuk&t=146s) | 老辣妹 |
-| lot100 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=lot100) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「很常有人會問我： 「東京有沒有一個地方是可以輕鬆玩、有風景又還有美食的呢？」」此處依描述欄列為出場地點。 | [4:24](https://www.youtube.com/watch?v=tLejaVtiAuk&t=264s) | 老辣妹 |
+| 東京有沒有一個地方是可以輕鬆玩、有風景又還有美食的呢？ | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E6%9C%89%E6%B2%92%E6%9C%89%E4%B8%80%E5%80%8B%E5%9C%B0%E6%96%B9%E6%98%AF%E5%8F%AF%E4%BB%A5%E8%BC%95%E9%AC%86%E7%8E%A9%E3%80%81%E6%9C%89%E9%A2%A8%E6%99%AF%E5%8F%88%E9%82%84%E6%9C%89%E7%BE%8E%E9%A3%9F%E7%9A%84%E5%91%A2%EF%BC%9F) | Google Maps 未取得 | 影片介紹本集路線時提到：「很常有人會問我： 「東京有沒有一個地方是可以輕鬆玩、有風景又還有美食的呢？」」此處依描述欄列為出場地點。 | [0:42](https://www.youtube.com/watch?v=tLejaVtiAuk&t=42s) | 老辣妹 |
+| 都電荒川線一日遊 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E9%9B%BB%E8%8D%92%E5%B7%9D%E7%B7%9A%E4%B8%80%E6%97%A5%E9%81%8A) | Google Maps 未取得 | 影片介紹本集路線時提到：「很常有人會問我： 「東京有沒有一個地方是可以輕鬆玩、有風景又還有美食的呢？」」此處依描述欄列為出場地點。 | [2:26](https://www.youtube.com/watch?v=tLejaVtiAuk&t=146s) | 老辣妹 |
+| lot100 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=lot100) | Google Maps 未取得 | 影片介紹本集路線時提到：「很常有人會問我： 「東京有沒有一個地方是可以輕鬆玩、有風景又還有美食的呢？」」此處依描述欄列為出場地點。 | [4:24](https://www.youtube.com/watch?v=tLejaVtiAuk&t=264s) | 老辣妹 |
 | おにぎりぼんご | [Google Maps](https://maps.app.goo.gl/1BH1qXbrqJeDTKhFA) | Google Maps 未取得 | 影片介紹本集路線時提到：「很常有人會問我： 「東京有沒有一個地方是可以輕鬆玩、有風景又還有美食的呢？」」此處依描述欄列為出場地點。 | [0:42](https://www.youtube.com/watch?v=tLejaVtiAuk&t=42s) | 老辣妹 |
 | アルテリア・ベーカリー 雑司が谷店 | [Google Maps](https://maps.app.goo.gl/6vcdDK6rDfuEoMRv6) | Google Maps 未取得 | 影片介紹本集路線時提到：「很常有人會問我： 「東京有沒有一個地方是可以輕鬆玩、有風景又還有美食的呢？」」此處依描述欄列為出場地點。 | [2:26](https://www.youtube.com/watch?v=tLejaVtiAuk&t=146s) | 老辣妹 |
 | キアズマ珈琲 | [Google Maps](https://maps.app.goo.gl/RKXLBwdmThGuk1rj8) | Google Maps 未取得 | 影片介紹本集路線時提到：「很常有人會問我： 「東京有沒有一個地方是可以輕鬆玩、有風景又還有美食的呢？」」此處依描述欄列為出場地點。 | [10:06](https://www.youtube.com/watch?v=tLejaVtiAuk&t=606s) | 老辣妹 |
@@ -744,12 +737,12 @@
 ## 26. 🇯🇵日本東北的鄉下多美好？岩手縣四天三夜之旅全記錄｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=6pHZyEji4tg)
-- 發布時間：1 年前；觀看次數：26萬次
+- 發布時間：1 年前；觀看次數：觀看次數：26萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 東北PASS | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E5%8C%97PASS) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「東北岩手縣的花卷 是一個讓我心神嚮往的地方 處處充滿著文青浪漫與復古味 臺灣不但有直飛 還能搭配「東北PASS」玩整個岩手縣 橫跨了盛岡、花卷、奧州、一之關 無論是想看壯麗的自然景...」此處依描述欄列為出場地點。 | [0:36](https://www.youtube.com/watch?v=6pHZyEji4tg&t=36s) | 老辣妹 |
-| 冬天泡湯，夏天避暑 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%86%AC%E5%A4%A9%E6%B3%A1%E6%B9%AF%EF%BC%8C%E5%A4%8F%E5%A4%A9%E9%81%BF%E6%9A%91) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「東北岩手縣的花卷 是一個讓我心神嚮往的地方 處處充滿著文青浪漫與復古味 臺灣不但有直飛 還能搭配「東北PASS」玩整個岩手縣 橫跨了盛岡、花卷、奧州、一之關 無論是想看壯麗的自然景...」此處依描述欄列為出場地點。 | [2:43](https://www.youtube.com/watch?v=6pHZyEji4tg&t=163s) | 老辣妹 |
+| 東北PASS | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E5%8C%97PASS) | Google Maps 未取得 | 影片介紹本集路線時提到：「東北岩手縣的花卷 是一個讓我心神嚮往的地方 處處充滿著文青浪漫與復古味 臺灣不但有直飛 還能搭配「東北PASS」玩整個岩手縣 橫跨了盛岡、花卷、奧州、一之關 無論是想看壯麗的自然景...」此處依描述欄列為出場地點。 | [0:36](https://www.youtube.com/watch?v=6pHZyEji4tg&t=36s) | 老辣妹 |
+| 冬天泡湯，夏天避暑 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%86%AC%E5%A4%A9%E6%B3%A1%E6%B9%AF%EF%BC%8C%E5%A4%8F%E5%A4%A9%E9%81%BF%E6%9A%91) | Google Maps 未取得 | 影片介紹本集路線時提到：「東北岩手縣的花卷 是一個讓我心神嚮往的地方 處處充滿著文青浪漫與復古味 臺灣不但有直飛 還能搭配「東北PASS」玩整個岩手縣 橫跨了盛岡、花卷、奧州、一之關 無論是想看壯麗的自然景...」此處依描述欄列為出場地點。 | [2:43](https://www.youtube.com/watch?v=6pHZyEji4tg&t=163s) | 老辣妹 |
 | 夜来香 | [Google Maps](https://maps.app.goo.gl/bc6TsyrfjLuNDhEA9) | Google Maps 未取得 | 影片介紹本集路線時提到：「東北岩手縣的花卷 是一個讓我心神嚮往的地方 處處充滿著文青浪漫與復古味 臺灣不但有直飛 還能搭配「東北PASS」玩整個岩手縣 橫跨了盛岡、花卷、奧州、一之關 無論是想看壯麗的自然景...」此處依描述欄列為出場地點。 | [0:36](https://www.youtube.com/watch?v=6pHZyEji4tg&t=36s) | 老辣妹 |
 | 未来都市銀河地球鉄道壁画 | [Google Maps](https://maps.app.goo.gl/WLksumHzSjdQQTzj7) | Google Maps 未取得 | 影片介紹本集路線時提到：「東北岩手縣的花卷 是一個讓我心神嚮往的地方 處處充滿著文青浪漫與復古味 臺灣不但有直飛 還能搭配「東北PASS」玩整個岩手縣 橫跨了盛岡、花卷、奧州、一之關 無論是想看壯麗的自然景...」此處依描述欄列為出場地點。 | [2:43](https://www.youtube.com/watch?v=6pHZyEji4tg&t=163s) | 老辣妹 |
 | 山の駅·昭和の学校 | [Google Maps](https://maps.app.goo.gl/aFnhDAfC5HZtVRBf7) | Google Maps 未取得 | 影片介紹本集路線時提到：「東北岩手縣的花卷 是一個讓我心神嚮往的地方 處處充滿著文青浪漫與復古味 臺灣不但有直飛 還能搭配「東北PASS」玩整個岩手縣 橫跨了盛岡、花卷、奧州、一之關 無論是想看壯麗的自然景...」此處依描述欄列為出場地點。 | [3:54](https://www.youtube.com/watch?v=6pHZyEji4tg&t=234s) | 老辣妹 |
@@ -763,19 +756,19 @@
 | 老舗 白沢せんべい店 | [Google Maps](https://maps.app.goo.gl/7kAJa6qwwD9rysbJ6) | Google Maps 未取得 | 影片介紹本集路線時提到：「東北岩手縣的花卷 是一個讓我心神嚮往的地方 處處充滿著文青浪漫與復古味 臺灣不但有直飛 還能搭配「東北PASS」玩整個岩手縣 橫跨了盛岡、花卷、奧州、一之關 無論是想看壯麗的自然景...」此處依描述欄列為出場地點。 | [18:22](https://www.youtube.com/watch?v=6pHZyEji4tg&t=1102s) | 老辣妹 |
 | 開運橋 | [Google Maps](https://maps.app.goo.gl/bLVDbKuDRLR1rvJE7) | Google Maps 未取得 | 影片介紹本集路線時提到：「東北岩手縣的花卷 是一個讓我心神嚮往的地方 處處充滿著文青浪漫與復古味 臺灣不但有直飛 還能搭配「東北PASS」玩整個岩手縣 橫跨了盛岡、花卷、奧州、一之關 無論是想看壯麗的自然景...」此處依描述欄列為出場地點。 | [20:31](https://www.youtube.com/watch?v=6pHZyEji4tg&t=1231s) | 老辣妹 |
 | 盛楼閣 | [Google Maps](https://maps.app.goo.gl/zSohwL4iYpJx9eNk9) | Google Maps 未取得 | 影片介紹本集路線時提到：「東北岩手縣的花卷 是一個讓我心神嚮往的地方 處處充滿著文青浪漫與復古味 臺灣不但有直飛 還能搭配「東北PASS」玩整個岩手縣 橫跨了盛岡、花卷、奧州、一之關 無論是想看壯麗的自然景...」此處依描述欄列為出場地點。 | [21:17](https://www.youtube.com/watch?v=6pHZyEji4tg&t=1277s) | 老辣妹 |
-| 寶可夢列車 POKÉMON with YOU TRAIN | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%AF%B6%E5%8F%AF%E5%A4%A2%E5%88%97%E8%BB%8A%20POK%C3%89MON%20with%20YOU%20TRAIN%20%E4%B8%80%E4%B9%8B%E9%97%9C) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「東北岩手縣的花卷 是一個讓我心神嚮往的地方 處處充滿著文青浪漫與復古味 臺灣不但有直飛 還能搭配「東北PASS」玩整個岩手縣 橫跨了盛岡、花卷、奧州、一之關 無論是想看壯麗的自然景...」此處依描述欄列為出場地點。 | [YouTube](https://www.youtube.com/watch?v=6pHZyEji4tg) | 老辣妹 |
+| 寶可夢列車 POKÉMON with YOU TRAIN | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%AF%B6%E5%8F%AF%E5%A4%A2%E5%88%97%E8%BB%8A%20POK%C3%89MON%20with%20YOU%20TRAIN) | Google Maps 未取得 | 影片介紹本集路線時提到：「東北岩手縣的花卷 是一個讓我心神嚮往的地方 處處充滿著文青浪漫與復古味 臺灣不但有直飛 還能搭配「東北PASS」玩整個岩手縣 橫跨了盛岡、花卷、奧州、一之關 無論是想看壯麗的自然景...」此處依描述欄列為出場地點。 | [YouTube](https://www.youtube.com/watch?v=6pHZyEji4tg) | 老辣妹 |
 | 郭公だんご | [Google Maps](https://maps.app.goo.gl/8FGJsMiWUJ6qGsvg6) | Google Maps 未取得 | 影片介紹本集路線時提到：「東北岩手縣的花卷 是一個讓我心神嚮往的地方 處處充滿著文青浪漫與復古味 臺灣不但有直飛 還能搭配「東北PASS」玩整個岩手縣 橫跨了盛岡、花卷、奧州、一之關 無論是想看壯麗的自然景...」此處依描述欄列為出場地點。 | [26:17](https://www.youtube.com/watch?v=6pHZyEji4tg&t=1577s) | 老辣妹 |
 | 奥州市役所 | [Google Maps](https://maps.app.goo.gl/YbAT27whfoNpKp2m9) | Google Maps 未取得 | 影片介紹本集路線時提到：「東北岩手縣的花卷 是一個讓我心神嚮往的地方 處處充滿著文青浪漫與復古味 臺灣不但有直飛 還能搭配「東北PASS」玩整個岩手縣 橫跨了盛岡、花卷、奧州、一之關 無論是想看壯麗的自然景...」此處依描述欄列為出場地點。 | [29:32](https://www.youtube.com/watch?v=6pHZyEji4tg&t=1772s) | 老辣妹 |
 
 ## 27. 🇯🇵東京自由行推薦！一日晴空塔周邊散策｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=KXvLiBfyQgY)
-- 發布時間：1 年前；觀看次數：20萬次
+- 發布時間：1 年前；觀看次數：觀看次數：21萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 墨田區 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%A2%A8%E7%94%B0%E5%8D%80) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [0:39](https://www.youtube.com/watch?v=KXvLiBfyQgY&t=39s) | 老辣妹 |
-| nueva AQUA™水水蛋 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=nueva%20AQUA%E2%84%A2%E6%B0%B4%E6%B0%B4%E8%9B%8B) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [2:36](https://www.youtube.com/watch?v=KXvLiBfyQgY&t=156s) | 老辣妹 |
+| 墨田區 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%A2%A8%E7%94%B0%E5%8D%80) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [0:39](https://www.youtube.com/watch?v=KXvLiBfyQgY&t=39s) | 老辣妹 |
+| nueva AQUA™水水蛋 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=nueva%20AQUA%E2%84%A2%E6%B0%B4%E6%B0%B4%E8%9B%8B) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [2:36](https://www.youtube.com/watch?v=KXvLiBfyQgY&t=156s) | 老辣妹 |
 | 高木神社 | [Google Maps](https://maps.app.goo.gl/z6XbgV1RUe8v4MZ97) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [0:39](https://www.youtube.com/watch?v=KXvLiBfyQgY&t=39s) | 老辣妹 |
 | 向島 志ﾞ満ん草餅 | [Google Maps](https://maps.app.goo.gl/8ZoSsoBWsdUGBQoFA) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [2:36](https://www.youtube.com/watch?v=KXvLiBfyQgY&t=156s) | 老辣妹 |
 | 五郎糰子 日本一 吉備子屋 | [Google Maps](https://maps.app.goo.gl/2wPqk2xts9WXe7iC8) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [3:53](https://www.youtube.com/watch?v=KXvLiBfyQgY&t=233s) | 老辣妹 |
@@ -792,11 +785,11 @@
 ## 28. 🇯🇵這些都是你可能不知道的東京觀光小景點？｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=6Bo04P4EmPA)
-- 發布時間：1 年前；觀看次數：31萬次
+- 發布時間：2 年前；觀看次數：觀看次數：31萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| OVERDIGI | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=OVERDIGI) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這一次想來個特別企劃 不單純走景點 反而介紹給大家一些東京觀光亮點！」此處依描述欄列為出場地點。 | [0:27](https://www.youtube.com/watch?v=6Bo04P4EmPA&t=27s) | 老辣妹 |
+| OVERDIGI | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=OVERDIGI) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次想來個特別企劃 不單純走景點 反而介紹給大家一些東京觀光亮點！」此處依描述欄列為出場地點。 | [0:27](https://www.youtube.com/watch?v=6Bo04P4EmPA&t=27s) | 老辣妹 |
 | 神田神社 | [Google Maps](https://maps.app.goo.gl/qgG2nrtm6PoZrFq67) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次想來個特別企劃 不單純走景點 反而介紹給大家一些東京觀光亮點！」此處依描述欄列為出場地點。 | [0:27](https://www.youtube.com/watch?v=6Bo04P4EmPA&t=27s) | 老辣妹 |
 | バンクシ一 (変な自販機コーナー:⁠^⁠)) | [Google Maps](https://maps.app.goo.gl/rz5ZTQcpCEqZLdVf8) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次想來個特別企劃 不單純走景點 反而介紹給大家一些東京觀光亮點！」此處依描述欄列為出場地點。 | [1:52](https://www.youtube.com/watch?v=6Bo04P4EmPA&t=112s) | 老辣妹 |
 | 横浜くりこ庵 秋葉原店 | [Google Maps](https://maps.app.goo.gl/9de8tdaKL8DwrEG66) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次想來個特別企劃 不單純走景點 反而介紹給大家一些東京觀光亮點！」此處依描述欄列為出場地點。 | [5:02](https://www.youtube.com/watch?v=6Bo04P4EmPA&t=302s) | 老辣妹 |
@@ -817,18 +810,18 @@
 ## 29. 🇯🇵東京新宿自由行精選：各口逛街美食景點｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=P9cTS1GTTjI)
-- 發布時間：2 年前；觀看次數：32萬次
+- 發布時間：2 年前；觀看次數：觀看次數：33萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 日本最大級正規代購平台 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E7%B4%9A%E6%AD%A3%E8%A6%8F%E4%BB%A3%E8%B3%BC%E5%B9%B3%E5%8F%B0) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這一次帶大家初步認識 新宿的東、西、南各口 分別有些什麼可以踩點～ 尤其是逛街更不能將新宿排除在外 雖然沒辦法一次盡收 但這一支影片推薦的真的很私房啦😀」此處依描述欄列為出場地點。 | [0:42](https://www.youtube.com/watch?v=P9cTS1GTTjI&t=42s) | 老辣妹 |
+| 日本最大級正規代購平台 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E7%B4%9A%E6%AD%A3%E8%A6%8F%E4%BB%A3%E8%B3%BC%E5%B9%B3%E5%8F%B0) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次帶大家初步認識 新宿的東、西、南各口 分別有些什麼可以踩點～ 尤其是逛街更不能將新宿排除在外 雖然沒辦法一次盡收 但這一支影片推薦的真的很私房啦😀」此處依描述欄列為出場地點。 | [0:42](https://www.youtube.com/watch?v=P9cTS1GTTjI&t=42s) | 老辣妹 |
 | カフェテラス ボンジュール | [Google Maps](https://maps.app.goo.gl/o5KzBT1Zb2FXkJCXA) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次帶大家初步認識 新宿的東、西、南各口 分別有些什麼可以踩點～ 尤其是逛街更不能將新宿排除在外 雖然沒辦法一次盡收 但這一支影片推薦的真的很私房啦😀」此處依描述欄列為出場地點。 | [0:42](https://www.youtube.com/watch?v=P9cTS1GTTjI&t=42s) | 老辣妹 |
 | 喫茶 パステト | [Google Maps](https://maps.app.goo.gl/KmHNsjGosF557JEAA) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次帶大家初步認識 新宿的東、西、南各口 分別有些什麼可以踩點～ 尤其是逛街更不能將新宿排除在外 雖然沒辦法一次盡收 但這一支影片推薦的真的很私房啦😀」此處依描述欄列為出場地點。 | [4:10](https://www.youtube.com/watch?v=P9cTS1GTTjI&t=250s) | 老辣妹 |
 | LUMINE EST ルミネエスト新宿 | [Google Maps](https://maps.app.goo.gl/1rgqg4NuxygqsTHi9) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次帶大家初步認識 新宿的東、西、南各口 分別有些什麼可以踩點～ 尤其是逛街更不能將新宿排除在外 雖然沒辦法一次盡收 但這一支影片推薦的真的很私房啦😀」此處依描述欄列為出場地點。 | [5:20](https://www.youtube.com/watch?v=P9cTS1GTTjI&t=320s) | 老辣妹 |
 | GOLDY ルミネエスト新宿店 | [Google Maps](https://maps.app.goo.gl/r84ZeNCfw5DXDig37) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次帶大家初步認識 新宿的東、西、南各口 分別有些什麼可以踩點～ 尤其是逛街更不能將新宿排除在外 雖然沒辦法一次盡收 但這一支影片推薦的真的很私房啦😀」此處依描述欄列為出場地點。 | [2:24](https://www.youtube.com/watch?v=P9cTS1GTTjI&t=144s) | 老辣妹 |
 | LOWRYS FARM ルミネエスト | [Google Maps](https://maps.app.goo.gl/z51smUHEZrTuNLrR8) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次帶大家初步認識 新宿的東、西、南各口 分別有些什麼可以踩點～ 尤其是逛街更不能將新宿排除在外 雖然沒辦法一次盡收 但這一支影片推薦的真的很私房啦😀」此處依描述欄列為出場地點。 | [4:10](https://www.youtube.com/watch?v=P9cTS1GTTjI&t=250s) | 老辣妹 |
-| Kastane カスタネ | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Kastane%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%8D%20%E6%96%B0%E5%AE%BF%E6%9D%B1%E5%8F%A3) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這一次帶大家初步認識 新宿的東、西、南各口 分別有些什麼可以踩點～ 尤其是逛街更不能將新宿排除在外 雖然沒辦法一次盡收 但這一支影片推薦的真的很私房啦😀」此處依描述欄列為出場地點。 | [5:20](https://www.youtube.com/watch?v=P9cTS1GTTjI&t=320s) | 老辣妹 |
-| RETRO GIRL | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=RETRO%20GIRL%20%E6%96%B0%E5%AE%BF%E6%9D%B1%E5%8F%A3) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這一次帶大家初步認識 新宿的東、西、南各口 分別有些什麼可以踩點～ 尤其是逛街更不能將新宿排除在外 雖然沒辦法一次盡收 但這一支影片推薦的真的很私房啦😀」此處依描述欄列為出場地點。 | [11:42](https://www.youtube.com/watch?v=P9cTS1GTTjI&t=702s) | 老辣妹 |
+| Kastane カスタネ | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Kastane%20%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%8D) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次帶大家初步認識 新宿的東、西、南各口 分別有些什麼可以踩點～ 尤其是逛街更不能將新宿排除在外 雖然沒辦法一次盡收 但這一支影片推薦的真的很私房啦😀」此處依描述欄列為出場地點。 | [5:20](https://www.youtube.com/watch?v=P9cTS1GTTjI&t=320s) | 老辣妹 |
+| RETRO GIRL | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=RETRO%20GIRL) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次帶大家初步認識 新宿的東、西、南各口 分別有些什麼可以踩點～ 尤其是逛街更不能將新宿排除在外 雖然沒辦法一次盡收 但這一支影片推薦的真的很私房啦😀」此處依描述欄列為出場地點。 | [11:42](https://www.youtube.com/watch?v=P9cTS1GTTjI&t=702s) | 老辣妹 |
 | ヴィレッジヴァンガード 新宿ルミネエスト店 | [Google Maps](https://maps.app.goo.gl/J6phLrJQV5LJvtSe9) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次帶大家初步認識 新宿的東、西、南各口 分別有些什麼可以踩點～ 尤其是逛街更不能將新宿排除在外 雖然沒辦法一次盡收 但這一支影片推薦的真的很私房啦😀」此處依描述欄列為出場地點。 | [6:50](https://www.youtube.com/watch?v=P9cTS1GTTjI&t=410s) | 老辣妹 |
 | LUMINE 1 ルミネ 1 | [Google Maps](https://maps.app.goo.gl/hV9KHnxWcqzpPMCF9) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次帶大家初步認識 新宿的東、西、南各口 分別有些什麼可以踩點～ 尤其是逛街更不能將新宿排除在外 雖然沒辦法一次盡收 但這一支影片推薦的真的很私房啦😀」此處依描述欄列為出場地點。 | [15:41](https://www.youtube.com/watch?v=P9cTS1GTTjI&t=941s) | 老辣妹 |
 | LUMINE 2 ルミネ 2 | [Google Maps](https://maps.app.goo.gl/wYA5SwynJXNLenvd6) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次帶大家初步認識 新宿的東、西、南各口 分別有些什麼可以踩點～ 尤其是逛街更不能將新宿排除在外 雖然沒辦法一次盡收 但這一支影片推薦的真的很私房啦😀」此處依描述欄列為出場地點。 | [17:20](https://www.youtube.com/watch?v=P9cTS1GTTjI&t=1040s) | 老辣妹 |
@@ -843,7 +836,7 @@
 ## 30. 🇯🇵福岡自由行精選：博多、天神、大濠公園、門司港各區特色整理｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=l7LeP1IZexY)
-- 發布時間：2 年前；觀看次數：72萬次
+- 發布時間：2 年前；觀看次數：觀看次數：73萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -872,15 +865,15 @@
 ## 31. 🇯🇵這些都是今年東京的新選擇！｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=2SJkLO4-iAM)
-- 發布時間：2 年前；觀看次數：45萬次
+- 發布時間：2 年前；觀看次數：觀看次數：45萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 暢日卡PLUS eSIM | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9A%A2%E6%97%A5%E5%8D%A1PLUS%20eSIM) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這一次我們比較快速的幫大家走一遍 2024新開的東京新景點 雖然人潮一定都偏多 但是食物其實還算好吃～」此處依描述欄列為出場地點。 | [0:50](https://www.youtube.com/watch?v=2SJkLO4-iAM&t=50s) | 老辣妹 |
-| 暢日卡PLUS | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9A%A2%E6%97%A5%E5%8D%A1PLUS) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這一次我們比較快速的幫大家走一遍 2024新開的東京新景點 雖然人潮一定都偏多 但是食物其實還算好吃～」此處依描述欄列為出場地點。 | [2:04](https://www.youtube.com/watch?v=2SJkLO4-iAM&t=124s) | 老辣妹 |
-| 今天我請假 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E4%BB%8A%E5%A4%A9%E6%88%91%E8%AB%8B%E5%81%87%20%E5%AE%89%E8%A3%9D%E7%B0%A1%E6%98%93%E5%A5%BD%E4%B8%8A%E6%89%8B%E3%80%81%E7%84%A1%E9%9C%80%E6%89%8B%E5%BF%99%E8%85%B3%E4%BA%82%E7%9A%84%E6%8F%9B%E5%8D%A1) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這一次我們比較快速的幫大家走一遍 2024新開的東京新景點 雖然人潮一定都偏多 但是食物其實還算好吃～」此處依描述欄列為出場地點。 | [3:13](https://www.youtube.com/watch?v=2SJkLO4-iAM&t=193s) | 老辣妹 |
-| 花一會 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E4%B8%80%E6%9C%83%20%F0%9F%93%93%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這一次我們比較快速的幫大家走一遍 2024新開的東京新景點 雖然人潮一定都偏多 但是食物其實還算好吃～」此處依描述欄列為出場地點。 | [5:37](https://www.youtube.com/watch?v=2SJkLO4-iAM&t=337s) | 老辣妹 |
-| 最中 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9C%80%E4%B8%AD%20%F0%9F%93%93%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這一次我們比較快速的幫大家走一遍 2024新開的東京新景點 雖然人潮一定都偏多 但是食物其實還算好吃～」此處依描述欄列為出場地點。 | [7:09](https://www.youtube.com/watch?v=2SJkLO4-iAM&t=429s) | 老辣妹 |
+| 暢日卡PLUS eSIM | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9A%A2%E6%97%A5%E5%8D%A1PLUS%20eSIM) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次我們比較快速的幫大家走一遍 2024新開的東京新景點 雖然人潮一定都偏多 但是食物其實還算好吃～」此處依描述欄列為出場地點。 | [0:50](https://www.youtube.com/watch?v=2SJkLO4-iAM&t=50s) | 老辣妹 |
+| 暢日卡PLUS | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9A%A2%E6%97%A5%E5%8D%A1PLUS) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次我們比較快速的幫大家走一遍 2024新開的東京新景點 雖然人潮一定都偏多 但是食物其實還算好吃～」此處依描述欄列為出場地點。 | [2:04](https://www.youtube.com/watch?v=2SJkLO4-iAM&t=124s) | 老辣妹 |
+| 今天我請假 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E4%BB%8A%E5%A4%A9%E6%88%91%E8%AB%8B%E5%81%87) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次我們比較快速的幫大家走一遍 2024新開的東京新景點 雖然人潮一定都偏多 但是食物其實還算好吃～」此處依描述欄列為出場地點。 | [3:13](https://www.youtube.com/watch?v=2SJkLO4-iAM&t=193s) | 老辣妹 |
+| 花一會 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E4%B8%80%E6%9C%83) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次我們比較快速的幫大家走一遍 2024新開的東京新景點 雖然人潮一定都偏多 但是食物其實還算好吃～」此處依描述欄列為出場地點。 | [5:37](https://www.youtube.com/watch?v=2SJkLO4-iAM&t=337s) | 老辣妹 |
+| 最中 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9C%80%E4%B8%AD) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次我們比較快速的幫大家走一遍 2024新開的東京新景點 雖然人潮一定都偏多 但是食物其實還算好吃～」此處依描述欄列為出場地點。 | [7:09](https://www.youtube.com/watch?v=2SJkLO4-iAM&t=429s) | 老辣妹 |
 | 豐洲 千客萬來 | [Google Maps](https://maps.app.goo.gl/oKue7CMPzMizVEDu7) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次我們比較快速的幫大家走一遍 2024新開的東京新景點 雖然人潮一定都偏多 但是食物其實還算好吃～」此處依描述欄列為出場地點。 | [10:17](https://www.youtube.com/watch?v=2SJkLO4-iAM&t=617s) | 老辣妹 |
 | 濱風茶房 | [Google Maps](https://maps.app.goo.gl/VgudGkrqwmrXqvAj8) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次我們比較快速的幫大家走一遍 2024新開的東京新景點 雖然人潮一定都偏多 但是食物其實還算好吃～」此處依描述欄列為出場地點。 | [2:04](https://www.youtube.com/watch?v=2SJkLO4-iAM&t=124s) | 老辣妹 |
 | 炭焼魚串おにぎり 越後屋助五郎 | [Google Maps](https://maps.app.goo.gl/HfTMnF2USM28sSJs8) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一次我們比較快速的幫大家走一遍 2024新開的東京新景點 雖然人潮一定都偏多 但是食物其實還算好吃～」此處依描述欄列為出場地點。 | [3:13](https://www.youtube.com/watch?v=2SJkLO4-iAM&t=193s) | 老辣妹 |
@@ -899,7 +892,7 @@
 ## 32. 🇯🇵東京的澀谷、原宿一帶還可以怎麼玩？｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Igp5SBeaRxw)
-- 發布時間：2 年前；觀看次數：34萬次
+- 發布時間：2 年前；觀看次數：觀看次數：35萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -929,14 +922,14 @@
 ## 33. 🇯🇵富士山兩天一夜行程，一台巴士從河口湖玩到靜岡去｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=PkbCd3rD9x4)
-- 發布時間：2 年前；觀看次數：25萬次
+- 發布時間：2 年前；觀看次數：觀看次數：25萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 沒有一定要去到哪一個景點踩點 只要保有最愜意的心情 就算安排了五個，但最終只去到三個 那也都是很棒的安排！ | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%B2%92%E6%9C%89%E4%B8%80%E5%AE%9A%E8%A6%81%E5%8E%BB%E5%88%B0%E5%93%AA%E4%B8%80%E5%80%8B%E6%99%AF%E9%BB%9E%E8%B8%A9%E9%BB%9E%20%E5%8F%AA%E8%A6%81%E4%BF%9D%E6%9C%89%E6%9C%80%E6%84%9C%E6%84%8F%E7%9A%84%E5%BF%83%E6%83%85%20%E5%B0%B1%E7%AE%97%E5%AE%89%E6%8E%92%E4%BA%86%E4%BA%94%E5%80%8B%EF%BC%8C%E4%BD%86%E6%9C%80%E7%B5%82%E5%8F%AA%E5%8E%BB%E5%88%B0%E4%B8%89%E5%80%8B%20%E9%82%A3%E4%B9%9F%E9%83%BD%E6%98%AF%E5%BE%88%E6%A3%92%E7%9A%84%E5%AE%89%E6%8E%92%EF%BC%81) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「一年前 我們製作了一支 可以說是改變老辣妹頻道命運的河口湖影片」此處依描述欄列為出場地點。 | [0:46](https://www.youtube.com/watch?v=PkbCd3rD9x4&t=46s) | 老辣妹 |
-| 夢之大橋 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%A4%A2%E4%B9%8B%E5%A4%A7%E6%A9%8B) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「一年前 我們製作了一支 可以說是改變老辣妹頻道命運的河口湖影片」此處依描述欄列為出場地點。 | [1:25](https://www.youtube.com/watch?v=PkbCd3rD9x4&t=85s) | 老辣妹 |
+| 沒有一定要去到哪一個景點踩點 只要保有最愜意的心情 就算安排了五個，但最終只去到三個 那也都是很棒的安排！ | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%B2%92%E6%9C%89%E4%B8%80%E5%AE%9A%E8%A6%81%E5%8E%BB%E5%88%B0%E5%93%AA%E4%B8%80%E5%80%8B%E6%99%AF%E9%BB%9E%E8%B8%A9%E9%BB%9E%20%E5%8F%AA%E8%A6%81%E4%BF%9D%E6%9C%89%E6%9C%80%E6%84%9C%E6%84%8F%E7%9A%84%E5%BF%83%E6%83%85%20%E5%B0%B1%E7%AE%97%E5%AE%89%E6%8E%92%E4%BA%86%E4%BA%94%E5%80%8B%EF%BC%8C%E4%BD%86%E6%9C%80%E7%B5%82%E5%8F%AA%E5%8E%BB%E5%88%B0%E4%B8%89%E5%80%8B%20%E9%82%A3%E4%B9%9F%E9%83%BD%E6%98%AF%E5%BE%88%E6%A3%92%E7%9A%84%E5%AE%89%E6%8E%92%EF%BC%81) | Google Maps 未取得 | 影片介紹本集路線時提到：「一年前 我們製作了一支 可以說是改變老辣妹頻道命運的河口湖影片」此處依描述欄列為出場地點。 | [0:46](https://www.youtube.com/watch?v=PkbCd3rD9x4&t=46s) | 老辣妹 |
+| 夢之大橋 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%A4%A2%E4%B9%8B%E5%A4%A7%E6%A9%8B) | Google Maps 未取得 | 影片介紹本集路線時提到：「一年前 我們製作了一支 可以說是改變老辣妹頻道命運的河口湖影片」此處依描述欄列為出場地點。 | [1:25](https://www.youtube.com/watch?v=PkbCd3rD9x4&t=85s) | 老辣妹 |
 | 新宿高速巴士總站 バスタ新宿 | [Google Maps](https://maps.app.goo.gl/fMun9budUCdazCk29) | Google Maps 未取得 | 影片介紹本集路線時提到：「一年前 我們製作了一支 可以說是改變老辣妹頻道命運的河口湖影片」此處依描述欄列為出場地點。 | [0:46](https://www.youtube.com/watch?v=PkbCd3rD9x4&t=46s) | 老辣妹 |
-| 高速巴士訂票網站 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%80%9F%E5%B7%B4%E5%A3%AB%E8%A8%82%E7%A5%A8%E7%B6%B2%E7%AB%99%20%E6%96%B0%E5%AE%BF) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「一年前 我們製作了一支 可以說是改變老辣妹頻道命運的河口湖影片」此處依描述欄列為出場地點。 | [0:46](https://www.youtube.com/watch?v=PkbCd3rD9x4&t=46s) | 老辣妹 |
+| 高速巴士訂票網站 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%80%9F%E5%B7%B4%E5%A3%AB%E8%A8%82%E7%A5%A8%E7%B6%B2%E7%AB%99) | Google Maps 未取得 | 影片介紹本集路線時提到：「一年前 我們製作了一支 可以說是改變老辣妹頻道命運的河口湖影片」此處依描述欄列為出場地點。 | [0:46](https://www.youtube.com/watch?v=PkbCd3rD9x4&t=46s) | 老辣妹 |
 | 紅線第16站 | [Google Maps](https://maps.app.goo.gl/pA9Av5stWwCMX7dD7) | Google Maps 未取得 | 影片介紹本集路線時提到：「一年前 我們製作了一支 可以說是改變老辣妹頻道命運的河口湖影片」此處依描述欄列為出場地點。 | [1:25](https://www.youtube.com/watch?v=PkbCd3rD9x4&t=85s) | 老辣妹 |
 | 紅線第17站 | [Google Maps](https://maps.app.goo.gl/ac5FaZSq2EbDXoRw9) | Google Maps 未取得 | 影片介紹本集路線時提到：「一年前 我們製作了一支 可以說是改變老辣妹頻道命運的河口湖影片」此處依描述欄列為出場地點。 | [3:21](https://www.youtube.com/watch?v=PkbCd3rD9x4&t=201s) | 老辣妹 |
 | 平井売店 | [Google Maps](https://maps.app.goo.gl/6DEHJc7yo42nu3iS6) | Google Maps 未取得 | 影片介紹本集路線時提到：「一年前 我們製作了一支 可以說是改變老辣妹頻道命運的河口湖影片」此處依描述欄列為出場地點。 | [4:03](https://www.youtube.com/watch?v=PkbCd3rD9x4&t=243s) | 老辣妹 |
@@ -944,7 +937,7 @@
 | セブン-イレブン 富士吉田月江寺店 | [Google Maps](https://maps.app.goo.gl/fzDNezcuorjTbzWa8) | Google Maps 未取得 | 影片介紹本集路線時提到：「一年前 我們製作了一支 可以說是改變老辣妹頻道命運的河口湖影片」此處依描述欄列為出場地點。 | [5:58](https://www.youtube.com/watch?v=PkbCd3rD9x4&t=358s) | 老辣妹 |
 | カフェ月光 | [Google Maps](https://maps.app.goo.gl/f7nPY9vRgvuCfQnY9) | Google Maps 未取得 | 影片介紹本集路線時提到：「一年前 我們製作了一支 可以說是改變老辣妹頻道命運的河口湖影片」此處依描述欄列為出場地點。 | [9:32](https://www.youtube.com/watch?v=PkbCd3rD9x4&t=572s) | 老辣妹 |
 | 月の江書店 | [Google Maps](https://maps.app.goo.gl/bwNZ5HuVpT2FWxSH7) | Google Maps 未取得 | 影片介紹本集路線時提到：「一年前 我們製作了一支 可以說是改變老辣妹頻道命運的河口湖影片」此處依描述欄列為出場地點。 | [10:06](https://www.youtube.com/watch?v=PkbCd3rD9x4&t=606s) | 老辣妹 |
-| 座標位置（35.4926342, 138.8023558） | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%BA%A7%E6%A8%99%E4%BD%8D%E7%BD%AE%EF%BC%8835.4926342%2C%20138.8023558%EF%BC%89%20%E6%B2%B3%E5%8F%A3%E6%B9%96) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「一年前 我們製作了一支 可以說是改變老辣妹頻道命運的河口湖影片」此處依描述欄列為出場地點。 | [11:34](https://www.youtube.com/watch?v=PkbCd3rD9x4&t=694s) | 老辣妹 |
+| 座標位置（35.4926342, 138.8023558） | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%BA%A7%E6%A8%99%E4%BD%8D%E7%BD%AE%EF%BC%8835.4926342%2C%20138.8023558%EF%BC%89) | Google Maps 未取得 | 影片介紹本集路線時提到：「一年前 我們製作了一支 可以說是改變老辣妹頻道命運的河口湖影片」此處依描述欄列為出場地點。 | [11:34](https://www.youtube.com/watch?v=PkbCd3rD9x4&t=694s) | 老辣妹 |
 | 新世界乾杯通り | [Google Maps](https://maps.app.goo.gl/N29cRb4ffiseM53k8) | Google Maps 未取得 | 影片介紹本集路線時提到：「一年前 我們製作了一支 可以說是改變老辣妹頻道命運的河口湖影片」此處依描述欄列為出場地點。 | [6:48](https://www.youtube.com/watch?v=PkbCd3rD9x4&t=408s) | 老辣妹 |
 | SARUYA HOSTEL | [Google Maps](https://maps.app.goo.gl/g7AwFDyriJZd5utJ7) | Google Maps 未取得 | 影片介紹本集路線時提到：「一年前 我們製作了一支 可以說是改變老辣妹頻道命運的河口湖影片」此處依描述欄列為出場地點。 | [7:48](https://www.youtube.com/watch?v=PkbCd3rD9x4&t=468s) | 老辣妹 |
 | 静岡県富士山世界遺産センター | [Google Maps](https://maps.app.goo.gl/SdFiHKJjxxJ6QbTu7) | Google Maps 未取得 | 影片介紹本集路線時提到：「一年前 我們製作了一支 可以說是改變老辣妹頻道命運的河口湖影片」此處依描述欄列為出場地點。 | [10:06](https://www.youtube.com/watch?v=PkbCd3rD9x4&t=606s) | 老辣妹 |
@@ -959,11 +952,11 @@
 ## 34. 🇯🇵東京的淺草、上野一帶還有什麼選擇？｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=HC6ngkDc5rY)
-- 發布時間：2 年前；觀看次數：83萬次
+- 發布時間：2 年前；觀看次數：觀看次數：84萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 東京各種地標 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E5%90%84%E7%A8%AE%E5%9C%B0%E6%A8%99) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這一集要帶大家逛錦糸町、淺草和上野一帶 一直都深受臺灣人喜愛的這一區 相信各位也都擁有自己熟悉的觀光路線～」此處依描述欄列為出場地點。 | [0:42](https://www.youtube.com/watch?v=HC6ngkDc5rY&t=42s) | 老辣妹 |
+| 東京各種地標 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E5%90%84%E7%A8%AE%E5%9C%B0%E6%A8%99) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一集要帶大家逛錦糸町、淺草和上野一帶 一直都深受臺灣人喜愛的這一區 相信各位也都擁有自己熟悉的觀光路線～」此處依描述欄列為出場地點。 | [0:42](https://www.youtube.com/watch?v=HC6ngkDc5rY&t=42s) | 老辣妹 |
 | バーガーキング 錦糸町北口店 | [Google Maps](https://maps.app.goo.gl/upgtZBqbwosEHNnz6) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一集要帶大家逛錦糸町、淺草和上野一帶 一直都深受臺灣人喜愛的這一區 相信各位也都擁有自己熟悉的觀光路線～」此處依描述欄列為出場地點。 | [0:42](https://www.youtube.com/watch?v=HC6ngkDc5rY&t=42s) | 老辣妹 |
 | 立食い寿司 根室花まる 錦糸町テルミナ店 | [Google Maps](https://maps.app.goo.gl/QyCR5gZyKsUS7Lmb7) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一集要帶大家逛錦糸町、淺草和上野一帶 一直都深受臺灣人喜愛的這一區 相信各位也都擁有自己熟悉的觀光路線～」此處依描述欄列為出場地點。 | [1:14](https://www.youtube.com/watch?v=HC6ngkDc5rY&t=74s) | 老辣妹 |
 | 麺魚 | [Google Maps](https://maps.app.goo.gl/7t3FXDEeT18sBoUR9) | Google Maps 未取得 | 影片介紹本集路線時提到：「這一集要帶大家逛錦糸町、淺草和上野一帶 一直都深受臺灣人喜愛的這一區 相信各位也都擁有自己熟悉的觀光路線～」此處依描述欄列為出場地點。 | [3:44](https://www.youtube.com/watch?v=HC6ngkDc5rY&t=224s) | 老辣妹 |
@@ -983,13 +976,13 @@
 ## 35. 🇯🇵東京近郊探險！說好的輕井澤，再去草津溫泉泡湯♨️｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=WQ2rMP0R084)
-- 發布時間：2 年前；觀看次數：41萬次
+- 發布時間：2 年前；觀看次數：觀看次數：42萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 高崎 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E5%B4%8E) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「說好的輕井澤真的來了啦！ 去年覺得內容不太夠 不敢跟各位交代😅」此處依描述欄列為出場地點。 | [0:52](https://www.youtube.com/watch?v=WQ2rMP0R084&t=52s) | 老辣妹 |
-| 輕井澤 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%BC%95%E4%BA%95%E6%BE%A4) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「說好的輕井澤真的來了啦！ 去年覺得內容不太夠 不敢跟各位交代😅」此處依描述欄列為出場地點。 | [1:40](https://www.youtube.com/watch?v=WQ2rMP0R084&t=100s) | 老辣妹 |
-| 草津 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%8D%89%E6%B4%A5) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「說好的輕井澤真的來了啦！ 去年覺得內容不太夠 不敢跟各位交代😅」此處依描述欄列為出場地點。 | [19:57](https://www.youtube.com/watch?v=WQ2rMP0R084&t=1197s) | 老辣妹 |
+| 高崎 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E5%B4%8E) | Google Maps 未取得 | 影片介紹本集路線時提到：「說好的輕井澤真的來了啦！ 去年覺得內容不太夠 不敢跟各位交代😅」此處依描述欄列為出場地點。 | [0:52](https://www.youtube.com/watch?v=WQ2rMP0R084&t=52s) | 老辣妹 |
+| 輕井澤 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%BC%95%E4%BA%95%E6%BE%A4) | Google Maps 未取得 | 影片介紹本集路線時提到：「說好的輕井澤真的來了啦！ 去年覺得內容不太夠 不敢跟各位交代😅」此處依描述欄列為出場地點。 | [1:40](https://www.youtube.com/watch?v=WQ2rMP0R084&t=100s) | 老辣妹 |
+| 草津 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%8D%89%E6%B4%A5) | Google Maps 未取得 | 影片介紹本集路線時提到：「說好的輕井澤真的來了啦！ 去年覺得內容不太夠 不敢跟各位交代😅」此處依描述欄列為出場地點。 | [19:57](https://www.youtube.com/watch?v=WQ2rMP0R084&t=1197s) | 老辣妹 |
 | 少林山 達磨寺 | [Google Maps](https://maps.app.goo.gl/YtwgF6SrgMHStmGi8) | Google Maps 未取得 | 影片介紹本集路線時提到：「說好的輕井澤真的來了啦！ 去年覺得內容不太夠 不敢跟各位交代😅」此處依描述欄列為出場地點。 | [1:40](https://www.youtube.com/watch?v=WQ2rMP0R084&t=100s) | 老辣妹 |
 | HANAGATAYA 高崎 | [Google Maps](https://maps.app.goo.gl/VCPFpX1Z2DNpBDMZ8) | Google Maps 未取得 | 影片介紹本集路線時提到：「說好的輕井澤真的來了啦！ 去年覺得內容不太夠 不敢跟各位交代😅」此處依描述欄列為出場地點。 | [4:12](https://www.youtube.com/watch?v=WQ2rMP0R084&t=252s) | 老辣妹 |
 | 軽井沢・プリンスショッピングプラザ | [Google Maps](https://maps.app.goo.gl/SVr9N15Xee3ngVdz7) | Google Maps 未取得 | 影片介紹本集路線時提到：「說好的輕井澤真的來了啦！ 去年覺得內容不太夠 不敢跟各位交代😅」此處依描述欄列為出場地點。 | [4:38](https://www.youtube.com/watch?v=WQ2rMP0R084&t=278s) | 老辣妹 |
@@ -1014,11 +1007,11 @@
 ## 36. 🇯🇵大阪自由行精選：心齋橋必做六件事！天滿、新世界好好逛｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=vwqKXsYACrs)
-- 發布時間：2 年前；觀看次數：86萬次
+- 發布時間：2 年前；觀看次數：觀看次數：87萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 第三代海芙音波 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%AC%AC%E4%B8%89%E4%BB%A3%E6%B5%B7%E8%8A%99%E9%9F%B3%E6%B3%A2) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「大阪對很多人來說真的算是偏熟悉 主要的觀光景點和逛街地點都比較集中～ 這次我們在這些熟悉的區域 分享幾家自己比較喜歡的店家！ 也精選了一些 不知道算不算冷門的地方😅（？） 總之還...」此處依描述欄列為出場地點。 | [0:25](https://www.youtube.com/watch?v=vwqKXsYACrs&t=25s) | 老辣妹 |
+| 第三代海芙音波 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%AC%AC%E4%B8%89%E4%BB%A3%E6%B5%B7%E8%8A%99%E9%9F%B3%E6%B3%A2) | Google Maps 未取得 | 影片介紹本集路線時提到：「大阪對很多人來說真的算是偏熟悉 主要的觀光景點和逛街地點都比較集中～ 這次我們在這些熟悉的區域 分享幾家自己比較喜歡的店家！ 也精選了一些 不知道算不算冷門的地方😅（？） 總之還...」此處依描述欄列為出場地點。 | [0:25](https://www.youtube.com/watch?v=vwqKXsYACrs&t=25s) | 老辣妹 |
 | 品川診所 | [Google Maps](https://maps.app.goo.gl/e1bNvxpc36hfxQR57) | Google Maps 未取得 | 影片介紹本集路線時提到：「大阪對很多人來說真的算是偏熟悉 主要的觀光景點和逛街地點都比較集中～ 這次我們在這些熟悉的區域 分享幾家自己比較喜歡的店家！ 也精選了一些 不知道算不算冷門的地方😅（？） 總之還...」此處依描述欄列為出場地點。 | [1:45](https://www.youtube.com/watch?v=vwqKXsYACrs&t=105s) | 老辣妹 |
 | わなか 道頓堀店 | [Google Maps](https://maps.app.goo.gl/E8NtDNyfLCNoFnwp9) | Google Maps 未取得 | 影片介紹本集路線時提到：「大阪對很多人來說真的算是偏熟悉 主要的觀光景點和逛街地點都比較集中～ 這次我們在這些熟悉的區域 分享幾家自己比較喜歡的店家！ 也精選了一些 不知道算不算冷門的地方😅（？） 總之還...」此處依描述欄列為出場地點。 | [0:25](https://www.youtube.com/watch?v=vwqKXsYACrs&t=25s) | 老辣妹 |
 | 元祖アイスドッグ | [Google Maps](https://maps.app.goo.gl/Xon9EZNVme3RxA6Z6) | Google Maps 未取得 | 影片介紹本集路線時提到：「大阪對很多人來說真的算是偏熟悉 主要的觀光景點和逛街地點都比較集中～ 這次我們在這些熟悉的區域 分享幾家自己比較喜歡的店家！ 也精選了一些 不知道算不算冷門的地方😅（？） 總之還...」此處依描述欄列為出場地點。 | [1:45](https://www.youtube.com/watch?v=vwqKXsYACrs&t=105s) | 老辣妹 |
@@ -1044,11 +1037,11 @@
 ## 37. 🇯🇵東京銀座除了精品之外，還有這些酷東西！｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=lbM2ubjWzr0)
-- 發布時間：2 年前；觀看次數：49萬次
+- 發布時間：2 年前；觀看次數：觀看次數：49萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 銀座 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%8A%80%E5%BA%A7) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「說好的東京一日快閃來囉！ 而且這次不單單只是快閃 其實也是想認真帶大家看看「銀座」我都怎麼玩？」此處依描述欄列為出場地點。 | [9:22](https://www.youtube.com/watch?v=lbM2ubjWzr0&t=562s) | 老辣妹 |
+| 銀座 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%8A%80%E5%BA%A7) | Google Maps 未取得 | 影片介紹本集路線時提到：「說好的東京一日快閃來囉！ 而且這次不單單只是快閃 其實也是想認真帶大家看看「銀座」我都怎麼玩？」此處依描述欄列為出場地點。 | [9:22](https://www.youtube.com/watch?v=lbM2ubjWzr0&t=562s) | 老辣妹 |
 | ミルクショップ酪 秋葉原店 | [Google Maps](https://maps.app.goo.gl/xmpL3Dj7uUk8DfZ97) | Google Maps 未取得 | 影片介紹本集路線時提到：「說好的東京一日快閃來囉！ 而且這次不單單只是快閃 其實也是想認真帶大家看看「銀座」我都怎麼玩？」此處依描述欄列為出場地點。 | [2:15](https://www.youtube.com/watch?v=lbM2ubjWzr0&t=135s) | 老辣妹 |
 | DEPOT デポ | [Google Maps](https://maps.app.goo.gl/Pnuz1hj7P1snW9YJ8) | Google Maps 未取得 | 影片介紹本集路線時提到：「說好的東京一日快閃來囉！ 而且這次不單單只是快閃 其實也是想認真帶大家看看「銀座」我都怎麼玩？」此處依描述欄列為出場地點。 | [3:43](https://www.youtube.com/watch?v=lbM2ubjWzr0&t=223s) | 老辣妹 |
 | 和光百貨 | [Google Maps](https://maps.app.goo.gl/13uPuoZtdNVmrkzD6) | Google Maps 未取得 | 影片介紹本集路線時提到：「說好的東京一日快閃來囉！ 而且這次不單單只是快閃 其實也是想認真帶大家看看「銀座」我都怎麼玩？」此處依描述欄列為出場地點。 | [6:19](https://www.youtube.com/watch?v=lbM2ubjWzr0&t=379s) | 老辣妹 |
@@ -1071,12 +1064,12 @@
 ## 38. 🇯🇵怎麼逛東京車站？一早就能吃朝食拉麵！｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=biIFlLcCZYY)
-- 發布時間：2 年前；觀看次數：28萬次
+- 發布時間：2 年前；觀看次數：觀看次數：28萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 東京車站 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E8%BB%8A%E7%AB%99) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「「東京車站」一日觀光、購物、美食地圖攻略！ 這次先帶大家好好認識一下規模超級大的」此處依描述欄列為出場地點。 | [0:28](https://www.youtube.com/watch?v=biIFlLcCZYY&t=28s) | 老辣妹 |
-| Garden Terrace | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Garden%20Terrace) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「「東京車站」一日觀光、購物、美食地圖攻略！ 這次先帶大家好好認識一下規模超級大的」此處依描述欄列為出場地點。 | [3:23](https://www.youtube.com/watch?v=biIFlLcCZYY&t=203s) | 老辣妹 |
+| 東京車站 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E8%BB%8A%E7%AB%99) | Google Maps 未取得 | 影片介紹本集路線時提到：「「東京車站」一日觀光、購物、美食地圖攻略！ 這次先帶大家好好認識一下規模超級大的」此處依描述欄列為出場地點。 | [0:28](https://www.youtube.com/watch?v=biIFlLcCZYY&t=28s) | 老辣妹 |
+| Garden Terrace | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Garden%20Terrace) | Google Maps 未取得 | 影片介紹本集路線時提到：「「東京車站」一日觀光、購物、美食地圖攻略！ 這次先帶大家好好認識一下規模超級大的」此處依描述欄列為出場地點。 | [3:23](https://www.youtube.com/watch?v=biIFlLcCZYY&t=203s) | 老辣妹 |
 | Glico ALMOND DAYS | [Google Maps](https://maps.app.goo.gl/E6eUTJnZ2brh6Kdf7) | Google Maps 未取得 | 影片介紹本集路線時提到：「「東京車站」一日觀光、購物、美食地圖攻略！ 這次先帶大家好好認識一下規模超級大的」此處依描述欄列為出場地點。 | [9:17](https://www.youtube.com/watch?v=biIFlLcCZYY&t=557s) | 老辣妹 |
 | 森永のおかしなおかし屋さん | [Google Maps](https://maps.app.goo.gl/w7AC58VXyZPNwcDv7) | Google Maps 未取得 | 影片介紹本集路線時提到：「「東京車站」一日觀光、購物、美食地圖攻略！ 這次先帶大家好好認識一下規模超級大的」此處依描述欄列為出場地點。 | [12:31](https://www.youtube.com/watch?v=biIFlLcCZYY&t=751s) | 老辣妹 |
 | côte cour コートクール | [Google Maps](https://maps.app.goo.gl/WMeQopBsxFWVqGgcA) | Google Maps 未取得 | 影片介紹本集路線時提到：「「東京車站」一日觀光、購物、美食地圖攻略！ 這次先帶大家好好認識一下規模超級大的」此處依描述欄列為出場地點。 | [YouTube](https://www.youtube.com/watch?v=biIFlLcCZYY) | 老辣妹 |
@@ -1096,11 +1089,11 @@
 ## 39. 🇯🇵京都自由行精選 第二章：鴨川、錦市場、天橋立、伊根灣｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=FQwT5D4AH4w)
-- 發布時間：2 年前；觀看次數：31萬次
+- 發布時間：2 年前；觀看次數：觀看次數：31萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 水の京都 ; 海の京都 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%B0%B4%E3%81%AE%E4%BA%AC%E9%83%BD%20%3B%20%E6%B5%B7%E3%81%AE%E4%BA%AC%E9%83%BD) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這次」此處依描述欄列為出場地點。 | [0:50](https://www.youtube.com/watch?v=FQwT5D4AH4w&t=50s) | 老辣妹 |
+| 水の京都 ; 海の京都 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%B0%B4%E3%81%AE%E4%BA%AC%E9%83%BD%20%3B%20%E6%B5%B7%E3%81%AE%E4%BA%AC%E9%83%BD) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次」此處依描述欄列為出場地點。 | [0:50](https://www.youtube.com/watch?v=FQwT5D4AH4w&t=50s) | 老辣妹 |
 | 出町の⾶び⽯ | [Google Maps](https://maps.app.goo.gl/dgKi4gyUEj3zvwzdA) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次」此處依描述欄列為出場地點。 | [0:50](https://www.youtube.com/watch?v=FQwT5D4AH4w&t=50s) | 老辣妹 |
 | 河合神社 | [Google Maps](https://maps.app.goo.gl/WrpeD9EsuJpjaUn67) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次」此處依描述欄列為出場地點。 | [2:18](https://www.youtube.com/watch?v=FQwT5D4AH4w&t=138s) | 老辣妹 |
 | 錦市場 | [Google Maps](https://maps.app.goo.gl/N31C7hRgebaTPnbi9) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次」此處依描述欄列為出場地點。 | [5:33](https://www.youtube.com/watch?v=FQwT5D4AH4w&t=333s) | 老辣妹 |
@@ -1122,12 +1115,12 @@
 ## 40. 🇯🇵超深度公路之旅！我最難忘的四國德島縣三好市｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=YOHzKUEpRz4)
-- 發布時間：2 年前；觀看次數：25萬次
+- 發布時間：2 年前；觀看次數：觀看次數：26萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 三好市 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E5%A5%BD%E5%B8%82) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「掐指一算至今往返日本數十來趟 卻從來沒有踏進過像這樣的一個地方 這次受邀來到」此處依描述欄列為出場地點。 | [1:16](https://www.youtube.com/watch?v=YOHzKUEpRz4&t=76s) | 老辣妹 |
-| 美馬市 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%BE%8E%E9%A6%AC%E5%B8%82) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「掐指一算至今往返日本數十來趟 卻從來沒有踏進過像這樣的一個地方 這次受邀來到」此處依描述欄列為出場地點。 | [2:19](https://www.youtube.com/watch?v=YOHzKUEpRz4&t=139s) | 老辣妹 |
+| 三好市 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E5%A5%BD%E5%B8%82) | Google Maps 未取得 | 影片介紹本集路線時提到：「掐指一算至今往返日本數十來趟 卻從來沒有踏進過像這樣的一個地方 這次受邀來到」此處依描述欄列為出場地點。 | [1:16](https://www.youtube.com/watch?v=YOHzKUEpRz4&t=76s) | 老辣妹 |
+| 美馬市 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%BE%8E%E9%A6%AC%E5%B8%82) | Google Maps 未取得 | 影片介紹本集路線時提到：「掐指一算至今往返日本數十來趟 卻從來沒有踏進過像這樣的一個地方 這次受邀來到」此處依描述欄列為出場地點。 | [2:19](https://www.youtube.com/watch?v=YOHzKUEpRz4&t=139s) | 老辣妹 |
 | 奥祖谷二重かずら橋 | [Google Maps](https://goo.gl/maps/PXgKxZHpC8qnZSz89) | Google Maps 未取得 | 影片介紹本集路線時提到：「掐指一算至今往返日本數十來趟 卻從來沒有踏進過像這樣的一個地方 這次受邀來到」此處依描述欄列為出場地點。 | [1:16](https://www.youtube.com/watch?v=YOHzKUEpRz4&t=76s) | 老辣妹 |
 | 天空の村・かかしの里 | [Google Maps](https://goo.gl/maps/UcLPGjJiWiES6b9L9) | Google Maps 未取得 | 影片介紹本集路線時提到：「掐指一算至今往返日本數十來趟 卻從來沒有踏進過像這樣的一個地方 這次受邀來到」此處依描述欄列為出場地點。 | [2:19](https://www.youtube.com/watch?v=YOHzKUEpRz4&t=139s) | 老辣妹 |
 | 名頃小学校跡地 体育館かかし展示 | [Google Maps](https://goo.gl/maps/rXd5fh5K6kviamp58) | Google Maps 未取得 | 影片介紹本集路線時提到：「掐指一算至今往返日本數十來趟 卻從來沒有踏進過像這樣的一個地方 這次受邀來到」此處依描述欄列為出場地點。 | [9:33](https://www.youtube.com/watch?v=YOHzKUEpRz4&t=573s) | 老辣妹 |
@@ -1148,7 +1141,7 @@
 ## 41. 🇯🇵京都自由行精選：和牛料亭、河原町、祇園清水寺、睡在最美寺廟｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=lxjgJ6YeSFE)
-- 發布時間：2 年前；觀看次數：69萬次
+- 發布時間：2 年前；觀看次數：觀看次數：70萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -1171,7 +1164,7 @@
 ## 42. 🇯🇵只休一天假能出國嗎？名古屋一日快閃行程｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=tz9h-JzM5pA)
-- 發布時間：2 年前；觀看次數：40萬次
+- 發布時間：2 年前；觀看次數：觀看次數：41萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -1191,7 +1184,7 @@
 ## 43. 🇯🇵全東京我最喜歡的地方！池袋深度攻略｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=weXJfLGIRaU)
-- 發布時間：2 年前；觀看次數：52萬次
+- 發布時間：2 年前；觀看次數：觀看次數：53萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -1219,26 +1212,26 @@
 ## 44. 🇯🇵最新東京哈利波特影城值得去嗎？超詳細全攻略解析｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=gsAvWYtFwpM)
-- 發布時間：2 年前；觀看次數：24萬次
+- 發布時間：2 年前；觀看次數：觀看次數：24萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| OVERDIGI | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=OVERDIGI) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「我真的是各種手機殼和手機吊繩的重度愛好者❤️ 這次要推薦大家入坑這款曾經登上倫敦時裝週的品牌「OVERDIGI」」此處依描述欄列為出場地點。 | [1:15](https://www.youtube.com/watch?v=gsAvWYtFwpM&t=75s) | 老辣妹 |
+| OVERDIGI | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=OVERDIGI) | Google Maps 未取得 | 影片介紹本集路線時提到：「我真的是各種手機殼和手機吊繩的重度愛好者❤️ 這次要推薦大家入坑這款曾經登上倫敦時裝週的品牌「OVERDIGI」」此處依描述欄列為出場地點。 | [1:15](https://www.youtube.com/watch?v=gsAvWYtFwpM&t=75s) | 老辣妹 |
 | 東京華納兄弟哈利波特影城 | [Google Maps](https://goo.gl/maps/6tNDLVzkcmANniKL7) | Google Maps 未取得 | 影片介紹本集路線時提到：「我真的是各種手機殼和手機吊繩的重度愛好者❤️ 這次要推薦大家入坑這款曾經登上倫敦時裝週的品牌「OVERDIGI」」此處依描述欄列為出場地點。 | [2:01](https://www.youtube.com/watch?v=gsAvWYtFwpM&t=121s) | 老辣妹 |
-| 新宿駅 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E9%A7%85%20%F0%9F%A7%B9%E4%BA%A4%E9%80%9A%E6%96%B9%E5%BC%8F) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「我真的是各種手機殼和手機吊繩的重度愛好者❤️ 這次要推薦大家入坑這款曾經登上倫敦時裝週的品牌「OVERDIGI」」此處依描述欄列為出場地點。 | [2:41](https://www.youtube.com/watch?v=gsAvWYtFwpM&t=161s) | 老辣妹 |
-| 大江戶線 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%B1%9F%E6%88%B6%E7%B7%9A%20%F0%9F%A7%B9%E4%BA%A4%E9%80%9A%E6%96%B9%E5%BC%8F) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「我真的是各種手機殼和手機吊繩的重度愛好者❤️ 這次要推薦大家入坑這款曾經登上倫敦時裝週的品牌「OVERDIGI」」此處依描述欄列為出場地點。 | [4:05](https://www.youtube.com/watch?v=gsAvWYtFwpM&t=245s) | 老辣妹 |
-| 豐島園駅 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%B1%90%E5%B3%B6%E5%9C%92%E9%A7%85%20%F0%9F%A7%B9%E4%BA%A4%E9%80%9A%E6%96%B9%E5%BC%8F) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「我真的是各種手機殼和手機吊繩的重度愛好者❤️ 這次要推薦大家入坑這款曾經登上倫敦時裝週的品牌「OVERDIGI」」此處依描述欄列為出場地點。 | [5:11](https://www.youtube.com/watch?v=gsAvWYtFwpM&t=311s) | 老辣妹 |
-| 池袋駅 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%B1%A0%E8%A2%8B%E9%A7%85%20%F0%9F%A7%B9%E4%BA%A4%E9%80%9A%E6%96%B9%E5%BC%8F) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「我真的是各種手機殼和手機吊繩的重度愛好者❤️ 這次要推薦大家入坑這款曾經登上倫敦時裝週的品牌「OVERDIGI」」此處依描述欄列為出場地點。 | [7:44](https://www.youtube.com/watch?v=gsAvWYtFwpM&t=464s) | 老辣妹 |
-| 西武池袋線 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%A5%BF%E6%AD%A6%E6%B1%A0%E8%A2%8B%E7%B7%9A%20%F0%9F%A7%B9%E4%BA%A4%E9%80%9A%E6%96%B9%E5%BC%8F) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「我真的是各種手機殼和手機吊繩的重度愛好者❤️ 這次要推薦大家入坑這款曾經登上倫敦時裝週的品牌「OVERDIGI」」此處依描述欄列為出場地點。 | [9:12](https://www.youtube.com/watch?v=gsAvWYtFwpM&t=552s) | 老辣妹 |
+| 新宿駅 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E9%A7%85) | Google Maps 未取得 | 影片介紹本集路線時提到：「我真的是各種手機殼和手機吊繩的重度愛好者❤️ 這次要推薦大家入坑這款曾經登上倫敦時裝週的品牌「OVERDIGI」」此處依描述欄列為出場地點。 | [2:41](https://www.youtube.com/watch?v=gsAvWYtFwpM&t=161s) | 老辣妹 |
+| 大江戶線 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%B1%9F%E6%88%B6%E7%B7%9A) | Google Maps 未取得 | 影片介紹本集路線時提到：「我真的是各種手機殼和手機吊繩的重度愛好者❤️ 這次要推薦大家入坑這款曾經登上倫敦時裝週的品牌「OVERDIGI」」此處依描述欄列為出場地點。 | [4:05](https://www.youtube.com/watch?v=gsAvWYtFwpM&t=245s) | 老辣妹 |
+| 豐島園駅 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%B1%90%E5%B3%B6%E5%9C%92%E9%A7%85) | Google Maps 未取得 | 影片介紹本集路線時提到：「我真的是各種手機殼和手機吊繩的重度愛好者❤️ 這次要推薦大家入坑這款曾經登上倫敦時裝週的品牌「OVERDIGI」」此處依描述欄列為出場地點。 | [5:11](https://www.youtube.com/watch?v=gsAvWYtFwpM&t=311s) | 老辣妹 |
+| 池袋駅 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%B1%A0%E8%A2%8B%E9%A7%85) | Google Maps 未取得 | 影片介紹本集路線時提到：「我真的是各種手機殼和手機吊繩的重度愛好者❤️ 這次要推薦大家入坑這款曾經登上倫敦時裝週的品牌「OVERDIGI」」此處依描述欄列為出場地點。 | [7:44](https://www.youtube.com/watch?v=gsAvWYtFwpM&t=464s) | 老辣妹 |
+| 西武池袋線 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%A5%BF%E6%AD%A6%E6%B1%A0%E8%A2%8B%E7%B7%9A) | Google Maps 未取得 | 影片介紹本集路線時提到：「我真的是各種手機殼和手機吊繩的重度愛好者❤️ 這次要推薦大家入坑這款曾經登上倫敦時裝週的品牌「OVERDIGI」」此處依描述欄列為出場地點。 | [9:12](https://www.youtube.com/watch?v=gsAvWYtFwpM&t=552s) | 老辣妹 |
 
 ## 45. 🇹🇭泰國四天三夜自由行，順便來一場高空跳傘吧！｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=tc0lxZyi_7g)
-- 發布時間：2 年前；觀看次數：17萬次
+- 發布時間：2 年前；觀看次數：觀看次數：17萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 唯一授權臺灣總代理 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%94%AF%E4%B8%80%E6%8E%88%E6%AC%8A%E8%87%BA%E7%81%A3%E7%B8%BD%E4%BB%A3%E7%90%86) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「又再度完成一項旅行中的人生清單了！！！ 如果你也是樂於嘗試極限運動的人 強烈建議你跟我一樣，用不同的角度看泰國 跳下去的那一刻 覺得自己真是酷斃了啦～ 最後分享一下安全有保障的跳傘...」此處依描述欄列為出場地點。 | [1:07](https://www.youtube.com/watch?v=tc0lxZyi_7g&t=67s) | 老辣妹 |
+| 唯一授權臺灣總代理 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%94%AF%E4%B8%80%E6%8E%88%E6%AC%8A%E8%87%BA%E7%81%A3%E7%B8%BD%E4%BB%A3%E7%90%86) | Google Maps 未取得 | 影片介紹本集路線時提到：「又再度完成一項旅行中的人生清單了！！！ 如果你也是樂於嘗試極限運動的人 強烈建議你跟我一樣，用不同的角度看泰國 跳下去的那一刻 覺得自己真是酷斃了啦～ 最後分享一下安全有保障的跳傘...」此處依描述欄列為出場地點。 | [1:07](https://www.youtube.com/watch?v=tc0lxZyi_7g&t=67s) | 老辣妹 |
 | 張龍記 เล้งกี่ | [Google Maps](https://goo.gl/maps/Xx4RtYGTTyaHLA7H6) | Google Maps 未取得 | 影片介紹本集路線時提到：「又再度完成一項旅行中的人生清單了！！！ 如果你也是樂於嘗試極限運動的人 強烈建議你跟我一樣，用不同的角度看泰國 跳下去的那一刻 覺得自己真是酷斃了啦～ 最後分享一下安全有保障的跳傘...」此處依描述欄列為出場地點。 | [1:07](https://www.youtube.com/watch?v=tc0lxZyi_7g&t=67s) | 老辣妹 |
 | Dropzone Thailand | [Google Maps](https://goo.gl/maps/4TYZ2QjB8ab9ZNCs9) | Google Maps 未取得 | 影片介紹本集路線時提到：「又再度完成一項旅行中的人生清單了！！！ 如果你也是樂於嘗試極限運動的人 強烈建議你跟我一樣，用不同的角度看泰國 跳下去的那一刻 覺得自己真是酷斃了啦～ 最後分享一下安全有保障的跳傘...」此處依描述欄列為出場地點。 | [3:36](https://www.youtube.com/watch?v=tc0lxZyi_7g&t=216s) | 老辣妹 |
 | 芭堤雅四方水上市場 | [Google Maps](https://goo.gl/maps/UFSUfcDFZwdHmwJm9) | Google Maps 未取得 | 影片介紹本集路線時提到：「又再度完成一項旅行中的人生清單了！！！ 如果你也是樂於嘗試極限運動的人 強烈建議你跟我一樣，用不同的角度看泰國 跳下去的那一刻 覺得自己真是酷斃了啦～ 最後分享一下安全有保障的跳傘...」此處依描述欄列為出場地點。 | [10:06](https://www.youtube.com/watch?v=tc0lxZyi_7g&t=606s) | 老辣妹 |
@@ -1248,11 +1241,11 @@
 ## 46. 🇯🇵最美夏日鎌倉江之島一日遊，搭江之電玩湘南海岸！小町通美食推薦｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=-F-Q8ROf5rU)
-- 發布時間：3 年前；觀看次數：37萬次
+- 發布時間：3 年前；觀看次數：觀看次數：38萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 鎌倉-江之島 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%8E%8C%E5%80%89-%E6%B1%9F%E4%B9%8B%E5%B3%B6) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「🙌雙手附上老辣妹專屬優惠碼」此處依描述欄列為出場地點。 | [3:44](https://www.youtube.com/watch?v=-F-Q8ROf5rU&t=224s) | 老辣妹 |
+| 鎌倉-江之島 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%8E%8C%E5%80%89-%E6%B1%9F%E4%B9%8B%E5%B3%B6) | Google Maps 未取得 | 影片介紹本集路線時提到：「🙌雙手附上老辣妹專屬優惠碼」此處依描述欄列為出場地點。 | [3:44](https://www.youtube.com/watch?v=-F-Q8ROf5rU&t=224s) | 老辣妹 |
 | 牛兵衛 鎌倉店 | [Google Maps](https://goo.gl/maps/iMp8EABYup3HVBac8) | Google Maps 未取得 | 影片介紹本集路線時提到：「🙌雙手附上老辣妹專屬優惠碼」此處依描述欄列為出場地點。 | [3:44](https://www.youtube.com/watch?v=-F-Q8ROf5rU&t=224s) | 老辣妹 |
 | Giraffa(ジラッファ)カレーパン専門店 | [Google Maps](https://goo.gl/maps/UUBwqzTvanZFsGMa9) | Google Maps 未取得 | 影片介紹本集路線時提到：「🙌雙手附上老辣妹專屬優惠碼」此處依描述欄列為出場地點。 | [4:57](https://www.youtube.com/watch?v=-F-Q8ROf5rU&t=297s) | 老辣妹 |
 | ともや 鎌倉小町店 | [Google Maps](https://goo.gl/maps/pmzYmBj6BCbbwmkf6) | Google Maps 未取得 | 影片介紹本集路線時提到：「🙌雙手附上老辣妹專屬優惠碼」此處依描述欄列為出場地點。 | [6:24](https://www.youtube.com/watch?v=-F-Q8ROf5rU&t=384s) | 老辣妹 |
@@ -1268,18 +1261,18 @@
 ## 47. 🇯🇵東京自由行精選 第三章：新宿、三軒茶屋、豪德寺、代官山｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=aznV27VT6qg)
-- 發布時間：3 年前；觀看次數：50萬次
+- 發布時間：3 年前；觀看次數：觀看次數：50萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 犀牛盾抗敏背帶掛繩 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%8A%80%E7%89%9B%E7%9B%BE%E6%8A%97%E6%95%8F%E8%83%8C%E5%B8%B6%E6%8E%9B%E7%B9%A9) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [0:22](https://www.youtube.com/watch?v=aznV27VT6qg&t=22s) | 老辣妹 |
-| 犀牛盾編織背帶掛繩 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%8A%80%E7%89%9B%E7%9B%BE%E7%B7%A8%E7%B9%94%E8%83%8C%E5%B8%B6%E6%8E%9B%E7%B9%A9) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [6:45](https://www.youtube.com/watch?v=aznV27VT6qg&t=405s) | 老辣妹 |
-| 掛繩夾片 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%8E%9B%E7%B9%A9%E5%A4%BE%E7%89%87) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [9:29](https://www.youtube.com/watch?v=aznV27VT6qg&t=569s) | 老辣妹 |
-| お洒落 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E6%B4%92%E8%90%BD) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [12:38](https://www.youtube.com/watch?v=aznV27VT6qg&t=758s) | 老辣妹 |
+| 犀牛盾抗敏背帶掛繩 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%8A%80%E7%89%9B%E7%9B%BE%E6%8A%97%E6%95%8F%E8%83%8C%E5%B8%B6%E6%8E%9B%E7%B9%A9) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [0:22](https://www.youtube.com/watch?v=aznV27VT6qg&t=22s) | 老辣妹 |
+| 犀牛盾編織背帶掛繩 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%8A%80%E7%89%9B%E7%9B%BE%E7%B7%A8%E7%B9%94%E8%83%8C%E5%B8%B6%E6%8E%9B%E7%B9%A9) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [6:45](https://www.youtube.com/watch?v=aznV27VT6qg&t=405s) | 老辣妹 |
+| 掛繩夾片 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%8E%9B%E7%B9%A9%E5%A4%BE%E7%89%87) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [9:29](https://www.youtube.com/watch?v=aznV27VT6qg&t=569s) | 老辣妹 |
+| お洒落 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E6%B4%92%E8%90%BD) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [12:38](https://www.youtube.com/watch?v=aznV27VT6qg&t=758s) | 老辣妹 |
 | 回転わんこそば くるくるわんこ | [Google Maps](https://goo.gl/maps/opQ8HqivmP6yFZab8) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [19:43](https://www.youtube.com/watch?v=aznV27VT6qg&t=1183s) | 老辣妹 |
 | 新宿ミロード 小田急新宿Mylord | [Google Maps](https://goo.gl/maps/qyZ8QaNLZV37VPHX7) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [0:22](https://www.youtube.com/watch?v=aznV27VT6qg&t=22s) | 老辣妹 |
-| Retro Girl新宿 MYLORD店 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Retro%20Girl%E6%96%B0%E5%AE%BF%20MYLORD%E5%BA%97%20%E6%96%B0%E5%AE%BF) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [0:22](https://www.youtube.com/watch?v=aznV27VT6qg&t=22s) | 老辣妹 |
-| Seemi. by NICE CLAUP 新宿MYLORD店 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Seemi.%20by%20NICE%20CLAUP%20%E6%96%B0%E5%AE%BFMYLORD%E5%BA%97%20%E6%96%B0%E5%AE%BF) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [0:22](https://www.youtube.com/watch?v=aznV27VT6qg&t=22s) | 老辣妹 |
+| Retro Girl新宿 MYLORD店 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Retro%20Girl%E6%96%B0%E5%AE%BF%20MYLORD%E5%BA%97) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [0:22](https://www.youtube.com/watch?v=aznV27VT6qg&t=22s) | 老辣妹 |
+| Seemi. by NICE CLAUP 新宿MYLORD店 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Seemi.%20by%20NICE%20CLAUP%20%E6%96%B0%E5%AE%BFMYLORD%E5%BA%97) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [0:22](https://www.youtube.com/watch?v=aznV27VT6qg&t=22s) | 老辣妹 |
 | ビックカメラ 新宿東口店 | [Google Maps](https://goo.gl/maps/cMRFVu7JXXChWDY29) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [0:22](https://www.youtube.com/watch?v=aznV27VT6qg&t=22s) | 老辣妹 |
 | 居酒屋街 思い出横丁 | [Google Maps](https://goo.gl/maps/vnCs6nAp9z72cwDE9) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [6:45](https://www.youtube.com/watch?v=aznV27VT6qg&t=405s) | 老辣妹 |
 | 串烧 次作 | [Google Maps](https://goo.gl/maps/WtSVDZZGUdJffkuo8) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [YouTube](https://www.youtube.com/watch?v=aznV27VT6qg) | 老辣妹 |
@@ -1297,11 +1290,11 @@
 ## 48. 🇯🇵東京自由行精選 第二章：築地、豐洲LaLaport、秋葉原、月島｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=-YfGCymo06o)
-- 發布時間：3 年前；觀看次數：63萬次
+- 發布時間：3 年前；觀看次數：觀看次數：64萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 東東京 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%9D%B1%E4%BA%AC) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「看完日本影片如果燒燒的，就一起來規劃我們的下一趟旅行吧！ 把ShopBack打開，點開Booking.com或是kkday 把飯店和票券都訂起來～ 回饋的現金我可以跟你們相約拉麵店...」此處依描述欄列為出場地點。 | [0:57](https://www.youtube.com/watch?v=-YfGCymo06o&t=57s) | 老辣妹 |
+| 東東京 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%9D%B1%E4%BA%AC) | Google Maps 未取得 | 影片介紹本集路線時提到：「看完日本影片如果燒燒的，就一起來規劃我們的下一趟旅行吧！ 把ShopBack打開，點開Booking.com或是kkday 把飯店和票券都訂起來～ 回饋的現金我可以跟你們相約拉麵店...」此處依描述欄列為出場地點。 | [0:57](https://www.youtube.com/watch?v=-YfGCymo06o&t=57s) | 老辣妹 |
 | Tonboya 蜻 | [Google Maps](https://goo.gl/maps/xHeD3stPkfaMS6WV8) | Google Maps 未取得 | 影片介紹本集路線時提到：「看完日本影片如果燒燒的，就一起來規劃我們的下一趟旅行吧！ 把ShopBack打開，點開Booking.com或是kkday 把飯店和票券都訂起來～ 回饋的現金我可以跟你們相約拉麵店...」此處依描述欄列為出場地點。 | [7:53](https://www.youtube.com/watch?v=-YfGCymo06o&t=473s) | 老辣妹 |
 | おにぎり屋 築地 丸豊 | [Google Maps](https://goo.gl/maps/aUgSwEXptfjivne56) | Google Maps 未取得 | 影片介紹本集路線時提到：「看完日本影片如果燒燒的，就一起來規劃我們的下一趟旅行吧！ 把ShopBack打開，點開Booking.com或是kkday 把飯店和票券都訂起來～ 回饋的現金我可以跟你們相約拉麵店...」此處依描述欄列為出場地點。 | [0:57](https://www.youtube.com/watch?v=-YfGCymo06o&t=57s) | 老辣妹 |
 | Matcha Stand Maruni TOKYO TSUKIJI | [Google Maps](https://goo.gl/maps/dEvQ8mUKe9nbof7q8) | Google Maps 未取得 | 影片介紹本集路線時提到：「看完日本影片如果燒燒的，就一起來規劃我們的下一趟旅行吧！ 把ShopBack打開，點開Booking.com或是kkday 把飯店和票券都訂起來～ 回饋的現金我可以跟你們相約拉麵店...」此處依描述欄列為出場地點。 | [29:09](https://www.youtube.com/watch?v=-YfGCymo06o&t=1749s) | 老辣妹 |
@@ -1326,11 +1319,11 @@
 ## 49. 🇯🇵東京順遊最浪漫的城市就是橫濱了啦！｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=MluzdR_J4y0)
-- 發布時間：3 年前；觀看次數：47萬次
+- 發布時間：3 年前；觀看次數：觀看次數：48萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 橫濱 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%A9%AB%E6%BF%B1) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「如果你問我東京附近最浪漫的城市是哪？ 那唯一答案應該就是「橫濱」！ 如果你從沒去過或不太熟 疫情過後都應該要去走一趟～ 新的纜車、期間限定的鋼彈 新開張的紅磚倉庫、加上集中的百貨 ...」此處依描述欄列為出場地點。 | [2:45](https://www.youtube.com/watch?v=MluzdR_J4y0&t=165s) | 老辣妹 |
+| 橫濱 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%A9%AB%E6%BF%B1) | Google Maps 未取得 | 影片介紹本集路線時提到：「如果你問我東京附近最浪漫的城市是哪？ 那唯一答案應該就是「橫濱」！ 如果你從沒去過或不太熟 疫情過後都應該要去走一趟～ 新的纜車、期間限定的鋼彈 新開張的紅磚倉庫、加上集中的百貨 ...」此處依描述欄列為出場地點。 | [2:45](https://www.youtube.com/watch?v=MluzdR_J4y0&t=165s) | 老辣妹 |
 | 横浜山手西洋館 | [Google Maps](https://goo.gl/maps/7r8yojkQmdhbk2Xb9) | Google Maps 未取得 | 影片介紹本集路線時提到：「如果你問我東京附近最浪漫的城市是哪？ 那唯一答案應該就是「橫濱」！ 如果你從沒去過或不太熟 疫情過後都應該要去走一趟～ 新的纜車、期間限定的鋼彈 新開張的紅磚倉庫、加上集中的百貨 ...」此處依描述欄列為出場地點。 | [2:45](https://www.youtube.com/watch?v=MluzdR_J4y0&t=165s) | 老辣妹 |
 | Elysee しょうゆきゃふぇ元町 | [Google Maps](https://goo.gl/maps/bGewaMwQFXRi7Xns9) | Google Maps 未取得 | 影片介紹本集路線時提到：「如果你問我東京附近最浪漫的城市是哪？ 那唯一答案應該就是「橫濱」！ 如果你從沒去過或不太熟 疫情過後都應該要去走一趟～ 新的纜車、期間限定的鋼彈 新開張的紅磚倉庫、加上集中的百貨 ...」此處依描述欄列為出場地點。 | [3:49](https://www.youtube.com/watch?v=MluzdR_J4y0&t=229s) | 老辣妹 |
 | GUNDAM FACTORY YOKOHAMA | [Google Maps](https://goo.gl/maps/ytgbVmCXvb34Uf3u7) | Google Maps 未取得 | 影片介紹本集路線時提到：「如果你問我東京附近最浪漫的城市是哪？ 那唯一答案應該就是「橫濱」！ 如果你從沒去過或不太熟 疫情過後都應該要去走一趟～ 新的纜車、期間限定的鋼彈 新開張的紅磚倉庫、加上集中的百貨 ...」此處依描述欄列為出場地點。 | [5:59](https://www.youtube.com/watch?v=MluzdR_J4y0&t=359s) | 老辣妹 |
@@ -1347,7 +1340,7 @@
 ## 50. 🇯🇵東京自由行五區精選，澀谷、原宿、上野各區特色整理｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=6iybMs25qJs)
-- 發布時間：3 年前；觀看次數：153萬次
+- 發布時間：3 年前；觀看次數：觀看次數：154萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -1378,162 +1371,162 @@
 ## 51. 🇯🇵🗻最夢幻的富士山景點玩法，超簡單河口湖一日路線懶人包｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=JaRlwGzJS-g)
-- 發布時間：3 年前；觀看次數：135萬次
+- 發布時間：3 年前；觀看次數：觀看次數：135萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 下吉田 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E4%B8%8B%E5%90%89%E7%94%B0%20%E6%9B%B4%E6%96%B0%E8%A3%9C%E5%85%85) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [1:45](https://www.youtube.com/watch?v=JaRlwGzJS-g&t=105s) | 老辣妹 |
-| 新宿 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%20%E6%9B%B4%E6%96%B0%E8%A3%9C%E5%85%85) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [3:00](https://www.youtube.com/watch?v=JaRlwGzJS-g&t=180s) | 老辣妹 |
-| 購買 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%B3%BC%E8%B2%B7%20%E6%9B%B4%E6%96%B0%E8%A3%9C%E5%85%85) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [7:21](https://www.youtube.com/watch?v=JaRlwGzJS-g&t=441s) | 老辣妹 |
-| 預約指定席 使用周遊券 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%A0%90%E7%B4%84%E6%8C%87%E5%AE%9A%E5%B8%AD%20%E4%BD%BF%E7%94%A8%E5%91%A8%E9%81%8A%E5%88%B8%20%E6%9B%B4%E6%96%B0%E8%A3%9C%E5%85%85) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [8:46](https://www.youtube.com/watch?v=JaRlwGzJS-g&t=526s) | 老辣妹 |
-| 從車站搜尋 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%BE%9E%E8%BB%8A%E7%AB%99%E6%90%9C%E5%B0%8B%20%E6%9B%B4%E6%96%B0%E8%A3%9C%E5%85%85) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [13:19](https://www.youtube.com/watch?v=JaRlwGzJS-g&t=799s) | 老辣妹 |
-| Fuji-Excursion | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Fuji-Excursion%20%E5%8E%BB%E7%A8%8B) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [14:47](https://www.youtube.com/watch?v=JaRlwGzJS-g&t=887s) | 老辣妹 |
+| 下吉田 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E4%B8%8B%E5%90%89%E7%94%B0) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [1:45](https://www.youtube.com/watch?v=JaRlwGzJS-g&t=105s) | 老辣妹 |
+| 新宿 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [3:00](https://www.youtube.com/watch?v=JaRlwGzJS-g&t=180s) | 老辣妹 |
+| 購買 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%B3%BC%E8%B2%B7) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [7:21](https://www.youtube.com/watch?v=JaRlwGzJS-g&t=441s) | 老辣妹 |
+| 預約指定席 使用周遊券 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%A0%90%E7%B4%84%E6%8C%87%E5%AE%9A%E5%B8%AD%20%E4%BD%BF%E7%94%A8%E5%91%A8%E9%81%8A%E5%88%B8) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [8:46](https://www.youtube.com/watch?v=JaRlwGzJS-g&t=526s) | 老辣妹 |
+| 從車站搜尋 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%BE%9E%E8%BB%8A%E7%AB%99%E6%90%9C%E5%B0%8B) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [13:19](https://www.youtube.com/watch?v=JaRlwGzJS-g&t=799s) | 老辣妹 |
+| Fuji-Excursion | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Fuji-Excursion) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [14:47](https://www.youtube.com/watch?v=JaRlwGzJS-g&t=887s) | 老辣妹 |
 | 新宿站的取票位置 | [Google Maps](https://maps.app.goo.gl/j6rV7LSohiGrc1iGA?g_st=ic) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [15:22](https://www.youtube.com/watch?v=JaRlwGzJS-g&t=922s) | 老辣妹 |
-| 新幹線 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%B9%B9%E7%B7%9A%20%E5%8E%BB%E7%A8%8B) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [17:18](https://www.youtube.com/watch?v=JaRlwGzJS-g&t=1038s) | 老辣妹 |
-| 成田特快 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%88%90%E7%94%B0%E7%89%B9%E5%BF%AB%20%E5%8E%BB%E7%A8%8B) | Google Maps 未取得（以搜尋連結代替） | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [YouTube](https://www.youtube.com/watch?v=JaRlwGzJS-g) | 老辣妹 |
+| 新幹線 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%B9%B9%E7%B7%9A) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [17:18](https://www.youtube.com/watch?v=JaRlwGzJS-g&t=1038s) | 老辣妹 |
+| 成田特快 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%88%90%E7%94%B0%E7%89%B9%E5%BF%AB) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [YouTube](https://www.youtube.com/watch?v=JaRlwGzJS-g) | 老辣妹 |
 | JR東日本旅行服務中心 - 新宿站（東出口） | [Google Maps](https://maps.app.goo.gl/j6rV7LSohiGrc1iGA?g_st=ic) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [YouTube](https://www.youtube.com/watch?v=JaRlwGzJS-g) | 老辣妹 |
 | JR東日本旅行服務中心 - 新宿站（新南檢票口） | [Google Maps](https://maps.app.goo.gl/S2ydQmgz8TT7e6i57?g_st=ic) | Google Maps 未取得 | 影片將此處列入行程地點，未擷取到更細部的單點心得。 | [YouTube](https://www.youtube.com/watch?v=JaRlwGzJS-g) | 老辣妹 |
 
 ## 52. 高雄美食攻略｜鹽酥雞攤吃炸蛋餅皮？寬來順必吃甜油條？推哪家粉漿蛋餅？｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=K1pU21Disxc)
-- 發布時間：3 年前；觀看次數：8.5萬次
+- 發布時間：3 年前；觀看次數：觀看次數：8.5萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 鹽埕區吃鴨肉 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%B9%BD%E5%9F%95%E5%8D%80%E5%90%83%E9%B4%A8%E8%82%89) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「其實我吃了不止10家 偷偷說有些曾被推的店家 我吃了以後覺得...... 真的無法說出好吃兩個字 可見老辣妹這首支美食攻略 有在負責任的啦」此處依描述欄列為出場地點。 | [1:28](https://www.youtube.com/watch?v=K1pU21Disxc&t=88s) | 老辣妹 |
-| 鹽埕區吃冬粉 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%B9%BD%E5%9F%95%E5%8D%80%E5%90%83%E5%86%AC%E7%B2%89) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「其實我吃了不止10家 偷偷說有些曾被推的店家 我吃了以後覺得...... 真的無法說出好吃兩個字 可見老辣妹這首支美食攻略 有在負責任的啦」此處依描述欄列為出場地點。 | [4:13](https://www.youtube.com/watch?v=K1pU21Disxc&t=253s) | 老辣妹 |
-| 鹽埕區在地圓仔冰 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%B9%BD%E5%9F%95%E5%8D%80%E5%9C%A8%E5%9C%B0%E5%9C%93%E4%BB%94%E5%86%B0) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「其實我吃了不止10家 偷偷說有些曾被推的店家 我吃了以後覺得...... 真的無法說出好吃兩個字 可見老辣妹這首支美食攻略 有在負責任的啦」此處依描述欄列為出場地點。 | [6:24](https://www.youtube.com/watch?v=K1pU21Disxc&t=384s) | 老辣妹 |
-| 鳳山區蔥肉餅 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%B3%B3%E5%B1%B1%E5%8D%80%E8%94%A5%E8%82%89%E9%A4%85) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「其實我吃了不止10家 偷偷說有些曾被推的店家 我吃了以後覺得...... 真的無法說出好吃兩個字 可見老辣妹這首支美食攻略 有在負責任的啦」此處依描述欄列為出場地點。 | [7:36](https://www.youtube.com/watch?v=K1pU21Disxc&t=456s) | 老辣妹 |
-| 三民區特色鹽酥雞 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E6%B0%91%E5%8D%80%E7%89%B9%E8%89%B2%E9%B9%BD%E9%85%A5%E9%9B%9E) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「其實我吃了不止10家 偷偷說有些曾被推的店家 我吃了以後覺得...... 真的無法說出好吃兩個字 可見老辣妹這首支美食攻略 有在負責任的啦」此處依描述欄列為出場地點。 | [9:17](https://www.youtube.com/watch?v=K1pU21Disxc&t=557s) | 老辣妹 |
-| 左營區吃到飽粉漿蛋餅 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%B7%A6%E7%87%9F%E5%8D%80%E5%90%83%E5%88%B0%E9%A3%BD%E7%B2%89%E6%BC%BF%E8%9B%8B%E9%A4%85) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「其實我吃了不止10家 偷偷說有些曾被推的店家 我吃了以後覺得...... 真的無法說出好吃兩個字 可見老辣妹這首支美食攻略 有在負責任的啦」此處依描述欄列為出場地點。 | [12:27](https://www.youtube.com/watch?v=K1pU21Disxc&t=747s) | 老辣妹 |
-| 左營區獨門吃法鮮肉包 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%B7%A6%E7%87%9F%E5%8D%80%E7%8D%A8%E9%96%80%E5%90%83%E6%B3%95%E9%AE%AE%E8%82%89%E5%8C%85) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「其實我吃了不止10家 偷偷說有些曾被推的店家 我吃了以後覺得...... 真的無法說出好吃兩個字 可見老辣妹這首支美食攻略 有在負責任的啦」此處依描述欄列為出場地點。 | [14:00](https://www.youtube.com/watch?v=K1pU21Disxc&t=840s) | 老辣妹 |
-| 旗津區排隊名店蕃薯椪 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%97%97%E6%B4%A5%E5%8D%80%E6%8E%92%E9%9A%8A%E5%90%8D%E5%BA%97%E8%95%83%E8%96%AF%E6%A4%AA) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「其實我吃了不止10家 偷偷說有些曾被推的店家 我吃了以後覺得...... 真的無法說出好吃兩個字 可見老辣妹這首支美食攻略 有在負責任的啦」此處依描述欄列為出場地點。 | [16:40](https://www.youtube.com/watch?v=K1pU21Disxc&t=1000s) | 老辣妹 |
-| 苓雅區嚴選普洱茶手搖 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%8B%93%E9%9B%85%E5%8D%80%E5%9A%B4%E9%81%B8%E6%99%AE%E6%B4%B1%E8%8C%B6%E6%89%8B%E6%90%96) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「其實我吃了不止10家 偷偷說有些曾被推的店家 我吃了以後覺得...... 真的無法說出好吃兩個字 可見老辣妹這首支美食攻略 有在負責任的啦」此處依描述欄列為出場地點。 | [19:05](https://www.youtube.com/watch?v=K1pU21Disxc&t=1145s) | 老辣妹 |
-| 前金區高雄招牌溫體牛 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%89%8D%E9%87%91%E5%8D%80%E9%AB%98%E9%9B%84%E6%8B%9B%E7%89%8C%E6%BA%AB%E9%AB%94%E7%89%9B) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「其實我吃了不止10家 偷偷說有些曾被推的店家 我吃了以後覺得...... 真的無法說出好吃兩個字 可見老辣妹這首支美食攻略 有在負責任的啦」此處依描述欄列為出場地點。 | [19:54](https://www.youtube.com/watch?v=K1pU21Disxc&t=1194s) | 老辣妹 |
+| 鹽埕區吃鴨肉 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%B9%BD%E5%9F%95%E5%8D%80%E5%90%83%E9%B4%A8%E8%82%89) | Google Maps 未取得 | 影片介紹本集路線時提到：「其實我吃了不止10家 偷偷說有些曾被推的店家 我吃了以後覺得...... 真的無法說出好吃兩個字 可見老辣妹這首支美食攻略 有在負責任的啦」此處依描述欄列為出場地點。 | [1:28](https://www.youtube.com/watch?v=K1pU21Disxc&t=88s) | 老辣妹 |
+| 鹽埕區吃冬粉 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%B9%BD%E5%9F%95%E5%8D%80%E5%90%83%E5%86%AC%E7%B2%89) | Google Maps 未取得 | 影片介紹本集路線時提到：「其實我吃了不止10家 偷偷說有些曾被推的店家 我吃了以後覺得...... 真的無法說出好吃兩個字 可見老辣妹這首支美食攻略 有在負責任的啦」此處依描述欄列為出場地點。 | [4:13](https://www.youtube.com/watch?v=K1pU21Disxc&t=253s) | 老辣妹 |
+| 鹽埕區在地圓仔冰 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%B9%BD%E5%9F%95%E5%8D%80%E5%9C%A8%E5%9C%B0%E5%9C%93%E4%BB%94%E5%86%B0) | Google Maps 未取得 | 影片介紹本集路線時提到：「其實我吃了不止10家 偷偷說有些曾被推的店家 我吃了以後覺得...... 真的無法說出好吃兩個字 可見老辣妹這首支美食攻略 有在負責任的啦」此處依描述欄列為出場地點。 | [6:24](https://www.youtube.com/watch?v=K1pU21Disxc&t=384s) | 老辣妹 |
+| 鳳山區蔥肉餅 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%B3%B3%E5%B1%B1%E5%8D%80%E8%94%A5%E8%82%89%E9%A4%85) | Google Maps 未取得 | 影片介紹本集路線時提到：「其實我吃了不止10家 偷偷說有些曾被推的店家 我吃了以後覺得...... 真的無法說出好吃兩個字 可見老辣妹這首支美食攻略 有在負責任的啦」此處依描述欄列為出場地點。 | [7:36](https://www.youtube.com/watch?v=K1pU21Disxc&t=456s) | 老辣妹 |
+| 三民區特色鹽酥雞 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E6%B0%91%E5%8D%80%E7%89%B9%E8%89%B2%E9%B9%BD%E9%85%A5%E9%9B%9E) | Google Maps 未取得 | 影片介紹本集路線時提到：「其實我吃了不止10家 偷偷說有些曾被推的店家 我吃了以後覺得...... 真的無法說出好吃兩個字 可見老辣妹這首支美食攻略 有在負責任的啦」此處依描述欄列為出場地點。 | [9:17](https://www.youtube.com/watch?v=K1pU21Disxc&t=557s) | 老辣妹 |
+| 左營區吃到飽粉漿蛋餅 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%B7%A6%E7%87%9F%E5%8D%80%E5%90%83%E5%88%B0%E9%A3%BD%E7%B2%89%E6%BC%BF%E8%9B%8B%E9%A4%85) | Google Maps 未取得 | 影片介紹本集路線時提到：「其實我吃了不止10家 偷偷說有些曾被推的店家 我吃了以後覺得...... 真的無法說出好吃兩個字 可見老辣妹這首支美食攻略 有在負責任的啦」此處依描述欄列為出場地點。 | [12:27](https://www.youtube.com/watch?v=K1pU21Disxc&t=747s) | 老辣妹 |
+| 左營區獨門吃法鮮肉包 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%B7%A6%E7%87%9F%E5%8D%80%E7%8D%A8%E9%96%80%E5%90%83%E6%B3%95%E9%AE%AE%E8%82%89%E5%8C%85) | Google Maps 未取得 | 影片介紹本集路線時提到：「其實我吃了不止10家 偷偷說有些曾被推的店家 我吃了以後覺得...... 真的無法說出好吃兩個字 可見老辣妹這首支美食攻略 有在負責任的啦」此處依描述欄列為出場地點。 | [14:00](https://www.youtube.com/watch?v=K1pU21Disxc&t=840s) | 老辣妹 |
+| 旗津區排隊名店蕃薯椪 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%97%97%E6%B4%A5%E5%8D%80%E6%8E%92%E9%9A%8A%E5%90%8D%E5%BA%97%E8%95%83%E8%96%AF%E6%A4%AA) | Google Maps 未取得 | 影片介紹本集路線時提到：「其實我吃了不止10家 偷偷說有些曾被推的店家 我吃了以後覺得...... 真的無法說出好吃兩個字 可見老辣妹這首支美食攻略 有在負責任的啦」此處依描述欄列為出場地點。 | [16:40](https://www.youtube.com/watch?v=K1pU21Disxc&t=1000s) | 老辣妹 |
+| 苓雅區嚴選普洱茶手搖 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%8B%93%E9%9B%85%E5%8D%80%E5%9A%B4%E9%81%B8%E6%99%AE%E6%B4%B1%E8%8C%B6%E6%89%8B%E6%90%96) | Google Maps 未取得 | 影片介紹本集路線時提到：「其實我吃了不止10家 偷偷說有些曾被推的店家 我吃了以後覺得...... 真的無法說出好吃兩個字 可見老辣妹這首支美食攻略 有在負責任的啦」此處依描述欄列為出場地點。 | [19:05](https://www.youtube.com/watch?v=K1pU21Disxc&t=1145s) | 老辣妹 |
+| 前金區高雄招牌溫體牛 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%89%8D%E9%87%91%E5%8D%80%E9%AB%98%E9%9B%84%E6%8B%9B%E7%89%8C%E6%BA%AB%E9%AB%94%E7%89%9B) | Google Maps 未取得 | 影片介紹本集路線時提到：「其實我吃了不止10家 偷偷說有些曾被推的店家 我吃了以後覺得...... 真的無法說出好吃兩個字 可見老辣妹這首支美食攻略 有在負責任的啦」此處依描述欄列為出場地點。 | [19:54](https://www.youtube.com/watch?v=K1pU21Disxc&t=1194s) | 老辣妹 |
 
 ## 53. 全臺最高豪華露營，帶上阿呆大黃金一趟旅行花多少？｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=AobTSaEUV-I)
-- 發布時間：3 年前；觀看次數：1.8萬次
+- 發布時間：3 年前；觀看次數：觀看次數：1.8萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 愛上喜翁 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E4%B8%8A%E5%96%9C%E7%BF%81) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [2:09](https://www.youtube.com/watch?v=AobTSaEUV-I&t=129s) | 老辣妹 |
-| 下午茶點心 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E4%B8%8B%E5%8D%88%E8%8C%B6%E9%BB%9E%E5%BF%83) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [3:46](https://www.youtube.com/watch?v=AobTSaEUV-I&t=226s) | 老辣妹 |
-| DIY手作課程 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=DIY%E6%89%8B%E4%BD%9C%E8%AA%B2%E7%A8%8B) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [4:05](https://www.youtube.com/watch?v=AobTSaEUV-I&t=245s) | 老辣妹 |
-| 帳篷介紹 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%B8%B3%E7%AF%B7%E4%BB%8B%E7%B4%B9) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [4:56](https://www.youtube.com/watch?v=AobTSaEUV-I&t=296s) | 老辣妹 |
-| 海陸全餐 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E9%99%B8%E5%85%A8%E9%A4%90) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [8:14](https://www.youtube.com/watch?v=AobTSaEUV-I&t=494s) | 老辣妹 |
-| 營火晚會 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%87%9F%E7%81%AB%E6%99%9A%E6%9C%83) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [10:21](https://www.youtube.com/watch?v=AobTSaEUV-I&t=621s) | 老辣妹 |
-| 歐風早餐 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%AD%90%E9%A2%A8%E6%97%A9%E9%A4%90) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [11:09](https://www.youtube.com/watch?v=AobTSaEUV-I&t=669s) | 老辣妹 |
-| 獵人射箭 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%8D%B5%E4%BA%BA%E5%B0%84%E7%AE%AD) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [12:15](https://www.youtube.com/watch?v=AobTSaEUV-I&t=735s) | 老辣妹 |
-| 中油資源莊冰店 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E6%B2%B9%E8%B3%87%E6%BA%90%E8%8E%8A%E5%86%B0%E5%BA%97) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [12:49](https://www.youtube.com/watch?v=AobTSaEUV-I&t=769s) | 老辣妹 |
-| 橙香森林 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%A9%99%E9%A6%99%E6%A3%AE%E6%9E%97) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [15:34](https://www.youtube.com/watch?v=AobTSaEUV-I&t=934s) | 老辣妹 |
-| 後龍好望角 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%BE%8C%E9%BE%8D%E5%A5%BD%E6%9C%9B%E8%A7%92) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [17:25](https://www.youtube.com/watch?v=AobTSaEUV-I&t=1045s) | 老辣妹 |
-| 片尾 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%89%87%E5%B0%BE) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [19:17](https://www.youtube.com/watch?v=AobTSaEUV-I&t=1157s) | 老辣妹 |
+| 愛上喜翁 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E4%B8%8A%E5%96%9C%E7%BF%81) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [2:09](https://www.youtube.com/watch?v=AobTSaEUV-I&t=129s) | 老辣妹 |
+| 下午茶點心 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E4%B8%8B%E5%8D%88%E8%8C%B6%E9%BB%9E%E5%BF%83) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [3:46](https://www.youtube.com/watch?v=AobTSaEUV-I&t=226s) | 老辣妹 |
+| DIY手作課程 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=DIY%E6%89%8B%E4%BD%9C%E8%AA%B2%E7%A8%8B) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [4:05](https://www.youtube.com/watch?v=AobTSaEUV-I&t=245s) | 老辣妹 |
+| 帳篷介紹 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%B8%B3%E7%AF%B7%E4%BB%8B%E7%B4%B9) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [4:56](https://www.youtube.com/watch?v=AobTSaEUV-I&t=296s) | 老辣妹 |
+| 海陸全餐 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E9%99%B8%E5%85%A8%E9%A4%90) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [8:14](https://www.youtube.com/watch?v=AobTSaEUV-I&t=494s) | 老辣妹 |
+| 營火晚會 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%87%9F%E7%81%AB%E6%99%9A%E6%9C%83) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [10:21](https://www.youtube.com/watch?v=AobTSaEUV-I&t=621s) | 老辣妹 |
+| 歐風早餐 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%AD%90%E9%A2%A8%E6%97%A9%E9%A4%90) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [11:09](https://www.youtube.com/watch?v=AobTSaEUV-I&t=669s) | 老辣妹 |
+| 獵人射箭 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%8D%B5%E4%BA%BA%E5%B0%84%E7%AE%AD) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [12:15](https://www.youtube.com/watch?v=AobTSaEUV-I&t=735s) | 老辣妹 |
+| 中油資源莊冰店 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E6%B2%B9%E8%B3%87%E6%BA%90%E8%8E%8A%E5%86%B0%E5%BA%97) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [12:49](https://www.youtube.com/watch?v=AobTSaEUV-I&t=769s) | 老辣妹 |
+| 橙香森林 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%A9%99%E9%A6%99%E6%A3%AE%E6%9E%97) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [15:34](https://www.youtube.com/watch?v=AobTSaEUV-I&t=934s) | 老辣妹 |
+| 後龍好望角 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%BE%8C%E9%BE%8D%E5%A5%BD%E6%9C%9B%E8%A7%92) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [17:25](https://www.youtube.com/watch?v=AobTSaEUV-I&t=1045s) | 老辣妹 |
+| 片尾 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%89%87%E5%B0%BE) | Google Maps 未取得 | 影片介紹本集路線時提到：「這次是新竹苗栗的輕攻略 想帶著寵物出遊的人可以參考我們的兩日行程 新竹五峰這個營地 是臺灣少數可以讓寵物一起進帳篷、上飯桌的豪華露營 讓毛小孩們不再是只能留守在家等你回來 帶著牠們...」此處依描述欄列為出場地點。 | [19:17](https://www.youtube.com/watch?v=AobTSaEUV-I&t=1157s) | 老辣妹 |
 
 ## 54. 南投日月潭攻略｜不許說這是老人景點！住湖景房值得嗎？船票怎麼買最划算？｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=fYPiiYNfGrQ)
-- 發布時間：3 年前；觀看次數：19萬次
+- 發布時間：3 年前；觀看次數：觀看次數：19萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 蔣公碼頭 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%94%A3%E5%85%AC%E7%A2%BC%E9%A0%AD) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [1:33](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=93s) | 老辣妹 |
-| 玄光碼頭 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%8E%84%E5%85%89%E7%A2%BC%E9%A0%AD) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [3:54](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=234s) | 老辣妹 |
-| 玄光寺 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%8E%84%E5%85%89%E5%AF%BA) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [5:37](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=337s) | 老辣妹 |
-| 日月潭紅茶 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%88%E6%BD%AD%E7%B4%85%E8%8C%B6) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [7:40](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=460s) | 老辣妹 |
-| 阿爸食堂 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E7%88%B8%E9%A3%9F%E5%A0%82) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [8:24](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=504s) | 老辣妹 |
-| 明月湖品味湖畔旅店 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%98%8E%E6%9C%88%E6%B9%96%E5%93%81%E5%91%B3%E6%B9%96%E7%95%94%E6%97%85%E5%BA%97) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [13:04](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=784s) | 老辣妹 |
-| 日月潭纜車停車場 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%88%E6%BD%AD%E7%BA%9C%E8%BB%8A%E5%81%9C%E8%BB%8A%E5%A0%B4) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [14:37](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=877s) | 老辣妹 |
-| 日月潭纜車 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%88%E6%BD%AD%E7%BA%9C%E8%BB%8A) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [16:33](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=993s) | 老辣妹 |
-| 九族文化村 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E4%B9%9D%E6%97%8F%E6%96%87%E5%8C%96%E6%9D%91) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [18:12](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=1092s) | 老辣妹 |
-| 杜啦 白鰻棍 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9D%9C%E5%95%A6%20%E7%99%BD%E9%B0%BB%E6%A3%8D) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [20:26](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=1226s) | 老辣妹 |
-| 飯飯雞翅 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%A3%AF%E9%A3%AF%E9%9B%9E%E7%BF%85) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [21:01](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=1261s) | 老辣妹 |
-| 黑糖珍珠鮮奶茶PK | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%BB%91%E7%B3%96%E7%8F%8D%E7%8F%A0%E9%AE%AE%E5%A5%B6%E8%8C%B6PK) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [21:57](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=1317s) | 老辣妹 |
-| 朝霧茶莊Tea18 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9C%9D%E9%9C%A7%E8%8C%B6%E8%8E%8ATea18) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [22:17](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=1337s) | 老辣妹 |
-| 日月茶行 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%88%E8%8C%B6%E8%A1%8C) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [22:24](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=1344s) | 老辣妹 |
-| 九族初體驗 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E4%B9%9D%E6%97%8F%E5%88%9D%E9%AB%94%E9%A9%97) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [24:17](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=1457s) | 老辣妹 |
+| 蔣公碼頭 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%94%A3%E5%85%AC%E7%A2%BC%E9%A0%AD) | Google Maps 未取得 | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [1:33](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=93s) | 老辣妹 |
+| 玄光碼頭 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%8E%84%E5%85%89%E7%A2%BC%E9%A0%AD) | Google Maps 未取得 | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [3:54](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=234s) | 老辣妹 |
+| 玄光寺 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%8E%84%E5%85%89%E5%AF%BA) | Google Maps 未取得 | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [5:37](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=337s) | 老辣妹 |
+| 日月潭紅茶 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%88%E6%BD%AD%E7%B4%85%E8%8C%B6) | Google Maps 未取得 | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [7:40](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=460s) | 老辣妹 |
+| 阿爸食堂 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E7%88%B8%E9%A3%9F%E5%A0%82) | Google Maps 未取得 | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [8:24](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=504s) | 老辣妹 |
+| 明月湖品味湖畔旅店 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%98%8E%E6%9C%88%E6%B9%96%E5%93%81%E5%91%B3%E6%B9%96%E7%95%94%E6%97%85%E5%BA%97) | Google Maps 未取得 | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [13:04](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=784s) | 老辣妹 |
+| 日月潭纜車停車場 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%88%E6%BD%AD%E7%BA%9C%E8%BB%8A%E5%81%9C%E8%BB%8A%E5%A0%B4) | Google Maps 未取得 | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [14:37](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=877s) | 老辣妹 |
+| 日月潭纜車 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%88%E6%BD%AD%E7%BA%9C%E8%BB%8A) | Google Maps 未取得 | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [16:33](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=993s) | 老辣妹 |
+| 九族文化村 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E4%B9%9D%E6%97%8F%E6%96%87%E5%8C%96%E6%9D%91) | Google Maps 未取得 | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [18:12](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=1092s) | 老辣妹 |
+| 杜啦 白鰻棍 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9D%9C%E5%95%A6%20%E7%99%BD%E9%B0%BB%E6%A3%8D) | Google Maps 未取得 | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [20:26](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=1226s) | 老辣妹 |
+| 飯飯雞翅 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%A3%AF%E9%A3%AF%E9%9B%9E%E7%BF%85) | Google Maps 未取得 | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [21:01](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=1261s) | 老辣妹 |
+| 黑糖珍珠鮮奶茶PK | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%BB%91%E7%B3%96%E7%8F%8D%E7%8F%A0%E9%AE%AE%E5%A5%B6%E8%8C%B6PK) | Google Maps 未取得 | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [21:57](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=1317s) | 老辣妹 |
+| 朝霧茶莊Tea18 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9C%9D%E9%9C%A7%E8%8C%B6%E8%8E%8ATea18) | Google Maps 未取得 | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [22:17](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=1337s) | 老辣妹 |
+| 日月茶行 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%88%E8%8C%B6%E8%A1%8C) | Google Maps 未取得 | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [22:24](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=1344s) | 老辣妹 |
+| 九族初體驗 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E4%B9%9D%E6%97%8F%E5%88%9D%E9%AB%94%E9%A9%97) | Google Maps 未取得 | 影片介紹本集路線時提到：「又是一支希望你在看完後 馬上可以說走就走的影片了 這次規劃的是日月潭～ 去日月潭最糾結的問題之一就是 到底要不要花錢住湖景房？ 而日月潭很大 行程到底怎麼排？ 玩什麼才算有玩到？」此處依描述欄列為出場地點。 | [24:17](https://www.youtube.com/watch?v=fYPiiYNfGrQ&t=1457s) | 老辣妹 |
 
 ## 55. 沒玩過雲林海線？原來北港人都吃粳粽和麵線糊加蛋？意外入住朝天宮超省錢奢華酒店｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=YKT4Yi00BnQ)
-- 發布時間：3 年前；觀看次數：4萬次
+- 發布時間：3 年前；觀看次數：觀看次數：4萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| Open場勘日 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Open%E5%A0%B4%E5%8B%98%E6%97%A5) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [0:25](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=25s) | 老辣妹 |
-| 海中寶食品有限公司 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E4%B8%AD%E5%AF%B6%E9%A3%9F%E5%93%81%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [0:50](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=50s) | 老辣妹 |
-| 馬蹄蛤主題館 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%A6%AC%E8%B9%84%E8%9B%A4%E4%B8%BB%E9%A1%8C%E9%A4%A8) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [1:41](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=101s) | 老辣妹 |
-| 椬梧滯洪池 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%A4%AC%E6%A2%A7%E6%BB%AF%E6%B4%AA%E6%B1%A0) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [2:50](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=170s) | 老辣妹 |
-| 粳粽林 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%B2%B3%E7%B2%BD%E6%9E%97) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [3:25](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=205s) | 老辣妹 |
-| 朝聖文旅 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9C%9D%E8%81%96%E6%96%87%E6%97%85) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [3:49](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=229s) | 老辣妹 |
-| 朝聖高悅酒店 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9C%9D%E8%81%96%E9%AB%98%E6%82%85%E9%85%92%E5%BA%97) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [5:23](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=323s) | 老辣妹 |
-| 北港李記鴨肉羹 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B8%AF%E6%9D%8E%E8%A8%98%E9%B4%A8%E8%82%89%E7%BE%B9) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [6:28](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=388s) | 老辣妹 |
-| 阿等土豆油飯 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E7%AD%89%E5%9C%9F%E8%B1%86%E6%B2%B9%E9%A3%AF) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [7:35](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=455s) | 老辣妹 |
-| 一郎土魠魚羹 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E9%83%8E%E5%9C%9F%E9%AD%A0%E9%AD%9A%E7%BE%B9) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [8:18](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=498s) | 老辣妹 |
-| 北港圓仔湯 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B8%AF%E5%9C%93%E4%BB%94%E6%B9%AF) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [9:46](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=586s) | 老辣妹 |
-| 老等油飯麵線糊 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%80%81%E7%AD%89%E6%B2%B9%E9%A3%AF%E9%BA%B5%E7%B7%9A%E7%B3%8A) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [10:36](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=636s) | 老辣妹 |
-| 金捷發煎盤粿果 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%87%91%E6%8D%B7%E7%99%BC%E7%85%8E%E7%9B%A4%E7%B2%BF%E6%9E%9C) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [11:09](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=669s) | 老辣妹 |
-| 吃早餐 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%90%83%E6%97%A9%E9%A4%90) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [11:42](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=702s) | 老辣妹 |
-| 拍攝日 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%8B%8D%E6%94%9D%E6%97%A5) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [13:18](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=798s) | 老辣妹 |
-| 最後一Cut | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9C%80%E5%BE%8C%E4%B8%80Cut) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [14:52](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=892s) | 老辣妹 |
-| 推薦時間 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%8E%A8%E8%96%A6%E6%99%82%E9%96%93) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [15:13](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=913s) | 老辣妹 |
+| Open場勘日 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Open%E5%A0%B4%E5%8B%98%E6%97%A5) | Google Maps 未取得 | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [0:25](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=25s) | 老辣妹 |
+| 海中寶食品有限公司 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E4%B8%AD%E5%AF%B6%E9%A3%9F%E5%93%81%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8) | Google Maps 未取得 | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [0:50](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=50s) | 老辣妹 |
+| 馬蹄蛤主題館 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%A6%AC%E8%B9%84%E8%9B%A4%E4%B8%BB%E9%A1%8C%E9%A4%A8) | Google Maps 未取得 | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [1:41](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=101s) | 老辣妹 |
+| 椬梧滯洪池 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%A4%AC%E6%A2%A7%E6%BB%AF%E6%B4%AA%E6%B1%A0) | Google Maps 未取得 | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [2:50](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=170s) | 老辣妹 |
+| 粳粽林 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%B2%B3%E7%B2%BD%E6%9E%97) | Google Maps 未取得 | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [3:25](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=205s) | 老辣妹 |
+| 朝聖文旅 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9C%9D%E8%81%96%E6%96%87%E6%97%85) | Google Maps 未取得 | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [3:49](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=229s) | 老辣妹 |
+| 朝聖高悅酒店 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9C%9D%E8%81%96%E9%AB%98%E6%82%85%E9%85%92%E5%BA%97) | Google Maps 未取得 | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [5:23](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=323s) | 老辣妹 |
+| 北港李記鴨肉羹 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B8%AF%E6%9D%8E%E8%A8%98%E9%B4%A8%E8%82%89%E7%BE%B9) | Google Maps 未取得 | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [6:28](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=388s) | 老辣妹 |
+| 阿等土豆油飯 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E7%AD%89%E5%9C%9F%E8%B1%86%E6%B2%B9%E9%A3%AF) | Google Maps 未取得 | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [7:35](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=455s) | 老辣妹 |
+| 一郎土魠魚羹 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E9%83%8E%E5%9C%9F%E9%AD%A0%E9%AD%9A%E7%BE%B9) | Google Maps 未取得 | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [8:18](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=498s) | 老辣妹 |
+| 北港圓仔湯 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B8%AF%E5%9C%93%E4%BB%94%E6%B9%AF) | Google Maps 未取得 | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [9:46](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=586s) | 老辣妹 |
+| 老等油飯麵線糊 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%80%81%E7%AD%89%E6%B2%B9%E9%A3%AF%E9%BA%B5%E7%B7%9A%E7%B3%8A) | Google Maps 未取得 | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [10:36](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=636s) | 老辣妹 |
+| 金捷發煎盤粿果 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%87%91%E6%8D%B7%E7%99%BC%E7%85%8E%E7%9B%A4%E7%B2%BF%E6%9E%9C) | Google Maps 未取得 | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [11:09](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=669s) | 老辣妹 |
+| 吃早餐 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%90%83%E6%97%A9%E9%A4%90) | Google Maps 未取得 | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [11:42](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=702s) | 老辣妹 |
+| 拍攝日 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%8B%8D%E6%94%9D%E6%97%A5) | Google Maps 未取得 | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [13:18](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=798s) | 老辣妹 |
+| 最後一Cut | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9C%80%E5%BE%8C%E4%B8%80Cut) | Google Maps 未取得 | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [14:52](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=892s) | 老辣妹 |
+| 推薦時間 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%8E%A8%E8%96%A6%E6%99%82%E9%96%93) | Google Maps 未取得 | 影片介紹本集路線時提到：「雲林怎麼玩！？ 旅行真的是沒有必要跳過雲林欸 從玩的行程 - 到吃的安排 - 再到住的選擇 其實兩天一夜整個規劃起來超豐富～ 雲林身為農糧大縣 沒想到靠海的鄉鎮也可以規劃的那麼好玩...」此處依描述欄列為出場地點。 | [15:13](https://www.youtube.com/watch?v=YKT4Yi00BnQ&t=913s) | 老辣妹 |
 
 ## 56. 邊買伴手禮邊走行程｜嘉義台中巷子內美食帶回家吃，埔里生吐司名店值得買口味公開？｜老辣妹
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=2clW7pz1_zY)
-- 發布時間：3 年前；觀看次數：1.5萬次
+- 發布時間：3 年前；觀看次數：觀看次數：1.5萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 332蛋捲 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=332%E8%9B%8B%E6%8D%B2) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「常滑IG看到中臺灣有一些美食 都讓我好想吃吃看 這次從阿里山下來 特地安排一天慢慢開 沿途吃、沿路買 從嘉義-雲林-彰化 再刻意繞到南投埔里 其實也算是一趟購物之旅 我個人覺得這樣...」此處依描述欄列為出場地點。 | [0:51](https://www.youtube.com/watch?v=2clW7pz1_zY&t=51s) | 老辣妹 |
-| 成功食品廠 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%88%90%E5%8A%9F%E9%A3%9F%E5%93%81%E5%BB%A0) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「常滑IG看到中臺灣有一些美食 都讓我好想吃吃看 這次從阿里山下來 特地安排一天慢慢開 沿途吃、沿路買 從嘉義-雲林-彰化 再刻意繞到南投埔里 其實也算是一趟購物之旅 我個人覺得這樣...」此處依描述欄列為出場地點。 | [1:24](https://www.youtube.com/watch?v=2clW7pz1_zY&t=84s) | 老辣妹 |
-| Feeling 18 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Feeling%2018) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「常滑IG看到中臺灣有一些美食 都讓我好想吃吃看 這次從阿里山下來 特地安排一天慢慢開 沿途吃、沿路買 從嘉義-雲林-彰化 再刻意繞到南投埔里 其實也算是一趟購物之旅 我個人覺得這樣...」此處依描述欄列為出場地點。 | [2:31](https://www.youtube.com/watch?v=2clW7pz1_zY&t=151s) | 老辣妹 |
-| Feeling 18 隔壁 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Feeling%2018%20%E9%9A%94%E5%A3%81) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「常滑IG看到中臺灣有一些美食 都讓我好想吃吃看 這次從阿里山下來 特地安排一天慢慢開 沿途吃、沿路買 從嘉義-雲林-彰化 再刻意繞到南投埔里 其實也算是一趟購物之旅 我個人覺得這樣...」此處依描述欄列為出場地點。 | [4:32](https://www.youtube.com/watch?v=2clW7pz1_zY&t=272s) | 老辣妹 |
-| 坂神本舖長崎蛋糕 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%9D%82%E7%A5%9E%E6%9C%AC%E8%88%96%E9%95%B7%E5%B4%8E%E8%9B%8B%E7%B3%95) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「常滑IG看到中臺灣有一些美食 都讓我好想吃吃看 這次從阿里山下來 特地安排一天慢慢開 沿途吃、沿路買 從嘉義-雲林-彰化 再刻意繞到南投埔里 其實也算是一趟購物之旅 我個人覺得這樣...」此處依描述欄列為出場地點。 | [5:56](https://www.youtube.com/watch?v=2clW7pz1_zY&t=356s) | 老辣妹 |
-| 李海魯肉飯 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9D%8E%E6%B5%B7%E9%AD%AF%E8%82%89%E9%A3%AF) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「常滑IG看到中臺灣有一些美食 都讓我好想吃吃看 這次從阿里山下來 特地安排一天慢慢開 沿途吃、沿路買 從嘉義-雲林-彰化 再刻意繞到南投埔里 其實也算是一趟購物之旅 我個人覺得這樣...」此處依描述欄列為出場地點。 | [6:20](https://www.youtube.com/watch?v=2clW7pz1_zY&t=380s) | 老辣妹 |
-| 老賴紅茶 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%80%81%E8%B3%B4%E7%B4%85%E8%8C%B6) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「常滑IG看到中臺灣有一些美食 都讓我好想吃吃看 這次從阿里山下來 特地安排一天慢慢開 沿途吃、沿路買 從嘉義-雲林-彰化 再刻意繞到南投埔里 其實也算是一趟購物之旅 我個人覺得這樣...」此處依描述欄列為出場地點。 | [6:35](https://www.youtube.com/watch?v=2clW7pz1_zY&t=395s) | 老辣妹 |
-| 劉麵包廠 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%8A%89%E9%BA%B5%E5%8C%85%E5%BB%A0) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「常滑IG看到中臺灣有一些美食 都讓我好想吃吃看 這次從阿里山下來 特地安排一天慢慢開 沿途吃、沿路買 從嘉義-雲林-彰化 再刻意繞到南投埔里 其實也算是一趟購物之旅 我個人覺得這樣...」此處依描述欄列為出場地點。 | [6:38](https://www.youtube.com/watch?v=2clW7pz1_zY&t=398s) | 老辣妹 |
-| 榮記餅店 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%A6%AE%E8%A8%98%E9%A4%85%E5%BA%97) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「常滑IG看到中臺灣有一些美食 都讓我好想吃吃看 這次從阿里山下來 特地安排一天慢慢開 沿途吃、沿路買 從嘉義-雲林-彰化 再刻意繞到南投埔里 其實也算是一趟購物之旅 我個人覺得這樣...」此處依描述欄列為出場地點。 | [7:40](https://www.youtube.com/watch?v=2clW7pz1_zY&t=460s) | 老辣妹 |
-| 清水服務區 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%B8%85%E6%B0%B4%E6%9C%8D%E5%8B%99%E5%8D%80) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「常滑IG看到中臺灣有一些美食 都讓我好想吃吃看 這次從阿里山下來 特地安排一天慢慢開 沿途吃、沿路買 從嘉義-雲林-彰化 再刻意繞到南投埔里 其實也算是一趟購物之旅 我個人覺得這樣...」此處依描述欄列為出場地點。 | [8:41](https://www.youtube.com/watch?v=2clW7pz1_zY&t=521s) | 老辣妹 |
+| 332蛋捲 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=332%E8%9B%8B%E6%8D%B2) | Google Maps 未取得 | 影片介紹本集路線時提到：「常滑IG看到中臺灣有一些美食 都讓我好想吃吃看 這次從阿里山下來 特地安排一天慢慢開 沿途吃、沿路買 從嘉義-雲林-彰化 再刻意繞到南投埔里 其實也算是一趟購物之旅 我個人覺得這樣...」此處依描述欄列為出場地點。 | [0:51](https://www.youtube.com/watch?v=2clW7pz1_zY&t=51s) | 老辣妹 |
+| 成功食品廠 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%88%90%E5%8A%9F%E9%A3%9F%E5%93%81%E5%BB%A0) | Google Maps 未取得 | 影片介紹本集路線時提到：「常滑IG看到中臺灣有一些美食 都讓我好想吃吃看 這次從阿里山下來 特地安排一天慢慢開 沿途吃、沿路買 從嘉義-雲林-彰化 再刻意繞到南投埔里 其實也算是一趟購物之旅 我個人覺得這樣...」此處依描述欄列為出場地點。 | [1:24](https://www.youtube.com/watch?v=2clW7pz1_zY&t=84s) | 老辣妹 |
+| Feeling 18 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Feeling%2018) | Google Maps 未取得 | 影片介紹本集路線時提到：「常滑IG看到中臺灣有一些美食 都讓我好想吃吃看 這次從阿里山下來 特地安排一天慢慢開 沿途吃、沿路買 從嘉義-雲林-彰化 再刻意繞到南投埔里 其實也算是一趟購物之旅 我個人覺得這樣...」此處依描述欄列為出場地點。 | [2:31](https://www.youtube.com/watch?v=2clW7pz1_zY&t=151s) | 老辣妹 |
+| Feeling 18 隔壁 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Feeling%2018%20%E9%9A%94%E5%A3%81) | Google Maps 未取得 | 影片介紹本集路線時提到：「常滑IG看到中臺灣有一些美食 都讓我好想吃吃看 這次從阿里山下來 特地安排一天慢慢開 沿途吃、沿路買 從嘉義-雲林-彰化 再刻意繞到南投埔里 其實也算是一趟購物之旅 我個人覺得這樣...」此處依描述欄列為出場地點。 | [4:32](https://www.youtube.com/watch?v=2clW7pz1_zY&t=272s) | 老辣妹 |
+| 坂神本舖長崎蛋糕 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%9D%82%E7%A5%9E%E6%9C%AC%E8%88%96%E9%95%B7%E5%B4%8E%E8%9B%8B%E7%B3%95) | Google Maps 未取得 | 影片介紹本集路線時提到：「常滑IG看到中臺灣有一些美食 都讓我好想吃吃看 這次從阿里山下來 特地安排一天慢慢開 沿途吃、沿路買 從嘉義-雲林-彰化 再刻意繞到南投埔里 其實也算是一趟購物之旅 我個人覺得這樣...」此處依描述欄列為出場地點。 | [5:56](https://www.youtube.com/watch?v=2clW7pz1_zY&t=356s) | 老辣妹 |
+| 李海魯肉飯 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%9D%8E%E6%B5%B7%E9%AD%AF%E8%82%89%E9%A3%AF) | Google Maps 未取得 | 影片介紹本集路線時提到：「常滑IG看到中臺灣有一些美食 都讓我好想吃吃看 這次從阿里山下來 特地安排一天慢慢開 沿途吃、沿路買 從嘉義-雲林-彰化 再刻意繞到南投埔里 其實也算是一趟購物之旅 我個人覺得這樣...」此處依描述欄列為出場地點。 | [6:20](https://www.youtube.com/watch?v=2clW7pz1_zY&t=380s) | 老辣妹 |
+| 老賴紅茶 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%80%81%E8%B3%B4%E7%B4%85%E8%8C%B6) | Google Maps 未取得 | 影片介紹本集路線時提到：「常滑IG看到中臺灣有一些美食 都讓我好想吃吃看 這次從阿里山下來 特地安排一天慢慢開 沿途吃、沿路買 從嘉義-雲林-彰化 再刻意繞到南投埔里 其實也算是一趟購物之旅 我個人覺得這樣...」此處依描述欄列為出場地點。 | [6:35](https://www.youtube.com/watch?v=2clW7pz1_zY&t=395s) | 老辣妹 |
+| 劉麵包廠 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%8A%89%E9%BA%B5%E5%8C%85%E5%BB%A0) | Google Maps 未取得 | 影片介紹本集路線時提到：「常滑IG看到中臺灣有一些美食 都讓我好想吃吃看 這次從阿里山下來 特地安排一天慢慢開 沿途吃、沿路買 從嘉義-雲林-彰化 再刻意繞到南投埔里 其實也算是一趟購物之旅 我個人覺得這樣...」此處依描述欄列為出場地點。 | [6:38](https://www.youtube.com/watch?v=2clW7pz1_zY&t=398s) | 老辣妹 |
+| 榮記餅店 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%A6%AE%E8%A8%98%E9%A4%85%E5%BA%97) | Google Maps 未取得 | 影片介紹本集路線時提到：「常滑IG看到中臺灣有一些美食 都讓我好想吃吃看 這次從阿里山下來 特地安排一天慢慢開 沿途吃、沿路買 從嘉義-雲林-彰化 再刻意繞到南投埔里 其實也算是一趟購物之旅 我個人覺得這樣...」此處依描述欄列為出場地點。 | [7:40](https://www.youtube.com/watch?v=2clW7pz1_zY&t=460s) | 老辣妹 |
+| 清水服務區 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%B8%85%E6%B0%B4%E6%9C%8D%E5%8B%99%E5%8D%80) | Google Maps 未取得 | 影片介紹本集路線時提到：「常滑IG看到中臺灣有一些美食 都讓我好想吃吃看 這次從阿里山下來 特地安排一天慢慢開 沿途吃、沿路買 從嘉義-雲林-彰化 再刻意繞到南投埔里 其實也算是一趟購物之旅 我個人覺得這樣...」此處依描述欄列為出場地點。 | [8:41](https://www.youtube.com/watch?v=2clW7pz1_zY&t=521s) | 老辣妹 |
 
 ## 57. 阿里山攻略｜在地人推薦咖啡廳不是阿將的家？英迪格之外的絕美民宿？還能房內看日出｜老辣妹娛樂
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=BOWCK9PVmuU)
-- 發布時間：3 年前；觀看次數：15萬次
+- 發布時間：3 年前；觀看次數：觀看次數：15萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 奮起湖吃便當 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%A5%AE%E8%B5%B7%E6%B9%96%E5%90%83%E4%BE%BF%E7%95%B6) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「以下是我們這趟阿里山的行程規劃＆注意事項」此處依描述欄列為出場地點。 | [0:39](https://www.youtube.com/watch?v=BOWCK9PVmuU&t=39s) | 老辣妹 |
-| 草仔粿與甜甜圈 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%8D%89%E4%BB%94%E7%B2%BF%E8%88%87%E7%94%9C%E7%94%9C%E5%9C%88) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「以下是我們這趟阿里山的行程規劃＆注意事項」此處依描述欄列為出場地點。 | [1:59](https://www.youtube.com/watch?v=BOWCK9PVmuU&t=119s) | 老辣妹 |
-| 奮起湖火車站 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%A5%AE%E8%B5%B7%E6%B9%96%E7%81%AB%E8%BB%8A%E7%AB%99) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「以下是我們這趟阿里山的行程規劃＆注意事項」此處依描述欄列為出場地點。 | [3:54](https://www.youtube.com/watch?v=BOWCK9PVmuU&t=234s) | 老辣妹 |
-| 隙頂二延平步道 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%9A%99%E9%A0%82%E4%BA%8C%E5%BB%B6%E5%B9%B3%E6%AD%A5%E9%81%93) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「以下是我們這趟阿里山的行程規劃＆注意事項」此處依描述欄列為出場地點。 | [5:29](https://www.youtube.com/watch?v=BOWCK9PVmuU&t=329s) | 老辣妹 |
-| 阿里山火車站 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E9%87%8C%E5%B1%B1%E7%81%AB%E8%BB%8A%E7%AB%99) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「以下是我們這趟阿里山的行程規劃＆注意事項」此處依描述欄列為出場地點。 | [7:04](https://www.youtube.com/watch?v=BOWCK9PVmuU&t=424s) | 老辣妹 |
-| 對高岳火車站 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%B0%8D%E9%AB%98%E5%B2%B3%E7%81%AB%E8%BB%8A%E7%AB%99) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「以下是我們這趟阿里山的行程規劃＆注意事項」此處依描述欄列為出場地點。 | [7:55](https://www.youtube.com/watch?v=BOWCK9PVmuU&t=475s) | 老辣妹 |
-| 山芙蓉茶業 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E8%8A%99%E8%93%89%E8%8C%B6%E6%A5%AD) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「以下是我們這趟阿里山的行程規劃＆注意事項」此處依描述欄列為出場地點。 | [9:14](https://www.youtube.com/watch?v=BOWCK9PVmuU&t=554s) | 老辣妹 |
-| 阿里山國家森林遊樂園區 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E9%87%8C%E5%B1%B1%E5%9C%8B%E5%AE%B6%E6%A3%AE%E6%9E%97%E9%81%8A%E6%A8%82%E5%9C%92%E5%8D%80) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「以下是我們這趟阿里山的行程規劃＆注意事項」此處依描述欄列為出場地點。 | [9:56](https://www.youtube.com/watch?v=BOWCK9PVmuU&t=596s) | 老辣妹 |
-| 受鎮宮商店街 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%8F%97%E9%8E%AE%E5%AE%AE%E5%95%86%E5%BA%97%E8%A1%97) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「以下是我們這趟阿里山的行程規劃＆注意事項」此處依描述欄列為出場地點。 | [11:12](https://www.youtube.com/watch?v=BOWCK9PVmuU&t=672s) | 老辣妹 |
-| 十字鳴心咖啡 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E5%AD%97%E9%B3%B4%E5%BF%83%E5%92%96%E5%95%A1) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「以下是我們這趟阿里山的行程規劃＆注意事項」此處依描述欄列為出場地點。 | [11:57](https://www.youtube.com/watch?v=BOWCK9PVmuU&t=717s) | 老辣妹 |
-| 十方山水 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E6%96%B9%E5%B1%B1%E6%B0%B4) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「以下是我們這趟阿里山的行程規劃＆注意事項」此處依描述欄列為出場地點。 | [13:38](https://www.youtube.com/watch?v=BOWCK9PVmuU&t=818s) | 老辣妹 |
+| 奮起湖吃便當 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%A5%AE%E8%B5%B7%E6%B9%96%E5%90%83%E4%BE%BF%E7%95%B6) | Google Maps 未取得 | 影片介紹本集路線時提到：「以下是我們這趟阿里山的行程規劃＆注意事項」此處依描述欄列為出場地點。 | [0:39](https://www.youtube.com/watch?v=BOWCK9PVmuU&t=39s) | 老辣妹 |
+| 草仔粿與甜甜圈 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%8D%89%E4%BB%94%E7%B2%BF%E8%88%87%E7%94%9C%E7%94%9C%E5%9C%88) | Google Maps 未取得 | 影片介紹本集路線時提到：「以下是我們這趟阿里山的行程規劃＆注意事項」此處依描述欄列為出場地點。 | [1:59](https://www.youtube.com/watch?v=BOWCK9PVmuU&t=119s) | 老辣妹 |
+| 奮起湖火車站 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%A5%AE%E8%B5%B7%E6%B9%96%E7%81%AB%E8%BB%8A%E7%AB%99) | Google Maps 未取得 | 影片介紹本集路線時提到：「以下是我們這趟阿里山的行程規劃＆注意事項」此處依描述欄列為出場地點。 | [3:54](https://www.youtube.com/watch?v=BOWCK9PVmuU&t=234s) | 老辣妹 |
+| 隙頂二延平步道 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%9A%99%E9%A0%82%E4%BA%8C%E5%BB%B6%E5%B9%B3%E6%AD%A5%E9%81%93) | Google Maps 未取得 | 影片介紹本集路線時提到：「以下是我們這趟阿里山的行程規劃＆注意事項」此處依描述欄列為出場地點。 | [5:29](https://www.youtube.com/watch?v=BOWCK9PVmuU&t=329s) | 老辣妹 |
+| 阿里山火車站 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E9%87%8C%E5%B1%B1%E7%81%AB%E8%BB%8A%E7%AB%99) | Google Maps 未取得 | 影片介紹本集路線時提到：「以下是我們這趟阿里山的行程規劃＆注意事項」此處依描述欄列為出場地點。 | [7:04](https://www.youtube.com/watch?v=BOWCK9PVmuU&t=424s) | 老辣妹 |
+| 對高岳火車站 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%B0%8D%E9%AB%98%E5%B2%B3%E7%81%AB%E8%BB%8A%E7%AB%99) | Google Maps 未取得 | 影片介紹本集路線時提到：「以下是我們這趟阿里山的行程規劃＆注意事項」此處依描述欄列為出場地點。 | [7:55](https://www.youtube.com/watch?v=BOWCK9PVmuU&t=475s) | 老辣妹 |
+| 山芙蓉茶業 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E8%8A%99%E8%93%89%E8%8C%B6%E6%A5%AD) | Google Maps 未取得 | 影片介紹本集路線時提到：「以下是我們這趟阿里山的行程規劃＆注意事項」此處依描述欄列為出場地點。 | [9:14](https://www.youtube.com/watch?v=BOWCK9PVmuU&t=554s) | 老辣妹 |
+| 阿里山國家森林遊樂園區 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E9%87%8C%E5%B1%B1%E5%9C%8B%E5%AE%B6%E6%A3%AE%E6%9E%97%E9%81%8A%E6%A8%82%E5%9C%92%E5%8D%80) | Google Maps 未取得 | 影片介紹本集路線時提到：「以下是我們這趟阿里山的行程規劃＆注意事項」此處依描述欄列為出場地點。 | [9:56](https://www.youtube.com/watch?v=BOWCK9PVmuU&t=596s) | 老辣妹 |
+| 受鎮宮商店街 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%8F%97%E9%8E%AE%E5%AE%AE%E5%95%86%E5%BA%97%E8%A1%97) | Google Maps 未取得 | 影片介紹本集路線時提到：「以下是我們這趟阿里山的行程規劃＆注意事項」此處依描述欄列為出場地點。 | [11:12](https://www.youtube.com/watch?v=BOWCK9PVmuU&t=672s) | 老辣妹 |
+| 十字鳴心咖啡 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E5%AD%97%E9%B3%B4%E5%BF%83%E5%92%96%E5%95%A1) | Google Maps 未取得 | 影片介紹本集路線時提到：「以下是我們這趟阿里山的行程規劃＆注意事項」此處依描述欄列為出場地點。 | [11:57](https://www.youtube.com/watch?v=BOWCK9PVmuU&t=717s) | 老辣妹 |
+| 十方山水 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E6%96%B9%E5%B1%B1%E6%B0%B4) | Google Maps 未取得 | 影片介紹本集路線時提到：「以下是我們這趟阿里山的行程規劃＆注意事項」此處依描述欄列為出場地點。 | [13:38](https://www.youtube.com/watch?v=BOWCK9PVmuU&t=818s) | 老辣妹 |
 
 ## 58. 工作室為了賺錢，深入台南鹽水小鎮參加全球十大最危險慶典｜老辣妹娛樂
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=pD5QFYEdvm8)
-- 發布時間：4 年前；觀看次數：2.1萬次
+- 發布時間：4 年前；觀看次數：觀看次數：2.1萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 老辣妹 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%80%81%E8%BE%A3%E5%A6%B9) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [0:00](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=0s) | 老辣妹 |
-| 跟客戶見面開會 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%B7%9F%E5%AE%A2%E6%88%B6%E8%A6%8B%E9%9D%A2%E9%96%8B%E6%9C%83) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [1:00](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=60s) | 老辣妹 |
-| 蜂炮注意事項 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%9C%82%E7%82%AE%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [2:04](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=124s) | 老辣妹 |
-| 意麵的由來 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%84%8F%E9%BA%B5%E7%9A%84%E7%94%B1%E4%BE%86) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [2:21](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=141s) | 老辣妹 |
-| 鬍鬚豬頭飯 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%AC%8D%E9%AC%9A%E8%B1%AC%E9%A0%AD%E9%A3%AF) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [2:54](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=174s) | 老辣妹 |
-| 阿妙意麵 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E5%A6%99%E6%84%8F%E9%BA%B5) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [3:07](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=187s) | 老辣妹 |
-| 銀鋒冰果室 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%8A%80%E9%8B%92%E5%86%B0%E6%9E%9C%E5%AE%A4) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [3:37](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=217s) | 老辣妹 |
-| 碳烤雞蛋糕 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%A2%B3%E7%83%A4%E9%9B%9E%E8%9B%8B%E7%B3%95) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [4:39](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=279s) | 老辣妹 |
-| 行前準備 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%A1%8C%E5%89%8D%E6%BA%96%E5%82%99) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [5:02](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=302s) | 老辣妹 |
-| 炸蜂炮注意事項 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%82%B8%E8%9C%82%E7%82%AE%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [5:53](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=353s) | 老辣妹 |
-| 鹽水蜂炮 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%B9%BD%E6%B0%B4%E8%9C%82%E7%82%AE) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [6:31](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=391s) | 老辣妹 |
-| 炸完的感觸 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%82%B8%E5%AE%8C%E7%9A%84%E6%84%9F%E8%A7%B8) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [7:16](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=436s) | 老辣妹 |
-| 喜歡上鹽水 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%96%9C%E6%AD%A1%E4%B8%8A%E9%B9%BD%E6%B0%B4) | Google Maps 未取得（以搜尋連結代替） | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [9:24](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=564s) | 老辣妹 |
+| 老辣妹 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%80%81%E8%BE%A3%E5%A6%B9) | Google Maps 未取得 | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [0:00](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=0s) | 老辣妹 |
+| 跟客戶見面開會 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%B7%9F%E5%AE%A2%E6%88%B6%E8%A6%8B%E9%9D%A2%E9%96%8B%E6%9C%83) | Google Maps 未取得 | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [1:00](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=60s) | 老辣妹 |
+| 蜂炮注意事項 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%9C%82%E7%82%AE%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85) | Google Maps 未取得 | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [2:04](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=124s) | 老辣妹 |
+| 意麵的由來 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%84%8F%E9%BA%B5%E7%9A%84%E7%94%B1%E4%BE%86) | Google Maps 未取得 | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [2:21](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=141s) | 老辣妹 |
+| 鬍鬚豬頭飯 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%AC%8D%E9%AC%9A%E8%B1%AC%E9%A0%AD%E9%A3%AF) | Google Maps 未取得 | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [2:54](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=174s) | 老辣妹 |
+| 阿妙意麵 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E5%A6%99%E6%84%8F%E9%BA%B5) | Google Maps 未取得 | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [3:07](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=187s) | 老辣妹 |
+| 銀鋒冰果室 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%8A%80%E9%8B%92%E5%86%B0%E6%9E%9C%E5%AE%A4) | Google Maps 未取得 | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [3:37](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=217s) | 老辣妹 |
+| 碳烤雞蛋糕 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%A2%B3%E7%83%A4%E9%9B%9E%E8%9B%8B%E7%B3%95) | Google Maps 未取得 | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [4:39](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=279s) | 老辣妹 |
+| 行前準備 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%A1%8C%E5%89%8D%E6%BA%96%E5%82%99) | Google Maps 未取得 | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [5:02](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=302s) | 老辣妹 |
+| 炸蜂炮注意事項 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%82%B8%E8%9C%82%E7%82%AE%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85) | Google Maps 未取得 | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [5:53](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=353s) | 老辣妹 |
+| 鹽水蜂炮 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%B9%BD%E6%B0%B4%E8%9C%82%E7%82%AE) | Google Maps 未取得 | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [6:31](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=391s) | 老辣妹 |
+| 炸完的感觸 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%82%B8%E5%AE%8C%E7%9A%84%E6%84%9F%E8%A7%B8) | Google Maps 未取得 | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [7:16](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=436s) | 老辣妹 |
+| 喜歡上鹽水 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%96%9C%E6%AD%A1%E4%B8%8A%E9%B9%BD%E6%B0%B4) | Google Maps 未取得 | 影片介紹本集路線時提到：「影像工作室接案賺錢真的很辛苦！ 員工不忍心只好紀錄下老辣妹老闆的日常」此處依描述欄列為出場地點。 | [9:24](https://www.youtube.com/watch?v=pD5QFYEdvm8&t=564s) | 老辣妹 |

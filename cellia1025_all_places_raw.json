@@ -1,16 +1,126 @@
 {
   "channel_name": "Celia Ting",
   "channel_url": "https://www.youtube.com/@cellia1025",
-  "extracted_at": "2026-05-26T04:06:57.959Z",
-  "videos_count": 40,
-  "places_count": 102,
+  "extracted_at": "2026-06-17T13:26:38.483Z",
+  "videos_count": 41,
+  "places_count": 107,
   "places": [
+    {
+      "video_id": "Elnh4ZYpWkU",
+      "video_title": "如果 Google Maps 消失了？我在東京試了一天 | a day in Tokyo without Google Maps ☕️",
+      "video_url": "https://www.youtube.com/watch?v=Elnh4ZYpWkU",
+      "published": "2 週前",
+      "views": "觀看次數：3783次",
+      "channel_name": "Celia Ting",
+      "name": "ROAR COFFEE Tokyo Ginza SEVEN",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=ROAR%20COFFEE%20Tokyo%20Ginza%20SEVEN%20Japan%2C%20%E3%80%92104-0061%20Tokyo%2C%20Chuo%20City%2C%20Ginza%2C%207%20Chome%E2%88%9212%E2%88%9215%20%E9%8A%80%E5%BA%A71%E9%9A%8E",
+      "map_link_type": "direct",
+      "source_url": "",
+      "address": "Japan, 〒104-0061 Tokyo, Chuo City, Ginza, 7 Chome−12−15 銀座1階",
+      "timestamp_seconds": null,
+      "timestamp_label": "",
+      "chapter_title": "",
+      "source_review": "描述欄列出「ROAR COFFEE Tokyo Ginza SEVEN」與地址「Japan, 〒104-0061 Tokyo, Chuo City, Ginza, 7 Chome−12−15 銀座1階」。",
+      "google_rating": "Google Maps 未取得",
+      "youtube_review": "影片將「ROAR COFFEE Tokyo Ginza SEVEN」列入咖啡、散步、購物或旅行路線，描述欄提供地址作為參考。",
+      "youtube_review_zh": "影片將「ROAR COFFEE Tokyo Ginza SEVEN」列入咖啡、散步、購物或旅行路線，描述欄提供地址作為參考。",
+      "time": "",
+      "seconds": null
+    },
+    {
+      "video_id": "Elnh4ZYpWkU",
+      "video_title": "如果 Google Maps 消失了？我在東京試了一天 | a day in Tokyo without Google Maps ☕️",
+      "video_url": "https://www.youtube.com/watch?v=Elnh4ZYpWkU",
+      "published": "2 週前",
+      "views": "觀看次數：3783次",
+      "channel_name": "Celia Ting",
+      "name": "Coffee Wrights Kuramae",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Coffee%20Wrights%20Kuramae%204%20Chome-20-2%20Kuramae%2C%20Taito%20City%2C%20Tokyo%20111-0051%2C%20Japan",
+      "map_link_type": "direct",
+      "source_url": "",
+      "address": "4 Chome-20-2 Kuramae, Taito City, Tokyo 111-0051, Japan",
+      "timestamp_seconds": null,
+      "timestamp_label": "",
+      "chapter_title": "",
+      "source_review": "描述欄列出「Coffee Wrights Kuramae」與地址「4 Chome-20-2 Kuramae, Taito City, Tokyo 111-0051, Japan」。",
+      "google_rating": "Google Maps 未取得",
+      "youtube_review": "影片將「Coffee Wrights Kuramae」列入咖啡、散步、購物或旅行路線，描述欄提供地址作為參考。",
+      "youtube_review_zh": "影片將「Coffee Wrights Kuramae」列入咖啡、散步、購物或旅行路線，描述欄提供地址作為參考。",
+      "time": "",
+      "seconds": null
+    },
+    {
+      "video_id": "Elnh4ZYpWkU",
+      "video_title": "如果 Google Maps 消失了？我在東京試了一天 | a day in Tokyo without Google Maps ☕️",
+      "video_url": "https://www.youtube.com/watch?v=Elnh4ZYpWkU",
+      "published": "2 週前",
+      "views": "觀看次數：3783次",
+      "channel_name": "Celia Ting",
+      "name": "chigaya kuramae",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=chigaya%20kuramae%204%20Chome-29-3%20Kuramae%2C%20Taito%20City%2C%20Tokyo%20111-0051%2C%20Japan",
+      "map_link_type": "direct",
+      "source_url": "",
+      "address": "4 Chome-29-3 Kuramae, Taito City, Tokyo 111-0051, Japan",
+      "timestamp_seconds": null,
+      "timestamp_label": "",
+      "chapter_title": "",
+      "source_review": "描述欄列出「chigaya kuramae」與地址「4 Chome-29-3 Kuramae, Taito City, Tokyo 111-0051, Japan」。",
+      "google_rating": "Google Maps 未取得",
+      "youtube_review": "影片將「chigaya kuramae」列入咖啡、散步、購物或旅行路線，描述欄提供地址作為參考。",
+      "youtube_review_zh": "影片將「chigaya kuramae」列入咖啡、散步、購物或旅行路線，描述欄提供地址作為參考。",
+      "time": "",
+      "seconds": null
+    },
+    {
+      "video_id": "Elnh4ZYpWkU",
+      "video_title": "如果 Google Maps 消失了？我在東京試了一天 | a day in Tokyo without Google Maps ☕️",
+      "video_url": "https://www.youtube.com/watch?v=Elnh4ZYpWkU",
+      "published": "2 週前",
+      "views": "觀看次數：3783次",
+      "channel_name": "Celia Ting",
+      "name": "Dandelion Chocolate, Factory & Cafe Kuramae",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Dandelion%20Chocolate%2C%20Factory%20%26%20Cafe%20Kuramae%204%20Chome-14-6%20Kuramae%2C%20Taito%20City%2C%20Tokyo%20111-0051%2C%20Japan",
+      "map_link_type": "direct",
+      "source_url": "",
+      "address": "4 Chome-14-6 Kuramae, Taito City, Tokyo 111-0051, Japan",
+      "timestamp_seconds": null,
+      "timestamp_label": "",
+      "chapter_title": "",
+      "source_review": "描述欄列出「Dandelion Chocolate, Factory & Cafe Kuramae」與地址「4 Chome-14-6 Kuramae, Taito City, Tokyo 111-0051, Japan」。",
+      "google_rating": "Google Maps 未取得",
+      "youtube_review": "影片將「Dandelion Chocolate, Factory & Cafe Kuramae」列入咖啡、散步、購物或旅行路線，描述欄提供地址作為參考。",
+      "youtube_review_zh": "影片將「Dandelion Chocolate, Factory & Cafe Kuramae」列入咖啡、散步、購物或旅行路線，描述欄提供地址作為參考。",
+      "time": "",
+      "seconds": null
+    },
+    {
+      "video_id": "Elnh4ZYpWkU",
+      "video_title": "如果 Google Maps 消失了？我在東京試了一天 | a day in Tokyo without Google Maps ☕️",
+      "video_url": "https://www.youtube.com/watch?v=Elnh4ZYpWkU",
+      "published": "2 週前",
+      "views": "觀看次數：3783次",
+      "channel_name": "Celia Ting",
+      "name": "Kaminarimon Gate",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Kaminarimon%20Gate%202%20Chome-3-1%20Asakusa%2C%20Taito%20City%2C%20Tokyo%20111-0032%2C%20Japan",
+      "map_link_type": "direct",
+      "source_url": "",
+      "address": "2 Chome-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "timestamp_seconds": null,
+      "timestamp_label": "",
+      "chapter_title": "",
+      "source_review": "描述欄列出「Kaminarimon Gate」與地址「2 Chome-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan」。",
+      "google_rating": "Google Maps 未取得",
+      "youtube_review": "影片將「Kaminarimon Gate」列入咖啡、散步、購物或旅行路線，描述欄提供地址作為參考。",
+      "youtube_review_zh": "影片將「Kaminarimon Gate」列入咖啡、散步、購物或旅行路線，描述欄提供地址作為參考。",
+      "time": "",
+      "seconds": null
+    },
     {
       "video_id": "RCheXgDuXCk",
       "video_title": "東京三日散步日記 ☕️ 下北澤、美術館、咖啡廳…還準備了禮物送你們 ｜Tokyo travel diary ☕️ coffee shops, Shimokitazawa & gifts for you",
       "video_url": "https://www.youtube.com/watch?v=RCheXgDuXCk",
-      "published": "12 天前",
-      "views": "觀看次數：1.2萬次",
+      "published": "1 個月前",
+      "views": "觀看次數：1.8萬次",
       "channel_name": "Celia Ting",
       "name": "Cafe de l'ambre カフェ ド ランブル",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Cafe%20de%20l'ambre%20%E3%82%AB%E3%83%95%E3%82%A7%20%E3%83%89%20%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB%208%20Chome-10-15%20Ginza%2C%20Chuo%20City%2C%20Tokyo%20104-0061%2C%20Japan",
@@ -22,14 +132,15 @@
       "chapter_title": "",
       "source_review": "three slow days in tokyo ☕️ cafe hopping, shimokitazawa walks, museums, quiet moments… and a little giveaway for you at the end 🎁 hope this vlog feels like a small escape for anyone who needs it lately. - - 描述欄或章節將「Cafe de l'ambre カフェ ド ランブル」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Cafe de l'ambre カフェ ド ランブル」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Cafe de l'ambre カフェ ド ランブル」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Cafe de l'ambre カフェ ド ランブル」列為本集出現的店家或地點。"
     },
     {
       "video_id": "RCheXgDuXCk",
       "video_title": "東京三日散步日記 ☕️ 下北澤、美術館、咖啡廳…還準備了禮物送你們 ｜Tokyo travel diary ☕️ coffee shops, Shimokitazawa & gifts for you",
       "video_url": "https://www.youtube.com/watch?v=RCheXgDuXCk",
-      "published": "12 天前",
-      "views": "觀看次數：1.2萬次",
+      "published": "1 個月前",
+      "views": "觀看次數：1.8萬次",
       "channel_name": "Celia Ting",
       "name": "Hotel Musse Ginza Meitetsu",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Musse%20Ginza%20Meitetsu%207%20Chome-12-9%20Ginza%2C%20Chuo%20City%2C%20Tokyo%20104-0061%2C%20Japan",
@@ -41,14 +152,15 @@
       "chapter_title": "",
       "source_review": "three slow days in tokyo ☕️ cafe hopping, shimokitazawa walks, museums, quiet moments… and a little giveaway for you at the end 🎁 hope this vlog feels like a small escape for anyone who needs it lately. - - 描述欄或章節將「Hotel Musse Ginza Meitetsu」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Hotel Musse Ginza Meitetsu」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Hotel Musse Ginza Meitetsu」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Hotel Musse Ginza Meitetsu」列為本集出現的店家或地點。"
     },
     {
       "video_id": "RCheXgDuXCk",
       "video_title": "東京三日散步日記 ☕️ 下北澤、美術館、咖啡廳…還準備了禮物送你們 ｜Tokyo travel diary ☕️ coffee shops, Shimokitazawa & gifts for you",
       "video_url": "https://www.youtube.com/watch?v=RCheXgDuXCk",
-      "published": "12 天前",
-      "views": "觀看次數：1.2萬次",
+      "published": "1 個月前",
+      "views": "觀看次數：1.8萬次",
       "channel_name": "Celia Ting",
       "name": "Enraku",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Enraku%201%20Chome-8-7%20Nishishinbashi%2C%20Minato%20City%2C%20Tokyo%20105-0003%2C%20Japan",
@@ -60,14 +172,15 @@
       "chapter_title": "",
       "source_review": "three slow days in tokyo ☕️ cafe hopping, shimokitazawa walks, museums, quiet moments… and a little giveaway for you at the end 🎁 hope this vlog feels like a small escape for anyone who needs it lately. - - 描述欄或章節將「Enraku」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Enraku」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Enraku」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Enraku」列為本集出現的店家或地點。"
     },
     {
       "video_id": "RCheXgDuXCk",
       "video_title": "東京三日散步日記 ☕️ 下北澤、美術館、咖啡廳…還準備了禮物送你們 ｜Tokyo travel diary ☕️ coffee shops, Shimokitazawa & gifts for you",
       "video_url": "https://www.youtube.com/watch?v=RCheXgDuXCk",
-      "published": "12 天前",
-      "views": "觀看次數：1.2萬次",
+      "published": "1 個月前",
+      "views": "觀看次數：1.8萬次",
       "channel_name": "Celia Ting",
       "name": "Hekkelun",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Hekkelun%20Japan%2C%20%E3%80%92105-0003%20Tokyo%2C%20Minato%20City%2C%20Nishishinbashi%2C%201%20Chome%E2%88%9220%E2%88%9211%20%E5%AE%89%E8%97%A4%E3%83%93%E3%83%AB%201F",
@@ -79,14 +192,15 @@
       "chapter_title": "",
       "source_review": "three slow days in tokyo ☕️ cafe hopping, shimokitazawa walks, museums, quiet moments… and a little giveaway for you at the end 🎁 hope this vlog feels like a small escape for anyone who needs it lately. - - 描述欄或章節將「Hekkelun」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Hekkelun」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Hekkelun」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Hekkelun」列為本集出現的店家或地點。"
     },
     {
       "video_id": "RCheXgDuXCk",
       "video_title": "東京三日散步日記 ☕️ 下北澤、美術館、咖啡廳…還準備了禮物送你們 ｜Tokyo travel diary ☕️ coffee shops, Shimokitazawa & gifts for you",
       "video_url": "https://www.youtube.com/watch?v=RCheXgDuXCk",
-      "published": "12 天前",
-      "views": "觀看次數：1.2萬次",
+      "published": "1 個月前",
+      "views": "觀看次數：1.8萬次",
       "channel_name": "Celia Ting",
       "name": "SHOGUN PIZZA 渋谷店",
       "map_url": "https://www.google.com/maps/search/?api=1&query=SHOGUN%20PIZZA%20%E6%B8%8B%E8%B0%B7%E5%BA%97%20Japan%2C%20%E3%80%92150-0042%20Tokyo%2C%20Shibuya%2C%20Udagawacho%2C%2013%E2%88%924%20%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3%E5%9D%82OK%E3%83%93%E3%83%AB%20%EF%BC%91F",
@@ -98,14 +212,15 @@
       "chapter_title": "",
       "source_review": "three slow days in tokyo ☕️ cafe hopping, shimokitazawa walks, museums, quiet moments… and a little giveaway for you at the end 🎁 hope this vlog feels like a small escape for anyone who needs it lately. - - 描述欄或章節將「SHOGUN PIZZA 渋谷店」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「SHOGUN PIZZA 渋谷店」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「SHOGUN PIZZA 渋谷店」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「SHOGUN PIZZA 渋谷店」列為本集出現的店家或地點。"
     },
     {
       "video_id": "RCheXgDuXCk",
       "video_title": "東京三日散步日記 ☕️ 下北澤、美術館、咖啡廳…還準備了禮物送你們 ｜Tokyo travel diary ☕️ coffee shops, Shimokitazawa & gifts for you",
       "video_url": "https://www.youtube.com/watch?v=RCheXgDuXCk",
-      "published": "12 天前",
-      "views": "觀看次數：1.2萬次",
+      "published": "1 個月前",
+      "views": "觀看次數：1.8萬次",
       "channel_name": "Celia Ting",
       "name": "mont-bell Shibuya",
       "map_url": "https://www.google.com/maps/search/?api=1&query=mont-bell%20Shibuya%20Mont-bell%20Shibuya%20Bldg.%2C%2011-5%20Udagawacho%2C%20Shibuya%2C%20Tokyo%20150-0042%2C%20Japan",
@@ -117,14 +232,15 @@
       "chapter_title": "",
       "source_review": "three slow days in tokyo ☕️ cafe hopping, shimokitazawa walks, museums, quiet moments… and a little giveaway for you at the end 🎁 hope this vlog feels like a small escape for anyone who needs it lately. - - 描述欄或章節將「mont-bell Shibuya」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「mont-bell Shibuya」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「mont-bell Shibuya」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「mont-bell Shibuya」列為本集出現的店家或地點。"
     },
     {
       "video_id": "RCheXgDuXCk",
       "video_title": "東京三日散步日記 ☕️ 下北澤、美術館、咖啡廳…還準備了禮物送你們 ｜Tokyo travel diary ☕️ coffee shops, Shimokitazawa & gifts for you",
       "video_url": "https://www.youtube.com/watch?v=RCheXgDuXCk",
-      "published": "12 天前",
-      "views": "觀看次數：1.2萬次",
+      "published": "1 個月前",
+      "views": "觀看次數：1.8萬次",
       "channel_name": "Celia Ting",
       "name": "Mermaid Coffee Roasters Ikebukuro",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Mermaid%20Coffee%20Roasters%20Ikebukuro%20Japan%2C%20%E3%80%92170-0013%20Tokyo%2C%20Toshima%20City%2C%20Higashiikebukuro%2C%201%20Chome%E2%88%9223%E2%88%924%20%E6%B1%A0%E8%A2%8B%E3%83%93%E3%83%AB",
@@ -136,14 +252,15 @@
       "chapter_title": "",
       "source_review": "three slow days in tokyo ☕️ cafe hopping, shimokitazawa walks, museums, quiet moments… and a little giveaway for you at the end 🎁 hope this vlog feels like a small escape for anyone who needs it lately. - - 描述欄或章節將「Mermaid Coffee Roasters Ikebukuro」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Mermaid Coffee Roasters Ikebukuro」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Mermaid Coffee Roasters Ikebukuro」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Mermaid Coffee Roasters Ikebukuro」列為本集出現的店家或地點。"
     },
     {
       "video_id": "RCheXgDuXCk",
       "video_title": "東京三日散步日記 ☕️ 下北澤、美術館、咖啡廳…還準備了禮物送你們 ｜Tokyo travel diary ☕️ coffee shops, Shimokitazawa & gifts for you",
       "video_url": "https://www.youtube.com/watch?v=RCheXgDuXCk",
-      "published": "12 天前",
-      "views": "觀看次數：1.2萬次",
+      "published": "1 個月前",
+      "views": "觀看次數：1.8萬次",
       "channel_name": "Celia Ting",
       "name": "Desk Labo",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Desk%20Labo%203%20Chome-19-20%20Kitazawa%2C%20Setagaya%20City%2C%20Tokyo%20155-0031%2C%20Japan",
@@ -155,14 +272,15 @@
       "chapter_title": "",
       "source_review": "three slow days in tokyo ☕️ cafe hopping, shimokitazawa walks, museums, quiet moments… and a little giveaway for you at the end 🎁 hope this vlog feels like a small escape for anyone who needs it lately. - - 描述欄或章節將「Desk Labo」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Desk Labo」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Desk Labo」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Desk Labo」列為本集出現的店家或地點。"
     },
     {
       "video_id": "BOco6BIqwcc",
       "video_title": "陪我在台北大同區跑咖 ☕️ 回家做爆紅甜點＆回答你們的問題 | a slow day in taipei 🤍",
       "video_url": "https://www.youtube.com/watch?v=BOco6BIqwcc",
       "published": "1 個月前",
-      "views": "觀看次數：4286次",
+      "views": "觀看次數：4410次",
       "channel_name": "Celia Ting",
       "name": "messy mark",
       "map_url": "https://www.google.com/maps/search/?api=1&query=messy%20mark%20%E9%99%AA%E6%88%91%E5%9C%A8%E5%8F%B0%E5%8C%97%E5%A4%A7%E5%90%8C%E5%8D%80%E8%B7%91%E5%92%96%20%E2%98%95%EF%B8%8F%20%E5%9B%9E%E5%AE%B6%E5%81%9A%E7%88%86%E7%B4%85%E7%94%9C%E9%BB%9E%EF%BC%86%E5%9B%9E%E7%AD%94%E4%BD%A0%E5%80%91%E7%9A%84%E5%95%8F%E9%A1%8C%20a%20slow%20day%20in%20taipei%20%F0%9F%A4%8D",
@@ -174,14 +292,15 @@
       "chapter_title": "Café hopping - messy mark, COFE, & Pallas Cafe",
       "source_review": "Spend a slow day with me in Taipei ☕ cafe hopping in Datong, trying viral recipes at home, and answering your questions. - - 描述欄或章節將「messy mark」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 messy mark、COFE、Pallas Cafe 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「messy mark」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 messy mark、COFE、Pallas Cafe 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「messy mark」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 messy mark、COFE、Pallas Cafe 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「messy mark」列為本集出現的店家或地點。"
     },
     {
       "video_id": "BOco6BIqwcc",
       "video_title": "陪我在台北大同區跑咖 ☕️ 回家做爆紅甜點＆回答你們的問題 | a slow day in taipei 🤍",
       "video_url": "https://www.youtube.com/watch?v=BOco6BIqwcc",
       "published": "1 個月前",
-      "views": "觀看次數：4286次",
+      "views": "觀看次數：4410次",
       "channel_name": "Celia Ting",
       "name": "COFE",
       "map_url": "https://www.google.com/maps/search/?api=1&query=COFE%20%E9%99%AA%E6%88%91%E5%9C%A8%E5%8F%B0%E5%8C%97%E5%A4%A7%E5%90%8C%E5%8D%80%E8%B7%91%E5%92%96%20%E2%98%95%EF%B8%8F%20%E5%9B%9E%E5%AE%B6%E5%81%9A%E7%88%86%E7%B4%85%E7%94%9C%E9%BB%9E%EF%BC%86%E5%9B%9E%E7%AD%94%E4%BD%A0%E5%80%91%E7%9A%84%E5%95%8F%E9%A1%8C%20a%20slow%20day%20in%20taipei%20%F0%9F%A4%8D",
@@ -193,14 +312,15 @@
       "chapter_title": "Café hopping - messy mark, COFE, & Pallas Cafe",
       "source_review": "Spend a slow day with me in Taipei ☕ cafe hopping in Datong, trying viral recipes at home, and answering your questions. - - 描述欄或章節將「COFE」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 messy mark、COFE、Pallas Cafe 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「COFE」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 messy mark、COFE、Pallas Cafe 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「COFE」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 messy mark、COFE、Pallas Cafe 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「COFE」列為本集出現的店家或地點。"
     },
     {
       "video_id": "BOco6BIqwcc",
       "video_title": "陪我在台北大同區跑咖 ☕️ 回家做爆紅甜點＆回答你們的問題 | a slow day in taipei 🤍",
       "video_url": "https://www.youtube.com/watch?v=BOco6BIqwcc",
       "published": "1 個月前",
-      "views": "觀看次數：4286次",
+      "views": "觀看次數：4410次",
       "channel_name": "Celia Ting",
       "name": "Pallas Cafe",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Pallas%20Cafe%20%E9%99%AA%E6%88%91%E5%9C%A8%E5%8F%B0%E5%8C%97%E5%A4%A7%E5%90%8C%E5%8D%80%E8%B7%91%E5%92%96%20%E2%98%95%EF%B8%8F%20%E5%9B%9E%E5%AE%B6%E5%81%9A%E7%88%86%E7%B4%85%E7%94%9C%E9%BB%9E%EF%BC%86%E5%9B%9E%E7%AD%94%E4%BD%A0%E5%80%91%E7%9A%84%E5%95%8F%E9%A1%8C%20a%20slow%20day%20in%20taipei%20%F0%9F%A4%8D",
@@ -212,14 +332,15 @@
       "chapter_title": "Café hopping - messy mark, COFE, & Pallas Cafe",
       "source_review": "Spend a slow day with me in Taipei ☕ cafe hopping in Datong, trying viral recipes at home, and answering your questions. - - 描述欄或章節將「Pallas Cafe」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 messy mark、COFE、Pallas Cafe 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Pallas Cafe」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 messy mark、COFE、Pallas Cafe 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Pallas Cafe」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 messy mark、COFE、Pallas Cafe 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Pallas Cafe」列為本集出現的店家或地點。"
     },
     {
       "video_id": "QSOtd_h1YwA",
       "video_title": "沒有行程的三天連假 ☕️ 只是一直喝咖啡、亂晃、和踩了雷 (?) | no plans, just coffee. a slow & cozy long weekend",
       "video_url": "https://www.youtube.com/watch?v=QSOtd_h1YwA",
-      "published": "1 個月前",
-      "views": "觀看次數：7262次",
+      "published": "2 個月前",
+      "views": "觀看次數：7382次",
       "channel_name": "Celia Ting",
       "name": "KiOSK",
       "map_url": "https://www.google.com/maps/search/?api=1&query=KiOSK%20%E6%B2%92%E6%9C%89%E8%A1%8C%E7%A8%8B%E7%9A%84%E4%B8%89%E5%A4%A9%E9%80%A3%E5%81%87%20%E2%98%95%EF%B8%8F%20%E5%8F%AA%E6%98%AF%E4%B8%80%E7%9B%B4%E5%96%9D%E5%92%96%E5%95%A1%E3%80%81%E4%BA%82%E6%99%83%E3%80%81%E5%92%8C%E8%B8%A9%E4%BA%86%E9%9B%B7%20(%3F)%20no%20plans%2C%20just%20coffee.%20a%20slow%20%26%20cozy%20long%20weeke",
@@ -231,14 +352,15 @@
       "chapter_title": "Day1 - biking, KiOSK",
       "source_review": "A slow 3-day long weekend with no plans ☕️ Just coffee, quiet mornings, walking around Taipei, and a few small moments I really enjoyed. - - 描述欄或章節將「KiOSK」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「KiOSK」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「KiOSK」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「KiOSK」列為本集出現的店家或地點。"
     },
     {
       "video_id": "QSOtd_h1YwA",
       "video_title": "沒有行程的三天連假 ☕️ 只是一直喝咖啡、亂晃、和踩了雷 (?) | no plans, just coffee. a slow & cozy long weekend",
       "video_url": "https://www.youtube.com/watch?v=QSOtd_h1YwA",
-      "published": "1 個月前",
-      "views": "觀看次數：7262次",
+      "published": "2 個月前",
+      "views": "觀看次數：7382次",
       "channel_name": "Celia Ting",
       "name": "排骨湯。高麗菜飯",
       "map_url": "https://www.google.com/maps/search/?api=1&query=%E6%8E%92%E9%AA%A8%E6%B9%AF%E3%80%82%E9%AB%98%E9%BA%97%E8%8F%9C%E9%A3%AF%20%E6%B2%92%E6%9C%89%E8%A1%8C%E7%A8%8B%E7%9A%84%E4%B8%89%E5%A4%A9%E9%80%A3%E5%81%87%20%E2%98%95%EF%B8%8F%20%E5%8F%AA%E6%98%AF%E4%B8%80%E7%9B%B4%E5%96%9D%E5%92%96%E5%95%A1%E3%80%81%E4%BA%82%E6%99%83%E3%80%81%E5%92%8C%E8%B8%A9%E4%BA%86%E9%9B%B7%20(%3F)%20no%20plans%2C%20just%20coffee.%20a%20slow%20%26%20cozy%20long%20weeke",
@@ -250,14 +372,15 @@
       "chapter_title": "Day2 - home café, 排骨湯。高麗菜飯, Coffee Moon",
       "source_review": "A slow 3-day long weekend with no plans ☕️ Just coffee, quiet mornings, walking around Taipei, and a few small moments I really enjoyed. - - 描述欄或章節將「排骨湯。高麗菜飯」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「排骨湯。高麗菜飯」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「排骨湯。高麗菜飯」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「排骨湯。高麗菜飯」列為本集出現的店家或地點。"
     },
     {
       "video_id": "QSOtd_h1YwA",
       "video_title": "沒有行程的三天連假 ☕️ 只是一直喝咖啡、亂晃、和踩了雷 (?) | no plans, just coffee. a slow & cozy long weekend",
       "video_url": "https://www.youtube.com/watch?v=QSOtd_h1YwA",
-      "published": "1 個月前",
-      "views": "觀看次數：7262次",
+      "published": "2 個月前",
+      "views": "觀看次數：7382次",
       "channel_name": "Celia Ting",
       "name": "Coffee Moon",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Coffee%20Moon%20%E6%B2%92%E6%9C%89%E8%A1%8C%E7%A8%8B%E7%9A%84%E4%B8%89%E5%A4%A9%E9%80%A3%E5%81%87%20%E2%98%95%EF%B8%8F%20%E5%8F%AA%E6%98%AF%E4%B8%80%E7%9B%B4%E5%96%9D%E5%92%96%E5%95%A1%E3%80%81%E4%BA%82%E6%99%83%E3%80%81%E5%92%8C%E8%B8%A9%E4%BA%86%E9%9B%B7%20(%3F)%20no%20plans%2C%20just%20coffee.%20a%20slow%20%26%20cozy%20long%20weeke",
@@ -269,14 +392,15 @@
       "chapter_title": "Day2 - home café, 排骨湯。高麗菜飯, Coffee Moon",
       "source_review": "A slow 3-day long weekend with no plans ☕️ Just coffee, quiet mornings, walking around Taipei, and a few small moments I really enjoyed. - - 描述欄或章節將「Coffee Moon」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「Coffee Moon」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「Coffee Moon」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「Coffee Moon」列為本集出現的店家或地點。"
     },
     {
       "video_id": "QSOtd_h1YwA",
       "video_title": "沒有行程的三天連假 ☕️ 只是一直喝咖啡、亂晃、和踩了雷 (?) | no plans, just coffee. a slow & cozy long weekend",
       "video_url": "https://www.youtube.com/watch?v=QSOtd_h1YwA",
-      "published": "1 個月前",
-      "views": "觀看次數：7262次",
+      "published": "2 個月前",
+      "views": "觀看次數：7382次",
       "channel_name": "Celia Ting",
       "name": "French Twist Bakery",
       "map_url": "https://www.google.com/maps/search/?api=1&query=French%20Twist%20Bakery%20%E6%B2%92%E6%9C%89%E8%A1%8C%E7%A8%8B%E7%9A%84%E4%B8%89%E5%A4%A9%E9%80%A3%E5%81%87%20%E2%98%95%EF%B8%8F%20%E5%8F%AA%E6%98%AF%E4%B8%80%E7%9B%B4%E5%96%9D%E5%92%96%E5%95%A1%E3%80%81%E4%BA%82%E6%99%83%E3%80%81%E5%92%8C%E8%B8%A9%E4%BA%86%E9%9B%B7%20(%3F)%20no%20plans%2C%20just%20coffee.%20a%20slow%20%26%20cozy%20long%20weeke",
@@ -288,14 +412,15 @@
       "chapter_title": "Day3 - French Twist Bakery, yokoso Coffee Stand, 阿國切仔麵, 中山誠品商圈",
       "source_review": "A slow 3-day long weekend with no plans ☕️ Just coffee, quiet mornings, walking around Taipei, and a few small moments I really enjoyed. - - 描述欄或章節將「French Twist Bakery」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「French Twist Bakery」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「French Twist Bakery」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「French Twist Bakery」列為本集出現的店家或地點。"
     },
     {
       "video_id": "QSOtd_h1YwA",
       "video_title": "沒有行程的三天連假 ☕️ 只是一直喝咖啡、亂晃、和踩了雷 (?) | no plans, just coffee. a slow & cozy long weekend",
       "video_url": "https://www.youtube.com/watch?v=QSOtd_h1YwA",
-      "published": "1 個月前",
-      "views": "觀看次數：7262次",
+      "published": "2 個月前",
+      "views": "觀看次數：7382次",
       "channel_name": "Celia Ting",
       "name": "yokoso Coffee Stand",
       "map_url": "https://www.google.com/maps/search/?api=1&query=yokoso%20Coffee%20Stand%20%E6%B2%92%E6%9C%89%E8%A1%8C%E7%A8%8B%E7%9A%84%E4%B8%89%E5%A4%A9%E9%80%A3%E5%81%87%20%E2%98%95%EF%B8%8F%20%E5%8F%AA%E6%98%AF%E4%B8%80%E7%9B%B4%E5%96%9D%E5%92%96%E5%95%A1%E3%80%81%E4%BA%82%E6%99%83%E3%80%81%E5%92%8C%E8%B8%A9%E4%BA%86%E9%9B%B7%20(%3F)%20no%20plans%2C%20just%20coffee.%20a%20slow%20%26%20cozy%20long%20weeke",
@@ -307,14 +432,15 @@
       "chapter_title": "Day3 - French Twist Bakery, yokoso Coffee Stand, 阿國切仔麵, 中山誠品商圈",
       "source_review": "A slow 3-day long weekend with no plans ☕️ Just coffee, quiet mornings, walking around Taipei, and a few small moments I really enjoyed. - - 描述欄或章節將「yokoso Coffee Stand」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「yokoso Coffee Stand」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「yokoso Coffee Stand」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「yokoso Coffee Stand」列為本集出現的店家或地點。"
     },
     {
       "video_id": "QSOtd_h1YwA",
       "video_title": "沒有行程的三天連假 ☕️ 只是一直喝咖啡、亂晃、和踩了雷 (?) | no plans, just coffee. a slow & cozy long weekend",
       "video_url": "https://www.youtube.com/watch?v=QSOtd_h1YwA",
-      "published": "1 個月前",
-      "views": "觀看次數：7262次",
+      "published": "2 個月前",
+      "views": "觀看次數：7382次",
       "channel_name": "Celia Ting",
       "name": "阿國切仔麵",
       "map_url": "https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E5%9C%8B%E5%88%87%E4%BB%94%E9%BA%B5%20%E6%B2%92%E6%9C%89%E8%A1%8C%E7%A8%8B%E7%9A%84%E4%B8%89%E5%A4%A9%E9%80%A3%E5%81%87%20%E2%98%95%EF%B8%8F%20%E5%8F%AA%E6%98%AF%E4%B8%80%E7%9B%B4%E5%96%9D%E5%92%96%E5%95%A1%E3%80%81%E4%BA%82%E6%99%83%E3%80%81%E5%92%8C%E8%B8%A9%E4%BA%86%E9%9B%B7%20(%3F)%20no%20plans%2C%20just%20coffee.%20a%20slow%20%26%20cozy%20long%20weeke",
@@ -326,14 +452,15 @@
       "chapter_title": "Day3 - French Twist Bakery, yokoso Coffee Stand, 阿國切仔麵, 中山誠品商圈",
       "source_review": "A slow 3-day long weekend with no plans ☕️ Just coffee, quiet mornings, walking around Taipei, and a few small moments I really enjoyed. - - 描述欄或章節將「阿國切仔麵」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「阿國切仔麵」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「阿國切仔麵」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「阿國切仔麵」列為本集出現的店家或地點。"
     },
     {
       "video_id": "QSOtd_h1YwA",
       "video_title": "沒有行程的三天連假 ☕️ 只是一直喝咖啡、亂晃、和踩了雷 (?) | no plans, just coffee. a slow & cozy long weekend",
       "video_url": "https://www.youtube.com/watch?v=QSOtd_h1YwA",
-      "published": "1 個月前",
-      "views": "觀看次數：7262次",
+      "published": "2 個月前",
+      "views": "觀看次數：7382次",
       "channel_name": "Celia Ting",
       "name": "中山誠品商圈",
       "map_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%B1%B1%E8%AA%A0%E5%93%81%E5%95%86%E5%9C%88%20%E6%B2%92%E6%9C%89%E8%A1%8C%E7%A8%8B%E7%9A%84%E4%B8%89%E5%A4%A9%E9%80%A3%E5%81%87%20%E2%98%95%EF%B8%8F%20%E5%8F%AA%E6%98%AF%E4%B8%80%E7%9B%B4%E5%96%9D%E5%92%96%E5%95%A1%E3%80%81%E4%BA%82%E6%99%83%E3%80%81%E5%92%8C%E8%B8%A9%E4%BA%86%E9%9B%B7%20(%3F)%20no%20plans%2C%20just%20coffee.%20a%20slow%20%26%20cozy%20long%20weeke",
@@ -345,7 +472,8 @@
       "chapter_title": "Day3 - French Twist Bakery, yokoso Coffee Stand, 阿國切仔麵, 中山誠品商圈",
       "source_review": "A slow 3-day long weekend with no plans ☕️ Just coffee, quiet mornings, walking around Taipei, and a few small moments I really enjoyed. - - 描述欄或章節將「中山誠品商圈」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「中山誠品商圈」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「中山誠品商圈」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「中山誠品商圈」列為本集出現的店家或地點。"
     },
     {
       "video_id": "ZqmGEXob_fs",
@@ -364,7 +492,8 @@
       "chapter_title": "",
       "source_review": "A quick solo day trip to Hong Kong. Café hopping, bakery stops, and slow walks around Central. One short day… and somehow I managed to break my iPhone along the way. - - 描述欄或章節將「一樂燒鵝 / Yat Lok Restaurant」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 一樂燒鵝 / Yat Lok Restaurant、檸檬王 / Lemon King、Kactus Koffee (Sheung Wan)、Halfway Coffee 等店家列入香港中環、上環一日咖啡與麵包散步路線，適合作為快閃香港參考。 描述欄或章節將「一樂燒鵝 / Yat Lok Restaurant」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 一樂燒鵝 / Yat Lok Restaurant、檸檬王 / Lemon King、Kactus Koffee (Sheung Wan)、Halfway Coffee 等店家列入香港中環、上環一日咖啡與麵包散步路線，適合作為快閃香港參考。 描述欄或章節將「一樂燒鵝 / Yat Lok Restaurant」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 一樂燒鵝 / Yat Lok Restaurant、檸檬王 / Lemon King、Kactus Koffee (Sheung Wan)、Halfway Coffee 等店家列入香港中環、上環一日咖啡與麵包散步路線，適合作為快閃香港參考。 描述欄或章節將「一樂燒鵝 / Yat Lok Restaurant」列為本集出現的店家或地點。"
     },
     {
       "video_id": "ZqmGEXob_fs",
@@ -383,7 +512,8 @@
       "chapter_title": "",
       "source_review": "A quick solo day trip to Hong Kong. Café hopping, bakery stops, and slow walks around Central. One short day… and somehow I managed to break my iPhone along the way. - - 描述欄或章節將「檸檬王 / Lemon King」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 一樂燒鵝 / Yat Lok Restaurant、檸檬王 / Lemon King、Kactus Koffee (Sheung Wan)、Halfway Coffee 等店家列入香港中環、上環一日咖啡與麵包散步路線，適合作為快閃香港參考。 描述欄或章節將「檸檬王 / Lemon King」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 一樂燒鵝 / Yat Lok Restaurant、檸檬王 / Lemon King、Kactus Koffee (Sheung Wan)、Halfway Coffee 等店家列入香港中環、上環一日咖啡與麵包散步路線，適合作為快閃香港參考。 描述欄或章節將「檸檬王 / Lemon King」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 一樂燒鵝 / Yat Lok Restaurant、檸檬王 / Lemon King、Kactus Koffee (Sheung Wan)、Halfway Coffee 等店家列入香港中環、上環一日咖啡與麵包散步路線，適合作為快閃香港參考。 描述欄或章節將「檸檬王 / Lemon King」列為本集出現的店家或地點。"
     },
     {
       "video_id": "ZqmGEXob_fs",
@@ -402,7 +532,8 @@
       "chapter_title": "",
       "source_review": "A quick solo day trip to Hong Kong. Café hopping, bakery stops, and slow walks around Central. One short day… and somehow I managed to break my iPhone along the way. - - 描述欄或章節將「Kactus Koffee (Sheung Wan)」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 一樂燒鵝 / Yat Lok Restaurant、檸檬王 / Lemon King、Kactus Koffee (Sheung Wan)、Halfway Coffee 等店家列入香港中環、上環一日咖啡與麵包散步路線，適合作為快閃香港參考。 描述欄或章節將「Kactus Koffee (Sheung Wan)」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 一樂燒鵝 / Yat Lok Restaurant、檸檬王 / Lemon King、Kactus Koffee (Sheung Wan)、Halfway Coffee 等店家列入香港中環、上環一日咖啡與麵包散步路線，適合作為快閃香港參考。 描述欄或章節將「Kactus Koffee (Sheung Wan)」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 一樂燒鵝 / Yat Lok Restaurant、檸檬王 / Lemon King、Kactus Koffee (Sheung Wan)、Halfway Coffee 等店家列入香港中環、上環一日咖啡與麵包散步路線，適合作為快閃香港參考。 描述欄或章節將「Kactus Koffee (Sheung Wan)」列為本集出現的店家或地點。"
     },
     {
       "video_id": "ZqmGEXob_fs",
@@ -421,7 +552,8 @@
       "chapter_title": "",
       "source_review": "A quick solo day trip to Hong Kong. Café hopping, bakery stops, and slow walks around Central. One short day… and somehow I managed to break my iPhone along the way. - - 描述欄或章節將「Halfway Coffee」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 一樂燒鵝 / Yat Lok Restaurant、檸檬王 / Lemon King、Kactus Koffee (Sheung Wan)、Halfway Coffee 等店家列入香港中環、上環一日咖啡與麵包散步路線，適合作為快閃香港參考。 描述欄或章節將「Halfway Coffee」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 一樂燒鵝 / Yat Lok Restaurant、檸檬王 / Lemon King、Kactus Koffee (Sheung Wan)、Halfway Coffee 等店家列入香港中環、上環一日咖啡與麵包散步路線，適合作為快閃香港參考。 描述欄或章節將「Halfway Coffee」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 一樂燒鵝 / Yat Lok Restaurant、檸檬王 / Lemon King、Kactus Koffee (Sheung Wan)、Halfway Coffee 等店家列入香港中環、上環一日咖啡與麵包散步路線，適合作為快閃香港參考。 描述欄或章節將「Halfway Coffee」列為本集出現的店家或地點。"
     },
     {
       "video_id": "ZqmGEXob_fs",
@@ -440,7 +572,8 @@
       "chapter_title": "",
       "source_review": "A quick solo day trip to Hong Kong. Café hopping, bakery stops, and slow walks around Central. One short day… and somehow I managed to break my iPhone along the way. - - 描述欄或章節將「生昌焙豆 (中環) / Sang Roastery (Central)」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 一樂燒鵝 / Yat Lok Restaurant、檸檬王 / Lemon King、Kactus Koffee (Sheung Wan)、Halfway Coffee 等店家列入香港中環、上環一日咖啡與麵包散步路線，適合作為快閃香港參考。 描述欄或章節將「生昌焙豆 (中環) / Sang Roastery (Central)」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 一樂燒鵝 / Yat Lok Restaurant、檸檬王 / Lemon King、Kactus Koffee (Sheung Wan)、Halfway Coffee 等店家列入香港中環、上環一日咖啡與麵包散步路線，適合作為快閃香港參考。 描述欄或章節將「生昌焙豆 (中環) / Sang Roastery (Central)」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 一樂燒鵝 / Yat Lok Restaurant、檸檬王 / Lemon King、Kactus Koffee (Sheung Wan)、Halfway Coffee 等店家列入香港中環、上環一日咖啡與麵包散步路線，適合作為快閃香港參考。 描述欄或章節將「生昌焙豆 (中環) / Sang Roastery (Central)」列為本集出現的店家或地點。"
     },
     {
       "video_id": "ZqmGEXob_fs",
@@ -459,7 +592,8 @@
       "chapter_title": "",
       "source_review": "A quick solo day trip to Hong Kong. Café hopping, bakery stops, and slow walks around Central. One short day… and somehow I managed to break my iPhone along the way. - - 描述欄或章節將「Bakehouse」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 一樂燒鵝 / Yat Lok Restaurant、檸檬王 / Lemon King、Kactus Koffee (Sheung Wan)、Halfway Coffee 等店家列入香港中環、上環一日咖啡與麵包散步路線，適合作為快閃香港參考。 描述欄或章節將「Bakehouse」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 一樂燒鵝 / Yat Lok Restaurant、檸檬王 / Lemon King、Kactus Koffee (Sheung Wan)、Halfway Coffee 等店家列入香港中環、上環一日咖啡與麵包散步路線，適合作為快閃香港參考。 描述欄或章節將「Bakehouse」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 一樂燒鵝 / Yat Lok Restaurant、檸檬王 / Lemon King、Kactus Koffee (Sheung Wan)、Halfway Coffee 等店家列入香港中環、上環一日咖啡與麵包散步路線，適合作為快閃香港參考。 描述欄或章節將「Bakehouse」列為本集出現的店家或地點。"
     },
     {
       "video_id": "ZqmGEXob_fs",
@@ -478,13 +612,14 @@
       "chapter_title": "",
       "source_review": "A quick solo day trip to Hong Kong. Café hopping, bakery stops, and slow walks around Central. One short day… and somehow I managed to break my iPhone along the way. - - 描述欄或章節將「Vision Bakery」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 一樂燒鵝 / Yat Lok Restaurant、檸檬王 / Lemon King、Kactus Koffee (Sheung Wan)、Halfway Coffee 等店家列入香港中環、上環一日咖啡與麵包散步路線，適合作為快閃香港參考。 描述欄或章節將「Vision Bakery」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 一樂燒鵝 / Yat Lok Restaurant、檸檬王 / Lemon King、Kactus Koffee (Sheung Wan)、Halfway Coffee 等店家列入香港中環、上環一日咖啡與麵包散步路線，適合作為快閃香港參考。 描述欄或章節將「Vision Bakery」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 一樂燒鵝 / Yat Lok Restaurant、檸檬王 / Lemon King、Kactus Koffee (Sheung Wan)、Halfway Coffee 等店家列入香港中環、上環一日咖啡與麵包散步路線，適合作為快閃香港參考。 描述欄或章節將「Vision Bakery」列為本集出現的店家或地點。"
     },
     {
       "video_id": "w87nLAk6Pck",
       "video_title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
       "video_url": "https://www.youtube.com/watch?v=w87nLAk6Pck",
-      "published": "4 個月前",
+      "published": "5 個月前",
       "views": "觀看次數：1萬次",
       "channel_name": "Celia Ting",
       "name": "Paddlers Coffee",
@@ -497,13 +632,14 @@
       "chapter_title": "",
       "source_review": "72 hours in Tokyo, spent almost entirely café hopping. In this video, I visited 10+ cafés across the city — from quiet neighborhood spots to beautifully designed spaces I’d genuinely return to. Along the way, I tried some unexpectedly good drinks too, like col 描述欄或章節將「Paddlers Coffee」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Paddlers Coffee」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Paddlers Coffee」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Paddlers Coffee」列為本集出現的店家或地點。"
     },
     {
       "video_id": "w87nLAk6Pck",
       "video_title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
       "video_url": "https://www.youtube.com/watch?v=w87nLAk6Pck",
-      "published": "4 個月前",
+      "published": "5 個月前",
       "views": "觀看次數：1萬次",
       "channel_name": "Celia Ting",
       "name": "kasiki",
@@ -516,13 +652,14 @@
       "chapter_title": "",
       "source_review": "72 hours in Tokyo, spent almost entirely café hopping. In this video, I visited 10+ cafés across the city — from quiet neighborhood spots to beautifully designed spaces I’d genuinely return to. Along the way, I tried some unexpectedly good drinks too, like col 描述欄或章節將「kasiki」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「kasiki」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「kasiki」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「kasiki」列為本集出現的店家或地點。"
     },
     {
       "video_id": "w87nLAk6Pck",
       "video_title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
       "video_url": "https://www.youtube.com/watch?v=w87nLAk6Pck",
-      "published": "4 個月前",
+      "published": "5 個月前",
       "views": "觀看次數：1萬次",
       "channel_name": "Celia Ting",
       "name": "nadoya no katte",
@@ -535,13 +672,14 @@
       "chapter_title": "",
       "source_review": "72 hours in Tokyo, spent almost entirely café hopping. In this video, I visited 10+ cafés across the city — from quiet neighborhood spots to beautifully designed spaces I’d genuinely return to. Along the way, I tried some unexpectedly good drinks too, like col 描述欄或章節將「nadoya no katte」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「nadoya no katte」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「nadoya no katte」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「nadoya no katte」列為本集出現的店家或地點。"
     },
     {
       "video_id": "w87nLAk6Pck",
       "video_title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
       "video_url": "https://www.youtube.com/watch?v=w87nLAk6Pck",
-      "published": "4 個月前",
+      "published": "5 個月前",
       "views": "觀看次數：1萬次",
       "channel_name": "Celia Ting",
       "name": "Alpha Beta Coffee Club",
@@ -554,13 +692,14 @@
       "chapter_title": "",
       "source_review": "72 hours in Tokyo, spent almost entirely café hopping. In this video, I visited 10+ cafés across the city — from quiet neighborhood spots to beautifully designed spaces I’d genuinely return to. Along the way, I tried some unexpectedly good drinks too, like col 描述欄或章節將「Alpha Beta Coffee Club」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Alpha Beta Coffee Club」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Alpha Beta Coffee Club」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Alpha Beta Coffee Club」列為本集出現的店家或地點。"
     },
     {
       "video_id": "w87nLAk6Pck",
       "video_title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
       "video_url": "https://www.youtube.com/watch?v=w87nLAk6Pck",
-      "published": "4 個月前",
+      "published": "5 個月前",
       "views": "觀看次數：1萬次",
       "channel_name": "Celia Ting",
       "name": "TODAY'S SPECIAL 自由が丘店",
@@ -573,13 +712,14 @@
       "chapter_title": "",
       "source_review": "72 hours in Tokyo, spent almost entirely café hopping. In this video, I visited 10+ cafés across the city — from quiet neighborhood spots to beautifully designed spaces I’d genuinely return to. Along the way, I tried some unexpectedly good drinks too, like col 描述欄或章節將「TODAY'S SPECIAL 自由が丘店」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「TODAY'S SPECIAL 自由が丘店」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「TODAY'S SPECIAL 自由が丘店」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「TODAY'S SPECIAL 自由が丘店」列為本集出現的店家或地點。"
     },
     {
       "video_id": "w87nLAk6Pck",
       "video_title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
       "video_url": "https://www.youtube.com/watch?v=w87nLAk6Pck",
-      "published": "4 個月前",
+      "published": "5 個月前",
       "views": "觀看次數：1萬次",
       "channel_name": "Celia Ting",
       "name": "DULTON 自由が丘店",
@@ -592,13 +732,14 @@
       "chapter_title": "",
       "source_review": "72 hours in Tokyo, spent almost entirely café hopping. In this video, I visited 10+ cafés across the city — from quiet neighborhood spots to beautifully designed spaces I’d genuinely return to. Along the way, I tried some unexpectedly good drinks too, like col 描述欄或章節將「DULTON 自由が丘店」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「DULTON 自由が丘店」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「DULTON 自由が丘店」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「DULTON 自由が丘店」列為本集出現的店家或地點。"
     },
     {
       "video_id": "w87nLAk6Pck",
       "video_title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
       "video_url": "https://www.youtube.com/watch?v=w87nLAk6Pck",
-      "published": "4 個月前",
+      "published": "5 個月前",
       "views": "觀看次數：1萬次",
       "channel_name": "Celia Ting",
       "name": "WeLoveDonut 自由が丘",
@@ -611,13 +752,14 @@
       "chapter_title": "",
       "source_review": "72 hours in Tokyo, spent almost entirely café hopping. In this video, I visited 10+ cafés across the city — from quiet neighborhood spots to beautifully designed spaces I’d genuinely return to. Along the way, I tried some unexpectedly good drinks too, like col 描述欄或章節將「WeLoveDonut 自由が丘」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「WeLoveDonut 自由が丘」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「WeLoveDonut 自由が丘」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「WeLoveDonut 自由が丘」列為本集出現的店家或地點。"
     },
     {
       "video_id": "w87nLAk6Pck",
       "video_title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
       "video_url": "https://www.youtube.com/watch?v=w87nLAk6Pck",
-      "published": "4 個月前",
+      "published": "5 個月前",
       "views": "觀看次數：1萬次",
       "channel_name": "Celia Ting",
       "name": "X coffee GINZA",
@@ -630,13 +772,14 @@
       "chapter_title": "",
       "source_review": "72 hours in Tokyo, spent almost entirely café hopping. In this video, I visited 10+ cafés across the city — from quiet neighborhood spots to beautifully designed spaces I’d genuinely return to. Along the way, I tried some unexpectedly good drinks too, like col 描述欄或章節將「X coffee GINZA」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「X coffee GINZA」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「X coffee GINZA」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「X coffee GINZA」列為本集出現的店家或地點。"
     },
     {
       "video_id": "w87nLAk6Pck",
       "video_title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
       "video_url": "https://www.youtube.com/watch?v=w87nLAk6Pck",
-      "published": "4 個月前",
+      "published": "5 個月前",
       "views": "觀看次數：1萬次",
       "channel_name": "Celia Ting",
       "name": "pain･maison Ginza",
@@ -649,13 +792,14 @@
       "chapter_title": "",
       "source_review": "72 hours in Tokyo, spent almost entirely café hopping. In this video, I visited 10+ cafés across the city — from quiet neighborhood spots to beautifully designed spaces I’d genuinely return to. Along the way, I tried some unexpectedly good drinks too, like col 描述欄或章節將「pain･maison Ginza」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「pain･maison Ginza」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「pain･maison Ginza」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「pain･maison Ginza」列為本集出現的店家或地點。"
     },
     {
       "video_id": "w87nLAk6Pck",
       "video_title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
       "video_url": "https://www.youtube.com/watch?v=w87nLAk6Pck",
-      "published": "4 個月前",
+      "published": "5 個月前",
       "views": "觀看次數：1萬次",
       "channel_name": "Celia Ting",
       "name": "Hatoya Asakusa",
@@ -668,13 +812,14 @@
       "chapter_title": "",
       "source_review": "72 hours in Tokyo, spent almost entirely café hopping. In this video, I visited 10+ cafés across the city — from quiet neighborhood spots to beautifully designed spaces I’d genuinely return to. Along the way, I tried some unexpectedly good drinks too, like col 描述欄或章節將「Hatoya Asakusa」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Hatoya Asakusa」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Hatoya Asakusa」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Hatoya Asakusa」列為本集出現的店家或地點。"
     },
     {
       "video_id": "w87nLAk6Pck",
       "video_title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
       "video_url": "https://www.youtube.com/watch?v=w87nLAk6Pck",
-      "published": "4 個月前",
+      "published": "5 個月前",
       "views": "觀看次數：1萬次",
       "channel_name": "Celia Ting",
       "name": "Lucite Gallery",
@@ -687,13 +832,14 @@
       "chapter_title": "",
       "source_review": "72 hours in Tokyo, spent almost entirely café hopping. In this video, I visited 10+ cafés across the city — from quiet neighborhood spots to beautifully designed spaces I’d genuinely return to. Along the way, I tried some unexpectedly good drinks too, like col 描述欄或章節將「Lucite Gallery」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Lucite Gallery」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Lucite Gallery」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Lucite Gallery」列為本集出現的店家或地點。"
     },
     {
       "video_id": "w87nLAk6Pck",
       "video_title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
       "video_url": "https://www.youtube.com/watch?v=w87nLAk6Pck",
-      "published": "4 個月前",
+      "published": "5 個月前",
       "views": "觀看次數：1萬次",
       "channel_name": "Celia Ting",
       "name": "All Seasons Coffee Ikebukuro",
@@ -706,13 +852,14 @@
       "chapter_title": "",
       "source_review": "72 hours in Tokyo, spent almost entirely café hopping. In this video, I visited 10+ cafés across the city — from quiet neighborhood spots to beautifully designed spaces I’d genuinely return to. Along the way, I tried some unexpectedly good drinks too, like col 描述欄或章節將「All Seasons Coffee Ikebukuro」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「All Seasons Coffee Ikebukuro」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「All Seasons Coffee Ikebukuro」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「All Seasons Coffee Ikebukuro」列為本集出現的店家或地點。"
     },
     {
       "video_id": "w87nLAk6Pck",
       "video_title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
       "video_url": "https://www.youtube.com/watch?v=w87nLAk6Pck",
-      "published": "4 個月前",
+      "published": "5 個月前",
       "views": "觀看次數：1萬次",
       "channel_name": "Celia Ting",
       "name": "Mermaid Coffee Roasters Ikebukuro",
@@ -725,13 +872,14 @@
       "chapter_title": "",
       "source_review": "72 hours in Tokyo, spent almost entirely café hopping. In this video, I visited 10+ cafés across the city — from quiet neighborhood spots to beautifully designed spaces I’d genuinely return to. Along the way, I tried some unexpectedly good drinks too, like col 描述欄或章節將「Mermaid Coffee Roasters Ikebukuro」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Mermaid Coffee Roasters Ikebukuro」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Mermaid Coffee Roasters Ikebukuro」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Mermaid Coffee Roasters Ikebukuro」列為本集出現的店家或地點。"
     },
     {
       "video_id": "w87nLAk6Pck",
       "video_title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
       "video_url": "https://www.youtube.com/watch?v=w87nLAk6Pck",
-      "published": "4 個月前",
+      "published": "5 個月前",
       "views": "觀看次數：1萬次",
       "channel_name": "Celia Ting",
       "name": "Starbucks Coffee - Circles Ginza",
@@ -744,13 +892,14 @@
       "chapter_title": "",
       "source_review": "72 hours in Tokyo, spent almost entirely café hopping. In this video, I visited 10+ cafés across the city — from quiet neighborhood spots to beautifully designed spaces I’d genuinely return to. Along the way, I tried some unexpectedly good drinks too, like col 描述欄或章節將「Starbucks Coffee - Circles Ginza」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Starbucks Coffee - Circles Ginza」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Starbucks Coffee - Circles Ginza」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Starbucks Coffee - Circles Ginza」列為本集出現的店家或地點。"
     },
     {
       "video_id": "w87nLAk6Pck",
       "video_title": "72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours",
       "video_url": "https://www.youtube.com/watch?v=w87nLAk6Pck",
-      "published": "4 個月前",
+      "published": "5 個月前",
       "views": "觀看次數：1萬次",
       "channel_name": "Celia Ting",
       "name": "Daiwa Roynet Hotel Ginza PREMIER",
@@ -763,14 +912,15 @@
       "chapter_title": "",
       "source_review": "72 hours in Tokyo, spent almost entirely café hopping. In this video, I visited 10+ cafés across the city — from quiet neighborhood spots to beautifully designed spaces I’d genuinely return to. Along the way, I tried some unexpectedly good drinks too, like col 描述欄或章節將「Daiwa Roynet Hotel Ginza PREMIER」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Daiwa Roynet Hotel Ginza PREMIER」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Daiwa Roynet Hotel Ginza PREMIER」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Paddlers Coffee、kasiki、nadoya no katte、Alpha Beta Coffee Club 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Daiwa Roynet Hotel Ginza PREMIER」列為本集出現的店家或地點。"
     },
     {
       "video_id": "ENQmUYy-Bsg",
       "video_title": "台北板南線咖啡廳一日探店｜還有Super Junior銀赫愛去的咖啡店！One day café hopping on MRT Blue Line",
       "video_url": "https://www.youtube.com/watch?v=ENQmUYy-Bsg",
-      "published": "7 個月前",
-      "views": "觀看次數：9006次",
+      "published": "8 個月前",
+      "views": "觀看次數：9133次",
       "channel_name": "Celia Ting",
       "name": "有咖啡冇 新埔站",
       "map_url": "https://www.google.com/maps/search/?api=1&query=%E6%9C%89%E5%92%96%E5%95%A1%E5%86%87%20%E6%96%B0%E5%9F%94%E7%AB%99%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%B0%91%E7%94%9F%E8%B7%AF%E4%BA%8C%E6%AE%B5234%E5%B7%B777%E8%99%9F",
@@ -782,14 +932,15 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「有咖啡冇 新埔站」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 有咖啡冇 新埔站、光生 台北車站、Soma 中山站、BéVive 忠孝新生站 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「有咖啡冇 新埔站」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 有咖啡冇 新埔站、光生 台北車站、Soma 中山站、BéVive 忠孝新生站 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「有咖啡冇 新埔站」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 有咖啡冇 新埔站、光生 台北車站、Soma 中山站、BéVive 忠孝新生站 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「有咖啡冇 新埔站」列為本集出現的店家或地點。"
     },
     {
       "video_id": "ENQmUYy-Bsg",
       "video_title": "台北板南線咖啡廳一日探店｜還有Super Junior銀赫愛去的咖啡店！One day café hopping on MRT Blue Line",
       "video_url": "https://www.youtube.com/watch?v=ENQmUYy-Bsg",
-      "published": "7 個月前",
-      "views": "觀看次數：9006次",
+      "published": "8 個月前",
+      "views": "觀看次數：9133次",
       "channel_name": "Celia Ting",
       "name": "光生 台北車站",
       "map_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%89%E7%94%9F%20%E5%8F%B0%E5%8C%97%E8%BB%8A%E7%AB%99%20%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80%E5%A4%AA%E5%8E%9F%E8%B7%AF11%E5%B7%B720%E8%99%9F",
@@ -801,14 +952,15 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「光生 台北車站」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 有咖啡冇 新埔站、光生 台北車站、Soma 中山站、BéVive 忠孝新生站 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「光生 台北車站」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 有咖啡冇 新埔站、光生 台北車站、Soma 中山站、BéVive 忠孝新生站 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「光生 台北車站」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 有咖啡冇 新埔站、光生 台北車站、Soma 中山站、BéVive 忠孝新生站 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「光生 台北車站」列為本集出現的店家或地點。"
     },
     {
       "video_id": "ENQmUYy-Bsg",
       "video_title": "台北板南線咖啡廳一日探店｜還有Super Junior銀赫愛去的咖啡店！One day café hopping on MRT Blue Line",
       "video_url": "https://www.youtube.com/watch?v=ENQmUYy-Bsg",
-      "published": "7 個月前",
-      "views": "觀看次數：9006次",
+      "published": "8 個月前",
+      "views": "觀看次數：9133次",
       "channel_name": "Celia Ting",
       "name": "Soma 中山站",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Soma%20%E4%B8%AD%E5%B1%B1%E7%AB%99%20%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E4%BA%8C%E6%AE%B520%E5%B7%B723%E8%99%9F",
@@ -820,14 +972,15 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「Soma 中山站」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 有咖啡冇 新埔站、光生 台北車站、Soma 中山站、BéVive 忠孝新生站 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Soma 中山站」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 有咖啡冇 新埔站、光生 台北車站、Soma 中山站、BéVive 忠孝新生站 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Soma 中山站」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 有咖啡冇 新埔站、光生 台北車站、Soma 中山站、BéVive 忠孝新生站 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Soma 中山站」列為本集出現的店家或地點。"
     },
     {
       "video_id": "ENQmUYy-Bsg",
       "video_title": "台北板南線咖啡廳一日探店｜還有Super Junior銀赫愛去的咖啡店！One day café hopping on MRT Blue Line",
       "video_url": "https://www.youtube.com/watch?v=ENQmUYy-Bsg",
-      "published": "7 個月前",
-      "views": "觀看次數：9006次",
+      "published": "8 個月前",
+      "views": "觀看次數：9133次",
       "channel_name": "Celia Ting",
       "name": "BéVive 忠孝新生站",
       "map_url": "https://www.google.com/maps/search/?api=1&query=B%C3%A9Vive%20%E5%BF%A0%E5%AD%9D%E6%96%B0%E7%94%9F%E7%AB%99%20%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E8%87%A8%E6%B2%82%E8%A1%9713%E5%B7%B75%E8%99%9F",
@@ -839,14 +992,15 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「BéVive 忠孝新生站」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 有咖啡冇 新埔站、光生 台北車站、Soma 中山站、BéVive 忠孝新生站 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「BéVive 忠孝新生站」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 有咖啡冇 新埔站、光生 台北車站、Soma 中山站、BéVive 忠孝新生站 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「BéVive 忠孝新生站」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 有咖啡冇 新埔站、光生 台北車站、Soma 中山站、BéVive 忠孝新生站 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「BéVive 忠孝新生站」列為本集出現的店家或地點。"
     },
     {
       "video_id": "ENQmUYy-Bsg",
       "video_title": "台北板南線咖啡廳一日探店｜還有Super Junior銀赫愛去的咖啡店！One day café hopping on MRT Blue Line",
       "video_url": "https://www.youtube.com/watch?v=ENQmUYy-Bsg",
-      "published": "7 個月前",
-      "views": "觀看次數：9006次",
+      "published": "8 個月前",
+      "views": "觀看次數：9133次",
       "channel_name": "Celia Ting",
       "name": "Branch Coffee Roasters 忠孝敦化站",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Branch%20Coffee%20Roasters%20%E5%BF%A0%E5%AD%9D%E6%95%A6%E5%8C%96%E7%AB%99%20%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E4%BB%81%E6%84%9B%E8%B7%AF%E5%9B%9B%E6%AE%B5345%E5%B7%B715%E5%BC%842%E8%99%9F",
@@ -858,14 +1012,15 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「Branch Coffee Roasters 忠孝敦化站」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 有咖啡冇 新埔站、光生 台北車站、Soma 中山站、BéVive 忠孝新生站 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Branch Coffee Roasters 忠孝敦化站」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 有咖啡冇 新埔站、光生 台北車站、Soma 中山站、BéVive 忠孝新生站 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Branch Coffee Roasters 忠孝敦化站」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 有咖啡冇 新埔站、光生 台北車站、Soma 中山站、BéVive 忠孝新生站 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Branch Coffee Roasters 忠孝敦化站」列為本集出現的店家或地點。"
     },
     {
       "video_id": "ENQmUYy-Bsg",
       "video_title": "台北板南線咖啡廳一日探店｜還有Super Junior銀赫愛去的咖啡店！One day café hopping on MRT Blue Line",
       "video_url": "https://www.youtube.com/watch?v=ENQmUYy-Bsg",
-      "published": "7 個月前",
-      "views": "觀看次數：9006次",
+      "published": "8 個月前",
+      "views": "觀看次數：9133次",
       "channel_name": "Celia Ting",
       "name": "Pause Coffee Roaster 南港站",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Pause%20Coffee%20Roaster%20%E5%8D%97%E6%B8%AF%E7%AB%99%20%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8D%97%E6%B8%AF%E5%8D%80%E5%8D%97%E6%B8%AF%E8%B7%AF%E4%B8%80%E6%AE%B573%E8%99%9F",
@@ -877,14 +1032,15 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「Pause Coffee Roaster 南港站」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 有咖啡冇 新埔站、光生 台北車站、Soma 中山站、BéVive 忠孝新生站 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Pause Coffee Roaster 南港站」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 有咖啡冇 新埔站、光生 台北車站、Soma 中山站、BéVive 忠孝新生站 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Pause Coffee Roaster 南港站」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 有咖啡冇 新埔站、光生 台北車站、Soma 中山站、BéVive 忠孝新生站 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Pause Coffee Roaster 南港站」列為本集出現的店家或地點。"
     },
     {
       "video_id": "3O442NTN2uo",
       "video_title": "你們敲碗的，我來台中了！｜咖啡店＋米其林冰淇淋＋抹茶甜點 ☕️ A Day in Taichung West｜Cafés, Michelin Ice Cream & Matcha Desserts",
       "video_url": "https://www.youtube.com/watch?v=3O442NTN2uo",
-      "published": "8 個月前",
-      "views": "觀看次數：3717次",
+      "published": "9 個月前",
+      "views": "觀看次數：3763次",
       "channel_name": "Celia Ting",
       "name": "longhouse coffee shop",
       "map_url": "https://www.google.com/maps/search/?api=1&query=longhouse%20coffee%20shop%20%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%8D%80%E6%A8%A1%E7%AF%84%E8%A1%9718%E5%B7%B714%E8%99%9F",
@@ -896,14 +1052,15 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「longhouse coffee shop」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 longhouse coffee shop、Coffee Stopover、PHASE Coffee Espresso、劉麵包廠 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「longhouse coffee shop」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 longhouse coffee shop、Coffee Stopover、PHASE Coffee Espresso、劉麵包廠 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「longhouse coffee shop」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 longhouse coffee shop、Coffee Stopover、PHASE Coffee Espresso、劉麵包廠 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「longhouse coffee shop」列為本集出現的店家或地點。"
     },
     {
       "video_id": "3O442NTN2uo",
       "video_title": "你們敲碗的，我來台中了！｜咖啡店＋米其林冰淇淋＋抹茶甜點 ☕️ A Day in Taichung West｜Cafés, Michelin Ice Cream & Matcha Desserts",
       "video_url": "https://www.youtube.com/watch?v=3O442NTN2uo",
-      "published": "8 個月前",
-      "views": "觀看次數：3717次",
+      "published": "9 個月前",
+      "views": "觀看次數：3763次",
       "channel_name": "Celia Ting",
       "name": "Coffee Stopover",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Coffee%20Stopover%20%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%8D%80%E6%B0%91%E6%AC%8A%E8%B7%AF217%E5%B7%B724%E8%99%9F",
@@ -915,14 +1072,15 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「Coffee Stopover」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 longhouse coffee shop、Coffee Stopover、PHASE Coffee Espresso、劉麵包廠 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「Coffee Stopover」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 longhouse coffee shop、Coffee Stopover、PHASE Coffee Espresso、劉麵包廠 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「Coffee Stopover」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 longhouse coffee shop、Coffee Stopover、PHASE Coffee Espresso、劉麵包廠 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「Coffee Stopover」列為本集出現的店家或地點。"
     },
     {
       "video_id": "3O442NTN2uo",
       "video_title": "你們敲碗的，我來台中了！｜咖啡店＋米其林冰淇淋＋抹茶甜點 ☕️ A Day in Taichung West｜Cafés, Michelin Ice Cream & Matcha Desserts",
       "video_url": "https://www.youtube.com/watch?v=3O442NTN2uo",
-      "published": "8 個月前",
-      "views": "觀看次數：3717次",
+      "published": "9 個月前",
+      "views": "觀看次數：3763次",
       "channel_name": "Celia Ting",
       "name": "PHASE Coffee Espresso",
       "map_url": "https://www.google.com/maps/search/?api=1&query=PHASE%20Coffee%20Espresso%20%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%8D%80%E6%B0%91%E6%AC%8A%E8%B7%AF225%E5%B7%B712%E8%99%9F",
@@ -934,14 +1092,15 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「PHASE Coffee Espresso」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 longhouse coffee shop、Coffee Stopover、PHASE Coffee Espresso、劉麵包廠 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「PHASE Coffee Espresso」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 longhouse coffee shop、Coffee Stopover、PHASE Coffee Espresso、劉麵包廠 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「PHASE Coffee Espresso」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 longhouse coffee shop、Coffee Stopover、PHASE Coffee Espresso、劉麵包廠 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「PHASE Coffee Espresso」列為本集出現的店家或地點。"
     },
     {
       "video_id": "3O442NTN2uo",
       "video_title": "你們敲碗的，我來台中了！｜咖啡店＋米其林冰淇淋＋抹茶甜點 ☕️ A Day in Taichung West｜Cafés, Michelin Ice Cream & Matcha Desserts",
       "video_url": "https://www.youtube.com/watch?v=3O442NTN2uo",
-      "published": "8 個月前",
-      "views": "觀看次數：3717次",
+      "published": "9 個月前",
+      "views": "觀看次數：3763次",
       "channel_name": "Celia Ting",
       "name": "劉麵包廠",
       "map_url": "https://www.google.com/maps/search/?api=1&query=%E5%8A%89%E9%BA%B5%E5%8C%85%E5%BB%A0%20%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%8D%80%E5%90%91%E4%B8%8A%E8%B7%AF%E4%B8%80%E6%AE%B52-3%E8%99%9F",
@@ -953,14 +1112,15 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「劉麵包廠」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 longhouse coffee shop、Coffee Stopover、PHASE Coffee Espresso、劉麵包廠 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「劉麵包廠」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 longhouse coffee shop、Coffee Stopover、PHASE Coffee Espresso、劉麵包廠 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「劉麵包廠」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 longhouse coffee shop、Coffee Stopover、PHASE Coffee Espresso、劉麵包廠 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「劉麵包廠」列為本集出現的店家或地點。"
     },
     {
       "video_id": "3O442NTN2uo",
       "video_title": "你們敲碗的，我來台中了！｜咖啡店＋米其林冰淇淋＋抹茶甜點 ☕️ A Day in Taichung West｜Cafés, Michelin Ice Cream & Matcha Desserts",
       "video_url": "https://www.youtube.com/watch?v=3O442NTN2uo",
-      "published": "8 個月前",
-      "views": "觀看次數：3717次",
+      "published": "9 個月前",
+      "views": "觀看次數：3763次",
       "channel_name": "Celia Ting",
       "name": "TokuToku - Matcha & Coffee",
       "map_url": "https://www.google.com/maps/search/?api=1&query=TokuToku%20-%20Matcha%20%26%20Coffee%20%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%8D%80%E4%B8%AD%E8%88%88%E5%9B%9B%E5%B7%B713%E8%99%9F",
@@ -972,14 +1132,15 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「TokuToku - Matcha & Coffee」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 longhouse coffee shop、Coffee Stopover、PHASE Coffee Espresso、劉麵包廠 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「TokuToku - Matcha & Coffee」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 longhouse coffee shop、Coffee Stopover、PHASE Coffee Espresso、劉麵包廠 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「TokuToku - Matcha & Coffee」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 longhouse coffee shop、Coffee Stopover、PHASE Coffee Espresso、劉麵包廠 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「TokuToku - Matcha & Coffee」列為本集出現的店家或地點。"
     },
     {
       "video_id": "3O442NTN2uo",
       "video_title": "你們敲碗的，我來台中了！｜咖啡店＋米其林冰淇淋＋抹茶甜點 ☕️ A Day in Taichung West｜Cafés, Michelin Ice Cream & Matcha Desserts",
       "video_url": "https://www.youtube.com/watch?v=3O442NTN2uo",
-      "published": "8 個月前",
-      "views": "觀看次數：3717次",
+      "published": "9 個月前",
+      "views": "觀看次數：3763次",
       "channel_name": "Celia Ting",
       "name": "MINIMAL",
       "map_url": "https://www.google.com/maps/search/?api=1&query=MINIMAL%20%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%8D%80%E7%BE%8E%E6%9D%91%E8%B7%AF%E4%B8%80%E6%AE%B5133%E5%B7%B716%E8%99%9F",
@@ -991,13 +1152,14 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「MINIMAL」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 longhouse coffee shop、Coffee Stopover、PHASE Coffee Espresso、劉麵包廠 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「MINIMAL」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 longhouse coffee shop、Coffee Stopover、PHASE Coffee Espresso、劉麵包廠 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「MINIMAL」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 longhouse coffee shop、Coffee Stopover、PHASE Coffee Espresso、劉麵包廠 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「MINIMAL」列為本集出現的店家或地點。"
     },
     {
       "video_id": "-4Xkk3re0ZQ",
       "video_title": "台北象山一日咖啡＆美食散步｜咖啡店＋茶庵＋麵包店｜你們決定下支影片！Taipei Elephant Mountain Cafe Tour",
       "video_url": "https://www.youtube.com/watch?v=-4Xkk3re0ZQ",
-      "published": "9 個月前",
+      "published": "10 個月前",
       "views": "觀看次數：1.3萬次",
       "channel_name": "Celia Ting",
       "name": "Arabica",
@@ -1010,13 +1172,14 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「Arabica」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Arabica、木下庵 Kino、yet coffee x deep work、拾穗Bakery 〔麵包烘焙專門店〕 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Arabica」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Arabica、木下庵 Kino、yet coffee x deep work、拾穗Bakery 〔麵包烘焙專門店〕 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Arabica」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Arabica、木下庵 Kino、yet coffee x deep work、拾穗Bakery 〔麵包烘焙專門店〕 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Arabica」列為本集出現的店家或地點。"
     },
     {
       "video_id": "-4Xkk3re0ZQ",
       "video_title": "台北象山一日咖啡＆美食散步｜咖啡店＋茶庵＋麵包店｜你們決定下支影片！Taipei Elephant Mountain Cafe Tour",
       "video_url": "https://www.youtube.com/watch?v=-4Xkk3re0ZQ",
-      "published": "9 個月前",
+      "published": "10 個月前",
       "views": "觀看次數：1.3萬次",
       "channel_name": "Celia Ting",
       "name": "木下庵 Kino",
@@ -1029,13 +1192,14 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「木下庵 Kino」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Arabica、木下庵 Kino、yet coffee x deep work、拾穗Bakery 〔麵包烘焙專門店〕 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「木下庵 Kino」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Arabica、木下庵 Kino、yet coffee x deep work、拾穗Bakery 〔麵包烘焙專門店〕 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「木下庵 Kino」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Arabica、木下庵 Kino、yet coffee x deep work、拾穗Bakery 〔麵包烘焙專門店〕 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「木下庵 Kino」列為本集出現的店家或地點。"
     },
     {
       "video_id": "-4Xkk3re0ZQ",
       "video_title": "台北象山一日咖啡＆美食散步｜咖啡店＋茶庵＋麵包店｜你們決定下支影片！Taipei Elephant Mountain Cafe Tour",
       "video_url": "https://www.youtube.com/watch?v=-4Xkk3re0ZQ",
-      "published": "9 個月前",
+      "published": "10 個月前",
       "views": "觀看次數：1.3萬次",
       "channel_name": "Celia Ting",
       "name": "yet coffee x deep work",
@@ -1048,13 +1212,14 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「yet coffee x deep work」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Arabica、木下庵 Kino、yet coffee x deep work、拾穗Bakery 〔麵包烘焙專門店〕 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「yet coffee x deep work」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Arabica、木下庵 Kino、yet coffee x deep work、拾穗Bakery 〔麵包烘焙專門店〕 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「yet coffee x deep work」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Arabica、木下庵 Kino、yet coffee x deep work、拾穗Bakery 〔麵包烘焙專門店〕 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「yet coffee x deep work」列為本集出現的店家或地點。"
     },
     {
       "video_id": "-4Xkk3re0ZQ",
       "video_title": "台北象山一日咖啡＆美食散步｜咖啡店＋茶庵＋麵包店｜你們決定下支影片！Taipei Elephant Mountain Cafe Tour",
       "video_url": "https://www.youtube.com/watch?v=-4Xkk3re0ZQ",
-      "published": "9 個月前",
+      "published": "10 個月前",
       "views": "觀看次數：1.3萬次",
       "channel_name": "Celia Ting",
       "name": "拾穗Bakery 〔麵包烘焙專門店〕",
@@ -1067,14 +1232,15 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「拾穗Bakery 〔麵包烘焙專門店〕」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Arabica、木下庵 Kino、yet coffee x deep work、拾穗Bakery 〔麵包烘焙專門店〕 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「拾穗Bakery 〔麵包烘焙專門店〕」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Arabica、木下庵 Kino、yet coffee x deep work、拾穗Bakery 〔麵包烘焙專門店〕 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「拾穗Bakery 〔麵包烘焙專門店〕」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Arabica、木下庵 Kino、yet coffee x deep work、拾穗Bakery 〔麵包烘焙專門店〕 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「拾穗Bakery 〔麵包烘焙專門店〕」列為本集出現的店家或地點。"
     },
     {
       "video_id": "lEtq_nfqjgg",
       "video_title": "最愛的公館老味道 & 校園美食 | 冰淇淋三明治、燒臘、刈包、雞蛋糕 🧁🍦 NTU Alumni Food Tour",
       "video_url": "https://www.youtube.com/watch?v=lEtq_nfqjgg",
       "published": "10 個月前",
-      "views": "觀看次數：6254次",
+      "views": "觀看次數：6295次",
       "channel_name": "Celia Ting",
       "name": "台大小福霜淇淋 NTU soft serve",
       "map_url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%A4%A7%E5%B0%8F%E7%A6%8F%E9%9C%9C%E6%B7%87%E6%B7%8B%20NTU%20soft%20serve%20No.%201%E8%99%9F%2C%20Section%204%2C%20Roosevelt%20Rd%2C%20Da%E2%80%99an%20District%2C%20Taipei%20City%2C%20106",
@@ -1086,14 +1252,15 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「台大小福霜淇淋 NTU soft serve」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「台大小福霜淇淋 NTU soft serve」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「台大小福霜淇淋 NTU soft serve」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「台大小福霜淇淋 NTU soft serve」列為本集出現的店家或地點。"
     },
     {
       "video_id": "lEtq_nfqjgg",
       "video_title": "最愛的公館老味道 & 校園美食 | 冰淇淋三明治、燒臘、刈包、雞蛋糕 🧁🍦 NTU Alumni Food Tour",
       "video_url": "https://www.youtube.com/watch?v=lEtq_nfqjgg",
       "published": "10 個月前",
-      "views": "觀看次數：6254次",
+      "views": "觀看次數：6295次",
       "channel_name": "Celia Ting",
       "name": "冰淇淋三明治 Ice cream sandwich",
       "map_url": "https://www.google.com/maps/search/?api=1&query=%E5%86%B0%E6%B7%87%E6%B7%8B%E4%B8%89%E6%98%8E%E6%B2%BB%20Ice%20cream%20sandwich%20No.%201%E8%99%9F%2C%20Section%204%2C%20Roosevelt%20Rd%2C%20Da%E2%80%99an%20District%2C%20Taipei%20City%2C%20106",
@@ -1105,14 +1272,15 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「冰淇淋三明治 Ice cream sandwich」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「冰淇淋三明治 Ice cream sandwich」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「冰淇淋三明治 Ice cream sandwich」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「冰淇淋三明治 Ice cream sandwich」列為本集出現的店家或地點。"
     },
     {
       "video_id": "lEtq_nfqjgg",
       "video_title": "最愛的公館老味道 & 校園美食 | 冰淇淋三明治、燒臘、刈包、雞蛋糕 🧁🍦 NTU Alumni Food Tour",
       "video_url": "https://www.youtube.com/watch?v=lEtq_nfqjgg",
       "published": "10 個月前",
-      "views": "觀看次數：6254次",
+      "views": "觀看次數：6295次",
       "channel_name": "Celia Ting",
       "name": "鳳城燒臘 Fengcheng Cantonese Restaurant",
       "map_url": "https://www.google.com/maps/search/?api=1&query=%E9%B3%B3%E5%9F%8E%E7%87%92%E8%87%98%20Fengcheng%20Cantonese%20Restaurant%20No.%2058%E4%B9%8B3%E8%99%9F%2C%20Section%203%2C%20Xinsheng%20S%20Rd%2C%20Da%E2%80%99an%20District%2C%20Taipei%20City%2C%20106",
@@ -1124,14 +1292,15 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「鳳城燒臘 Fengcheng Cantonese Restaurant」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「鳳城燒臘 Fengcheng Cantonese Restaurant」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「鳳城燒臘 Fengcheng Cantonese Restaurant」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「鳳城燒臘 Fengcheng Cantonese Restaurant」列為本集出現的店家或地點。"
     },
     {
       "video_id": "lEtq_nfqjgg",
       "video_title": "最愛的公館老味道 & 校園美食 | 冰淇淋三明治、燒臘、刈包、雞蛋糕 🧁🍦 NTU Alumni Food Tour",
       "video_url": "https://www.youtube.com/watch?v=lEtq_nfqjgg",
       "published": "10 個月前",
-      "views": "觀看次數：6254次",
+      "views": "觀看次數：6295次",
       "channel_name": "Celia Ting",
       "name": "臺一牛奶大王 Taiyi Milk King",
       "map_url": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E4%B8%80%E7%89%9B%E5%A5%B6%E5%A4%A7%E7%8E%8B%20Taiyi%20Milk%20King%20No.%2082%E8%99%9F%2C%20Section%203%2C%20Xinsheng%20S%20Rd%2C%20Da%E2%80%99an%20District%2C%20Taipei%20City%2C%20106",
@@ -1143,14 +1312,15 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「臺一牛奶大王 Taiyi Milk King」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「臺一牛奶大王 Taiyi Milk King」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「臺一牛奶大王 Taiyi Milk King」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「臺一牛奶大王 Taiyi Milk King」列為本集出現的店家或地點。"
     },
     {
       "video_id": "lEtq_nfqjgg",
       "video_title": "最愛的公館老味道 & 校園美食 | 冰淇淋三明治、燒臘、刈包、雞蛋糕 🧁🍦 NTU Alumni Food Tour",
       "video_url": "https://www.youtube.com/watch?v=lEtq_nfqjgg",
       "published": "10 個月前",
-      "views": "觀看次數：6254次",
+      "views": "觀看次數：6295次",
       "channel_name": "Celia Ting",
       "name": "大學口糯米腸包香腸",
       "map_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%AD%B8%E5%8F%A3%E7%B3%AF%E7%B1%B3%E8%85%B8%E5%8C%85%E9%A6%99%E8%85%B8%20No.%2018%2C%20Lane%20286%2C%20Section%203%2C%20Roosevelt%20Rd%2C%20Zhongzheng%20District%2C%20Taipei%20City%2C%20100",
@@ -1162,14 +1332,15 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「大學口糯米腸包香腸」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「大學口糯米腸包香腸」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「大學口糯米腸包香腸」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「大學口糯米腸包香腸」列為本集出現的店家或地點。"
     },
     {
       "video_id": "lEtq_nfqjgg",
       "video_title": "最愛的公館老味道 & 校園美食 | 冰淇淋三明治、燒臘、刈包、雞蛋糕 🧁🍦 NTU Alumni Food Tour",
       "video_url": "https://www.youtube.com/watch?v=lEtq_nfqjgg",
       "published": "10 個月前",
-      "views": "觀看次數：6254次",
+      "views": "觀看次數：6295次",
       "channel_name": "Celia Ting",
       "name": "藍家割包 Lan Jia Gua Bao Traditional Taiwanese Snack",
       "map_url": "https://www.google.com/maps/search/?api=1&query=%E8%97%8D%E5%AE%B6%E5%89%B2%E5%8C%85%20Lan%20Jia%20Gua%20Bao%20Traditional%20Taiwanese%20Snack%20No.%203%2C%20Alley%208%2C%20Ln.%20316%2C%20Section%203%2C%20Roosevelt%20Rd%2C%20Zhongzheng%20District%2C%20Taipei%20City%2C%20100",
@@ -1181,14 +1352,15 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「藍家割包 Lan Jia Gua Bao Traditional Taiwanese Snack」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「藍家割包 Lan Jia Gua Bao Traditional Taiwanese Snack」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「藍家割包 Lan Jia Gua Bao Traditional Taiwanese Snack」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「藍家割包 Lan Jia Gua Bao Traditional Taiwanese Snack」列為本集出現的店家或地點。"
     },
     {
       "video_id": "lEtq_nfqjgg",
       "video_title": "最愛的公館老味道 & 校園美食 | 冰淇淋三明治、燒臘、刈包、雞蛋糕 🧁🍦 NTU Alumni Food Tour",
       "video_url": "https://www.youtube.com/watch?v=lEtq_nfqjgg",
       "published": "10 個月前",
-      "views": "觀看次數：6254次",
+      "views": "觀看次數：6295次",
       "channel_name": "Celia Ting",
       "name": "無名雞蛋糕",
       "map_url": "https://www.google.com/maps/search/?api=1&query=%E7%84%A1%E5%90%8D%E9%9B%9E%E8%9B%8B%E7%B3%95%20No.%208-1%2C%20Ln%20108%2C%20Roosevelt%20Rd%2C%20Section%204%2C%20Zhongzheng%20District%2C%20Taipei%20City%2C%20100",
@@ -1200,14 +1372,15 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「無名雞蛋糕」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「無名雞蛋糕」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「無名雞蛋糕」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「無名雞蛋糕」列為本集出現的店家或地點。"
     },
     {
       "video_id": "IoxGOlgHUhg",
       "video_title": "台北 Solo Vlog｜一人約會路線推薦：咖啡廳・展覽・麵包店・冰淇淋 ｜Solo Date in Taipei 💕",
       "video_url": "https://www.youtube.com/watch?v=IoxGOlgHUhg",
-      "published": "10 個月前",
-      "views": "觀看次數：7887次",
+      "published": "11 個月前",
+      "views": "觀看次數：7941次",
       "channel_name": "Celia Ting",
       "name": "一人約會路線推薦：咖啡廳・展覽・麵包店・冰淇淋",
       "map_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E4%BA%BA%E7%B4%84%E6%9C%83%E8%B7%AF%E7%B7%9A%E6%8E%A8%E8%96%A6%EF%BC%9A%E5%92%96%E5%95%A1%E5%BB%B3%E3%83%BB%E5%B1%95%E8%A6%BD%E3%83%BB%E9%BA%B5%E5%8C%85%E5%BA%97%E3%83%BB%E5%86%B0%E6%B7%87%E6%B7%8B%20%E5%8F%B0%E5%8C%97%20Solo%20Vlog%20%E4%B8%80%E4%BA%BA%E7%B4%84%E6%9C%83%E8%B7%AF%E7%B7%9A%E6%8E%A8%E8%96%A6%EF%BC%9A%E5%92%96%E5%95%A1%E5%BB%B3%E3%83%BB%E5%B1%95%E8%A6%BD%E3%83%BB%E9%BA%B5%E5%8C%85%E5%BA%97%E3%83%BB%E5%86%B0%E6%B7%87%E6%B7%8B%20Solo%20Date%20in%20Taipei%20%F0%9F%92%95",
@@ -1219,7 +1392,8 @@
       "chapter_title": "",
       "source_review": "- 描述欄或章節將「一人約會路線推薦：咖啡廳・展覽・麵包店・冰淇淋」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 一人約會路線推薦：咖啡廳・展覽・麵包店・冰淇淋 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「一人約會路線推薦：咖啡廳・展覽・麵包店・冰淇淋」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 一人約會路線推薦：咖啡廳・展覽・麵包店・冰淇淋 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「一人約會路線推薦：咖啡廳・展覽・麵包店・冰淇淋」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 一人約會路線推薦：咖啡廳・展覽・麵包店・冰淇淋 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「一人約會路線推薦：咖啡廳・展覽・麵包店・冰淇淋」列為本集出現的店家或地點。"
     },
     {
       "video_id": "QJB76eYAxCI",
@@ -1238,7 +1412,8 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「戴記涼麵」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 戴記涼麵、香港大排檔、有時候、Clip Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「戴記涼麵」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 戴記涼麵、香港大排檔、有時候、Clip Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「戴記涼麵」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 戴記涼麵、香港大排檔、有時候、Clip Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「戴記涼麵」列為本集出現的店家或地點。"
     },
     {
       "video_id": "QJB76eYAxCI",
@@ -1257,7 +1432,8 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「香港大排檔」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 戴記涼麵、香港大排檔、有時候、Clip Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「香港大排檔」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 戴記涼麵、香港大排檔、有時候、Clip Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「香港大排檔」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 戴記涼麵、香港大排檔、有時候、Clip Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「香港大排檔」列為本集出現的店家或地點。"
     },
     {
       "video_id": "QJB76eYAxCI",
@@ -1276,7 +1452,8 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「有時候」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 戴記涼麵、香港大排檔、有時候、Clip Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「有時候」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 戴記涼麵、香港大排檔、有時候、Clip Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「有時候」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 戴記涼麵、香港大排檔、有時候、Clip Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「有時候」列為本集出現的店家或地點。"
     },
     {
       "video_id": "QJB76eYAxCI",
@@ -1295,7 +1472,8 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「Clip Coffee」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 戴記涼麵、香港大排檔、有時候、Clip Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Clip Coffee」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 戴記涼麵、香港大排檔、有時候、Clip Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Clip Coffee」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 戴記涼麵、香港大排檔、有時候、Clip Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Clip Coffee」列為本集出現的店家或地點。"
     },
     {
       "video_id": "QJB76eYAxCI",
@@ -1314,14 +1492,15 @@
       "chapter_title": "",
       "source_review": "- - 描述欄或章節將「韓國之家」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 戴記涼麵、香港大排檔、有時候、Clip Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「韓國之家」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 戴記涼麵、香港大排檔、有時候、Clip Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「韓國之家」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 戴記涼麵、香港大排檔、有時候、Clip Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「韓國之家」列為本集出現的店家或地點。"
     },
     {
       "video_id": "qfK_B9mPNGk",
       "video_title": "日本小物開箱 🤎｜MUJI、平價版無印、咖啡豆、美妝、小廢物全都有",
       "video_url": "https://www.youtube.com/watch?v=qfK_B9mPNGk",
       "published": "1 年前",
-      "views": "觀看次數：1651次",
+      "views": "觀看次數：1659次",
       "channel_name": "Celia Ting",
       "name": "Standard Products",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Standard%20Products%20%E6%97%A5%E6%9C%AC%E5%B0%8F%E7%89%A9%E9%96%8B%E7%AE%B1%20%F0%9F%A4%8E%20MUJI%E3%80%81%E5%B9%B3%E5%83%B9%E7%89%88%E7%84%A1%E5%8D%B0%E3%80%81%E5%92%96%E5%95%A1%E8%B1%86%E3%80%81%E7%BE%8E%E5%A6%9D%E3%80%81%E5%B0%8F%E5%BB%A2%E7%89%A9%E5%85%A8%E9%83%BD%E6%9C%89",
@@ -1333,14 +1512,15 @@
       "chapter_title": "Standard Products",
       "source_review": "- - 描述欄或章節將「Standard Products」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Standard Products、MUJI、clothing、gacha 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「Standard Products」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Standard Products、MUJI、clothing、gacha 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「Standard Products」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Standard Products、MUJI、clothing、gacha 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「Standard Products」列為本集出現的店家或地點。"
     },
     {
       "video_id": "qfK_B9mPNGk",
       "video_title": "日本小物開箱 🤎｜MUJI、平價版無印、咖啡豆、美妝、小廢物全都有",
       "video_url": "https://www.youtube.com/watch?v=qfK_B9mPNGk",
       "published": "1 年前",
-      "views": "觀看次數：1651次",
+      "views": "觀看次數：1659次",
       "channel_name": "Celia Ting",
       "name": "MUJI",
       "map_url": "https://www.google.com/maps/search/?api=1&query=MUJI%20%E6%97%A5%E6%9C%AC%E5%B0%8F%E7%89%A9%E9%96%8B%E7%AE%B1%20%F0%9F%A4%8E%20MUJI%E3%80%81%E5%B9%B3%E5%83%B9%E7%89%88%E7%84%A1%E5%8D%B0%E3%80%81%E5%92%96%E5%95%A1%E8%B1%86%E3%80%81%E7%BE%8E%E5%A6%9D%E3%80%81%E5%B0%8F%E5%BB%A2%E7%89%A9%E5%85%A8%E9%83%BD%E6%9C%89",
@@ -1352,14 +1532,15 @@
       "chapter_title": "MUJI",
       "source_review": "- - 描述欄或章節將「MUJI」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Standard Products、MUJI、clothing、gacha 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「MUJI」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Standard Products、MUJI、clothing、gacha 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「MUJI」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Standard Products、MUJI、clothing、gacha 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「MUJI」列為本集出現的店家或地點。"
     },
     {
       "video_id": "qfK_B9mPNGk",
       "video_title": "日本小物開箱 🤎｜MUJI、平價版無印、咖啡豆、美妝、小廢物全都有",
       "video_url": "https://www.youtube.com/watch?v=qfK_B9mPNGk",
       "published": "1 年前",
-      "views": "觀看次數：1651次",
+      "views": "觀看次數：1659次",
       "channel_name": "Celia Ting",
       "name": "clothing",
       "map_url": "https://www.google.com/maps/search/?api=1&query=clothing%20%E6%97%A5%E6%9C%AC%E5%B0%8F%E7%89%A9%E9%96%8B%E7%AE%B1%20%F0%9F%A4%8E%20MUJI%E3%80%81%E5%B9%B3%E5%83%B9%E7%89%88%E7%84%A1%E5%8D%B0%E3%80%81%E5%92%96%E5%95%A1%E8%B1%86%E3%80%81%E7%BE%8E%E5%A6%9D%E3%80%81%E5%B0%8F%E5%BB%A2%E7%89%A9%E5%85%A8%E9%83%BD%E6%9C%89",
@@ -1371,14 +1552,15 @@
       "chapter_title": "clothing",
       "source_review": "- - 描述欄或章節將「clothing」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Standard Products、MUJI、clothing、gacha 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「clothing」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Standard Products、MUJI、clothing、gacha 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「clothing」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Standard Products、MUJI、clothing、gacha 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「clothing」列為本集出現的店家或地點。"
     },
     {
       "video_id": "qfK_B9mPNGk",
       "video_title": "日本小物開箱 🤎｜MUJI、平價版無印、咖啡豆、美妝、小廢物全都有",
       "video_url": "https://www.youtube.com/watch?v=qfK_B9mPNGk",
       "published": "1 年前",
-      "views": "觀看次數：1651次",
+      "views": "觀看次數：1659次",
       "channel_name": "Celia Ting",
       "name": "gacha",
       "map_url": "https://www.google.com/maps/search/?api=1&query=gacha%20%E6%97%A5%E6%9C%AC%E5%B0%8F%E7%89%A9%E9%96%8B%E7%AE%B1%20%F0%9F%A4%8E%20MUJI%E3%80%81%E5%B9%B3%E5%83%B9%E7%89%88%E7%84%A1%E5%8D%B0%E3%80%81%E5%92%96%E5%95%A1%E8%B1%86%E3%80%81%E7%BE%8E%E5%A6%9D%E3%80%81%E5%B0%8F%E5%BB%A2%E7%89%A9%E5%85%A8%E9%83%BD%E6%9C%89",
@@ -1390,14 +1572,15 @@
       "chapter_title": "gacha & toys",
       "source_review": "- - 描述欄或章節將「gacha」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Standard Products、MUJI、clothing、gacha 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「gacha」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Standard Products、MUJI、clothing、gacha 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「gacha」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Standard Products、MUJI、clothing、gacha 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「gacha」列為本集出現的店家或地點。"
     },
     {
       "video_id": "qfK_B9mPNGk",
       "video_title": "日本小物開箱 🤎｜MUJI、平價版無印、咖啡豆、美妝、小廢物全都有",
       "video_url": "https://www.youtube.com/watch?v=qfK_B9mPNGk",
       "published": "1 年前",
-      "views": "觀看次數：1651次",
+      "views": "觀看次數：1659次",
       "channel_name": "Celia Ting",
       "name": "toys",
       "map_url": "https://www.google.com/maps/search/?api=1&query=toys%20%E6%97%A5%E6%9C%AC%E5%B0%8F%E7%89%A9%E9%96%8B%E7%AE%B1%20%F0%9F%A4%8E%20MUJI%E3%80%81%E5%B9%B3%E5%83%B9%E7%89%88%E7%84%A1%E5%8D%B0%E3%80%81%E5%92%96%E5%95%A1%E8%B1%86%E3%80%81%E7%BE%8E%E5%A6%9D%E3%80%81%E5%B0%8F%E5%BB%A2%E7%89%A9%E5%85%A8%E9%83%BD%E6%9C%89",
@@ -1409,7 +1592,8 @@
       "chapter_title": "gacha & toys",
       "source_review": "- - 描述欄或章節將「toys」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Standard Products、MUJI、clothing、gacha 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「toys」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Standard Products、MUJI、clothing、gacha 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「toys」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Standard Products、MUJI、clothing、gacha 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「toys」列為本集出現的店家或地點。"
     },
     {
       "video_id": "fuDun1hFX0s",
@@ -1428,7 +1612,8 @@
       "chapter_title": "",
       "source_review": "Tokyo Café It's the best day since yesterday xx - - 描述欄或章節將「02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目」列為本集出現的店家或地點。"
     },
     {
       "video_id": "fuDun1hFX0s",
@@ -1447,7 +1632,8 @@
       "chapter_title": "",
       "source_review": "Tokyo Café It's the best day since yesterday xx - - 描述欄或章節將「06:09 Leaves Coffee Roasters / 08:10 Single O」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「06:09 Leaves Coffee Roasters / 08:10 Single O」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「06:09 Leaves Coffee Roasters / 08:10 Single O」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「06:09 Leaves Coffee Roasters / 08:10 Single O」列為本集出現的店家或地點。"
     },
     {
       "video_id": "fuDun1hFX0s",
@@ -1466,7 +1652,8 @@
       "chapter_title": "Fuglen",
       "source_review": "Tokyo Café It's the best day since yesterday xx - - 描述欄或章節將「Fuglen」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Fuglen」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Fuglen」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Fuglen」列為本集出現的店家或地點。"
     },
     {
       "video_id": "fuDun1hFX0s",
@@ -1485,7 +1672,8 @@
       "chapter_title": "æ - ash",
       "source_review": "Tokyo Café It's the best day since yesterday xx - - 描述欄或章節將「ash」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「ash」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「ash」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「ash」列為本集出現的店家或地點。"
     },
     {
       "video_id": "fuDun1hFX0s",
@@ -1504,7 +1692,8 @@
       "chapter_title": "ABOUT LIFE COFFEE BREWERS 渋谷一丁目",
       "source_review": "Tokyo Café It's the best day since yesterday xx - - 描述欄或章節將「ABOUT LIFE COFFEE BREWERS 渋谷一丁目」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「ABOUT LIFE COFFEE BREWERS 渋谷一丁目」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「ABOUT LIFE COFFEE BREWERS 渋谷一丁目」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「ABOUT LIFE COFFEE BREWERS 渋谷一丁目」列為本集出現的店家或地點。"
     },
     {
       "video_id": "fuDun1hFX0s",
@@ -1523,7 +1712,8 @@
       "chapter_title": "Bongen Coffee Tokyo Ginza",
       "source_review": "Tokyo Café It's the best day since yesterday xx - - 描述欄或章節將「Bongen Coffee Tokyo Ginza」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Bongen Coffee Tokyo Ginza」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Bongen Coffee Tokyo Ginza」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Bongen Coffee Tokyo Ginza」列為本集出現的店家或地點。"
     },
     {
       "video_id": "fuDun1hFX0s",
@@ -1542,7 +1732,8 @@
       "chapter_title": "Leaves Coffee Roasters",
       "source_review": "Tokyo Café It's the best day since yesterday xx - - 描述欄或章節將「Leaves Coffee Roasters」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Leaves Coffee Roasters」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Leaves Coffee Roasters」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Leaves Coffee Roasters」列為本集出現的店家或地點。"
     },
     {
       "video_id": "fuDun1hFX0s",
@@ -1561,7 +1752,8 @@
       "chapter_title": "Single O",
       "source_review": "Tokyo Café It's the best day since yesterday xx - - 描述欄或章節將「Single O」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Single O」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Single O」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Single O」列為本集出現的店家或地點。"
     },
     {
       "video_id": "fuDun1hFX0s",
@@ -1580,7 +1772,8 @@
       "chapter_title": "Allpress Espresso Tokyo Roastery & Cafe",
       "source_review": "Tokyo Café It's the best day since yesterday xx - - 描述欄或章節將「Allpress Espresso Tokyo Roastery」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Allpress Espresso Tokyo Roastery」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Allpress Espresso Tokyo Roastery」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Allpress Espresso Tokyo Roastery」列為本集出現的店家或地點。"
     },
     {
       "video_id": "fuDun1hFX0s",
@@ -1599,7 +1792,8 @@
       "chapter_title": "Allpress Espresso Tokyo Roastery & Cafe",
       "source_review": "Tokyo Café It's the best day since yesterday xx - - 描述欄或章節將「Cafe」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Cafe」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Cafe」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Cafe」列為本集出現的店家或地點。"
     },
     {
       "video_id": "fuDun1hFX0s",
@@ -1618,7 +1812,8 @@
       "chapter_title": "Nem Coffee & Espresso",
       "source_review": "Tokyo Café It's the best day since yesterday xx - - 描述欄或章節將「Nem Coffee」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Nem Coffee」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Nem Coffee」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Nem Coffee」列為本集出現的店家或地點。"
     },
     {
       "video_id": "fuDun1hFX0s",
@@ -1637,7 +1832,8 @@
       "chapter_title": "Nem Coffee & Espresso",
       "source_review": "Tokyo Café It's the best day since yesterday xx - - 描述欄或章節將「Espresso」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Espresso」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Espresso」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Espresso」列為本集出現的店家或地點。"
     },
     {
       "video_id": "fuDun1hFX0s",
@@ -1656,14 +1852,15 @@
       "chapter_title": "UNIQLO COFFEE",
       "source_review": "Tokyo Café It's the best day since yesterday xx - - 描述欄或章節將「UNIQLO COFFEE」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「UNIQLO COFFEE」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「UNIQLO COFFEE」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「UNIQLO COFFEE」列為本集出現的店家或地點。"
     },
     {
       "video_id": "27Gglse5FZk",
       "video_title": "5 Days in Tokyo 🗼 | Must-Try Food Spots You’ll Love 🍜🍣  東京美食推薦!",
       "video_url": "https://www.youtube.com/watch?v=27Gglse5FZk",
       "published": "1 年前",
-      "views": "觀看次數：7086次",
+      "views": "觀看次數：7142次",
       "channel_name": "Celia Ting",
       "name": "Music",
       "map_url": "https://www.google.com/maps/search/?api=1&query=Music%20Jonny%20Easton%20-%20Purpose%22%20is%20under%20a%20Creative%20Commons%20(BY-NC%203.0)%20license%3A",
@@ -1675,7 +1872,8 @@
       "chapter_title": "",
       "source_review": "== subscribe, like, comment and share! thank you! === Music Jonny Easton - Purpose\" is under a Creative Commons (BY-NC 3.0) license: https://creativecommons.org/licenses/... ￼ / jonnyeaston Music powered by BreakingCopyright: ￼ • ♾️ Free Piano Music For YouTub 描述欄或章節將「Music」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Music 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Music」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Music 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Music」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Music 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Music」列為本集出現的店家或地點。"
     },
     {
       "video_id": "m-SS9gPBBh4",
@@ -1694,7 +1892,8 @@
       "chapter_title": "",
       "source_review": "- 描述欄或章節將「Purebread Bakery」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Purebread Bakery、Boulangerie Ours、耶樓麵包 YELLOW BREAD、莉莉安可頌 Lilliane Bakery 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Purebread Bakery」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Purebread Bakery、Boulangerie Ours、耶樓麵包 YELLOW BREAD、莉莉安可頌 Lilliane Bakery 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Purebread Bakery」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Purebread Bakery、Boulangerie Ours、耶樓麵包 YELLOW BREAD、莉莉安可頌 Lilliane Bakery 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Purebread Bakery」列為本集出現的店家或地點。"
     },
     {
       "video_id": "m-SS9gPBBh4",
@@ -1713,7 +1912,8 @@
       "chapter_title": "",
       "source_review": "- 描述欄或章節將「Boulangerie Ours」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Purebread Bakery、Boulangerie Ours、耶樓麵包 YELLOW BREAD、莉莉安可頌 Lilliane Bakery 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Boulangerie Ours」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Purebread Bakery、Boulangerie Ours、耶樓麵包 YELLOW BREAD、莉莉安可頌 Lilliane Bakery 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Boulangerie Ours」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Purebread Bakery、Boulangerie Ours、耶樓麵包 YELLOW BREAD、莉莉安可頌 Lilliane Bakery 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Boulangerie Ours」列為本集出現的店家或地點。"
     },
     {
       "video_id": "m-SS9gPBBh4",
@@ -1732,7 +1932,8 @@
       "chapter_title": "",
       "source_review": "- 描述欄或章節將「耶樓麵包 YELLOW BREAD」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Purebread Bakery、Boulangerie Ours、耶樓麵包 YELLOW BREAD、莉莉安可頌 Lilliane Bakery 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「耶樓麵包 YELLOW BREAD」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Purebread Bakery、Boulangerie Ours、耶樓麵包 YELLOW BREAD、莉莉安可頌 Lilliane Bakery 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「耶樓麵包 YELLOW BREAD」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Purebread Bakery、Boulangerie Ours、耶樓麵包 YELLOW BREAD、莉莉安可頌 Lilliane Bakery 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「耶樓麵包 YELLOW BREAD」列為本集出現的店家或地點。"
     },
     {
       "video_id": "m-SS9gPBBh4",
@@ -1751,7 +1952,8 @@
       "chapter_title": "",
       "source_review": "- 描述欄或章節將「莉莉安可頌 Lilliane Bakery」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Purebread Bakery、Boulangerie Ours、耶樓麵包 YELLOW BREAD、莉莉安可頌 Lilliane Bakery 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「莉莉安可頌 Lilliane Bakery」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Purebread Bakery、Boulangerie Ours、耶樓麵包 YELLOW BREAD、莉莉安可頌 Lilliane Bakery 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「莉莉安可頌 Lilliane Bakery」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Purebread Bakery、Boulangerie Ours、耶樓麵包 YELLOW BREAD、莉莉安可頌 Lilliane Bakery 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「莉莉安可頌 Lilliane Bakery」列為本集出現的店家或地點。"
     },
     {
       "video_id": "m-SS9gPBBh4",
@@ -1770,7 +1972,8 @@
       "chapter_title": "",
       "source_review": "- 描述欄或章節將「普諾麵包坊 Pozzo Bakery」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 Purebread Bakery、Boulangerie Ours、耶樓麵包 YELLOW BREAD、莉莉安可頌 Lilliane Bakery 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「普諾麵包坊 Pozzo Bakery」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 Purebread Bakery、Boulangerie Ours、耶樓麵包 YELLOW BREAD、莉莉安可頌 Lilliane Bakery 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「普諾麵包坊 Pozzo Bakery」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 Purebread Bakery、Boulangerie Ours、耶樓麵包 YELLOW BREAD、莉莉安可頌 Lilliane Bakery 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「普諾麵包坊 Pozzo Bakery」列為本集出現的店家或地點。"
     },
     {
       "video_id": "MArVMHUQ0Ko",
@@ -1789,7 +1992,8 @@
       "chapter_title": "",
       "source_review": "- 描述欄或章節將「有kaffe冇」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 有kaffe冇、KiOSK、The Folks、D23 Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「有kaffe冇」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 有kaffe冇、KiOSK、The Folks、D23 Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「有kaffe冇」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 有kaffe冇、KiOSK、The Folks、D23 Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「有kaffe冇」列為本集出現的店家或地點。"
     },
     {
       "video_id": "MArVMHUQ0Ko",
@@ -1808,7 +2012,8 @@
       "chapter_title": "",
       "source_review": "- 描述欄或章節將「KiOSK」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 有kaffe冇、KiOSK、The Folks、D23 Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「KiOSK」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 有kaffe冇、KiOSK、The Folks、D23 Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「KiOSK」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 有kaffe冇、KiOSK、The Folks、D23 Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「KiOSK」列為本集出現的店家或地點。"
     },
     {
       "video_id": "MArVMHUQ0Ko",
@@ -1827,7 +2032,8 @@
       "chapter_title": "",
       "source_review": "- 描述欄或章節將「The Folks」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 有kaffe冇、KiOSK、The Folks、D23 Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「The Folks」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 有kaffe冇、KiOSK、The Folks、D23 Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「The Folks」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 有kaffe冇、KiOSK、The Folks、D23 Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「The Folks」列為本集出現的店家或地點。"
     },
     {
       "video_id": "MArVMHUQ0Ko",
@@ -1846,7 +2052,8 @@
       "chapter_title": "",
       "source_review": "- 描述欄或章節將「D23 Coffee」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 有kaffe冇、KiOSK、The Folks、D23 Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「D23 Coffee」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 有kaffe冇、KiOSK、The Folks、D23 Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「D23 Coffee」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 有kaffe冇、KiOSK、The Folks、D23 Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「D23 Coffee」列為本集出現的店家或地點。"
     },
     {
       "video_id": "MArVMHUQ0Ko",
@@ -1865,14 +2072,15 @@
       "chapter_title": "",
       "source_review": "- 描述欄或章節將「Moonshine Coffee Roasters」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 有kaffe冇、KiOSK、The Folks、D23 Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Moonshine Coffee Roasters」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 有kaffe冇、KiOSK、The Folks、D23 Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Moonshine Coffee Roasters」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 有kaffe冇、KiOSK、The Folks、D23 Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Moonshine Coffee Roasters」列為本集出現的店家或地點。"
     },
     {
       "video_id": "wKcgdecnAdg",
       "video_title": "Lunar New Year in Taipei 🎆 | 迪化街、大稻埕咖啡店! 蛇年快樂!",
       "video_url": "https://www.youtube.com/watch?v=wKcgdecnAdg",
       "published": "1 年前",
-      "views": "觀看次數：1012次",
+      "views": "觀看次數：1019次",
       "channel_name": "Celia Ting",
       "name": "大稻埕咖啡店! 蛇年快樂!",
       "map_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%A8%BB%E5%9F%95%E5%92%96%E5%95%A1%E5%BA%97!%20%E8%9B%87%E5%B9%B4%E5%BF%AB%E6%A8%82!%20Lunar%20New%20Year%20in%20Taipei%20%F0%9F%8E%86%20%E8%BF%AA%E5%8C%96%E8%A1%97%E3%80%81%E5%A4%A7%E7%A8%BB%E5%9F%95%E5%92%96%E5%95%A1%E5%BA%97!%20%E8%9B%87%E5%B9%B4%E5%BF%AB%E6%A8%82!",
@@ -1884,7 +2092,8 @@
       "chapter_title": "",
       "source_review": "It‘s the best day since yesterday xx - - subscribe, like, share! thank you xx 描述欄或章節將「大稻埕咖啡店! 蛇年快樂!」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 大稻埕咖啡店! 蛇年快樂! 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「大稻埕咖啡店! 蛇年快樂!」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 大稻埕咖啡店! 蛇年快樂! 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「大稻埕咖啡店! 蛇年快樂!」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 大稻埕咖啡店! 蛇年快樂! 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「大稻埕咖啡店! 蛇年快樂!」列為本集出現的店家或地點。"
     },
     {
       "video_id": "wcEqDTnrlDs",
@@ -1903,7 +2112,8 @@
       "chapter_title": "",
       "source_review": "三立消失的國界記者 現在留學英國倫敦 希望在這分享英國有趣、美好的事！ - 歡迎訂閱.按讚.分享！謝謝！ - #2019 #newyear #fireworks #englishstyle #travel #london #uk 描述欄或章節將「2019年 英國倫敦跨年煙火 #英國 #倫敦 #跨年煙火 #紅區」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 2019年 英國倫敦跨年煙火 #英國 #倫敦 #跨年煙火 #紅區 等地點列入倫敦生活與餐廳體驗，適合作為英國生活或用餐參考。 描述欄或章節將「2019年 英國倫敦跨年煙火 #英國 #倫敦 #跨年煙火 #紅區」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 2019年 英國倫敦跨年煙火 #英國 #倫敦 #跨年煙火 #紅區 等地點列入倫敦生活與餐廳體驗，適合作為英國生活或用餐參考。 描述欄或章節將「2019年 英國倫敦跨年煙火 #英國 #倫敦 #跨年煙火 #紅區」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 2019年 英國倫敦跨年煙火 #英國 #倫敦 #跨年煙火 #紅區 等地點列入倫敦生活與餐廳體驗，適合作為英國生活或用餐參考。 描述欄或章節將「2019年 英國倫敦跨年煙火 #英國 #倫敦 #跨年煙火 #紅區」列為本集出現的店家或地點。"
     },
     {
       "video_id": "JvLVLtPqMbc",
@@ -1922,7 +2132,8 @@
       "chapter_title": "",
       "source_review": "三立消失的國界記者 現在留學英國倫敦 希望在這分享英國有趣、美好的事！ - 謝謝🙏 描述欄或章節將「倫敦 #鼎泰豐 Din Tai Fung London (價格.環境.心得)」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 倫敦 #鼎泰豐 Din Tai Fung London (價格.環境.心得) 等地點列入倫敦生活與餐廳體驗，適合作為英國生活或用餐參考。 描述欄或章節將「倫敦 #鼎泰豐 Din Tai Fung London (價格.環境.心得)」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 倫敦 #鼎泰豐 Din Tai Fung London (價格.環境.心得) 等地點列入倫敦生活與餐廳體驗，適合作為英國生活或用餐參考。 描述欄或章節將「倫敦 #鼎泰豐 Din Tai Fung London (價格.環境.心得)」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 倫敦 #鼎泰豐 Din Tai Fung London (價格.環境.心得) 等地點列入倫敦生活與餐廳體驗，適合作為英國生活或用餐參考。 描述欄或章節將「倫敦 #鼎泰豐 Din Tai Fung London (價格.環境.心得)」列為本集出現的店家或地點。"
     },
     {
       "video_id": "qUlFpC4c2jc",
@@ -1941,7 +2152,8 @@
       "chapter_title": "",
       "source_review": "三立消失的國界記者 現在留學英國倫敦 希望在這分享英國有趣、美好的事！ - 謝謝🙏 描述欄或章節將「英國居大不易-水龍頭篇 #英國 #倫敦 #水龍頭 #冬天」列為本集出現的店家或地點。",
       "google_rating": "Google Maps 未取得（以搜尋連結代替）",
-      "youtube_review_zh": "影片將 英國居大不易-水龍頭篇 #英國 #倫敦 #水龍頭 #冬天 等地點列入倫敦生活與餐廳體驗，適合作為英國生活或用餐參考。 描述欄或章節將「英國居大不易-水龍頭篇 #英國 #倫敦 #水龍頭 #冬天」列為本集出現的店家或地點。"
+      "youtube_review_zh": "影片將 英國居大不易-水龍頭篇 #英國 #倫敦 #水龍頭 #冬天 等地點列入倫敦生活與餐廳體驗，適合作為英國生活或用餐參考。 描述欄或章節將「英國居大不易-水龍頭篇 #英國 #倫敦 #水龍頭 #冬天」列為本集出現的店家或地點。",
+      "youtube_review": "影片將 英國居大不易-水龍頭篇 #英國 #倫敦 #水龍頭 #冬天 等地點列入倫敦生活與餐廳體驗，適合作為英國生活或用餐參考。 描述欄或章節將「英國居大不易-水龍頭篇 #英國 #倫敦 #水龍頭 #冬天」列為本集出現的店家或地點。"
     }
   ],
   "no_places": [
@@ -1949,127 +2161,127 @@
       "id": "ULkKQ0ZUmpg",
       "title": "30+ 沒結婚、沒小孩，我的週末很愜意｜Solo Weekend Vlog",
       "url": "https://www.youtube.com/watch?v=ULkKQ0ZUmpg",
-      "published": "2 個月前",
+      "published": "3 個月前",
       "views": "觀看次數：1.1萬次"
     },
     {
       "id": "hb6iMTgKjqg",
       "title": "週末日常 vlog｜跑咖啡廳、麵包店、晨跑，帶兔子交朋友 🐰 my cozy weekend vlog ☕️ cafés, bakeries, morning run & bunny playdate",
       "url": "https://www.youtube.com/watch?v=hb6iMTgKjqg",
-      "published": "3 個月前",
-      "views": "觀看次數：3210次"
+      "published": "4 個月前",
+      "views": "觀看次數：3245次"
     },
     {
       "id": "TiMdHdTEdW4",
       "title": "我把整個週末都拿去喝咖啡了 ☕️｜咖啡廳、麵包店，和最近最愛的義大利餐廳 Slow Weekend Vlog",
       "url": "https://www.youtube.com/watch?v=TiMdHdTEdW4",
-      "published": "3 個月前",
-      "views": "觀看次數：5141次"
+      "published": "4 個月前",
+      "views": "觀看次數：5204次"
     },
     {
       "id": "5p96kBItbws",
       "title": "東京小物開箱｜無印良品平替 Aesop？咖啡豆、藥妝補貨一次看",
       "url": "https://www.youtube.com/watch?v=5p96kBItbws",
-      "published": "4 個月前",
-      "views": "觀看次數：895次"
+      "published": "5 個月前",
+      "views": "觀看次數：928次"
     },
     {
       "id": "ACzqA41By7o",
       "title": "紐約咖啡＋甜點散步地圖｜10 間必訪＋戰利品分享 ｜NYC Coffee & Bakery Crawl",
       "url": "https://www.youtube.com/watch?v=ACzqA41By7o",
-      "published": "5 個月前",
-      "views": "觀看次數：4070次"
+      "published": "6 個月前",
+      "views": "觀看次數：4126次"
     },
     {
       "id": "Jyh6OWuvlFs",
       "title": "第一次到紐約 | 吃到黑白大廚豬肉湯飯、好多咖啡、博物館 🤎 — Cafés, Bakeries, Art & Iconic Spots",
       "url": "https://www.youtube.com/watch?v=Jyh6OWuvlFs",
-      "published": "5 個月前",
-      "views": "觀看次數：1889次"
+      "published": "6 個月前",
+      "views": "觀看次數：1947次"
     },
     {
       "id": "Ky5ew3Jc3C4",
       "title": "生日週日記｜最愛咖啡、甜甜圈與米其林二星 a quiet birthday week vlog",
       "url": "https://www.youtube.com/watch?v=Ky5ew3Jc3C4",
-      "published": "6 個月前",
-      "views": "觀看次數：1522次"
+      "published": "7 個月前",
+      "views": "觀看次數：1554次"
     },
     {
       "id": "NwhE60czKDg",
       "title": "Bake, Make Coffee & Listen to Jazz at Home｜A Homebody Playlist",
       "url": "https://www.youtube.com/watch?v=NwhE60czKDg",
-      "published": "7 個月前",
-      "views": "觀看次數：558次"
+      "published": "8 個月前",
+      "views": "觀看次數：566次"
     },
     {
       "id": "H744DuRrPjI",
       "title": "WFH 也能吃得飽又瘦！不節食一日三餐 What I eat in a WFH day | to stay happy & healthy",
       "url": "https://www.youtube.com/watch?v=H744DuRrPjI",
-      "published": "11 個月前",
-      "views": "觀看次數：1924次"
+      "published": "1 年前",
+      "views": "觀看次數：1932次"
     },
     {
       "id": "pY93qtDgWSw",
       "title": "Taipei Vlog | Sunday Reset, Homemade Pancakes & Bunny’s Vet Visit 🐰🥞",
       "url": "https://www.youtube.com/watch?v=pY93qtDgWSw",
       "published": "1 年前",
-      "views": "觀看次數：1904次"
+      "views": "觀看次數：1910次"
     },
     {
       "id": "aR5g2TGr_Rc",
       "title": "Taichung weekend vlog | Spicy hotpot, baking biscuits (with recipe), lovely café, bakery 🤍",
       "url": "https://www.youtube.com/watch?v=aR5g2TGr_Rc",
       "published": "1 年前",
-      "views": "觀看次數：1104次"
+      "views": "觀看次數：1107次"
     },
     {
       "id": "Q5Ae6mYdY3E",
       "title": "Taipei vlogmas | 🎄Christmas, zumba, cooking, lovely café, bakery 🤍",
       "url": "https://www.youtube.com/watch?v=Q5Ae6mYdY3E",
       "published": "1 年前",
-      "views": "觀看次數：1181次"
+      "views": "觀看次數：1190次"
     },
     {
       "id": "Mv7RXgKDAks",
       "title": "My 9-5 as a marketer in a startup company | WFH, create a marketing plan, coffee shop",
       "url": "https://www.youtube.com/watch?v=Mv7RXgKDAks",
       "published": "1 年前",
-      "views": "觀看次數：1486次"
+      "views": "觀看次數：1492次"
     },
     {
       "id": "5ztHRQ47sAM",
       "title": "Taipei vlog | cycling, fav bakery, lovely café, ramen, cooking 🤍",
       "url": "https://www.youtube.com/watch?v=5ztHRQ47sAM",
       "published": "1 年前",
-      "views": "觀看次數：2507次"
+      "views": "觀看次數：2520次"
     },
     {
       "id": "VffTvCe9pKI",
       "title": "Hans Zimmer - Inception - Piano Cover",
       "url": "https://www.youtube.com/watch?v=VffTvCe9pKI",
       "published": "1 年前",
-      "views": "觀看次數：516次"
+      "views": "觀看次數：520次"
     },
     {
       "id": "WJ7zFkD_qJ4",
       "title": "Interstellar - Main Theme - Piano Cover",
       "url": "https://www.youtube.com/watch?v=WJ7zFkD_qJ4",
       "published": "1 年前",
-      "views": "觀看次數：7034次"
+      "views": "觀看次數：7041次"
     },
     {
       "id": "HsCt2nLFnas",
       "title": "張學友 - 一千個傷心的理由 - Piano Cover",
       "url": "https://www.youtube.com/watch?v=HsCt2nLFnas",
       "published": "1 年前",
-      "views": "觀看次數：507次"
+      "views": "觀看次數：523次"
     },
     {
       "id": "1K1DP_n60fk",
       "title": "Ludovico Einaudi - Le Onde - Piano Cover",
       "url": "https://www.youtube.com/watch?v=1K1DP_n60fk",
       "published": "4 年前",
-      "views": "觀看次數：333次"
+      "views": "觀看次數：336次"
     },
     {
       "id": "uQGlzzfRZ3I",
@@ -2086,5 +2298,5 @@
       "views": "觀看次數：258次"
     }
   ],
-  "gemini_reviewed_places": 102
+  "gemini_reviewed_places": 107
 }
