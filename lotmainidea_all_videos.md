@@ -2,12 +2,12 @@
 
 - 頻道：[老辣妹](https://www.youtube.com/@lotmainidea)
 - 分頁：[影片](https://www.youtube.com/@lotmainidea/videos)
-- 抓取日期：2026-06-17
+- 抓取日期：2026-06-22
 - 本檔整理筆數：58 部
 
 | # | 影片標題 | 長度 | 觀看次數 | 發布時間 | 影片連結 |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 🇯🇵你有多久沒逛過東京的代官山、中目黑？｜老辣妹 | 25:33 | 觀看次數：15萬次 | 3 週前 | [YouTube](https://www.youtube.com/watch?v=1YqBgp2Cq4I) |
+| 1 | 🇯🇵你有多久沒逛過東京的代官山、中目黑？｜老辣妹 | 25:33 | 觀看次數：15萬次 | 1 個月前 | [YouTube](https://www.youtube.com/watch?v=1YqBgp2Cq4I) |
 | 2 | 🇯🇵不用自駕就能把北海道道東玩得這麼精彩？｜老辣妹 | 32:12 | 觀看次數：14萬次 | 2 個月前 | [YouTube](https://www.youtube.com/watch?v=PxYa8pdpDIs) |
 | 3 | 🇯🇵東京最有復古味的路線？再帶男生逛新的原宿｜老辣妹 | 26:13 | 觀看次數：17萬次 | 3 個月前 | [YouTube](https://www.youtube.com/watch?v=MqSHYx4GKIw) |
 | 4 | 🇯🇵我又搜集了一些2026來東京玩的新選擇｜老辣妹 | 27:04 | 觀看次數：41萬次 | 4 個月前 | [YouTube](https://www.youtube.com/watch?v=MAMVtv82W2w) |
@@ -17,7 +17,7 @@
 | 8 | 🇯🇵在東京完成 20萬訂閱Q&A，年紀？收入？另一半？｜老辣妹 | 41:25 | 觀看次數：老辣妹和2次 | 8 個月前 | [YouTube](https://www.youtube.com/watch?v=eFeCCAHsDnU) |
 | 9 | 🇯🇵沒想到東京的龜有、藏前會這麼有趣？再去橫濱新逛街景點！｜老辣妹 | 27:36 | 觀看次數：28萬次 | 9 個月前 | [YouTube](https://www.youtube.com/watch?v=fmBz7azgE1k) |
 | 10 | 🇯🇵去東京玩能參考這些YouTuber推薦的美食嗎？｜老辣妹 | 25:17 | 觀看次數：35萬次 | 10 個月前 | [YouTube](https://www.youtube.com/watch?v=7NdUPksUmho) |
-| 11 | 🇯🇵沖繩自由行精選：絕對不會是我最後一次來這裡！｜老辣妹 | 42:49 | 觀看次數：48萬次 | 11 個月前 | [YouTube](https://www.youtube.com/watch?v=_4pGeMzAZHE) |
+| 11 | 🇯🇵沖繩自由行精選：絕對不會是我最後一次來這裡！｜老辣妹 | 42:49 | 觀看次數：49萬次 | 11 個月前 | [YouTube](https://www.youtube.com/watch?v=_4pGeMzAZHE) |
 | 12 | 🇯🇵大阪自由行精選 第三章：梅田、中之島、夢洲｜老辣妹 | 28:56 | 觀看次數：17萬次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=vctjD9CdC54) |
 | 13 | 🇯🇵這是一條東京市區內，新手與老手都會有驚喜的路線？｜老辣妹 | 20:24 | 觀看次數：41萬次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=r26KUeSIgKg) |
 | 14 | 🇯🇵旅遊淡季在幾乎沒有觀光客的日本北陸有多好玩？｜老辣妹 | 28:35 | 觀看次數：25萬次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=_MIBvm14oBA) |
@@ -28,19 +28,19 @@
 | 19 | 🇯🇵從東京出發！如何用兩天一夜玩箱根溫泉鄉？｜老辣妹 | 25:40 | 觀看次數：24萬次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=2GltAqaBJr0) |
 | 20 | 🇯🇵2025全新的大阪自由行精選：梅田、難波、中崎町、新大阪｜老辣妹 | 44:30 | 觀看次數：80萬次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=E_z5AGwMDSg) |
 | 21 | 🇯🇵據說熱海是時下日本年輕人最愛的度假勝地？｜老辣妹 | 35:30 | 觀看次數：26萬次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=Hnn2_uC3-Eo) |
-| 22 | 🇯🇵九州自由行精選：熊本、由布院、長崎、三台觀光列車｜老辣妹 | 41:17 | 觀看次數：45萬次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=CYj8g5GZojc) |
+| 22 | 🇯🇵九州自由行精選：熊本、由布院、長崎、三台觀光列車｜老辣妹 | 41:17 | 觀看次數：46萬次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=CYj8g5GZojc) |
 | 23 | 🇯🇵東京最熱鬧的表參道除了精品還有什麼？精選超過20個地標！｜老辣妹 | 26:33 | 觀看次數：43萬次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=DoWV0Np4OC8) |
 | 24 | 🇯🇵避開擁擠的人潮？東京市區內的兩條時尚悠閒路線｜老辣妹 | 22:55 | 觀看次數：31萬次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=8afg4EHWmPU) |
-| 25 | 🇯🇵這會是東京最便宜的一日遊行程嗎？｜老辣妹 | 16:20 | 觀看次數：25萬次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=tLejaVtiAuk) |
+| 25 | 🇯🇵這會是東京最便宜的一日遊行程嗎？｜老辣妹 | 16:20 | 觀看次數：26萬次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=tLejaVtiAuk) |
 | 26 | 🇯🇵日本東北的鄉下多美好？岩手縣四天三夜之旅全記錄｜老辣妹 | 31:05 | 觀看次數：26萬次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=6pHZyEji4tg) |
-| 27 | 🇯🇵東京自由行推薦！一日晴空塔周邊散策｜老辣妹 | 16:24 | 觀看次數：21萬次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=KXvLiBfyQgY) |
+| 27 | 🇯🇵東京自由行推薦！一日晴空塔周邊散策｜老辣妹 | 16:24 | 觀看次數：21萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=KXvLiBfyQgY) |
 | 28 | 🇯🇵這些都是你可能不知道的東京觀光小景點？｜老辣妹 | 19:12 | 觀看次數：31萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=6Bo04P4EmPA) |
 | 29 | 🇯🇵東京新宿自由行精選：各口逛街美食景點｜老辣妹 | 19:54 | 觀看次數：33萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=P9cTS1GTTjI) |
 | 30 | 🇯🇵福岡自由行精選：博多、天神、大濠公園、門司港各區特色整理｜老辣妹 | 31:20 | 觀看次數：73萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=l7LeP1IZexY) |
 | 31 | 🇯🇵這些都是今年東京的新選擇！｜老辣妹 | 23:14 | 觀看次數：45萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=2SJkLO4-iAM) |
 | 32 | 🇯🇵東京的澀谷、原宿一帶還可以怎麼玩？｜老辣妹 | 20:50 | 觀看次數：35萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=Igp5SBeaRxw) |
 | 33 | 🇯🇵富士山兩天一夜行程，一台巴士從河口湖玩到靜岡去｜老辣妹 | 19:58 | 觀看次數：25萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=PkbCd3rD9x4) |
-| 34 | 🇯🇵東京的淺草、上野一帶還有什麼選擇？｜老辣妹 | 22:17 | 觀看次數：84萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=HC6ngkDc5rY) |
+| 34 | 🇯🇵東京的淺草、上野一帶還有什麼選擇？｜老辣妹 | 22:17 | 觀看次數：85萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=HC6ngkDc5rY) |
 | 35 | 🇯🇵東京近郊探險！說好的輕井澤，再去草津溫泉泡湯♨️｜老辣妹 | 35:44 | 觀看次數：42萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=WQ2rMP0R084) |
 | 36 | 🇯🇵大阪自由行精選：心齋橋必做六件事！天滿、新世界好好逛｜老辣妹 | 29:09 | 觀看次數：87萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=vwqKXsYACrs) |
 | 37 | 🇯🇵東京銀座除了精品之外，還有這些酷東西！｜老辣妹 | 26:27 | 觀看次數：49萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=lbM2ubjWzr0) |
