@@ -101,6 +101,33 @@ CHANNELS = [
         place_title="MissLiv 日本旅行和生活 全頻道地點清單",
         no_places_title="MissLiv 日本旅行和生活 未抓到店家/地點資料影片",
     ),
+    ChannelConfig(
+        slug="hirodaysintokyo",
+        handle="hirodaysintokyo",
+        name="Hiro | Days in Tokyo",
+        raw_kind="flat",
+        place_title="Hiro | Days in Tokyo 全頻道地點清單",
+        no_places_title="Hiro | Days in Tokyo 未抓到店家/地點資料影片",
+        search_suffix="Tokyo Japan",
+    ),
+    ChannelConfig(
+        slug="uniquejapantravel",
+        handle="UniqueJapanTravel",
+        name="Unique Japan Travel",
+        raw_kind="flat",
+        place_title="Unique Japan Travel 全頻道地點清單",
+        no_places_title="Unique Japan Travel 未抓到店家/地點資料影片",
+        search_suffix="Japan",
+    ),
+    ChannelConfig(
+        slug="hurleygourmet",
+        handle="hurleygourmet",
+        name="ハーリーのグルメ",
+        raw_kind="flat",
+        place_title="ハーリーのグルメ 全頻道地點清單",
+        no_places_title="ハーリーのグルメ 未抓到店家/地點資料影片",
+        search_suffix="Japan",
+    ),
 ]
 
 
@@ -436,6 +463,33 @@ def is_map_url(line: str) -> bool:
     )
 
 
+def extract_url(line: str) -> str:
+    match = re.search(r"https?://[^\s)）】>]+", line)
+    if not match:
+        return ""
+    return match.group(0).strip("。、，,；;")
+
+
+def extract_map_url(line: str) -> str:
+    url = extract_url(line)
+    return url if url and is_map_url(url) else ""
+
+
+def is_source_url(line: str) -> bool:
+    lowered = line.lower()
+    return any(
+        marker in lowered
+        for marker in [
+            "tabelog.com/",
+            "restaurant.ikyu.com/",
+            "ozmall.co.jp/",
+            "hotpepper.jp/",
+            "gnavi.co.jp/",
+            "retty.me/",
+        ]
+    )
+
+
 def map_label(url: str) -> str:
     lowered = url.lower()
     if "naver" in lowered:
@@ -453,12 +507,23 @@ def google_search_url(query: str) -> str:
 
 def clean_line(line: str) -> str:
     line = html.unescape(line.strip())
-    line = line.strip(" \t-•*")
+    line = line.strip(" \t　-•*・")
     line = re.sub(r"^[📍🚩]\s*", "", line)
+    line = line.strip(" \t　-•*・")
     line = line.strip()
     if line.startswith("「") and line.endswith("」"):
         line = line[1:-1].strip()
     return line
+
+
+def clean_place_name(line: str) -> tuple[str, str]:
+    line = clean_line(re.sub(r"https?://\S+", "", line))
+    time_label = ""
+    match = re.match(r"^(?P<time>(?:\d{1,2}:)?\d{1,2}:\d{2})\s+(.+)$", line)
+    if match:
+        time_label = match.group("time")
+        line = clean_line(line[match.end("time") :])
+    return line, time_label
 
 
 def is_noise_name(line: str) -> bool:
@@ -478,7 +543,6 @@ def is_noise_name(line: str) -> bool:
             "chapter",
             "章節",
             "目次",
-            "day",
             "today's route",
             "おすすめ動画",
             "subscribe",
@@ -624,6 +688,7 @@ def parse_feipo(description: str, video: dict[str, Any], config: ChannelConfig) 
     for idx, line in enumerate(lines):
         if not is_map_url(line):
             continue
+        map_url = extract_map_url(line)
         name = ""
         for prev in range(idx - 1, max(-1, idx - 6), -1):
             candidate = clean_line(lines[prev])
@@ -649,7 +714,7 @@ def parse_feipo(description: str, video: dict[str, Any], config: ChannelConfig) 
                 video=video,
                 config=config,
                 name=name,
-                map_url=line.strip(),
+                map_url=map_url,
                 time_label=time_label,
                 review=feipo_review(block),
                 source_review="\n".join(block),
@@ -676,7 +741,7 @@ def parse_lotmainidea(description: str, video: dict[str, Any], config: ChannelCo
         map_url = ""
         for nxt in lines[idx + 1 : idx + 8]:
             if is_map_url(nxt):
-                map_url = nxt.strip()
+                map_url = extract_map_url(nxt)
                 break
         if not map_url:
             continue
@@ -733,6 +798,7 @@ def parse_hina(description: str, video: dict[str, Any], config: ChannelConfig) -
     for idx, line in enumerate(lines):
         if not is_map_url(line):
             continue
+        map_url = extract_map_url(line)
         name = ""
         for prev in range(idx - 1, max(-1, idx - 5), -1):
             candidate = clean_line(lines[prev])
@@ -748,7 +814,7 @@ def parse_hina(description: str, video: dict[str, Any], config: ChannelConfig) -
                 video=video,
                 config=config,
                 name=name,
-                map_url=line.strip(),
+                map_url=map_url,
                 time_label=chapter["time"] if chapter else "",
                 seconds=chapter["seconds"] if chapter else None,
                 chapter_title=chapter["title"] if chapter else "",
@@ -865,6 +931,194 @@ def parse_missliv(description: str, video: dict[str, Any], config: ChannelConfig
     return dedupe_places(places)
 
 
+def parse_hiro(description: str, video: dict[str, Any], config: ChannelConfig) -> list[dict[str, Any]]:
+    places: list[dict[str, Any]] = []
+    current_time = ""
+    pending_name = ""
+    pending_time = ""
+
+    for raw_line in description.splitlines():
+        line = raw_line.strip()
+        if not line:
+            continue
+
+        map_url = extract_map_url(line)
+        if map_url:
+            inline_name, inline_time = clean_place_name(line)
+            name = inline_name or pending_name
+            time_label = inline_time or pending_time or current_time
+            if name and not is_noise_name(name):
+                review = f"Hiro 將「{name}」列為本集東京散步路線中的停留點，描述欄提供 Google Maps 連結。"
+                places.append(
+                    base_place(
+                        video=video,
+                        config=config,
+                        name=name,
+                        map_url=map_url,
+                        time_label=time_label,
+                        review=review,
+                        source_review=f"描述欄列出「{name}」與 Google Maps 連結。",
+                    )
+                )
+            pending_name = ""
+            pending_time = ""
+            continue
+
+        name, time_label = clean_place_name(line)
+        if time_label:
+            current_time = time_label
+        if name and not is_noise_name(name):
+            pending_name = name
+            pending_time = time_label or current_time
+
+    return dedupe_places(places)
+
+
+def parse_uniquejapantravel(
+    description: str, video: dict[str, Any], config: ChannelConfig
+) -> list[dict[str, Any]]:
+    skip_patterns = [
+        r"^opening$",
+        r"^ending$",
+        r"^train trip\b",
+        r"^bus ride\b",
+        r"^music\b",
+        r"^dinner at the inn$",
+    ]
+    place_markers = [
+        "area",
+        "beach",
+        "bridge",
+        "cafe",
+        "café",
+        "castle",
+        "city",
+        "coast",
+        "falls",
+        "farm",
+        "garden",
+        "gorge",
+        "hotel",
+        "island",
+        "lake",
+        "market",
+        "museum",
+        "onsen",
+        "park",
+        "pond",
+        "port",
+        "restaurant",
+        "river",
+        "ryokan",
+        "shrine",
+        "station",
+        "street",
+        "temple",
+        "town",
+        "trail",
+        "village",
+        "waterfall",
+    ]
+    places: list[dict[str, Any]] = []
+    for chapter in parse_chapters(description):
+        name = clean_line(chapter["title"])
+        lowered = name.lower()
+        if not name or len(name) > 80 or any(re.search(pattern, lowered) for pattern in skip_patterns):
+            continue
+        if "arrival at " not in lowered and not any(marker in lowered for marker in place_markers):
+            continue
+        review = f"描述欄章節將「{name}」列為本集日本旅行路線中的停留點；未提供原始地圖連結，改以 Google Maps 搜尋連結補足。"
+        places.append(
+            base_place(
+                video=video,
+                config=config,
+                name=name,
+                time_label=chapter["time"],
+                seconds=chapter["seconds"],
+                chapter_title=name,
+                review=review,
+                source_review=f"描述欄章節列出「{name}」。",
+            )
+        )
+    return dedupe_places(places)
+
+
+def hurley_name_from_line(line: str) -> str:
+    line = clean_line(line)
+    line = re.sub(r"^\d+\s*[.．、]\s*", "", line)
+    line = re.sub(r"^○\s*", "", line)
+    if re.match(r"^[・･]\s*(?:OZmall|一休|食べログ|公式|予約)", line, re.I):
+        return ""
+    return clean_line(line)
+
+
+def parse_hurley(description: str, video: dict[str, Any], config: ChannelConfig) -> list[dict[str, Any]]:
+    lines = [line.rstrip() for line in description.splitlines()]
+    places: list[dict[str, Any]] = []
+    active = False
+    pending_name = ""
+    added_names: set[str] = set()
+
+    def add_place(name: str, source_url: str = "") -> None:
+        key = name.strip().lower()
+        if not key or key in added_names or is_noise_name(name):
+            return
+        added_names.add(key)
+        review = f"描述欄將「{name}」列為本集介紹店家；未提供 Google Maps 直連，改以店名搜尋地圖。"
+        place = base_place(
+            video=video,
+            config=config,
+            name=name,
+            review=review,
+            source_review=(
+                f"描述欄介紹店家「{name}」，來源連結：{source_url}"
+                if source_url
+                else f"描述欄介紹店家「{name}」。"
+            ),
+        )
+        if source_url:
+            place["source_url"] = source_url
+        places.append(place)
+
+    for raw_line in lines:
+        line = raw_line.strip()
+        if not line:
+            continue
+        if "紹介したお店" in line or "紹介させていただいたお店" in line:
+            active = True
+            pending_name = ""
+            continue
+        if active and re.match(r"^▼(?:おすすめ検索方法|関連動画|インスタグラム|サブチャンネル|よくある質問)", line):
+            if pending_name:
+                add_place(pending_name)
+            active = False
+            pending_name = ""
+            continue
+        if not active:
+            continue
+
+        source_url = extract_url(line)
+        if source_url and is_source_url(source_url):
+            if pending_name:
+                add_place(pending_name, source_url)
+            continue
+        if source_url:
+            continue
+
+        name = hurley_name_from_line(line)
+        if not name:
+            continue
+        if re.match(r"^(?:\d+\s*[.．、]|○)", line):
+            if pending_name:
+                add_place(pending_name)
+            pending_name = name
+
+    if pending_name:
+        add_place(pending_name)
+
+    return dedupe_places(places)
+
+
 def parse_generic_map_blocks(
     description: str, video: dict[str, Any], config: ChannelConfig
 ) -> list[dict[str, Any]]:
@@ -874,6 +1128,7 @@ def parse_generic_map_blocks(
     for idx, line in enumerate(lines):
         if not is_map_url(line):
             continue
+        map_url = extract_map_url(line)
         name = ""
         for prev in range(idx - 1, max(-1, idx - 5), -1):
             candidate = clean_line(lines[prev])
@@ -889,7 +1144,7 @@ def parse_generic_map_blocks(
                 video=video,
                 config=config,
                 name=name,
-                map_url=line.strip(),
+                map_url=map_url,
                 time_label=chapter["time"] if chapter else "",
                 seconds=chapter["seconds"] if chapter else None,
                 chapter_title=chapter["title"] if chapter else "",
@@ -925,6 +1180,12 @@ def parse_places(description: str, video: dict[str, Any], config: ChannelConfig)
         places = parse_celia(description, video, config)
     elif config.slug == "missliv":
         places = parse_missliv(description, video, config)
+    elif config.slug == "hirodaysintokyo":
+        places = parse_hiro(description, video, config)
+    elif config.slug == "uniquejapantravel":
+        places = parse_uniquejapantravel(description, video, config)
+    elif config.slug == "hurleygourmet":
+        places = parse_hurley(description, video, config)
     else:
         places = []
     if not places:
@@ -1200,7 +1461,7 @@ def render_all_places(config: ChannelConfig, videos: list[dict[str, Any]], new_i
                 f"## {video.get('index', '')}. {md_escape(video.get('title', ''))}",
                 "",
                 f"- 影片：[YouTube]({video.get('url', '')})",
-                f"- 發布時間：{md_escape(video.get('published', ''))}；觀看次數：{md_escape(video.get('views', ''))}",
+                f"- 發布時間：{md_escape(video.get('published', ''))}；{md_escape(video.get('views', '') or '觀看次數：未取得')}",
                 "",
                 "| 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |",
                 "| --- | --- | --- | --- | --- | --- |",
