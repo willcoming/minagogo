@@ -3,17 +3,17 @@
 - 頻道：[Hina Life in Japan](https://www.youtube.com/@HinaLifeinJapan)
 - 抓取日期：2026-06-24
 - 整理流程：本輪重新抓取 YouTube 頻道影片清單；舊影片地點沿用既有抽取資料，新增影片解析 YouTube 描述欄/章節。
-- 本檔整理影片：250 部；本輪新增或補抓描述欄：1 部。
+- 本檔整理影片：250 部；本輪新增或補抓描述欄：128 部。
 - 店家/地點總筆數：1028 筆；原始 Google/Share 地圖連結 572 筆，搜尋補足 456 筆，Naver Map 0 筆。
 - Google Maps 評分本輪未逐筆重查；既有評分保留，新增列標示未取得。
 - 無店家資料影片清單：見 [hinalifeinjapan_no_places.md](./hinalifeinjapan_no_places.md)。
 
-- 本輪新增/補抓影片 ID：0gHWWqe2RLY
+- 本輪新增/補抓影片 ID：KdTHr04LcoQ, cPc6rpLRazM, a7V_tDGWvIk, c49HPxAcrCY, XIzOCGpmWZg, KDzRC21PMX0, Cj-tJYUfvtw, lIFmkdTlolc, x8wmXGWN-k4, kPko3RNQyO0, b1LxLxgceYY, epXLBUY1NDI, oozeAGv-AdU, Ds6k8cYw7rU, 5q0PWYibnTg, es5PK8aepGE, DAM70d6b1j4, 56dUnxWTbvs, 9qKLm_mx5W4, XRCeiu1eKW8 ...
 
 ## 1. BEST 10 GINZA FOOD & SHOPPING ULTIMATE GUIDE: Japan Travel Guide 2026
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=0gHWWqe2RLY)
-- 發布時間：23 小時前；觀看次數：1158次
+- 發布時間：1 天前；觀看次數：1252次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -29,7 +29,7 @@
 ## 2. tokyo diaries: exploring tokyo itinerary \| harajuku, omotesando coffee shops, food, shopping!
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=VlAaqrYfdnE)
-- 發布時間：4 天前；觀看次數：1031次
+- 發布時間：5 天前；觀看次數：1037次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -46,7 +46,7 @@
 ## 4. japan dairies｜Souvenir Shopping at Shibuya MEGA Don Quijote in 2026
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=n_nG_GjKVvI)
-- 發布時間：13 天前；觀看次數：1155次
+- 發布時間：2 週前；觀看次數：1157次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -75,7 +75,7 @@
 ## 6. My FAVORITE Tonkatsu Spots in Tokyo 🇯🇵🍱 \| 10 Must-Try Places You Can't Miss in Japan
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=84p9VmPu1ZY)
-- 發布時間：2 週前；觀看次數：2799次
+- 發布時間：3 週前；觀看次數：2804次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -92,7 +92,7 @@
 ## 7. japan diaries: exploring tokyo + full 5 day itinerary \| coffee shops, food, shopping!
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=HcSvq3GprBE)
-- 發布時間：3 週前；觀看次數：3905次
+- 發布時間：4 週前；觀看次數：3905次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -112,7 +112,7 @@
 ## 8. BEST 10 Must - Visit Ginza, Tokyo🇯🇵｜ Tonkatsu, Shopping, Ginza Mitsukoshi & Sightseeing
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=u0OxEP4ctlA)
-- 發布時間：4 週前；觀看次數：6798次
+- 發布時間：1 個月前；觀看次數：6799次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -200,7 +200,7 @@
 ## 14. TOKYO STATION FOOD & SHOPPING ULTIMATE GUIDE 2026｜Tokyo vlog🗼｜Marunouchi Walk
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=1BjWBbAcw7U)
-- 發布時間：1 個月前；觀看次數：3408次
+- 發布時間：1 個月前；觀看次數：3410次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -506,7 +506,7 @@
 ## 35. Tokyo Vlog \| Art & Museums, Cafes and Bars, City Nights in the Heart of Tokyo
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=oy5aabAdQ58)
-- 發布時間：4 個月前；觀看次數：3221次
+- 發布時間：4 個月前；觀看次數：3222次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -527,7 +527,7 @@
 ## 36. Tokyo Neighborhoods｜Cafes, Gachapon & Retro Spots \| Life in Tokyo VLOG
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=9mYXx7NxAv8)
-- 發布時間：5 個月前；觀看次數：2854次
+- 發布時間：5 個月前；觀看次數：2856次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -716,7 +716,7 @@
 ## 47. BEST 10  Michelin Guide Tokyo Restaurants & Tabelogu Top 100 Restaurants in TOKYO｜Japan Food Guide🇯🇵
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=3mHmU2zBgLM)
-- 發布時間：6 個月前；觀看次數：6598次
+- 發布時間：6 個月前；觀看次數：6600次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -912,7 +912,7 @@
 ## 59. THE BEST MATCHA SPOTS IN JAPAN 2025｜Japan Ultimate Guide
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=ROf3HBnMTt8)
-- 發布時間：8 個月前；觀看次數：3387次
+- 發布時間：8 個月前；觀看次數：3389次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -1112,7 +1112,7 @@
 ## 83. BEST 23 Michelin Guide Tokyo Restaurants 2025  \| Japan Ultimate Guide
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=H7dn5qrViCY)
-- 發布時間：11 個月前；觀看次數：6.5萬次
+- 發布時間：1 年前；觀看次數：6.5萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -1186,7 +1186,7 @@
 ## 87. TOP 10 MUST-TRY TONKATSU SPOTS IN TOKYO｜Japan Ultimate Guide 2025
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=vgYBmNSQjkk)
-- 發布時間：1 年前；觀看次數：5669次
+- 發布時間：1 年前；觀看次數：5674次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |

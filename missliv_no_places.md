@@ -6,11 +6,11 @@
 
 | # | 影片標題 | 發布時間 | 觀看次數 | 影片連結 |
 | --- | --- | --- | --- | --- |
-| 1 | 【日本生產紀錄】傳説中的日本媽媽生產特訓營｜超豐盛的產後慶祝餐！！ | 3 週前 | 觀看次數：4099次 | [YouTube](https://www.youtube.com/watch?v=_B95wm93E0Y) |
+| 1 | 【日本生產紀錄】傳説中的日本媽媽生產特訓營｜超豐盛的產後慶祝餐！！ | 3 週前 | 觀看次數：4100次 | [YouTube](https://www.youtube.com/watch?v=_B95wm93E0Y) |
 | 10 | 【短暫告別東京】近況更新｜陪我一起打包行李｜享受今年最後的櫻花雨｜Tokyo Vlog｜日本旅行與生活  @burgaofficial | 1 年前 | 觀看次數：1.1萬次 | [YouTube](https://www.youtube.com/watch?v=5Ie-F2c0DzM) |
 | 11 | 【東京近郊 川越春遊】賞櫻超推日式甜點｜川越老街 新開幕設施｜穿越到土耳其喝咖啡｜Tokyo Vlog｜日本旅行與生活 | 1 年前 | 觀看次數：1.6萬次 | [YouTube](https://www.youtube.com/watch?v=QjWf_SOU2P4) |
 | 12 | 【東京櫻花散步】神田川 下落合櫻花漫步｜只聽見櫻花與風的聲音｜Tokyo Vlog｜日本旅行與生活 | 1 年前 | 觀看次數：1.4萬次 | [YouTube](https://www.youtube.com/watch?v=IbGRuONLjlY) |
-| 16 | 【聊聊東京生活】成為東京居民第四年我變了.....｜Tokyo Vlog｜日本旅行與生活 | 1 年前 | 觀看次數：8869次 | [YouTube](https://www.youtube.com/watch?v=8TnGeBskg6I) |
+| 16 | 【聊聊東京生活】成為東京居民第四年我變了.....｜Tokyo Vlog｜日本旅行與生活 | 1 年前 | 觀看次數：8870次 | [YouTube](https://www.youtube.com/watch?v=8TnGeBskg6I) |
 | 18 | 【東京的十二月生活】傳說中東京必吃鬆餅？｜丸之內 1894 咖啡館重新開業｜橫濱港Ｘ可口可樂聖誕無人機秀｜Tokyo Vlog｜日本旅行與生活 | 1 年前 | 觀看次數：2.2萬次 | [YouTube](https://www.youtube.com/watch?v=M6XOriOCHko) |
 | 23 | 【東京迪士尼 壞蛋萬聖節】在Disney 忙碌的一天｜三場夢幻花車遊行｜人生夢幻工作之一｜Tokyo vlog｜日本旅行與生活 | 1 年前 | 觀看次數：1.6萬次 | [YouTube](https://www.youtube.com/watch?v=rekSaipvJKg) |
 | 26 | 【東京近郊 一人獨旅】日本是I人的天堂？｜Q&A順便聊些關於我的小秘密｜Tokyo vlog｜日本旅行與生活 | 1 年前 | 觀看次數：7.6萬次 | [YouTube](https://www.youtube.com/watch?v=MOc1E4AMaDU) |

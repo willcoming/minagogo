@@ -7,7 +7,7 @@
 
 | # | 影片標題 | 發布時間 | 觀看次數 | 店家/地點筆數 | 影片連結 |
 | --- | --- | --- | --- | ---: | --- |
-| 1 | 【日本生產紀錄】傳説中的日本媽媽生產特訓營｜超豐盛的產後慶祝餐！！ | 3 週前 | 觀看次數：4099次 | 0 | [YouTube](https://www.youtube.com/watch?v=_B95wm93E0Y) |
+| 1 | 【日本生產紀錄】傳説中的日本媽媽生產特訓營｜超豐盛的產後慶祝餐！！ | 3 週前 | 觀看次數：4100次 | 0 | [YouTube](https://www.youtube.com/watch?v=_B95wm93E0Y) |
 | 2 | 【科隆＆狼堡3日自由行】挑戰德國暗黑美食「生豬肉麵包」｜念念不忘的德國豬腳｜科隆半日遊｜狼堡 尋找金龜車的故鄉｜Germany Vlog｜歐洲35天旅行 | 9 個月前 | 觀看次數：1.1萬次 | 1 | [YouTube](https://www.youtube.com/watch?v=sH55Zb9vQ58) |
 | 3 | 【荷蘭🇳🇱阿姆斯特丹3日自由行】漫步運河區｜五間超值得參觀的博物館｜走進梵谷的世界｜近郊桑斯安斯風車村吃到最好吃的冰｜3 Days in Amsterdam Vlog｜歐洲35天旅行 | 9 個月前 | 觀看次數：4.9萬次 | 9 | [YouTube](https://www.youtube.com/watch?v=71R51jXpPK4) |
 | 4 | 【比利時🇧🇪布魯塞爾一日遊】住在歐洲最危險的車站旁｜碳烤豬肋排無限吃｜原來歐盟總部一點都不安全｜24 hours in Brussels Vlog｜歐洲35天旅行 | 10 個月前 | 觀看次數：3.1萬次 | 4 | [YouTube](https://www.youtube.com/watch?v=CXHCHe7gmyA) |
@@ -22,7 +22,7 @@
 | 13 | 【東京生活日常】在日本做了DNA基因檢測｜新宿時髦又美味的燒鳥店｜六本木炸豬排｜HARBS季節限定蛋糕｜52樓的古埃及展｜Tokyo Vlog｜日本旅行與生活 | 1 年前 | 觀看次數：1.6萬次 | 3 | [YouTube](https://www.youtube.com/watch?v=YRLhXruOIIM) |
 | 14 | 【我最愛的日本4間連鎖咖啡】旅行早餐首選｜台灣沒有分店的咖啡品牌｜Tokyo Vlog｜日本旅行與生活 | 1 年前 | 觀看次數：2.9萬次 | 1 | [YouTube](https://www.youtube.com/watch?v=saZGLPziRM4) |
 | 15 | 【東京生活】南青山美食與藝術的一天散步、岡本太郎、渡邊香織｜超夢幻燭光音樂會｜Tokyo Vlog｜日本旅行與生活 | 1 年前 | 觀看次數：1.1萬次 | 2 | [YouTube](https://www.youtube.com/watch?v=QfLiwMVkdzY) |
-| 16 | 【聊聊東京生活】成為東京居民第四年我變了.....｜Tokyo Vlog｜日本旅行與生活 | 1 年前 | 觀看次數：8869次 | 0 | [YouTube](https://www.youtube.com/watch?v=8TnGeBskg6I) |
+| 16 | 【聊聊東京生活】成為東京居民第四年我變了.....｜Tokyo Vlog｜日本旅行與生活 | 1 年前 | 觀看次數：8870次 | 0 | [YouTube](https://www.youtube.com/watch?v=8TnGeBskg6I) |
 | 17 | 【最近吃的東京美食】日幣千元到萬元在東京吃什麼？｜皇室也愛的米其林法餐｜日法混血牡蠣拉麵｜焦香抹茶可麗露｜均一價的烤串店｜Tokyo Vlog｜日本旅行與生活 | 1 年前 | 觀看次數：1.1萬次 | 5 | [YouTube](https://www.youtube.com/watch?v=Q6XluXIKSm8) |
 | 18 | 【東京的十二月生活】傳說中東京必吃鬆餅？｜丸之內 1894 咖啡館重新開業｜橫濱港Ｘ可口可樂聖誕無人機秀｜Tokyo Vlog｜日本旅行與生活 | 1 年前 | 觀看次數：2.2萬次 | 0 | [YouTube](https://www.youtube.com/watch?v=M6XOriOCHko) |
 | 19 | 【東京居民的0元散步】在地人推薦★不花錢卻充滿驚喜的私房小眾景點★日比谷、皇居、日本橋、目黑｜日本旅行與生活 | 1 年前 | 觀看次數：2.2萬次 | 6 | [YouTube](https://www.youtube.com/watch?v=RV07npJidrM) |
@@ -101,7 +101,7 @@
 | 92 | 【日本女生最想約會的地方】惠比壽花園廣場｜東京高樓神秘景觀台｜日本超市｜日本旅行｜Tokyo Vlog | 3 年前 | 觀看次數：2.5萬次 | 0 | [YouTube](https://www.youtube.com/watch?v=E_9jfg4KoR8) |
 | 93 | 【銀座經典好店推薦】視野第一排咖啡店｜超過70年必訪烤串與甜點老店｜聖誕金魚特展｜伴手禮好地方LOFT商場｜日本旅行｜Tokyo Vlog | 3 年前 | 觀看次數：3.4萬次 | 3 | [YouTube](https://www.youtube.com/watch?v=KUYErJQ3SE4) |
 | 94 | 【東京生活日常】新宿上班族午餐吃什麼？｜灌籃高手首映日小驚喜｜冬日的各種美食｜買了一個復古電暖爐｜日本生活｜Tokyo Vlog | 3 年前 | 觀看次數：9837次 | 0 | [YouTube](https://www.youtube.com/watch?v=vpIb1S-i_8Q) |
-| 95 | 【2022 橫濱聖誕市集】享受今年的最後一個月｜未來港 燈光藝術照明｜橫濱紅倉庫｜日本旅行｜Tokyo vlog | 3 年前 | 觀看次數：8154次 | 1 | [YouTube](https://www.youtube.com/watch?v=ZjJpCSaLZt0) |
+| 95 | 【2022 橫濱聖誕市集】享受今年的最後一個月｜未來港 燈光藝術照明｜橫濱紅倉庫｜日本旅行｜Tokyo vlog | 3 年前 | 觀看次數：8155次 | 1 | [YouTube](https://www.youtube.com/watch?v=ZjJpCSaLZt0) |
 | 96 | 【東京米其林三星景點】高尾山 世界上參觀人數最多的山｜賞楓紅 享受自然｜高山必吃日本美食 ｜日本旅行｜Tokyo vlog | 3 年前 | 觀看次數：1.6萬次 | 1 | [YouTube](https://www.youtube.com/watch?v=2ZMr_Oz0ol4) |
 | 97 | 【探索東京】第一次去竹下通＆下北澤｜逐漸復甦的東京街頭｜Red Lobster紅龍蝦餐廳｜世界最酷街道第二名｜日本旅行｜Tokyo vlog | 3 年前 | 觀看次數：1.9萬次 | 3 | [YouTube](https://www.youtube.com/watch?v=NpM6Za97SzU) |
 | 98 | 【東京秋日】表參道 聖誕咖啡店｜香奈兒 漫步月球快閃店｜明治神宮外苑 光之祭｜東京街道 聖誕燈飾｜日本旅行｜Tokyo vlog | 3 年前 | 觀看次數：5.2萬次 | 1 | [YouTube](https://www.youtube.com/watch?v=iqm_8acHYrA) |

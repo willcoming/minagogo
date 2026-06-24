@@ -3,10 +3,12 @@
 - 頻道：[Celia Ting](https://www.youtube.com/@cellia1025)
 - 抓取日期：2026-06-24
 - 整理流程：本輪重新抓取 YouTube 頻道影片清單；舊影片地點沿用既有抽取資料，新增影片解析 YouTube 描述欄/章節。
-- 本檔整理影片：41 部；本輪新增或補抓描述欄：0 部。
-- 店家/地點總筆數：107 筆；原始 Google/Share 地圖連結 0 筆，搜尋補足 107 筆，Naver Map 0 筆。
+- 本檔整理影片：41 部；本輪新增或補抓描述欄：25 部。
+- 店家/地點總筆數：74 筆；原始 Google/Share 地圖連結 0 筆，搜尋補足 74 筆，Naver Map 0 筆。
 - Google Maps 評分本輪未逐筆重查；既有評分保留，新增列標示未取得。
 - 無店家資料影片清單：見 [cellia1025_no_places.md](./cellia1025_no_places.md)。
+
+- 本輪新增/補抓影片 ID：BOco6BIqwcc, QSOtd_h1YwA, ULkKQ0ZUmpg, hb6iMTgKjqg, TiMdHdTEdW4, 5p96kBItbws, ACzqA41By7o, Jyh6OWuvlFs, Ky5ew3Jc3C4, NwhE60czKDg, IoxGOlgHUhg, H744DuRrPjI, qfK_B9mPNGk, 27Gglse5FZk, wKcgdecnAdg, pY93qtDgWSw, aR5g2TGr_Rc, Q5Ae6mYdY3E, Mv7RXgKDAks, 5ztHRQ47sAM ...
 
 ## 1. 如果 Google Maps 消失了？我在東京試了一天 \| a day in Tokyo without Google Maps ☕️
 
@@ -36,32 +38,6 @@
 | mont-bell Shibuya | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=mont-bell%20Shibuya%20Mont-bell%20Shibuya%20Bldg.%2C%2011-5%20Udagawacho%2C%20Shibuya%2C%20Tokyo%20150-0042%2C%20Japan) | Google Maps 未取得（以搜尋連結代替） | 影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「mont-bell Shibuya」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=RCheXgDuXCk) | Celia Ting |
 | Mermaid Coffee Roasters Ikebukuro | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Mermaid%20Coffee%20Roasters%20Ikebukuro%20Japan%2C%20%E3%80%92170-0013%20Tokyo%2C%20Toshima%20City%2C%20Higashiikebukuro%2C%201%20Chome%E2%88%9223%E2%88%924%20%E6%B1%A0%E8%A2%8B%E3%83%93%E3%83%AB) | Google Maps 未取得（以搜尋連結代替） | 影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Mermaid Coffee Roasters Ikebukuro」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=RCheXgDuXCk) | Celia Ting |
 | Desk Labo | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Desk%20Labo%203%20Chome-19-20%20Kitazawa%2C%20Setagaya%20City%2C%20Tokyo%20155-0031%2C%20Japan) | Google Maps 未取得（以搜尋連結代替） | 影片將 Cafe de l'ambre カフェ ド ランブル、Hotel Musse Ginza Meitetsu、Enraku、Hekkelun 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Desk Labo」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=RCheXgDuXCk) | Celia Ting |
-
-## 3. 陪我在台北大同區跑咖 ☕️ 回家做爆紅甜點＆回答你們的問題 \| a slow day in taipei 🤍
-
-- 影片：[YouTube](https://www.youtube.com/watch?v=BOco6BIqwcc)
-- 發布時間：2 個月前；觀看次數：4425次
-
-| 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
-| --- | --- | --- | --- | --- | --- |
-| messy mark | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=messy%20mark%20%E9%99%AA%E6%88%91%E5%9C%A8%E5%8F%B0%E5%8C%97%E5%A4%A7%E5%90%8C%E5%8D%80%E8%B7%91%E5%92%96%20%E2%98%95%EF%B8%8F%20%E5%9B%9E%E5%AE%B6%E5%81%9A%E7%88%86%E7%B4%85%E7%94%9C%E9%BB%9E%EF%BC%86%E5%9B%9E%E7%AD%94%E4%BD%A0%E5%80%91%E7%9A%84%E5%95%8F%E9%A1%8C%20a%20slow%20day%20in%20taipei%20%F0%9F%A4%8D) | Google Maps 未取得（以搜尋連結代替） | 影片將 messy mark、COFE、Pallas Cafe 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「messy mark」列為本集出現的店家或地點。 | [00:00](https://www.youtube.com/watch?v=BOco6BIqwcc&t=0s) | Celia Ting |
-| COFE | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=COFE%20%E9%99%AA%E6%88%91%E5%9C%A8%E5%8F%B0%E5%8C%97%E5%A4%A7%E5%90%8C%E5%8D%80%E8%B7%91%E5%92%96%20%E2%98%95%EF%B8%8F%20%E5%9B%9E%E5%AE%B6%E5%81%9A%E7%88%86%E7%B4%85%E7%94%9C%E9%BB%9E%EF%BC%86%E5%9B%9E%E7%AD%94%E4%BD%A0%E5%80%91%E7%9A%84%E5%95%8F%E9%A1%8C%20a%20slow%20day%20in%20taipei%20%F0%9F%A4%8D) | Google Maps 未取得（以搜尋連結代替） | 影片將 messy mark、COFE、Pallas Cafe 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「COFE」列為本集出現的店家或地點。 | [00:00](https://www.youtube.com/watch?v=BOco6BIqwcc&t=0s) | Celia Ting |
-| Pallas Cafe | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Pallas%20Cafe%20%E9%99%AA%E6%88%91%E5%9C%A8%E5%8F%B0%E5%8C%97%E5%A4%A7%E5%90%8C%E5%8D%80%E8%B7%91%E5%92%96%20%E2%98%95%EF%B8%8F%20%E5%9B%9E%E5%AE%B6%E5%81%9A%E7%88%86%E7%B4%85%E7%94%9C%E9%BB%9E%EF%BC%86%E5%9B%9E%E7%AD%94%E4%BD%A0%E5%80%91%E7%9A%84%E5%95%8F%E9%A1%8C%20a%20slow%20day%20in%20taipei%20%F0%9F%A4%8D) | Google Maps 未取得（以搜尋連結代替） | 影片將 messy mark、COFE、Pallas Cafe 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Pallas Cafe」列為本集出現的店家或地點。 | [00:00](https://www.youtube.com/watch?v=BOco6BIqwcc&t=0s) | Celia Ting |
-
-## 4. 沒有行程的三天連假 ☕️ 只是一直喝咖啡、亂晃、和踩了雷 (?) \| no plans, just coffee. a slow & cozy long weekend
-
-- 影片：[YouTube](https://www.youtube.com/watch?v=QSOtd_h1YwA)
-- 發布時間：2 個月前；觀看次數：7401次
-
-| 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
-| --- | --- | --- | --- | --- | --- |
-| KiOSK | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=KiOSK%20%E6%B2%92%E6%9C%89%E8%A1%8C%E7%A8%8B%E7%9A%84%E4%B8%89%E5%A4%A9%E9%80%A3%E5%81%87%20%E2%98%95%EF%B8%8F%20%E5%8F%AA%E6%98%AF%E4%B8%80%E7%9B%B4%E5%96%9D%E5%92%96%E5%95%A1%E3%80%81%E4%BA%82%E6%99%83%E3%80%81%E5%92%8C%E8%B8%A9%E4%BA%86%E9%9B%B7%20(%3F)%20no%20plans%2C%20just%20coffee.%20a%20slow%20%26%20cozy%20long%20weeke) | Google Maps 未取得（以搜尋連結代替） | 影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「KiOSK」列為本集出現的店家或地點。 | [00:00](https://www.youtube.com/watch?v=QSOtd_h1YwA&t=0s) | Celia Ting |
-| 排骨湯。高麗菜飯 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%8E%92%E9%AA%A8%E6%B9%AF%E3%80%82%E9%AB%98%E9%BA%97%E8%8F%9C%E9%A3%AF%20%E6%B2%92%E6%9C%89%E8%A1%8C%E7%A8%8B%E7%9A%84%E4%B8%89%E5%A4%A9%E9%80%A3%E5%81%87%20%E2%98%95%EF%B8%8F%20%E5%8F%AA%E6%98%AF%E4%B8%80%E7%9B%B4%E5%96%9D%E5%92%96%E5%95%A1%E3%80%81%E4%BA%82%E6%99%83%E3%80%81%E5%92%8C%E8%B8%A9%E4%BA%86%E9%9B%B7%20(%3F)%20no%20plans%2C%20just%20coffee.%20a%20slow%20%26%20cozy%20long%20weeke) | Google Maps 未取得（以搜尋連結代替） | 影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「排骨湯。高麗菜飯」列為本集出現的店家或地點。 | [03:07](https://www.youtube.com/watch?v=QSOtd_h1YwA&t=187s) | Celia Ting |
-| Coffee Moon | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Coffee%20Moon%20%E6%B2%92%E6%9C%89%E8%A1%8C%E7%A8%8B%E7%9A%84%E4%B8%89%E5%A4%A9%E9%80%A3%E5%81%87%20%E2%98%95%EF%B8%8F%20%E5%8F%AA%E6%98%AF%E4%B8%80%E7%9B%B4%E5%96%9D%E5%92%96%E5%95%A1%E3%80%81%E4%BA%82%E6%99%83%E3%80%81%E5%92%8C%E8%B8%A9%E4%BA%86%E9%9B%B7%20(%3F)%20no%20plans%2C%20just%20coffee.%20a%20slow%20%26%20cozy%20long%20weeke) | Google Maps 未取得（以搜尋連結代替） | 影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「Coffee Moon」列為本集出現的店家或地點。 | [03:07](https://www.youtube.com/watch?v=QSOtd_h1YwA&t=187s) | Celia Ting |
-| French Twist Bakery | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=French%20Twist%20Bakery%20%E6%B2%92%E6%9C%89%E8%A1%8C%E7%A8%8B%E7%9A%84%E4%B8%89%E5%A4%A9%E9%80%A3%E5%81%87%20%E2%98%95%EF%B8%8F%20%E5%8F%AA%E6%98%AF%E4%B8%80%E7%9B%B4%E5%96%9D%E5%92%96%E5%95%A1%E3%80%81%E4%BA%82%E6%99%83%E3%80%81%E5%92%8C%E8%B8%A9%E4%BA%86%E9%9B%B7%20(%3F)%20no%20plans%2C%20just%20coffee.%20a%20slow%20%26%20cozy%20long%20weeke) | Google Maps 未取得（以搜尋連結代替） | 影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「French Twist Bakery」列為本集出現的店家或地點。 | [09:26](https://www.youtube.com/watch?v=QSOtd_h1YwA&t=566s) | Celia Ting |
-| yokoso Coffee Stand | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=yokoso%20Coffee%20Stand%20%E6%B2%92%E6%9C%89%E8%A1%8C%E7%A8%8B%E7%9A%84%E4%B8%89%E5%A4%A9%E9%80%A3%E5%81%87%20%E2%98%95%EF%B8%8F%20%E5%8F%AA%E6%98%AF%E4%B8%80%E7%9B%B4%E5%96%9D%E5%92%96%E5%95%A1%E3%80%81%E4%BA%82%E6%99%83%E3%80%81%E5%92%8C%E8%B8%A9%E4%BA%86%E9%9B%B7%20(%3F)%20no%20plans%2C%20just%20coffee.%20a%20slow%20%26%20cozy%20long%20weeke) | Google Maps 未取得（以搜尋連結代替） | 影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「yokoso Coffee Stand」列為本集出現的店家或地點。 | [09:26](https://www.youtube.com/watch?v=QSOtd_h1YwA&t=566s) | Celia Ting |
-| 阿國切仔麵 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E5%9C%8B%E5%88%87%E4%BB%94%E9%BA%B5%20%E6%B2%92%E6%9C%89%E8%A1%8C%E7%A8%8B%E7%9A%84%E4%B8%89%E5%A4%A9%E9%80%A3%E5%81%87%20%E2%98%95%EF%B8%8F%20%E5%8F%AA%E6%98%AF%E4%B8%80%E7%9B%B4%E5%96%9D%E5%92%96%E5%95%A1%E3%80%81%E4%BA%82%E6%99%83%E3%80%81%E5%92%8C%E8%B8%A9%E4%BA%86%E9%9B%B7%20(%3F)%20no%20plans%2C%20just%20coffee.%20a%20slow%20%26%20cozy%20long%20weeke) | Google Maps 未取得（以搜尋連結代替） | 影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「阿國切仔麵」列為本集出現的店家或地點。 | [09:26](https://www.youtube.com/watch?v=QSOtd_h1YwA&t=566s) | Celia Ting |
-| 中山誠品商圈 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%B1%B1%E8%AA%A0%E5%93%81%E5%95%86%E5%9C%88%20%E6%B2%92%E6%9C%89%E8%A1%8C%E7%A8%8B%E7%9A%84%E4%B8%89%E5%A4%A9%E9%80%A3%E5%81%87%20%E2%98%95%EF%B8%8F%20%E5%8F%AA%E6%98%AF%E4%B8%80%E7%9B%B4%E5%96%9D%E5%92%96%E5%95%A1%E3%80%81%E4%BA%82%E6%99%83%E3%80%81%E5%92%8C%E8%B8%A9%E4%BA%86%E9%9B%B7%20(%3F)%20no%20plans%2C%20just%20coffee.%20a%20slow%20%26%20cozy%20long%20weeke) | Google Maps 未取得（以搜尋連結代替） | 影片將 KiOSK、排骨湯。高麗菜飯、Coffee Moon、French Twist Bakery 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「中山誠品商圈」列為本集出現的店家或地點。 | [09:26](https://www.youtube.com/watch?v=QSOtd_h1YwA&t=566s) | Celia Ting |
 
 ## 5. 週末一日快閃香港｜跑咖啡、逛麵包店，在中環散步…還把 iPhone 摔壞了😭｜Hong Kong solo day trip vlog
 
@@ -156,15 +132,6 @@
 | 藍家割包 Lan Jia Gua Bao Traditional Taiwanese Snack | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%97%8D%E5%AE%B6%E5%89%B2%E5%8C%85%20Lan%20Jia%20Gua%20Bao%20Traditional%20Taiwanese%20Snack%20No.%203%2C%20Alley%208%2C%20Ln.%20316%2C%20Section%203%2C%20Roosevelt%20Rd%2C%20Zhongzheng%20District%2C%20Taipei%20City%2C%20100) | Google Maps 未取得（以搜尋連結代替） | 影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「藍家割包 Lan Jia Gua Bao Traditional Taiwanese Snack」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=lEtq_nfqjgg) | Celia Ting |
 | 無名雞蛋糕 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E7%84%A1%E5%90%8D%E9%9B%9E%E8%9B%8B%E7%B3%95%20No.%208-1%2C%20Ln%20108%2C%20Roosevelt%20Rd%2C%20Section%204%2C%20Zhongzheng%20District%2C%20Taipei%20City%2C%20100) | Google Maps 未取得（以搜尋連結代替） | 影片將 台大小福霜淇淋 NTU soft serve、冰淇淋三明治 Ice cream sandwich、鳳城燒臘 Fengcheng Cantonese Restaurant、臺一牛奶大王 Taiyi Milk King 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「無名雞蛋糕」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=lEtq_nfqjgg) | Celia Ting |
 
-## 19. 台北 Solo Vlog｜一人約會路線推薦：咖啡廳・展覽・麵包店・冰淇淋 ｜Solo Date in Taipei 💕
-
-- 影片：[YouTube](https://www.youtube.com/watch?v=IoxGOlgHUhg)
-- 發布時間：11 個月前；觀看次數：7946次
-
-| 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
-| --- | --- | --- | --- | --- | --- |
-| 一人約會路線推薦：咖啡廳・展覽・麵包店・冰淇淋 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E4%BA%BA%E7%B4%84%E6%9C%83%E8%B7%AF%E7%B7%9A%E6%8E%A8%E8%96%A6%EF%BC%9A%E5%92%96%E5%95%A1%E5%BB%B3%E3%83%BB%E5%B1%95%E8%A6%BD%E3%83%BB%E9%BA%B5%E5%8C%85%E5%BA%97%E3%83%BB%E5%86%B0%E6%B7%87%E6%B7%8B%20%E5%8F%B0%E5%8C%97%20Solo%20Vlog%20%E4%B8%80%E4%BA%BA%E7%B4%84%E6%9C%83%E8%B7%AF%E7%B7%9A%E6%8E%A8%E8%96%A6%EF%BC%9A%E5%92%96%E5%95%A1%E5%BB%B3%E3%83%BB%E5%B1%95%E8%A6%BD%E3%83%BB%E9%BA%B5%E5%8C%85%E5%BA%97%E3%83%BB%E5%86%B0%E6%B7%87%E6%B7%8B%20Solo%20Date%20in%20Taipei%20%F0%9F%92%95) | Google Maps 未取得（以搜尋連結代替） | 影片將 一人約會路線推薦：咖啡廳・展覽・麵包店・冰淇淋 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「一人約會路線推薦：咖啡廳・展覽・麵包店・冰淇淋」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=IoxGOlgHUhg) | Celia Ting |
-
 ## 20. 民生社區6間無限回訪的日常愛店 ☀️｜Best Eats in Taipei’s Minsheng Area
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=QJB76eYAxCI)
@@ -178,19 +145,6 @@
 | Clip Coffee | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Clip%20Coffee%20105%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E6%96%B0%E4%B8%AD%E8%A1%976%E5%B7%B73%E8%99%9F1%E6%A8%93) | Google Maps 未取得（以搜尋連結代替） | 影片將 戴記涼麵、香港大排檔、有時候、Clip Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Clip Coffee」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=QJB76eYAxCI) | Celia Ting |
 | 韓國之家 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E9%9F%93%E5%9C%8B%E4%B9%8B%E5%AE%B6%20105%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E6%96%B0%E4%B8%AD%E8%A1%972-2%E8%99%9F) | Google Maps 未取得（以搜尋連結代替） | 影片將 戴記涼麵、香港大排檔、有時候、Clip Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「韓國之家」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=QJB76eYAxCI) | Celia Ting |
 
-## 22. 日本小物開箱 🤎｜MUJI、平價版無印、咖啡豆、美妝、小廢物全都有
-
-- 影片：[YouTube](https://www.youtube.com/watch?v=qfK_B9mPNGk)
-- 發布時間：1 年前；觀看次數：1659次
-
-| 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
-| --- | --- | --- | --- | --- | --- |
-| Standard Products | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Standard%20Products%20%E6%97%A5%E6%9C%AC%E5%B0%8F%E7%89%A9%E9%96%8B%E7%AE%B1%20%F0%9F%A4%8E%20MUJI%E3%80%81%E5%B9%B3%E5%83%B9%E7%89%88%E7%84%A1%E5%8D%B0%E3%80%81%E5%92%96%E5%95%A1%E8%B1%86%E3%80%81%E7%BE%8E%E5%A6%9D%E3%80%81%E5%B0%8F%E5%BB%A2%E7%89%A9%E5%85%A8%E9%83%BD%E6%9C%89) | Google Maps 未取得（以搜尋連結代替） | 影片將 Standard Products、MUJI、clothing、gacha 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「Standard Products」列為本集出現的店家或地點。 | [00:56](https://www.youtube.com/watch?v=qfK_B9mPNGk&t=56s) | Celia Ting |
-| MUJI | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=MUJI%20%E6%97%A5%E6%9C%AC%E5%B0%8F%E7%89%A9%E9%96%8B%E7%AE%B1%20%F0%9F%A4%8E%20MUJI%E3%80%81%E5%B9%B3%E5%83%B9%E7%89%88%E7%84%A1%E5%8D%B0%E3%80%81%E5%92%96%E5%95%A1%E8%B1%86%E3%80%81%E7%BE%8E%E5%A6%9D%E3%80%81%E5%B0%8F%E5%BB%A2%E7%89%A9%E5%85%A8%E9%83%BD%E6%9C%89) | Google Maps 未取得（以搜尋連結代替） | 影片將 Standard Products、MUJI、clothing、gacha 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「MUJI」列為本集出現的店家或地點。 | [02:19](https://www.youtube.com/watch?v=qfK_B9mPNGk&t=139s) | Celia Ting |
-| clothing | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=clothing%20%E6%97%A5%E6%9C%AC%E5%B0%8F%E7%89%A9%E9%96%8B%E7%AE%B1%20%F0%9F%A4%8E%20MUJI%E3%80%81%E5%B9%B3%E5%83%B9%E7%89%88%E7%84%A1%E5%8D%B0%E3%80%81%E5%92%96%E5%95%A1%E8%B1%86%E3%80%81%E7%BE%8E%E5%A6%9D%E3%80%81%E5%B0%8F%E5%BB%A2%E7%89%A9%E5%85%A8%E9%83%BD%E6%9C%89) | Google Maps 未取得（以搜尋連結代替） | 影片將 Standard Products、MUJI、clothing、gacha 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「clothing」列為本集出現的店家或地點。 | [11:49](https://www.youtube.com/watch?v=qfK_B9mPNGk&t=709s) | Celia Ting |
-| gacha | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=gacha%20%E6%97%A5%E6%9C%AC%E5%B0%8F%E7%89%A9%E9%96%8B%E7%AE%B1%20%F0%9F%A4%8E%20MUJI%E3%80%81%E5%B9%B3%E5%83%B9%E7%89%88%E7%84%A1%E5%8D%B0%E3%80%81%E5%92%96%E5%95%A1%E8%B1%86%E3%80%81%E7%BE%8E%E5%A6%9D%E3%80%81%E5%B0%8F%E5%BB%A2%E7%89%A9%E5%85%A8%E9%83%BD%E6%9C%89) | Google Maps 未取得（以搜尋連結代替） | 影片將 Standard Products、MUJI、clothing、gacha 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「gacha」列為本集出現的店家或地點。 | [13:39](https://www.youtube.com/watch?v=qfK_B9mPNGk&t=819s) | Celia Ting |
-| toys | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=toys%20%E6%97%A5%E6%9C%AC%E5%B0%8F%E7%89%A9%E9%96%8B%E7%AE%B1%20%F0%9F%A4%8E%20MUJI%E3%80%81%E5%B9%B3%E5%83%B9%E7%89%88%E7%84%A1%E5%8D%B0%E3%80%81%E5%92%96%E5%95%A1%E8%B1%86%E3%80%81%E7%BE%8E%E5%A6%9D%E3%80%81%E5%B0%8F%E5%BB%A2%E7%89%A9%E5%85%A8%E9%83%BD%E6%9C%89) | Google Maps 未取得（以搜尋連結代替） | 影片將 Standard Products、MUJI、clothing、gacha 等店家列入本集日常散步與咖啡路線，適合作為放鬆行程參考。 描述欄或章節將「toys」列為本集出現的店家或地點。 | [13:39](https://www.youtube.com/watch?v=qfK_B9mPNGk&t=819s) | Celia Ting |
-
 ## 23. 東京10間超美咖啡廳踩點 ☕️｜最愛的居然不是 Fuglen？
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=fuDun1hFX0s)
@@ -198,28 +152,7 @@
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
-| 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=02%3A27%20%C3%A6%20-%20ash%20%2F%2003%3A40%20ABOUT%20LIFE%20COFFEE%20BREWERS%20%E6%B8%8B%E8%B0%B7%E4%B8%80%E4%B8%81%E7%9B%AE%2004%3A42%20Bongen%20Coffee%20Tokyo%20Ginza) | Google Maps 未取得（以搜尋連結代替） | 影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=fuDun1hFX0s) | Celia Ting |
 | 06:09 Leaves Coffee Roasters / 08:10 Single O | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=06%3A09%20Leaves%20Coffee%20Roasters%20%2F%2008%3A10%20Single%20O%2009%3A05%20Allpress%20Espresso%20Tokyo%20Roastery%20%26%20Cafe) | Google Maps 未取得（以搜尋連結代替） | 影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「06:09 Leaves Coffee Roasters / 08:10 Single O」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=fuDun1hFX0s) | Celia Ting |
-| Fuglen | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Fuglen%20%E6%9D%B1%E4%BA%AC10%E9%96%93%E8%B6%85%E7%BE%8E%E5%92%96%E5%95%A1%E5%BB%B3%E8%B8%A9%E9%BB%9E%20%E2%98%95%EF%B8%8F%20%E6%9C%80%E6%84%9B%E7%9A%84%E5%B1%85%E7%84%B6%E4%B8%8D%E6%98%AF%20Fuglen%EF%BC%9F) | Google Maps 未取得（以搜尋連結代替） | 影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Fuglen」列為本集出現的店家或地點。 | [01:14](https://www.youtube.com/watch?v=fuDun1hFX0s&t=74s) | Celia Ting |
-| ash | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=ash%20%E6%9D%B1%E4%BA%AC10%E9%96%93%E8%B6%85%E7%BE%8E%E5%92%96%E5%95%A1%E5%BB%B3%E8%B8%A9%E9%BB%9E%20%E2%98%95%EF%B8%8F%20%E6%9C%80%E6%84%9B%E7%9A%84%E5%B1%85%E7%84%B6%E4%B8%8D%E6%98%AF%20Fuglen%EF%BC%9F) | Google Maps 未取得（以搜尋連結代替） | 影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「ash」列為本集出現的店家或地點。 | [02:27](https://www.youtube.com/watch?v=fuDun1hFX0s&t=147s) | Celia Ting |
-| ABOUT LIFE COFFEE BREWERS 渋谷一丁目 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=ABOUT%20LIFE%20COFFEE%20BREWERS%20%E6%B8%8B%E8%B0%B7%E4%B8%80%E4%B8%81%E7%9B%AE%20%E6%9D%B1%E4%BA%AC10%E9%96%93%E8%B6%85%E7%BE%8E%E5%92%96%E5%95%A1%E5%BB%B3%E8%B8%A9%E9%BB%9E%20%E2%98%95%EF%B8%8F%20%E6%9C%80%E6%84%9B%E7%9A%84%E5%B1%85%E7%84%B6%E4%B8%8D%E6%98%AF%20Fuglen%EF%BC%9F) | Google Maps 未取得（以搜尋連結代替） | 影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「ABOUT LIFE COFFEE BREWERS 渋谷一丁目」列為本集出現的店家或地點。 | [03:40](https://www.youtube.com/watch?v=fuDun1hFX0s&t=220s) | Celia Ting |
-| Bongen Coffee Tokyo Ginza | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Bongen%20Coffee%20Tokyo%20Ginza%20%E6%9D%B1%E4%BA%AC10%E9%96%93%E8%B6%85%E7%BE%8E%E5%92%96%E5%95%A1%E5%BB%B3%E8%B8%A9%E9%BB%9E%20%E2%98%95%EF%B8%8F%20%E6%9C%80%E6%84%9B%E7%9A%84%E5%B1%85%E7%84%B6%E4%B8%8D%E6%98%AF%20Fuglen%EF%BC%9F) | Google Maps 未取得（以搜尋連結代替） | 影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Bongen Coffee Tokyo Ginza」列為本集出現的店家或地點。 | [04:42](https://www.youtube.com/watch?v=fuDun1hFX0s&t=282s) | Celia Ting |
-| Leaves Coffee Roasters | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Leaves%20Coffee%20Roasters%20%E6%9D%B1%E4%BA%AC10%E9%96%93%E8%B6%85%E7%BE%8E%E5%92%96%E5%95%A1%E5%BB%B3%E8%B8%A9%E9%BB%9E%20%E2%98%95%EF%B8%8F%20%E6%9C%80%E6%84%9B%E7%9A%84%E5%B1%85%E7%84%B6%E4%B8%8D%E6%98%AF%20Fuglen%EF%BC%9F) | Google Maps 未取得（以搜尋連結代替） | 影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Leaves Coffee Roasters」列為本集出現的店家或地點。 | [06:09](https://www.youtube.com/watch?v=fuDun1hFX0s&t=369s) | Celia Ting |
-| Single O | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Single%20O%20%E6%9D%B1%E4%BA%AC10%E9%96%93%E8%B6%85%E7%BE%8E%E5%92%96%E5%95%A1%E5%BB%B3%E8%B8%A9%E9%BB%9E%20%E2%98%95%EF%B8%8F%20%E6%9C%80%E6%84%9B%E7%9A%84%E5%B1%85%E7%84%B6%E4%B8%8D%E6%98%AF%20Fuglen%EF%BC%9F) | Google Maps 未取得（以搜尋連結代替） | 影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Single O」列為本集出現的店家或地點。 | [08:10](https://www.youtube.com/watch?v=fuDun1hFX0s&t=490s) | Celia Ting |
-| Allpress Espresso Tokyo Roastery | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Allpress%20Espresso%20Tokyo%20Roastery%20%E6%9D%B1%E4%BA%AC10%E9%96%93%E8%B6%85%E7%BE%8E%E5%92%96%E5%95%A1%E5%BB%B3%E8%B8%A9%E9%BB%9E%20%E2%98%95%EF%B8%8F%20%E6%9C%80%E6%84%9B%E7%9A%84%E5%B1%85%E7%84%B6%E4%B8%8D%E6%98%AF%20Fuglen%EF%BC%9F) | Google Maps 未取得（以搜尋連結代替） | 影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Allpress Espresso Tokyo Roastery」列為本集出現的店家或地點。 | [09:05](https://www.youtube.com/watch?v=fuDun1hFX0s&t=545s) | Celia Ting |
-| Cafe | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Cafe%20%E6%9D%B1%E4%BA%AC10%E9%96%93%E8%B6%85%E7%BE%8E%E5%92%96%E5%95%A1%E5%BB%B3%E8%B8%A9%E9%BB%9E%20%E2%98%95%EF%B8%8F%20%E6%9C%80%E6%84%9B%E7%9A%84%E5%B1%85%E7%84%B6%E4%B8%8D%E6%98%AF%20Fuglen%EF%BC%9F) | Google Maps 未取得（以搜尋連結代替） | 影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Cafe」列為本集出現的店家或地點。 | [09:05](https://www.youtube.com/watch?v=fuDun1hFX0s&t=545s) | Celia Ting |
-| Nem Coffee | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Nem%20Coffee%20%E6%9D%B1%E4%BA%AC10%E9%96%93%E8%B6%85%E7%BE%8E%E5%92%96%E5%95%A1%E5%BB%B3%E8%B8%A9%E9%BB%9E%20%E2%98%95%EF%B8%8F%20%E6%9C%80%E6%84%9B%E7%9A%84%E5%B1%85%E7%84%B6%E4%B8%8D%E6%98%AF%20Fuglen%EF%BC%9F) | Google Maps 未取得（以搜尋連結代替） | 影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Nem Coffee」列為本集出現的店家或地點。 | [10:20](https://www.youtube.com/watch?v=fuDun1hFX0s&t=620s) | Celia Ting |
-| Espresso | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Espresso%20%E6%9D%B1%E4%BA%AC10%E9%96%93%E8%B6%85%E7%BE%8E%E5%92%96%E5%95%A1%E5%BB%B3%E8%B8%A9%E9%BB%9E%20%E2%98%95%EF%B8%8F%20%E6%9C%80%E6%84%9B%E7%9A%84%E5%B1%85%E7%84%B6%E4%B8%8D%E6%98%AF%20Fuglen%EF%BC%9F) | Google Maps 未取得（以搜尋連結代替） | 影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Espresso」列為本集出現的店家或地點。 | [10:20](https://www.youtube.com/watch?v=fuDun1hFX0s&t=620s) | Celia Ting |
-| UNIQLO COFFEE | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=UNIQLO%20COFFEE%20%E6%9D%B1%E4%BA%AC10%E9%96%93%E8%B6%85%E7%BE%8E%E5%92%96%E5%95%A1%E5%BB%B3%E8%B8%A9%E9%BB%9E%20%E2%98%95%EF%B8%8F%20%E6%9C%80%E6%84%9B%E7%9A%84%E5%B1%85%E7%84%B6%E4%B8%8D%E6%98%AF%20Fuglen%EF%BC%9F) | Google Maps 未取得（以搜尋連結代替） | 影片將 02:27 æ - ash / 03:40 ABOUT LIFE COFFEE BREWERS 渋谷一丁目、06:09 Leaves Coffee Roasters / 08:10 Single O、Fuglen、ash 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「UNIQLO COFFEE」列為本集出現的店家或地點。 | [11:47](https://www.youtube.com/watch?v=fuDun1hFX0s&t=707s) | Celia Ting |
-
-## 24. 5 Days in Tokyo 🗼 \| Must-Try Food Spots You’ll Love 🍜🍣  東京美食推薦!
-
-- 影片：[YouTube](https://www.youtube.com/watch?v=27Gglse5FZk)
-- 發布時間：1 年前；觀看次數：7146次
-
-| 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
-| --- | --- | --- | --- | --- | --- |
-| Music | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Music%20Jonny%20Easton%20-%20Purpose%22%20is%20under%20a%20Creative%20Commons%20(BY-NC%203.0)%20license%3A) | Google Maps 未取得（以搜尋連結代替） | 影片將 Music 等店家列入東京咖啡、散步或購物路線，適合作為東京慢旅行與跑咖參考。 描述欄或章節將「Music」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=27Gglse5FZk) | Celia Ting |
 
 ## 25. Top 5 Must-Try Bakeries in Taipei! 🍞 🥐 🥨 🥖 💛
 
@@ -246,39 +179,3 @@
 | The Folks | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=The%20Folks%20106%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%9B%9B%E7%B6%AD%E8%B7%AF208%E5%B7%B73-1%E8%99%9F) | Google Maps 未取得（以搜尋連結代替） | 影片將 有kaffe冇、KiOSK、The Folks、D23 Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「The Folks」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=MArVMHUQ0Ko) | Celia Ting |
 | D23 Coffee | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=D23%20Coffee%20104%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%98%8E%E6%B0%B4%E8%B7%AF397%E5%B7%B77%E5%BC%8446%E8%99%9F) | Google Maps 未取得（以搜尋連結代替） | 影片將 有kaffe冇、KiOSK、The Folks、D23 Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「D23 Coffee」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=MArVMHUQ0Ko) | Celia Ting |
 | Moonshine Coffee Roasters | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=Moonshine%20Coffee%20Roasters%20106%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E6%95%A6%E5%8C%96%E5%8D%97%E8%B7%AF%E4%BA%8C%E6%AE%B5265%E5%B7%B77%E8%99%9F1%E6%A8%93) | Google Maps 未取得（以搜尋連結代替） | 影片將 有kaffe冇、KiOSK、The Folks、D23 Coffee 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「Moonshine Coffee Roasters」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=MArVMHUQ0Ko) | Celia Ting |
-
-## 27. Lunar New Year in Taipei 🎆 \| 迪化街、大稻埕咖啡店! 蛇年快樂!
-
-- 影片：[YouTube](https://www.youtube.com/watch?v=wKcgdecnAdg)
-- 發布時間：1 年前；觀看次數：1019次
-
-| 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
-| --- | --- | --- | --- | --- | --- |
-| 大稻埕咖啡店! 蛇年快樂! | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%A8%BB%E5%9F%95%E5%92%96%E5%95%A1%E5%BA%97!%20%E8%9B%87%E5%B9%B4%E5%BF%AB%E6%A8%82!%20Lunar%20New%20Year%20in%20Taipei%20%F0%9F%8E%86%20%E8%BF%AA%E5%8C%96%E8%A1%97%E3%80%81%E5%A4%A7%E7%A8%BB%E5%9F%95%E5%92%96%E5%95%A1%E5%BA%97!%20%E8%9B%87%E5%B9%B4%E5%BF%AB%E6%A8%82!) | Google Maps 未取得（以搜尋連結代替） | 影片將 大稻埕咖啡店! 蛇年快樂! 等店家列入台北咖啡與日常散步路線，適合作為台北跑咖或週末小旅行參考。 描述欄或章節將「大稻埕咖啡店! 蛇年快樂!」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=wKcgdecnAdg) | Celia Ting |
-
-## 38. 2019年 英國倫敦跨年煙火 #英國 #倫敦 #跨年煙火 #紅區
-
-- 影片：[YouTube](https://www.youtube.com/watch?v=wcEqDTnrlDs)
-- 發布時間：7 年前；觀看次數：665次
-
-| 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
-| --- | --- | --- | --- | --- | --- |
-| 2019年 英國倫敦跨年煙火 #英國 #倫敦 #跨年煙火 #紅區 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=2019%E5%B9%B4%20%E8%8B%B1%E5%9C%8B%E5%80%AB%E6%95%A6%E8%B7%A8%E5%B9%B4%E7%85%99%E7%81%AB%20%23%E8%8B%B1%E5%9C%8B%20%23%E5%80%AB%E6%95%A6%20%23%E8%B7%A8%E5%B9%B4%E7%85%99%E7%81%AB%20%23%E7%B4%85%E5%8D%80%202019%E5%B9%B4%20%E8%8B%B1%E5%9C%8B%E5%80%AB%E6%95%A6%E8%B7%A8%E5%B9%B4%E7%85%99%E7%81%AB%20%23%E8%8B%B1%E5%9C%8B%20%23%E5%80%AB%E6%95%A6%20%23%E8%B7%A8%E5%B9%B4%E7%85%99%E7%81%AB%20%23%E7%B4%85%E5%8D%80) | Google Maps 未取得（以搜尋連結代替） | 影片將 2019年 英國倫敦跨年煙火 #英國 #倫敦 #跨年煙火 #紅區 等地點列入倫敦生活與餐廳體驗，適合作為英國生活或用餐參考。 描述欄或章節將「2019年 英國倫敦跨年煙火 #英國 #倫敦 #跨年煙火 #紅區」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=wcEqDTnrlDs) | Celia Ting |
-
-## 39. #倫敦 #鼎泰豐 Din Tai Fung London (價格.環境.心得)
-
-- 影片：[YouTube](https://www.youtube.com/watch?v=JvLVLtPqMbc)
-- 發布時間：7 年前；觀看次數：1萬次
-
-| 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
-| --- | --- | --- | --- | --- | --- |
-| 倫敦 #鼎泰豐 Din Tai Fung London (價格.環境.心得) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E5%80%AB%E6%95%A6%20%23%E9%BC%8E%E6%B3%B0%E8%B1%90%20Din%20Tai%20Fung%20London%20(%E5%83%B9%E6%A0%BC.%E7%92%B0%E5%A2%83.%E5%BF%83%E5%BE%97)%20%23%E5%80%AB%E6%95%A6%20%23%E9%BC%8E%E6%B3%B0%E8%B1%90%20Din%20Tai%20Fung%20London%20(%E5%83%B9%E6%A0%BC.%E7%92%B0%E5%A2%83.%E5%BF%83%E5%BE%97)) | Google Maps 未取得（以搜尋連結代替） | 影片將 倫敦 #鼎泰豐 Din Tai Fung London (價格.環境.心得) 等地點列入倫敦生活與餐廳體驗，適合作為英國生活或用餐參考。 描述欄或章節將「倫敦 #鼎泰豐 Din Tai Fung London (價格.環境.心得)」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=JvLVLtPqMbc) | Celia Ting |
-
-## 40. 英國居大不易-水龍頭篇 #英國 #倫敦 #水龍頭 #冬天
-
-- 影片：[YouTube](https://www.youtube.com/watch?v=qUlFpC4c2jc)
-- 發布時間：7 年前；觀看次數：772次
-
-| 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
-| --- | --- | --- | --- | --- | --- |
-| 英國居大不易-水龍頭篇 #英國 #倫敦 #水龍頭 #冬天 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E8%8B%B1%E5%9C%8B%E5%B1%85%E5%A4%A7%E4%B8%8D%E6%98%93-%E6%B0%B4%E9%BE%8D%E9%A0%AD%E7%AF%87%20%23%E8%8B%B1%E5%9C%8B%20%23%E5%80%AB%E6%95%A6%20%23%E6%B0%B4%E9%BE%8D%E9%A0%AD%20%23%E5%86%AC%E5%A4%A9%20%E8%8B%B1%E5%9C%8B%E5%B1%85%E5%A4%A7%E4%B8%8D%E6%98%93-%E6%B0%B4%E9%BE%8D%E9%A0%AD%E7%AF%87%20%23%E8%8B%B1%E5%9C%8B%20%23%E5%80%AB%E6%95%A6%20%23%E6%B0%B4%E9%BE%8D%E9%A0%AD%20%23%E5%86%AC%E5%A4%A9) | Google Maps 未取得（以搜尋連結代替） | 影片將 英國居大不易-水龍頭篇 #英國 #倫敦 #水龍頭 #冬天 等地點列入倫敦生活與餐廳體驗，適合作為英國生活或用餐參考。 描述欄或章節將「英國居大不易-水龍頭篇 #英國 #倫敦 #水龍頭 #冬天」列為本集出現的店家或地點。 | [YouTube](https://www.youtube.com/watch?v=qUlFpC4c2jc) | Celia Ting |

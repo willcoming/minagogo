@@ -3,10 +3,12 @@
 - 頻道：[老辣妹](https://www.youtube.com/@lotmainidea)
 - 抓取日期：2026-06-24
 - 整理流程：本輪重新抓取 YouTube 頻道影片清單；舊影片地點沿用既有抽取資料，新增影片解析 YouTube 描述欄/章節。
-- 本檔整理影片：58 部；本輪新增或補抓描述欄：0 部。
+- 本檔整理影片：58 部；本輪新增或補抓描述欄：1 部。
 - 店家/地點總筆數：1067 筆；原始 Google/Share 地圖連結 906 筆，搜尋補足 161 筆，Naver Map 0 筆。
 - Google Maps 評分本輪未逐筆重查；既有評分保留，新增列標示未取得。
 - 無店家資料影片清單：見 [lotmainidea_no_places.md](./lotmainidea_no_places.md)。
+
+- 本輪新增/補抓影片 ID：eFeCCAHsDnU
 
 ## 1. 🇯🇵你有多久沒逛過東京的代官山、中目黑？｜老辣妹
 

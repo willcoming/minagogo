@@ -3,10 +3,12 @@
 - 頻道：[肥波開吃啦](https://www.youtube.com/@feipo1998)
 - 抓取日期：2026-06-24
 - 整理流程：本輪重新抓取 YouTube 頻道影片清單；舊影片地點沿用既有抽取資料，新增影片解析 YouTube 描述欄/章節。
-- 本檔整理影片：742 部；本輪新增或補抓描述欄：0 部。
+- 本檔整理影片：742 部；本輪新增或補抓描述欄：534 部。
 - 店家/地點總筆數：1071 筆；原始 Google/Share 地圖連結 922 筆，搜尋補足 38 筆，Naver Map 111 筆。
 - Google Maps 評分本輪未逐筆重查；既有評分保留，新增列標示未取得。
 - 無店家資料影片清單：見 [feipo1998_no_places.md](./feipo1998_no_places.md)。
+
+- 本輪新增/補抓影片 ID：WsKl9rJ4jk4, ru_kUPBFSjc, I1yYBu4l9C4, f_yMvgkRxdY, mz3BA43CU6Q, KdXNrKTFpeE, MRa9rdR7rCk, ge4LdWcmiic, GTg6t6e8PBU, QUsrRZ4yAvI, YqudFxMyrII, No-wLgTvI3I, f7qdQN5D13Q, ICSpzBanrrI, E2IOfripNIM, pDJ7-1zpobA, ExtjTGMYxcQ, rFs009_BNqk, ehHR6CP36hg, uYQkViS4PC8 ...
 
 ## 1. 2026 東京米其林，十家必比登推薦美食 ! 10 Bib Gourmand MICHELIN Restaurants in Tokyo
 

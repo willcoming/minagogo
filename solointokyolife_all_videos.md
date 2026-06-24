@@ -9,9 +9,9 @@
 | --- | --- | --- | --- | --- | --- |
 | 1 | 東京 🇯🇵 🥮 日本橋三越地下美食街必買伴手禮，核桃點心與叶匠壽庵 \| 日本獨旅攻略 | 11:03 | 觀看次數：1.2萬次 | 10 天前 | [YouTube](https://www.youtube.com/watch?v=Rul0R9Jgnek) |
 | 2 | 東京 🇯🇵 🥯 療癒系手作Q彈貝果！必吃紅豆奶油與芒果貝果 \| 日本自由行 咖啡廳巡禮 | 12:08 | 觀看次數：1.1萬次 | 3 週前 | [YouTube](https://www.youtube.com/watch?v=F6npv7KG1k0) |
-| 3 | 東京 🇯🇵 🥮 門前仲町和菓子聖地！超濃郁抹茶銅鑼燒與老舖糰子 \| 日本旅遊美食推薦 \| 日本自由行美食 VLOG | 11:59 | 觀看次數：8755次 | 1 個月前 | [YouTube](https://www.youtube.com/watch?v=IyamUppQ5DQ) |
-| 4 | 澀谷 🇯🇵 🍰 東橫暖簾街 Hikarie 必吃甜點伴手禮 \| 東京旅遊必去・車站直達 | 13:17 | 觀看次數：9395次 | 1 個月前 | [YouTube](https://www.youtube.com/watch?v=e6ZH3w7wx60) |
-| 5 | 横浜 🇯🇵 🥐 東京近郊名店巡禮 \| 避開人潮的安靜街道 \| 一口就幸福的「背德紅豆夾心」與絕品可頌 | 11:48 | 觀看次數：9301次 | 2 個月前 | [YouTube](https://www.youtube.com/watch?v=JFc6eVGxkjc) |
+| 3 | 東京 🇯🇵 🥮 門前仲町和菓子聖地！超濃郁抹茶銅鑼燒與老舖糰子 \| 日本旅遊美食推薦 \| 日本自由行美食 VLOG | 11:59 | 觀看次數：8757次 | 1 個月前 | [YouTube](https://www.youtube.com/watch?v=IyamUppQ5DQ) |
+| 4 | 澀谷 🇯🇵 🍰 東橫暖簾街 Hikarie 必吃甜點伴手禮 \| 東京旅遊必去・車站直達 | 13:17 | 觀看次數：9396次 | 1 個月前 | [YouTube](https://www.youtube.com/watch?v=e6ZH3w7wx60) |
+| 5 | 横浜 🇯🇵 🥐 東京近郊名店巡禮 \| 避開人潮的安靜街道 \| 一口就幸福的「背德紅豆夾心」與絕品可頌 | 11:48 | 觀看次數：9303次 | 2 個月前 | [YouTube](https://www.youtube.com/watch?v=JFc6eVGxkjc) |
 | 6 | 品川 🇯🇵 🥐 車站內必吃麵包店巡禮 \| 東京最強早餐推薦 旅遊美食攻略 | 11:18 | 觀看次數：1.1萬次 | 2 個月前 | [YouTube](https://www.youtube.com/watch?v=uZ1dN6M63Vw) |
 | 7 | 東京 🇯🇵 銀座 Ginza Six 🥮 荻乃和甘銅鑼燒 & 星野餅紅豆奶油最中 \| 日本美食 | 12:10 | 觀看次數：8.4萬次 | 3 個月前 | [YouTube](https://www.youtube.com/watch?v=k0Lahr5pRgw) |
 | 8 | 東京車站 🇯🇵 🥐☕️ 站內 & 直通咖啡廳 \| 寬敞舒適的人氣麵包店・美味早餐內用 \| 日本美食開箱 | 11:18 | 觀看次數：3.4萬次 | 3 個月前 | [YouTube](https://www.youtube.com/watch?v=k1rc9Sqk29k) |
@@ -30,7 +30,7 @@
 | 21 | 東京 🇯🇵 🧇 鯛魚燒 (日式魚形蛋糕) 巡禮！老店到創新的日本街頭美食 | 15:25 | 觀看次數：1萬次 | 10 個月前 | [YouTube](https://www.youtube.com/watch?v=HUdT9Hm3owQ) |
 | 22 | 東京車站 🇯🇵🍰 12款限定甜點必吃！\| 東京伴手禮攻略 | 15:45 | 觀看次數：4.9萬次 | 10 個月前 | [YouTube](https://www.youtube.com/watch?v=twMCaz41W2g) |
 | 23 | 東京 🇯🇵 🍞 8間必訪老字號麵包店！必吃栗子紅豆麵包、鬆軟熱狗麵包三明治 | 14:54 | 觀看次數：6131次 | 11 個月前 | [YouTube](https://www.youtube.com/watch?v=aPTQ2pfN5iI) |
-| 24 | 東京 🇯🇵 日式甜點新潮流：進化系羊羹 \| 紅豆控必看，迷你羊羹總整理！ | 13:31 | 觀看次數：9241次 | 11 個月前 | [YouTube](https://www.youtube.com/watch?v=8tJtr3aI6Mk) |
+| 24 | 東京 🇯🇵 日式甜點新潮流：進化系羊羹 \| 紅豆控必看，迷你羊羹總整理！ | 13:31 | 觀看次數：9242次 | 11 個月前 | [YouTube](https://www.youtube.com/watch?v=8tJtr3aI6Mk) |
 | 25 | 銀座三越🍰🥪獎勵自己的甜點＆輕食16選｜推薦的日式和洋點心｜百貨地下美食戰利品 | 15:10 | 觀看次數：4.4萬次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=Wu0r7snJatA) |
 | 26 | 東京🥯正宗貝果店的蘭姆葡萄、豆腐奶酪、紅豆奶油等口味｜貝果三明治｜貝果專賣店・咖啡廳 | 15:04 | 觀看次數：3.4萬次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=gmVkGWBNNCI) |
 | 27 | 東京🥐🇫🇷正宗法式風味，超美味的8間人氣麵包店推薦｜榮獲大獎的可麗露｜麵包咖啡廳／法式烘焙坊 | 13:50 | 觀看次數：2.2萬次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=P9Q-es7FW18) |
@@ -52,7 +52,7 @@
 | 43 | 表参道 \| 並ばず美味しいパン屋🍞お買得エコパン \| 激カワ🇺🇲カフェ \| ドーナツ | 10:05 | 觀看次數：4781次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=hxWSFYv89X4) |
 | 44 | 中目黑🍞超人氣「AMAM DACOTAN」系列新店「DACO」全新開幕｜東京烘焙咖啡廳 | 8:11 | 觀看次數：9371次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=rNpyV0DWFl4) |
 | 45 | 自由が丘 \| 黒トリュフたまご🥐 いちじくサンド \| 美味しい朝の店６選 | 10:14 | 觀看次數：5738次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=66fdnk_smUA) |
-| 46 | 表參道🍞全日本最吸睛的麵包店｜超人氣 AMAM DACOTAN 推出新作｜東京烘焙咖啡廳 | 8:38 | 觀看次數：7456次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=C448-jP1Q6Q) |
+| 46 | 表參道🍞全日本最吸睛的麵包店｜超人氣 AMAM DACOTAN 推出新作｜東京烘焙咖啡廳 | 8:38 | 觀看次數：7457次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=C448-jP1Q6Q) |
 | 47 | 東京🍩生甜甜圈｜連大人也著迷的人氣甜點｜I'm donut? 澀谷店 | 8:30 | 觀看次數：1.1萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=SO3boNbVA_Q) |
 | 48 | 東京🥯抹茶紅豆奶油起司・鮪魚酪梨・生貝果等絕品嚴選9款｜麵包店巡禮 | 9:07 | 觀看次數：1.2萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=j2YpwWjKtWQ) |
 | 49 | 東京🍞大好きあんバター \| フレンチトースト \| 美味しすぎるパン屋 | 9:11 | 觀看次數：3643次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=XnPwlU2FPbI) |

@@ -3,15 +3,17 @@
 - 頻道：[Unique Japan Travel](https://www.youtube.com/@UniqueJapanTravel)
 - 抓取日期：2026-06-24
 - 整理流程：本輪重新抓取 YouTube 頻道影片清單；舊影片地點沿用既有抽取資料，新增影片解析 YouTube 描述欄/章節。
-- 本檔整理影片：45 部；本輪新增或補抓描述欄：0 部。
+- 本檔整理影片：45 部；本輪新增或補抓描述欄：6 部。
 - 店家/地點總筆數：188 筆；原始 Google/Share 地圖連結 0 筆，搜尋補足 188 筆，Naver Map 0 筆。
 - Google Maps 評分本輪未逐筆重查；既有評分保留，新增列標示未取得。
 - 無店家資料影片清單：見 [uniquejapantravel_no_places.md](./uniquejapantravel_no_places.md)。
 
+- 本輪新增/補抓影片 ID：VuTSYsjCbyU, pzh6-mjOrLU, pYYSfJ72aoc, bRJiC1H4FjA, faekqlm7mM0, Ve8tPcZOtto
+
 ## 1. 走進日本最美自然秘境｜長野上高地寧靜晨間散步｜日本旅行Vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=NXS0MSn3Ldg)
-- 發布時間：3 天前；觀看次數：4.4萬次
+- 發布時間：3 天前；觀看次數：4.5萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -386,7 +388,7 @@
 ## 29. 東京鄉村，距離新宿 1 小時 \| 吉卜力般的夏天 \| 日本旅遊影片博客
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=6Vqf7F_Jy60)
-- 發布時間：1 年前；觀看次數：98萬次
+- 發布時間：1 年前；觀看次數：99萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |

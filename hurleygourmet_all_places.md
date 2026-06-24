@@ -3,15 +3,17 @@
 - 頻道：[ハーリーのグルメ](https://www.youtube.com/@hurleygourmet)
 - 抓取日期：2026-06-24
 - 整理流程：本輪重新抓取 YouTube 頻道影片清單；舊影片地點沿用既有抽取資料，新增影片解析 YouTube 描述欄/章節。
-- 本檔整理影片：292 部；本輪新增或補抓描述欄：0 部。
+- 本檔整理影片：292 部；本輪新增或補抓描述欄：24 部。
 - 店家/地點總筆數：1832 筆；原始 Google/Share 地圖連結 0 筆，搜尋補足 1832 筆，Naver Map 0 筆。
 - Google Maps 評分本輪未逐筆重查；既有評分保留，新增列標示未取得。
 - 無店家資料影片清單：見 [hurleygourmet_no_places.md](./hurleygourmet_no_places.md)。
 
-## 1. 東京駅直結！今だけ限定メロンビュッフェが最高だった...
+- 本輪新增/補抓影片 ID：4rWNJcd86gc, fF23iuxXokA, CPsgj7IyfOw, -VBzi47AZr8, B0AmrwXsnuk, Idm1SSVKFH4, PVl5nLZTDu0, 3rHPH23tA-0, 6iAJQmmBEpM, UoZFrt2fztU, 5eDOyR7D11o, QdBWRXDqZo8, 6LTzJ3lKPKY, EJUREjt2aFI, JIN2X4vVBiY, GJJz6f97xqQ, YDrxAKSSlRA, bAuIve8XnIM, Wtm5KviECho, 2FLbyEub7c8 ...
+
+## 1. 【東京食べ放題】今だけ限定メロンビュッフェが最高だった...
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=V_nH-ApoJ0M)
-- 發布時間：3 天前；觀看次數：2.3萬次
+- 發布時間：3 天前；觀看次數：2.4萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |

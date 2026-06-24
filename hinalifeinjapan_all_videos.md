@@ -7,25 +7,25 @@
 
 | # | 影片標題 | 發布時間 | 觀看次數 | 店家/地點筆數 | 影片連結 |
 | --- | --- | --- | --- | ---: | --- |
-| 1 | BEST 10 GINZA FOOD & SHOPPING ULTIMATE GUIDE: Japan Travel Guide 2026 | 23 小時前 | 觀看次數：1158次 | 8 | [YouTube](https://www.youtube.com/watch?v=0gHWWqe2RLY) |
-| 2 | tokyo diaries: exploring tokyo itinerary \| harajuku, omotesando coffee shops, food, shopping! | 4 天前 | 觀看次數：1031次 | 9 | [YouTube](https://www.youtube.com/watch?v=VlAaqrYfdnE) |
-| 3 | BEST 11 MUST-VISIT ULTIMATE COFFEE SHOPS IN TOKYO, JAPAN☕️｜Tokyo vlog 2026 | 9 天前 | 觀看次數：2169次 | 0 | [YouTube](https://www.youtube.com/watch?v=KdTHr04LcoQ) |
-| 4 | japan dairies｜Souvenir Shopping at Shibuya MEGA Don Quijote in 2026 | 13 天前 | 觀看次數：1155次 | 6 | [YouTube](https://www.youtube.com/watch?v=n_nG_GjKVvI) |
+| 1 | BEST 10 GINZA FOOD & SHOPPING ULTIMATE GUIDE: Japan Travel Guide 2026 | 1 天前 | 觀看次數：1252次 | 8 | [YouTube](https://www.youtube.com/watch?v=0gHWWqe2RLY) |
+| 2 | tokyo diaries: exploring tokyo itinerary \| harajuku, omotesando coffee shops, food, shopping! | 5 天前 | 觀看次數：1037次 | 9 | [YouTube](https://www.youtube.com/watch?v=VlAaqrYfdnE) |
+| 3 | BEST 11 MUST-VISIT ULTIMATE COFFEE SHOPS IN TOKYO, JAPAN☕️｜Tokyo vlog 2026 | 10 天前 | 觀看次數：2169次 | 0 | [YouTube](https://www.youtube.com/watch?v=KdTHr04LcoQ) |
+| 4 | japan dairies｜Souvenir Shopping at Shibuya MEGA Don Quijote in 2026 | 2 週前 | 觀看次數：1157次 | 6 | [YouTube](https://www.youtube.com/watch?v=n_nG_GjKVvI) |
 | 5 | Tokyo Vlog 2026 🇯🇵 Nakameguro, Daikanyama, Jiyugaoka  Cafes & Shopping \| Japan Travel Guide | 2 週前 | 觀看次數：1681次 | 7 | [YouTube](https://www.youtube.com/watch?v=-iodvyH_GRE) |
-| 6 | My FAVORITE Tonkatsu Spots in Tokyo 🇯🇵🍱 \| 10 Must-Try Places You Can't Miss in Japan | 2 週前 | 觀看次數：2799次 | 9 | [YouTube](https://www.youtube.com/watch?v=84p9VmPu1ZY) |
-| 7 | japan diaries: exploring tokyo + full 5 day itinerary \| coffee shops, food, shopping! | 3 週前 | 觀看次數：3905次 | 12 | [YouTube](https://www.youtube.com/watch?v=HcSvq3GprBE) |
-| 8 | BEST 10 Must - Visit Ginza, Tokyo🇯🇵｜ Tonkatsu, Shopping, Ginza Mitsukoshi & Sightseeing | 4 週前 | 觀看次數：6798次 | 10 | [YouTube](https://www.youtube.com/watch?v=u0OxEP4ctlA) |
+| 6 | My FAVORITE Tonkatsu Spots in Tokyo 🇯🇵🍱 \| 10 Must-Try Places You Can't Miss in Japan | 3 週前 | 觀看次數：2804次 | 9 | [YouTube](https://www.youtube.com/watch?v=84p9VmPu1ZY) |
+| 7 | japan diaries: exploring tokyo + full 5 day itinerary \| coffee shops, food, shopping! | 4 週前 | 觀看次數：3905次 | 12 | [YouTube](https://www.youtube.com/watch?v=HcSvq3GprBE) |
+| 8 | BEST 10 Must - Visit Ginza, Tokyo🇯🇵｜ Tonkatsu, Shopping, Ginza Mitsukoshi & Sightseeing | 1 個月前 | 觀看次數：6799次 | 10 | [YouTube](https://www.youtube.com/watch?v=u0OxEP4ctlA) |
 | 9 | BEST 11 Michelin Guide Tokyo Restaurants 2026  \| Japan Ultimate Guide🗼🇯🇵 | 1 個月前 | 觀看次數：5970次 | 11 | [YouTube](https://www.youtube.com/watch?v=X7Yqi4vn2IQ) |
 | 10 | BEST 11 MUST VISIT SPOTS IN TOKYO, JAPAN 2026｜Japan Travel Guide🇯🇵✨ | 1 個月前 | 觀看次數：3622次 | 9 | [YouTube](https://www.youtube.com/watch?v=Y82Di59En0A) |
 | 11 | Exploring Tokyo’s Hidden Neighborhoods｜Cafes, Local Streets & Sakura Tram｜Tokyo Vlog | 1 個月前 | 觀看次數：2442次 | 4 | [YouTube](https://www.youtube.com/watch?v=1dSMczakiuM) |
 | 12 | The best of KICHIJOJI, Tokyo🇯🇵｜Must-Visit Cafes, Inokashira Park & Local Zoo 2026🌿 | 1 個月前 | 觀看次數：1529次 | 3 | [YouTube](https://www.youtube.com/watch?v=FebbZm7bZCY) |
 | 13 | MUST-VISIT ULTIMATE FOOD SPOTS IN TOYOSU TOKYO🇯🇵｜Tokyo vlog 2026｜Toyosu Senkyaku Banrai | 1 個月前 | 觀看次數：854次 | 3 | [YouTube](https://www.youtube.com/watch?v=c-WTmPYV_GQ) |
-| 14 | TOKYO STATION FOOD & SHOPPING ULTIMATE GUIDE 2026｜Tokyo vlog🗼｜Marunouchi Walk | 1 個月前 | 觀看次數：3408次 | 5 | [YouTube](https://www.youtube.com/watch?v=1BjWBbAcw7U) |
+| 14 | TOKYO STATION FOOD & SHOPPING ULTIMATE GUIDE 2026｜Tokyo vlog🗼｜Marunouchi Walk | 1 個月前 | 觀看次數：3410次 | 5 | [YouTube](https://www.youtube.com/watch?v=1BjWBbAcw7U) |
 | 15 | Tokyo Vlog 2026🌸 \| Must-Visit Tokyo｜Most loved neighborhoods, nakameguro & daikanyama | 1 個月前 | 觀看次數：2650次 | 5 | [YouTube](https://www.youtube.com/watch?v=MEW07RHN6Mc) |
 | 16 | TOYOSU FISH MARKET Tokyo 2026: Uogashi Yokocho & Best Kaisendon \| Japan Food Guide🐟 | 2 個月前 | 觀看次數：1931次 | 2 | [YouTube](https://www.youtube.com/watch?v=QgYKo7Hrj8g) |
 | 17 | BEST 12 MUST-VISIT ULTIMATE COFFEE SHOPS IN TOKYO, JAPAN☕️🍴｜Tokyo vlog 2026 | 2 個月前 | 觀看次數：5814次 | 13 | [YouTube](https://www.youtube.com/watch?v=1z9yNq9QZVc) |
 | 18 | MUST-VISIT ULTIMATE FOOD & CAFE SPOTS IN GINZA, TOKYO 🇯🇵｜Tokyo Vlog 2026｜Ginza Guide | 2 個月前 | 觀看次數：1.2萬次 | 7 | [YouTube](https://www.youtube.com/watch?v=lTWdEqSJZxs) |
-| 19 | HOW TO SPEND 5 DAYS IN TOKYO 2026 \| The Complete Tokyo Itinerary Where to Eat, Stay & Visit | 2 個月前 | 觀看次數：5401次 | 0 | [YouTube](https://www.youtube.com/watch?v=cPc6rpLRazM) |
+| 19 | HOW TO SPEND 5 DAYS IN TOKYO 2026 \| The Complete Tokyo Itinerary Where to Eat, Stay & Visit | 2 個月前 | 觀看次數：5402次 | 0 | [YouTube](https://www.youtube.com/watch?v=cPc6rpLRazM) |
 | 20 | MUST-VISIT ULTIMATE FOOD SPOTS IN TSUKIJI, TOKYO🇯🇵｜Tokyo vlog 2026｜Tsukiji Outer Market | 2 個月前 | 觀看次數：1.6萬次 | 13 | [YouTube](https://www.youtube.com/watch?v=VKiiTmD8Iqs) |
 | 21 | BEST MUST-BUY SOUVENIRS🗼 WHAT YOU NEED TO GET｜Tokyo Vlog 2026 | 2 個月前 | 觀看次數：5431次 | 0 | [YouTube](https://www.youtube.com/watch?v=a7V_tDGWvIk) |
 | 22 | BEST 10 MUST-VISIT ULTIMATE COFFEE SHOPS IN TOKYO, JAPAN☕️｜Tokyo vlog 2026 | 2 個月前 | 觀看次數：1.8萬次 | 14 | [YouTube](https://www.youtube.com/watch?v=zJPqthuoOLQ) |
@@ -41,8 +41,8 @@
 | 32 | Tokyo Vlog 🗼✨ A Winter Guide to Shopping, Eating and Coffee in Tokyo | 4 個月前 | 觀看次數：1976次 | 14 | [YouTube](https://www.youtube.com/watch?v=fVIwSECYBgk) |
 | 33 | Life in Tokyo｜Exploring Tokyo Between History and Modern Life Around the City Core | 4 個月前 | 觀看次數：1473次 | 9 | [YouTube](https://www.youtube.com/watch?v=KYq-X4i_ebo) |
 | 34 | Life in Tokyo \| Asakusa, Skytree Area & Local Tokyo in 3 Days | 4 個月前 | 觀看次數：1646次 | 4 | [YouTube](https://www.youtube.com/watch?v=H1eG3mU17T4) |
-| 35 | Tokyo Vlog \| Art & Museums, Cafes and Bars, City Nights in the Heart of Tokyo | 4 個月前 | 觀看次數：3221次 | 13 | [YouTube](https://www.youtube.com/watch?v=oy5aabAdQ58) |
-| 36 | Tokyo Neighborhoods｜Cafes, Gachapon & Retro Spots \| Life in Tokyo VLOG | 5 個月前 | 觀看次數：2854次 | 8 | [YouTube](https://www.youtube.com/watch?v=9mYXx7NxAv8) |
+| 35 | Tokyo Vlog \| Art & Museums, Cafes and Bars, City Nights in the Heart of Tokyo | 4 個月前 | 觀看次數：3222次 | 13 | [YouTube](https://www.youtube.com/watch?v=oy5aabAdQ58) |
+| 36 | Tokyo Neighborhoods｜Cafes, Gachapon & Retro Spots \| Life in Tokyo VLOG | 5 個月前 | 觀看次數：2856次 | 8 | [YouTube](https://www.youtube.com/watch?v=9mYXx7NxAv8) |
 | 37 | Life in Tokyo｜A Local Tokyo Walk Along the Setagaya Line | 5 個月前 | 觀看次數：1209次 | 7 | [YouTube](https://www.youtube.com/watch?v=kEWIJS-edSk) |
 | 38 | Life in Tokyo｜Spending 5 Days in Tokyo: Cafes, Thrift Shopping & Travel | 5 個月前 | 觀看次數：6205次 | 19 | [YouTube](https://www.youtube.com/watch?v=HOVPfbroWBg) |
 | 39 | Life in Tokyo｜Spending the Day in Tokyo, Exploring Retro and Deep Nakano | 5 個月前 | 觀看次數：3855次 | 4 | [YouTube](https://www.youtube.com/watch?v=oS9Wg4ir5So) |
@@ -53,7 +53,7 @@
 | 44 | Life in Tokyo｜Vintage Finds, Cozy Cafes & Tokyo Streets☕️🎧 | 6 個月前 | 觀看次數：4212次 | 18 | [YouTube](https://www.youtube.com/watch?v=a-bPndpKXiA) |
 | 45 | Life in Tokyo｜Souvenir Shopping at Shibuya MEGA Don Quijote in 2025 | 6 個月前 | 觀看次數：6566次 | 0 | [YouTube](https://www.youtube.com/watch?v=c49HPxAcrCY) |
 | 46 | Life in Tokyo｜The Quiet Side of Shinjuku & Toshima Edition, Cozy Cafes & Shoppin 2025 | 6 個月前 | 觀看次數：2147次 | 10 | [YouTube](https://www.youtube.com/watch?v=EwwWbI13wss) |
-| 47 | BEST 10  Michelin Guide Tokyo Restaurants & Tabelogu Top 100 Restaurants in TOKYO｜Japan Food Guide🇯🇵 | 6 個月前 | 觀看次數：6598次 | 10 | [YouTube](https://www.youtube.com/watch?v=3mHmU2zBgLM) |
+| 47 | BEST 10  Michelin Guide Tokyo Restaurants & Tabelogu Top 100 Restaurants in TOKYO｜Japan Food Guide🇯🇵 | 6 個月前 | 觀看次數：6600次 | 10 | [YouTube](https://www.youtube.com/watch?v=3mHmU2zBgLM) |
 | 48 | Life in Tokyo｜10 Favorite Tokyo Spots: My Go-To Japanese Restaurants & Cozy Cafes 2025 | 6 個月前 | 觀看次數：3194次 | 10 | [YouTube](https://www.youtube.com/watch?v=Ze0IizspsQA) |
 | 49 | Life in Tokyo｜Old-Town Atmosphere, Cozy Cafes & Retro Shops 2025 | 6 個月前 | 觀看次數：4916次 | 9 | [YouTube](https://www.youtube.com/watch?v=6Sr7Z0XQa5c) |
 | 50 | Life in Tokyo｜Exploring New Spots, Shopping & Cafe Hopping 2025 | 6 個月前 | 觀看次數：8124次 | 10 | [YouTube](https://www.youtube.com/watch?v=kOlkaHbBZMY) |
@@ -65,7 +65,7 @@
 | 56 | HOW TO SPEND 3DAYS IN TOKYO, JAPAN｜Japan Ultimate Guide 2025 | 7 個月前 | 觀看次數：1779次 | 14 | [YouTube](https://www.youtube.com/watch?v=H37BTHmfYXc) |
 | 57 | BEST 10 WHAT I EAT IN A DAY IN TOKYO 2025｜Japan Ultimate Guide | 7 個月前 | 觀看次數：2994次 | 10 | [YouTube](https://www.youtube.com/watch?v=TbSsmQKWbjA) |
 | 58 | THE PERFECT 72HOURS ITINERARY IN TOKYO🗼🍡｜Japan Ultimate Guide 2025 | 7 個月前 | 觀看次數：4785次 | 13 | [YouTube](https://www.youtube.com/watch?v=O4cv7FBaR_0) |
-| 59 | THE BEST MATCHA SPOTS IN JAPAN 2025｜Japan Ultimate Guide | 8 個月前 | 觀看次數：3387次 | 11 | [YouTube](https://www.youtube.com/watch?v=ROf3HBnMTt8) |
+| 59 | THE BEST MATCHA SPOTS IN JAPAN 2025｜Japan Ultimate Guide | 8 個月前 | 觀看次數：3389次 | 11 | [YouTube](https://www.youtube.com/watch?v=ROf3HBnMTt8) |
 | 60 | WHAT TO DO IN TOKYO FOR 3 DAYS🗼 \| Japan Ultimate Guide 2025 | 8 個月前 | 觀看次數：4833次 | 14 | [YouTube](https://www.youtube.com/watch?v=cd9plh515Yw) |
 | 61 | BEST 10 MUST VISIT ULTIMATE SPOTS IN GINZA, TOKYO｜Japan Travel Guide 2025 | 8 個月前 | 觀看次數：1.2萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=TOtm9wFGoFs) |
 | 62 | BEST 20 MUST BUY SOUVENIRS at Shibuya MEGA Don Quijote｜Japan Ultimate Guide 2025 | 8 個月前 | 觀看次數：4.5萬次 | 0 | [YouTube](https://www.youtube.com/watch?v=KDzRC21PMX0) |
@@ -77,11 +77,11 @@
 | 68 | 36 HOURS IN KYOTO, JAPAN｜YOU MUST - VISIT ULTIMATE KYOTO SPOTS IN 2025 | 9 個月前 | 觀看次數：1615次 | 0 | [YouTube](https://www.youtube.com/watch?v=lIFmkdTlolc) |
 | 69 | MUST-THINGS TO DO IN TOKYO, JAPAN 2025  \| TOKYO BEAUTIFUL TRADITIONAL SPOTS | 9 個月前 | 觀看次數：3009次 | 18 | [YouTube](https://www.youtube.com/watch?v=KgGlPBfvLA4) |
 | 70 | BEST 10 FOODS YOU MUST TRY IN TOKYO, JAPAN ｜Food and Travel Guide 2025 | 9 個月前 | 觀看次數：2957次 | 21 | [YouTube](https://www.youtube.com/watch?v=OvWBmxhzQlo) |
-| 71 | BEST 10 MUST VISIT SPOTS IN OSAKA,JAPAN 2025｜Japan Ultimate Guide | 9 個月前 | 觀看次數：1638次 | 0 | [YouTube](https://www.youtube.com/watch?v=x8wmXGWN-k4) |
+| 71 | BEST 10 MUST VISIT SPOTS IN OSAKA,JAPAN 2025｜Japan Ultimate Guide | 10 個月前 | 觀看次數：1638次 | 0 | [YouTube](https://www.youtube.com/watch?v=x8wmXGWN-k4) |
 | 72 | THE BEST 5-DAY ITINERARY FOR FIRST TIMETRS IN TOKYO｜Japan Ultimate Guide | 10 個月前 | 觀看次數：4976次 | 0 | [YouTube](https://www.youtube.com/watch?v=kPko3RNQyO0) |
 | 73 | BEST 10 MUST-BUY ULTIMATE SOUVENIR IN TOKYO, HANEDA｜Japan Travel Guide 2025 | 10 個月前 | 觀看次數：3675次 | 0 | [YouTube](https://www.youtube.com/watch?v=b1LxLxgceYY) |
 | 74 | THE PERFECT 72HOURS ITINERARY IN TOKYO｜Japan Ultimate Guide 2025 | 10 個月前 | 觀看次數：2272次 | 0 | [YouTube](https://www.youtube.com/watch?v=epXLBUY1NDI) |
-| 75 | BEST 10 MUST - VISIT TOKYO STATION FOOD & SHOPPING SPOTS｜Japan Ultimate Guide 2025 | 10 個月前 | 觀看次數：6370次 | 0 | [YouTube](https://www.youtube.com/watch?v=oozeAGv-AdU) |
+| 75 | BEST 10 MUST - VISIT TOKYO STATION FOOD & SHOPPING SPOTS｜Japan Ultimate Guide 2025 | 10 個月前 | 觀看次數：6373次 | 0 | [YouTube](https://www.youtube.com/watch?v=oozeAGv-AdU) |
 | 76 | TOKYO HANEDA AIRPORT ULTIMATE GUIDE 2025｜Restaurants, Rooftop , Shower Rooms | 10 個月前 | 觀看次數：3268次 | 0 | [YouTube](https://www.youtube.com/watch?v=Ds6k8cYw7rU) |
 | 77 | BEST 10 WHAT I EAT IN A DAY TOKYO, JAPAN 2025｜Japan Ultimate Guide | 10 個月前 | 觀看次數：2365次 | 0 | [YouTube](https://www.youtube.com/watch?v=5q0PWYibnTg) |
 | 78 | BEST 10 MUST THINGS TO DO IN TOKYO, JAPAN Japan Ultimate Guide 2025 | 10 個月前 | 觀看次數：1155次 | 1 | [YouTube](https://www.youtube.com/watch?v=kSGOVYjSti4) |
@@ -89,11 +89,11 @@
 | 80 | TOP 50 MUST VISIT SPOTS IN TOKYO, JAPAN  \| Japan Ultimate Guide 2025 | 11 個月前 | 觀看次數：1萬次 | 0 | [YouTube](https://www.youtube.com/watch?v=DAM70d6b1j4) |
 | 81 | 10 MUST VISIT GINZA,TOKYO JAPAN 2025｜Japan Travel Guide | 11 個月前 | 觀看次數：8155次 | 10 | [YouTube](https://www.youtube.com/watch?v=-tyyQgx2hl0) |
 | 82 | BEST 10 WHAT I EAT IN A DAY TOKYO 2025｜Japanese Traditional Foods | 11 個月前 | 觀看次數：4827次 | 0 | [YouTube](https://www.youtube.com/watch?v=56dUnxWTbvs) |
-| 83 | BEST 23 Michelin Guide Tokyo Restaurants 2025  \| Japan Ultimate Guide | 11 個月前 | 觀看次數：6.5萬次 | 23 | [YouTube](https://www.youtube.com/watch?v=H7dn5qrViCY) |
+| 83 | BEST 23 Michelin Guide Tokyo Restaurants 2025  \| Japan Ultimate Guide | 1 年前 | 觀看次數：6.5萬次 | 23 | [YouTube](https://www.youtube.com/watch?v=H7dn5qrViCY) |
 | 84 | BEST 20 WHAT I EAT IN A DAY TOKYO, JAPAN: Japan Ultimate Guide 2025 | 1 年前 | 觀看次數：3292次 | 18 | [YouTube](https://www.youtube.com/watch?v=SAVL6zlxG60) |
 | 85 | BEST 26 MUST-BUY SOUVENIRS IN SHIBUYA MEGA Don Quijote 2025 ｜Japan Ultimate Guide | 1 年前 | 觀看次數：7463次 | 0 | [YouTube](https://www.youtube.com/watch?v=9qKLm_mx5W4) |
 | 86 | BEST 10 MUST VISIT SPOTS IN GINZA,TOKYO 2025｜Japan Travel Guide | 1 年前 | 觀看次數：1.1萬次 | 9 | [YouTube](https://www.youtube.com/watch?v=loii-xgQmfg) |
-| 87 | TOP 10 MUST-TRY TONKATSU SPOTS IN TOKYO｜Japan Ultimate Guide 2025 | 1 年前 | 觀看次數：5669次 | 10 | [YouTube](https://www.youtube.com/watch?v=vgYBmNSQjkk) |
+| 87 | TOP 10 MUST-TRY TONKATSU SPOTS IN TOKYO｜Japan Ultimate Guide 2025 | 1 年前 | 觀看次數：5674次 | 10 | [YouTube](https://www.youtube.com/watch?v=vgYBmNSQjkk) |
 | 88 | HOW TO SPEND 5 DAYS IN TOKYO 2025｜Japan Ultimate Guide | 1 年前 | 觀看次數：5452次 | 0 | [YouTube](https://www.youtube.com/watch?v=XRCeiu1eKW8) |
 | 89 | BEST 10 MUST - VISIT SPOTS IN TOKYO, JAPAN 2025｜Japan Ultimate Guide | 1 年前 | 觀看次數：7693次 | 10 | [YouTube](https://www.youtube.com/watch?v=IVKuzZmnQ0g) |
 | 90 | BEST 15 MUST-BUY ULTIMATE SOUVENIRS IN SHIBUYA MEGA Don Quijote 2025 ｜Tokyo Travel Guide | 1 年前 | 觀看次數：2292次 | 1 | [YouTube](https://www.youtube.com/watch?v=wgPQZZ4fv1I) |
@@ -213,7 +213,7 @@
 | 204 | BEST5 ULTIMATE JAPANESE FOOD TOUR IN TOKYO: Japanese Cuisine Guide 2023 | 2 年前 | 觀看次數：231次 | 0 | [YouTube](https://www.youtube.com/watch?v=0hTQrldjTf8) |
 | 205 | NEW IN TOKYO: The absolute guide to The Harry Potter Warner Brothers Studio Tour Tokyo | 2 年前 | 觀看次數：528次 | 0 | [YouTube](https://www.youtube.com/watch?v=YbMcfsNfCLA) |
 | 206 | BEST10 JAPANESE FOOD & DRINK TOUR IN TOKYO: IZAKAYA BAR HOPPING | 2 年前 | 觀看次數：4858次 | 0 | [YouTube](https://www.youtube.com/watch?v=n9BF1dM8PKQ) |
-| 207 | BEST 10 JAPANESE FOOD TOUR IN JAPAN, CHIBA : JAPAN TRAVEL GUIDE  2023 | 2 年前 | 觀看次數：1163次 | 0 | [YouTube](https://www.youtube.com/watch?v=e204exccyJU) |
+| 207 | BEST 10 JAPANESE FOOD TOUR IN JAPAN, CHIBA : JAPAN TRAVEL GUIDE  2023 | 2 年前 | 觀看次數：1164次 | 0 | [YouTube](https://www.youtube.com/watch?v=e204exccyJU) |
 | 208 | ICHIRAN JAPANESE CUISINE : THE MOST FAMOUS RAMEN RESTAURANT | 2 年前 | 觀看次數：434次 | 0 | [YouTube](https://www.youtube.com/watch?v=k5w3RsWg_E0) |
 | 209 | JAPANESE SPECIAL LOCAL FOOD TOUR IN NAGANO: JAPAN TRAVEL GUIDE 2023 | 2 年前 | 觀看次數：3768次 | 0 | [YouTube](https://www.youtube.com/watch?v=VcHh-SWAyxI) |
 | 210 | BEST 3 LUXURY JAPANESE BUFFET: Great Viewing Buffet in Tokyo 2023 | 2 年前 | 觀看次數：1.8萬次 | 0 | [YouTube](https://www.youtube.com/watch?v=aoUc-xVndrY) |

@@ -7,7 +7,7 @@
 
 | # | 影片標題 | 發布時間 | 觀看次數 | 店家/地點筆數 | 影片連結 |
 | --- | --- | --- | --- | ---: | --- |
-| 1 | 東京駅直結！今だけ限定メロンビュッフェが最高だった... | 3 天前 | 觀看次數：2.3萬次 | 3 | [YouTube](https://www.youtube.com/watch?v=V_nH-ApoJ0M) |
+| 1 | 【東京食べ放題】今だけ限定メロンビュッフェが最高だった... | 3 天前 | 觀看次數：2.4萬次 | 3 | [YouTube](https://www.youtube.com/watch?v=V_nH-ApoJ0M) |
 | 2 | 【東京駅ランチ10選】ミシュラン10年連続獲得店など、最高の東京駅ランチ | 4 天前 | 觀看次數：2.5萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=7FF4Rk4dNpE) |
 | 3 | 【東京食べ放題】ハーゲンダッツも食べ放題ビュッフェがスタート！ | 2 週前 | 觀看次數：2.3萬次 | 0 | [YouTube](https://www.youtube.com/watch?v=4rWNJcd86gc) |
 | 4 | ここ行けば間違いない | 2 週前 | 觀看次數：7.2萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=f5fSw52UBzE) |

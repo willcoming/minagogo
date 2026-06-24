@@ -3,10 +3,12 @@
 - 頻道：[MissLiv 日本旅行和生活](https://www.youtube.com/@missliv)
 - 抓取日期：2026-06-24
 - 整理流程：本輪重新抓取 YouTube 頻道影片清單；舊影片地點沿用既有抽取資料，新增影片解析 YouTube 描述欄/章節。
-- 本檔整理影片：138 部；本輪新增或補抓描述欄：0 部。
+- 本檔整理影片：138 部；本輪新增或補抓描述欄：66 部。
 - 店家/地點總筆數：239 筆；原始 Google/Share 地圖連結 0 筆，搜尋補足 239 筆，Naver Map 0 筆。
 - Google Maps 評分本輪未逐筆重查；既有評分保留，新增列標示未取得。
 - 無店家資料影片清單：見 [missliv_no_places.md](./missliv_no_places.md)。
+
+- 本輪新增/補抓影片 ID：_B95wm93E0Y, 5Ie-F2c0DzM, QjWf_SOU2P4, IbGRuONLjlY, 8TnGeBskg6I, M6XOriOCHko, rekSaipvJKg, MOc1E4AMaDU, U_il1ni7CGI, vHxVA5enUs4, nciuXZinD94, 048kUxWRgGY, VrcbEB4PZnc, KzRqWYz4VHw, 92LobfkGabk, nzGAITeMxqQ, Y7HmIcb8jbE, mOL2AACqfQs, A3nZyR0Jrig, 6xHWZV6-EdU ...
 
 ## 2. 【科隆＆狼堡3日自由行】挑戰德國暗黑美食「生豬肉麵包」｜念念不忘的德國豬腳｜科隆半日遊｜狼堡 尋找金龜車的故鄉｜Germany Vlog｜歐洲35天旅行
 
@@ -523,7 +525,7 @@
 ## 95. 【2022 橫濱聖誕市集】享受今年的最後一個月｜未來港 燈光藝術照明｜橫濱紅倉庫｜日本旅行｜Tokyo vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=ZjJpCSaLZt0)
-- 發布時間：3 年前；觀看次數：8154次
+- 發布時間：3 年前；觀看次數：8155次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |

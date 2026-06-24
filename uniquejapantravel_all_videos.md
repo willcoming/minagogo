@@ -7,7 +7,7 @@
 
 | # | 影片標題 | 發布時間 | 觀看次數 | 店家/地點筆數 | 影片連結 |
 | --- | --- | --- | --- | ---: | --- |
-| 1 | 走進日本最美自然秘境｜長野上高地寧靜晨間散步｜日本旅行Vlog | 3 天前 | 觀看次數：4.4萬次 | 8 | [YouTube](https://www.youtube.com/watch?v=NXS0MSn3Ldg) |
+| 1 | 走進日本最美自然秘境｜長野上高地寧靜晨間散步｜日本旅行Vlog | 3 天前 | 觀看次數：4.5萬次 | 8 | [YouTube](https://www.youtube.com/watch?v=NXS0MSn3Ldg) |
 | 2 | 搭乘地方列車漫遊岐阜鮮為人知的鄉村療癒之旅｜日本旅行Vlog | 4 週前 | 觀看次數：39萬次 | 6 | [YouTube](https://www.youtube.com/watch?v=9nuy4ingnGM) |
 | 3 | 日本鄉間的春天｜搭乘地方列車前往隱藏的櫻花村｜日本旅行Vlog | 1 個月前 | 觀看次數：40萬次 | 5 | [YouTube](https://www.youtube.com/watch?v=Y8DPDVgBmHY) |
 | 4 | 東京近郊秘境海濱小鎮｜搭電車一日遊鮪魚之城三崎｜日本旅行Vlog | 2 個月前 | 觀看次數：22萬次 | 6 | [YouTube](https://www.youtube.com/watch?v=yqRfrCCSCyY) |
@@ -35,7 +35,7 @@
 | 26 | 入住東京唯一的村莊，距離新宿 90 分鐘 \| 日本旅遊影片博客 | 1 年前 | 觀看次數：4.5萬次 | 2 | [YouTube](https://www.youtube.com/watch?v=xprNynaJOIk) |
 | 27 | 享受東京附近的大自然 \| 秋季日光一日遊 \| 日本旅遊影片博客 | 1 年前 | 觀看次數：6.4萬次 | 5 | [YouTube](https://www.youtube.com/watch?v=FeqWDE_Fbyw) |
 | 28 | 東京老城區一日遊 \| 日本旅遊影片博客 | 1 年前 | 觀看次數：11萬次 | 3 | [YouTube](https://www.youtube.com/watch?v=0w_VfGbXCp8) |
-| 29 | 東京鄉村，距離新宿 1 小時 \| 吉卜力般的夏天 \| 日本旅遊影片博客 | 1 年前 | 觀看次數：98萬次 | 3 | [YouTube](https://www.youtube.com/watch?v=6Vqf7F_Jy60) |
+| 29 | 東京鄉村，距離新宿 1 小時 \| 吉卜力般的夏天 \| 日本旅遊影片博客 | 1 年前 | 觀看次數：99萬次 | 3 | [YouTube](https://www.youtube.com/watch?v=6Vqf7F_Jy60) |
 | 30 | 歡迎來到秘密的東京，從淺草搭火車只需 5 分鐘 \| 日本旅遊 vlog | 1 年前 | 觀看次數：19萬次 | 4 | [YouTube](https://www.youtube.com/watch?v=fKwLuoJ_Gjk) |
 | 31 | 東京鄉村一日遊，距離新宿 40 分鐘路程 \| 日本旅遊影片博客 | 1 年前 | 觀看次數：123萬次 | 3 | [YouTube](https://www.youtube.com/watch?v=zuGSnI9c7N0) |
 | 32 | 東京淺草 10 種必嘗日本料理 \| 日本旅遊指南 2024 | 1 年前 | 觀看次數：3萬次 | 0 | [YouTube](https://www.youtube.com/watch?v=VuTSYsjCbyU) |

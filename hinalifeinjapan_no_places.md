@@ -6,19 +6,19 @@
 
 | # | 影片標題 | 發布時間 | 觀看次數 | 影片連結 |
 | --- | --- | --- | --- | --- |
-| 3 | BEST 11 MUST-VISIT ULTIMATE COFFEE SHOPS IN TOKYO, JAPAN☕️｜Tokyo vlog 2026 | 9 天前 | 觀看次數：2169次 | [YouTube](https://www.youtube.com/watch?v=KdTHr04LcoQ) |
-| 19 | HOW TO SPEND 5 DAYS IN TOKYO 2026 \| The Complete Tokyo Itinerary Where to Eat, Stay & Visit | 2 個月前 | 觀看次數：5401次 | [YouTube](https://www.youtube.com/watch?v=cPc6rpLRazM) |
+| 3 | BEST 11 MUST-VISIT ULTIMATE COFFEE SHOPS IN TOKYO, JAPAN☕️｜Tokyo vlog 2026 | 10 天前 | 觀看次數：2169次 | [YouTube](https://www.youtube.com/watch?v=KdTHr04LcoQ) |
+| 19 | HOW TO SPEND 5 DAYS IN TOKYO 2026 \| The Complete Tokyo Itinerary Where to Eat, Stay & Visit | 2 個月前 | 觀看次數：5402次 | [YouTube](https://www.youtube.com/watch?v=cPc6rpLRazM) |
 | 21 | BEST MUST-BUY SOUVENIRS🗼 WHAT YOU NEED TO GET｜Tokyo Vlog 2026 | 2 個月前 | 觀看次數：5431次 | [YouTube](https://www.youtube.com/watch?v=a7V_tDGWvIk) |
 | 45 | Life in Tokyo｜Souvenir Shopping at Shibuya MEGA Don Quijote in 2025 | 6 個月前 | 觀看次數：6566次 | [YouTube](https://www.youtube.com/watch?v=c49HPxAcrCY) |
 | 53 | 20 MISTAKES Tourists Make in Japan You Can Avoid｜Japan Travel Guide 2025 | 7 個月前 | 觀看次數：1321次 | [YouTube](https://www.youtube.com/watch?v=XIzOCGpmWZg) |
 | 62 | BEST 20 MUST BUY SOUVENIRS at Shibuya MEGA Don Quijote｜Japan Ultimate Guide 2025 | 8 個月前 | 觀看次數：4.5萬次 | [YouTube](https://www.youtube.com/watch?v=KDzRC21PMX0) |
 | 67 | HOW TO SPEND 5 DAYS IN TOKYO \| Ultimate 5-Day Tokyo Itinerary 2025 | 9 個月前 | 觀看次數：5709次 | [YouTube](https://www.youtube.com/watch?v=Cj-tJYUfvtw) |
 | 68 | 36 HOURS IN KYOTO, JAPAN｜YOU MUST - VISIT ULTIMATE KYOTO SPOTS IN 2025 | 9 個月前 | 觀看次數：1615次 | [YouTube](https://www.youtube.com/watch?v=lIFmkdTlolc) |
-| 71 | BEST 10 MUST VISIT SPOTS IN OSAKA,JAPAN 2025｜Japan Ultimate Guide | 9 個月前 | 觀看次數：1638次 | [YouTube](https://www.youtube.com/watch?v=x8wmXGWN-k4) |
+| 71 | BEST 10 MUST VISIT SPOTS IN OSAKA,JAPAN 2025｜Japan Ultimate Guide | 10 個月前 | 觀看次數：1638次 | [YouTube](https://www.youtube.com/watch?v=x8wmXGWN-k4) |
 | 72 | THE BEST 5-DAY ITINERARY FOR FIRST TIMETRS IN TOKYO｜Japan Ultimate Guide | 10 個月前 | 觀看次數：4976次 | [YouTube](https://www.youtube.com/watch?v=kPko3RNQyO0) |
 | 73 | BEST 10 MUST-BUY ULTIMATE SOUVENIR IN TOKYO, HANEDA｜Japan Travel Guide 2025 | 10 個月前 | 觀看次數：3675次 | [YouTube](https://www.youtube.com/watch?v=b1LxLxgceYY) |
 | 74 | THE PERFECT 72HOURS ITINERARY IN TOKYO｜Japan Ultimate Guide 2025 | 10 個月前 | 觀看次數：2272次 | [YouTube](https://www.youtube.com/watch?v=epXLBUY1NDI) |
-| 75 | BEST 10 MUST - VISIT TOKYO STATION FOOD & SHOPPING SPOTS｜Japan Ultimate Guide 2025 | 10 個月前 | 觀看次數：6370次 | [YouTube](https://www.youtube.com/watch?v=oozeAGv-AdU) |
+| 75 | BEST 10 MUST - VISIT TOKYO STATION FOOD & SHOPPING SPOTS｜Japan Ultimate Guide 2025 | 10 個月前 | 觀看次數：6373次 | [YouTube](https://www.youtube.com/watch?v=oozeAGv-AdU) |
 | 76 | TOKYO HANEDA AIRPORT ULTIMATE GUIDE 2025｜Restaurants, Rooftop , Shower Rooms | 10 個月前 | 觀看次數：3268次 | [YouTube](https://www.youtube.com/watch?v=Ds6k8cYw7rU) |
 | 77 | BEST 10 WHAT I EAT IN A DAY TOKYO, JAPAN 2025｜Japan Ultimate Guide | 10 個月前 | 觀看次數：2365次 | [YouTube](https://www.youtube.com/watch?v=5q0PWYibnTg) |
 | 79 | BEST 25 MUST BUY SOUVNIRS In Shibuya Mega Don Quijote 2025 | 11 個月前 | 觀看次數：5904次 | [YouTube](https://www.youtube.com/watch?v=es5PK8aepGE) |
@@ -122,7 +122,7 @@
 | 204 | BEST5 ULTIMATE JAPANESE FOOD TOUR IN TOKYO: Japanese Cuisine Guide 2023 | 2 年前 | 觀看次數：231次 | [YouTube](https://www.youtube.com/watch?v=0hTQrldjTf8) |
 | 205 | NEW IN TOKYO: The absolute guide to The Harry Potter Warner Brothers Studio Tour Tokyo | 2 年前 | 觀看次數：528次 | [YouTube](https://www.youtube.com/watch?v=YbMcfsNfCLA) |
 | 206 | BEST10 JAPANESE FOOD & DRINK TOUR IN TOKYO: IZAKAYA BAR HOPPING | 2 年前 | 觀看次數：4858次 | [YouTube](https://www.youtube.com/watch?v=n9BF1dM8PKQ) |
-| 207 | BEST 10 JAPANESE FOOD TOUR IN JAPAN, CHIBA : JAPAN TRAVEL GUIDE  2023 | 2 年前 | 觀看次數：1163次 | [YouTube](https://www.youtube.com/watch?v=e204exccyJU) |
+| 207 | BEST 10 JAPANESE FOOD TOUR IN JAPAN, CHIBA : JAPAN TRAVEL GUIDE  2023 | 2 年前 | 觀看次數：1164次 | [YouTube](https://www.youtube.com/watch?v=e204exccyJU) |
 | 208 | ICHIRAN JAPANESE CUISINE : THE MOST FAMOUS RAMEN RESTAURANT | 2 年前 | 觀看次數：434次 | [YouTube](https://www.youtube.com/watch?v=k5w3RsWg_E0) |
 | 209 | JAPANESE SPECIAL LOCAL FOOD TOUR IN NAGANO: JAPAN TRAVEL GUIDE 2023 | 2 年前 | 觀看次數：3768次 | [YouTube](https://www.youtube.com/watch?v=VcHh-SWAyxI) |
 | 210 | BEST 3 LUXURY JAPANESE BUFFET: Great Viewing Buffet in Tokyo 2023 | 2 年前 | 觀看次數：1.8萬次 | [YouTube](https://www.youtube.com/watch?v=aoUc-xVndrY) |

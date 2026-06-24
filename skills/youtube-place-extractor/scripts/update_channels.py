@@ -546,9 +546,13 @@ def is_noise_name(line: str) -> bool:
             "today's route",
             "おすすめ動画",
             "subscribe",
+            "comment",
+            "share",
             "camera",
             "mail",
             "拍攝日期",
+            "recipe:",
+            "ig:",
         ]
     )
 
@@ -631,8 +635,12 @@ def base_place(
         map_link_type = "search"
         google_rating = "Google Maps 未取得（以搜尋連結代替）"
     else:
-        map_link_type = "direct"
-        google_rating = "Google Maps 未取得"
+        map_link_type = "search" if "google.com/maps/search" in map_url.lower() else "direct"
+        google_rating = (
+            "Google Maps 未取得（以搜尋連結代替）"
+            if map_link_type == "search"
+            else "Google Maps 未取得"
+        )
 
     return {
         "video_id": video["id"],
@@ -852,7 +860,33 @@ def looks_like_address(line: str) -> bool:
         return False
     if len(line) < 8:
         return False
-    return "," in line or any(hint in line for hint in ADDRESS_HINTS)
+    if any(hint in line for hint in ADDRESS_HINTS):
+        return True
+    return bool(re.search(r"\d{3}-\d{4}|\d+\s*Chome|\d+-\d+", line, re.I))
+
+
+def looks_like_celia_place_name(name: str) -> bool:
+    lowered = name.lower()
+    if is_noise_name(name) or len(name) > 70:
+        return False
+    if re.search(r"[。！？!?，、,.;:—]$", name):
+        return False
+    if name.count(" ") >= 8:
+        return False
+    return not any(
+        marker in lowered
+        for marker in [
+            "this is how",
+            "slow weekend",
+            "coffee hopping",
+            "quiet moments",
+            "no marriage",
+            "no kids",
+            "if you enjoy",
+            "from coffee beans",
+            "drugstore essentials",
+        ]
+    )
 
 
 def parse_celia(description: str, video: dict[str, Any], config: ChannelConfig) -> list[dict[str, Any]]:
@@ -864,7 +898,7 @@ def parse_celia(description: str, video: dict[str, Any], config: ChannelConfig) 
         address = clean_line(lines[idx + 1])
         if (
             name
-            and not is_noise_name(name)
+            and looks_like_celia_place_name(name)
             and not re.match(r"^Day\s+\d+", name, re.I)
             and not re.match(r"^(?:\d{1,2}:)?\d{1,2}:\d{2}", name)
             and looks_like_address(address)
@@ -1262,6 +1296,8 @@ def refresh_place_metadata(
 ) -> list[dict[str, Any]]:
     refreshed: list[dict[str, Any]] = []
     for place in places:
+        if not is_valid_saved_place(place, config):
+            continue
         updated = dict(place)
         updated["video_id"] = video["id"]
         updated["video_title"] = video["title"]
@@ -1275,6 +1311,18 @@ def refresh_place_metadata(
             updated["youtube_review_zh"] = updated["youtube_review"]
         refreshed.append(updated)
     return refreshed
+
+
+def is_valid_saved_place(place: dict[str, Any], config: ChannelConfig) -> bool:
+    name = clean_line(place.get("name", ""))
+    if not name or is_noise_name(name):
+        return False
+    if config.slug == "cellia1025":
+        address = clean_line(place.get("address", ""))
+        map_url = str(place.get("map_url", "")).lower()
+        if place.get("map_link_type") == "search" or "google.com/maps/search" in map_url:
+            return looks_like_celia_place_name(name) and looks_like_address(address)
+    return True
 
 
 def merge_channel(config: ChannelConfig) -> tuple[list[dict[str, Any]], list[str]]:
@@ -1303,8 +1351,9 @@ def merge_channel(config: ChannelConfig) -> tuple[list[dict[str, Any]], list[str
                 "error": merged.get("error", ""),
             }
         )
-        if old and (old.get("places") or video["id"] in old_no_places):
-            merged["places"] = refresh_place_metadata(old.get("places", []), video, config)
+        old_places = refresh_place_metadata(old.get("places", []), video, config) if old else []
+        if old_places:
+            merged["places"] = old_places
         else:
             try:
                 description, _player = fetch_video_description(video["id"])
@@ -1345,6 +1394,19 @@ def merge_channel(config: ChannelConfig) -> tuple[list[dict[str, Any]], list[str
     for index, video in enumerate(updated, 1):
         video["index"] = index
     return updated, new_video_ids
+
+
+def run_location_resolution() -> None:
+    if os.environ.get("YOUTUBE_PLACE_SKIP_LOCATION") == "1":
+        print("Skipping no-API map location resolution.", flush=True)
+        return
+    print("Resolving Google Maps links without Places API...", flush=True)
+    subprocess.run(["node", "scripts/build-places-data.mjs"], cwd=ROOT, check=True)
+    subprocess.run(
+        ["node", "scripts/resolve-map-links.mjs", "--limit=all"],
+        cwd=ROOT,
+        check=True,
+    )
 
 
 def place_timestamp(place: dict[str, Any]) -> tuple[str, int | None]:
@@ -1648,6 +1710,7 @@ def main(argv: list[str]) -> int:
     print("\nSummary")
     for slug, videos_count, places_count, new_count in summary:
         print(f"- {slug}: {videos_count} videos, {places_count} places, {new_count} new/refetched")
+    run_location_resolution()
     return 0
 
 
