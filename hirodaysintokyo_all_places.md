@@ -1,7 +1,7 @@
 # Hiro | Days in Tokyo 全頻道地點清單
 
 - 頻道：[Hiro | Days in Tokyo](https://www.youtube.com/@hirodaysintokyo)
-- 抓取日期：2026-06-22
+- 抓取日期：2026-06-24
 - 整理流程：本輪重新抓取 YouTube 頻道影片清單；舊影片地點沿用既有抽取資料，新增影片解析 YouTube 描述欄/章節。
 - 本檔整理影片：66 部；本輪新增或補抓描述欄：0 部。
 - 店家/地點總筆數：432 筆；原始 Google/Share 地圖連結 432 筆，搜尋補足 0 筆，Naver Map 0 筆。
@@ -11,7 +11,7 @@
 ## 1. 東京的詩意夏日散策：走進六義園、繡球花神社與夕陽下的谷中老街 \| 駒込・谷中Vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=5DJJrdfTOss)
-- 發布時間：1 天前；觀看次數：4493次
+- 發布時間：3 天前；觀看次數：6826次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -29,7 +29,7 @@
 ## 2. 非濾鏡下的真實東京：走進三軒茶屋的古民家咖啡、手作皮件與隱密天台 \| 大人的散步Vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=G6tqsZ_fS20)
-- 發布時間：8 天前；觀看次數：4.4萬次
+- 發布時間：10 天前；觀看次數：6萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -49,7 +49,7 @@
 ## 3. 遇見新宿的溫柔私記：綠意公園、醇香咖啡與光影藝術 \| 東京大人的散步Vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=nXo6N-b3Zig)
-- 發布時間：2 週前；觀看次數：9390次
+- 發布時間：2 週前；觀看次數：9911次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -88,7 +88,7 @@
 ## 5. 東京大人的愜意散策：隱於市的靜謐神社與現代藝術 \| 青山・赤坂・虎之門Vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=6_j_-q4GiEY)
-- 發布時間：4 週前；觀看次數：1.1萬次
+- 發布時間：1 個月前；觀看次數：1.1萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -240,7 +240,7 @@
 ## 13. 澀谷的安靜角落：走進東京「奧澀谷」的日常 \| A Quieter Side of Shibuya \| Tokyo Vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=U6HpUZ8zCVE)
-- 發布時間：2 個月前；觀看次數：2.6萬次
+- 發布時間：2 個月前；觀看次數：2.7萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -304,7 +304,7 @@
 ## 16. 城市裡的溫柔留白 \| 千駄谷、北參道散策 \| Tokyo Vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=ck60wpsD-EQ)
-- 發布時間：3 個月前；觀看次數：9680次
+- 發布時間：3 個月前；觀看次數：9700次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -479,7 +479,7 @@
 ## 25. Tokyo Life \| End of the Year \| Meiji Jingu, Shinjuku, Yaesu, Marunouchi
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=XYPJDGcKs1Y)
-- 發布時間：5 個月前；觀看次數：8719次
+- 發布時間：5 個月前；觀看次數：8783次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -500,7 +500,7 @@
 ## 26. A Day in Tokyo \| Daikanyama, Nakameguro, Ebisu / Cafés, Shops & Winter Lights \| 2025 Tokyo Vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=4KUg40STYjs)
-- 發布時間：5 個月前；觀看次數：2.7萬次
+- 發布時間：5 個月前；觀看次數：2.8萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -520,7 +520,7 @@
 ## 27. A Day in Tokyo / Ueno / Ueno Park, Book Cafe, History & Christmas Advent  \| 2025 Tokyo Vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=s1DbNaVgMcc)
-- 發布時間：6 個月前；觀看次數：4083次
+- 發布時間：6 個月前；觀看次數：4094次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -554,7 +554,7 @@
 ## 29. Tokyo After Work / Christmas Lights in Azabudai & Roppongi \| Solo Vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=ZWvjPwq4Dq0)
-- 發布時間：6 個月前；觀看次數：2038次
+- 發布時間：6 個月前；觀看次數：2039次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -567,7 +567,7 @@
 ## 30. Chasing Autumn Colors in Tokyo \| 東京で秋を探した \| Solo Tokyo Vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=xTETGrkA8gw)
-- 發布時間：6 個月前；觀看次數：5345次
+- 發布時間：6 個月前；觀看次數：5358次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -588,7 +588,7 @@
 ## 31. "Sawara"  Escape from Tokyo \| 1 Night in "Little Edo" \| Road Trip Vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=qe945dPQArM)
-- 發布時間：6 個月前；觀看次數：2647次
+- 發布時間：7 個月前；觀看次數：2662次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -606,7 +606,7 @@
 ## 32. A Quiet Autumn Day in Kichijoji \| 秋が香る吉祥寺を散策 \| Solo Tokyo Vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=f7rnfjLw80k)
-- 發布時間：7 個月前；觀看次數：4918次
+- 發布時間：7 個月前；觀看次數：4930次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -624,7 +624,7 @@
 ## 33. Day Trip from Tokyo / Yokohama, Minato Mirai / Timber Wharf & VR \| 2025 Vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=RH9u3Mfr3CU)
-- 發布時間：7 個月前；觀看次數：1945次
+- 發布時間：7 個月前；觀看次數：1949次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -698,7 +698,7 @@
 ## 37. Tokyo’s Brooklyn \| Café Hopping in Kuramae (Hidden Gem)” \| 2025 Tokyo Vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=cMEQx4A-zx0)
-- 發布時間：8 個月前；觀看次數：5964次
+- 發布時間：8 個月前；觀看次數：5981次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -712,7 +712,7 @@
 ## 38. A Magical Day in Tokyo \| Harry Potter Studio Tour \| 2025 Tokyo Vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=IbDKmmtpgK0)
-- 發布時間：8 個月前；觀看次數：1429次
+- 發布時間：8 個月前；觀看次數：1432次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -750,7 +750,7 @@
 ## 41. A Day in Tokyo : Marunoushi Edition / Museum, Coffee, Stunning Night View \| 2025 Tokyo Vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=AKV2eaxwHls)
-- 發布時間：9 個月前；觀看次數：2899次
+- 發布時間：9 個月前；觀看次數：2900次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |

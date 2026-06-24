@@ -2,7 +2,7 @@
 
 - 頻道：[老辣妹](https://www.youtube.com/@lotmainidea)
 - 分頁：[影片](https://www.youtube.com/@lotmainidea/videos)
-- 抓取日期：2026-06-22
+- 抓取日期：2026-06-24
 - 本檔整理筆數：58 部
 
 | # | 影片標題 | 長度 | 觀看次數 | 發布時間 | 影片連結 |
@@ -51,7 +51,7 @@
 | 42 | 🇯🇵只休一天假能出國嗎？名古屋一日快閃行程｜老辣妹 | 15:34 | 觀看次數：41萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=tz9h-JzM5pA) |
 | 43 | 🇯🇵全東京我最喜歡的地方！池袋深度攻略｜老辣妹 | 17:00 | 觀看次數：53萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=weXJfLGIRaU) |
 | 44 | 🇯🇵最新東京哈利波特影城值得去嗎？超詳細全攻略解析｜老辣妹 | 22:36 | 觀看次數：24萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=gsAvWYtFwpM) |
-| 45 | 🇹🇭泰國四天三夜自由行，順便來一場高空跳傘吧！｜老辣妹 | 16:32 | 觀看次數：17萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=tc0lxZyi_7g) |
+| 45 | 🇹🇭泰國四天三夜自由行，順便來一場高空跳傘吧！｜老辣妹 | 16:32 | 觀看次數：17萬次 | 3 年前 | [YouTube](https://www.youtube.com/watch?v=tc0lxZyi_7g) |
 | 46 | 🇯🇵最美夏日鎌倉江之島一日遊，搭江之電玩湘南海岸！小町通美食推薦｜老辣妹 | 19:47 | 觀看次數：38萬次 | 3 年前 | [YouTube](https://www.youtube.com/watch?v=-F-Q8ROf5rU) |
 | 47 | 🇯🇵東京自由行精選 第三章：新宿、三軒茶屋、豪德寺、代官山｜老辣妹 | 23:24 | 觀看次數：50萬次 | 3 年前 | [YouTube](https://www.youtube.com/watch?v=aznV27VT6qg) |
 | 48 | 🇯🇵東京自由行精選 第二章：築地、豐洲LaLaport、秋葉原、月島｜老辣妹 | 34:20 | 觀看次數：64萬次 | 3 年前 | [YouTube](https://www.youtube.com/watch?v=-YfGCymo06o) |

@@ -1,7 +1,7 @@
 # ハーリーのグルメ 未抓到店家/地點資料影片
 
 - 頻道：[ハーリーのグルメ](https://www.youtube.com/@hurleygourmet)
-- 抓取日期：2026-06-22
+- 抓取日期：2026-06-24
 - 未抓到店家/地點資料：24 部
 
 | # | 影片標題 | 發布時間 | 觀看次數 | 影片連結 |
@@ -12,11 +12,11 @@
 | 24 | 【2026年最新】東京で1000円台！？最強の食べ放題ベスト10 | 5 個月前 | 觀看次數：13萬次 | [YouTube](https://www.youtube.com/watch?v=-VBzi47AZr8) |
 | 26 | 【2026年最新】銀座ランチ完全保存版！絶対に行くべき名店・穴場ベスト10 | 5 個月前 | 觀看次數：9.3萬次 | [YouTube](https://www.youtube.com/watch?v=B0AmrwXsnuk) |
 | 27 | 【東京駅ランチ】2026年最新！感動の東京駅ランチ | 5 個月前 | 觀看次數：15萬次 | [YouTube](https://www.youtube.com/watch?v=Idm1SSVKFH4) |
-| 28 | 【東京食べ放題ベスト10】2026年最新！最高の東京食べ放題 | 5 個月前 | 觀看次數：5.2萬次 | [YouTube](https://www.youtube.com/watch?v=PVl5nLZTDu0) |
+| 28 | 【東京食べ放題ベスト10】2026年最新！最高の東京食べ放題 | 5 個月前 | 觀看次數：5.3萬次 | [YouTube](https://www.youtube.com/watch?v=PVl5nLZTDu0) |
 | 29 | 【池袋ランチ】2026年最新！最高の池袋ランチ | 5 個月前 | 觀看次數：15萬次 | [YouTube](https://www.youtube.com/watch?v=3rHPH23tA-0) |
 | 34 | 【新宿食べ放題】2025年No.1！今年スタートした神食べ放題が最高だった... | 6 個月前 | 觀看次數：3.8萬次 | [YouTube](https://www.youtube.com/watch?v=6iAJQmmBEpM) |
 | 38 | 【焼津グランドホテル】2年連続日本一！食べ飲み放題温泉付きオールインクルーシブ | 7 個月前 | 觀看次數：2.2萬次 | [YouTube](https://www.youtube.com/watch?v=UoZFrt2fztU) |
-| 52 | 【セブ島旅行】物価安過ぎ！人気観光地やセブ島No.1グルメ、基本情報も完全解説！ | 10 個月前 | 觀看次數：8.4萬次 | [YouTube](https://www.youtube.com/watch?v=5eDOyR7D11o) |
+| 52 | 【セブ島旅行】物価安過ぎ！人気観光地やセブ島No.1グルメ、基本情報も完全解説！ | 10 個月前 | 觀看次數：8.5萬次 | [YouTube](https://www.youtube.com/watch?v=5eDOyR7D11o) |
 | 54 | 【香港旅行】ミシュラン獲得店が1,000円！？世界三大夜景、世界一長いエスカレーターなど、基本情報も完全解説！ | 10 個月前 | 觀看次數：1.4萬次 | [YouTube](https://www.youtube.com/watch?v=QdBWRXDqZo8) |
 | 59 | 【ご報告】帰ってきました！ハーリーです！ | 10 個月前 | 觀看次數：1.9萬次 | [YouTube](https://www.youtube.com/watch?v=6LTzJ3lKPKY) |
 | 80 | 【東京伴手禮7選】也來看看人氣店吧！ ？只能在東京購買的7大限定特產！ | 1 年前 | 觀看次數：5.2萬次 | [YouTube](https://www.youtube.com/watch?v=EJUREjt2aFI) |

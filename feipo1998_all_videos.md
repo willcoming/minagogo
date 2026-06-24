@@ -2,15 +2,15 @@
 
 - 頻道：[肥波開吃啦](https://www.youtube.com/@feipo1998)
 - 分頁：[影片](https://www.youtube.com/@feipo1998/videos)
-- 抓取日期：2026-06-22
+- 抓取日期：2026-06-24
 - 本檔整理筆數：742 部
 
 | # | 影片標題 | 長度 | 觀看次數 | 發布時間 | 影片連結 |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 2026 東京米其林，十家必比登推薦美食 ! 10 Bib Gourmand MICHELIN Restaurants in Tokyo | 26:43 | 觀看次數：3.8萬次 | 6 天前 | [YouTube](https://www.youtube.com/watch?v=XFOau6fyk6I) |
-| 2 | 東京美食神樂坂篇，24小時爽吃特輯四選！神樂坂一日美食地圖，純正法式可麗餅專門店、預約困難起司披薩，牛舌料理居酒屋，激爽和牛內臟燒肉  【 肥波外食記 】 | 12:43 | 觀看次數：2萬次 | 2 週前 | [YouTube](https://www.youtube.com/watch?v=uG3Kcy5aNAI) |
-| 3 | 東京美食地圖，72小時爽吃特輯十選！三天兩夜東京爽吃指南，百名店炸豬排、激爽浮誇海鮮丼、香辣和牛擔擔麵、蜂蜜五起司披薩，72 hours FOOD tour in Tokyo !【 肥波外食記 】 | 30:01 | 觀看次數：5萬次 | 3 週前 | [YouTube](https://www.youtube.com/watch?v=X-nIPhjpsvA) |
-| 4 | 東京美食淺草篇，24小時爽吃特輯四選！淺草一日美食地圖，米其林推薦厚切炸豬排、東京鹽味拉麵代表、淺草超夯和牛燒肉、百名店認證海味居酒屋  【 肥波外食記 】 | 12:18 | 觀看次數：4.9萬次 | 3 週前 | [YouTube](https://www.youtube.com/watch?v=9dvDl6CBd_o) |
+| 1 | 2026 東京米其林，十家必比登推薦美食 ! 10 Bib Gourmand MICHELIN Restaurants in Tokyo | 26:43 | 觀看次數：4.1萬次 | 7 天前 | [YouTube](https://www.youtube.com/watch?v=XFOau6fyk6I) |
+| 2 | 東京美食神樂坂篇，24小時爽吃特輯四選！神樂坂一日美食地圖，純正法式可麗餅專門店、預約困難起司披薩，牛舌料理居酒屋，激爽和牛內臟燒肉  【 肥波外食記 】 | 12:43 | 觀看次數：2.1萬次 | 2 週前 | [YouTube](https://www.youtube.com/watch?v=uG3Kcy5aNAI) |
+| 3 | 東京美食地圖，72小時爽吃特輯十選！三天兩夜東京爽吃指南，百名店炸豬排、激爽浮誇海鮮丼、香辣和牛擔擔麵、蜂蜜五起司披薩，72 hours FOOD tour in Tokyo !【 肥波外食記 】 | 30:01 | 觀看次數：5.1萬次 | 3 週前 | [YouTube](https://www.youtube.com/watch?v=X-nIPhjpsvA) |
+| 4 | 東京美食淺草篇，24小時爽吃特輯四選！淺草一日美食地圖，米其林推薦厚切炸豬排、東京鹽味拉麵代表、淺草超夯和牛燒肉、百名店認證海味居酒屋  【 肥波外食記 】 | 12:18 | 觀看次數：4.9萬次 | 4 週前 | [YouTube](https://www.youtube.com/watch?v=9dvDl6CBd_o) |
 | 5 | 東京美食高圓寺篇，24小時爽吃特輯四選！高圓寺一日美食地圖，百名店認證香料咖哩、高圓寺排行榜一和牛燒肉、貝類專精居酒屋、東京豚骨拉麵新人王  【 肥波外食記 】 | 12:43 | 觀看次數：3.3萬次 | 1 個月前 | [YouTube](https://www.youtube.com/watch?v=LBVxF06O5SQ) |
 | 6 | 亞洲最強披薩城市，東京拿坡里披薩指南六選！The Best Tokyo Pizza Guide! | 14:13 | 觀看次數：2.9萬次 | 1 個月前 | [YouTube](https://www.youtube.com/watch?v=slq1NVdLXmo) |
 | 7 | 東京美食日本橋篇，24小時爽吃特輯四選！日本橋一日美食地圖，激爽和牛鐵板漢堡排、親民米其林豬排炸串店，巨量起司肋眼牛 cheese steak、直火碳烤肉食系餐酒館  【 肥波外食記 】 | 10:49 | 觀看次數：4.5萬次 | 1 個月前 | [YouTube](https://www.youtube.com/watch?v=bUyYrtSg9WU) |
@@ -23,9 +23,9 @@
 | 14 | 京都米其林指南，八家必比登推薦美食！8 Bib Gourmand MICHELIN Restaurants in Kyoto  【 肥波外食記 】 | 21:17 | 觀看次數：5.3萬次 | 2 個月前 | [YouTube](https://www.youtube.com/watch?v=Aq5FmVZZ6GU) |
 | 15 | 大阪美食地圖，72小時爽吃特輯十選！三天兩夜大阪爽吃指南，百名店認證香料咖哩、大阪榜三炸豬排、厚切蒜味牛舌、肉汁炸裂漢堡排 72 hours FOOD tour in Osaka !【 肥波外食記 】 | 27:08 | 觀看次數：12萬次 | 3 個月前 | [YouTube](https://www.youtube.com/watch?v=9aARBMYZ9OI) |
 | 16 | 大阪米其林指南，八家必比登推薦美食！8 Bib Gourmand MICHELIN Restaurants in Osaka 【 肥波外食記 】 | 20:17 | 觀看次數：6萬次 | 3 個月前 | [YouTube](https://www.youtube.com/watch?v=hIFJwUQ5LSo) |
-| 17 | 台北美食六張犁篇，24小時爽吃特輯四選！六張犁一日美食地圖，激爽紅燒鴨血牛肉麵、口感頂天紐約式披薩、台北超夯千層酥、巷內質感餐酒館  【 肥波外食記 】 | 12:29 | 觀看次數：4.7萬次 | 3 個月前 | [YouTube](https://www.youtube.com/watch?v=FrkcIKwPc0g) |
-| 18 | 台北美食公館篇，24小時爽吃特輯四選！公館一日美食地圖，泰味滿點媽媽麵、激推市場滑蛋牛、酥炸臭豆腐配鴨血、CP值頂天越南河粉  【 肥波外食記 】 | 10:40 | 觀看次數：6.6萬次 | 3 個月前 | [YouTube](https://www.youtube.com/watch?v=ucYo--RHJ08) |
-| 19 | 胡志明美食地圖，72小時爽吃特輯10選！米其林認證蟹肉冬粉、肝醬炸裂越南麵包、激爽蜂蜜起司披薩、超嫩慢燉羊肉火鍋  【 肥波外食記 】 | 21:05 | 觀看次數：5.3萬次 | 3 個月前 | [YouTube](https://www.youtube.com/watch?v=h_7e4qtORpA) |
+| 17 | 台北美食六張犁篇，24小時爽吃特輯四選！六張犁一日美食地圖，激爽紅燒鴨血牛肉麵、口感頂天紐約式披薩、台北超夯千層酥、巷內質感餐酒館  【 肥波外食記 】 | 12:29 | 觀看次數：4.8萬次 | 3 個月前 | [YouTube](https://www.youtube.com/watch?v=FrkcIKwPc0g) |
+| 18 | 台北美食公館篇，24小時爽吃特輯四選！公館一日美食地圖，泰味滿點媽媽麵、激推市場滑蛋牛、酥炸臭豆腐配鴨血、CP值頂天越南河粉  【 肥波外食記 】 | 10:40 | 觀看次數：6.7萬次 | 3 個月前 | [YouTube](https://www.youtube.com/watch?v=ucYo--RHJ08) |
+| 19 | 胡志明美食地圖，72小時爽吃特輯10選！米其林認證蟹肉冬粉、肝醬炸裂越南麵包、激爽蜂蜜起司披薩、超嫩慢燉羊肉火鍋  【 肥波外食記 】 | 21:05 | 觀看次數：5.4萬次 | 4 個月前 | [YouTube](https://www.youtube.com/watch?v=h_7e4qtORpA) |
 | 20 | 台北美食迪化街篇，24小時爽吃特輯四選！迪化街一日美食地圖，永樂市場生魚片大王、香酥飽滿老字號蚵嗲、米其林認證牛肉麵、大稻埕披薩代表  【 肥波外食記 】 | 10:10 | 觀看次數：7萬次 | 4 個月前 | [YouTube](https://www.youtube.com/watch?v=BLP2GkcXWho) |
 | 21 | 峴港美食地圖，72小時爽吃特輯10選！峴港三天兩夜爽吃指南，激爽米紙豬肉捲、在地超夯海鮮餐廳、米其林認證牛排館、流心起司越南麵包 【 肥波外食記 】 | 25:23 | 觀看次數：5.1萬次 | 4 個月前 | [YouTube](https://www.youtube.com/watch?v=G--03VAFr3c) |
 | 22 | 台北美食大巨蛋篇，24小時爽吃特輯四選！大巨蛋一日美食地圖，500盤認證拿坡里披薩、激爽松露壓扁漢堡、東區超夯日系麵包、粉嫩多汁法式羊排 【 肥波外食記 】 | 13:14 | 觀看次數：5.1萬次 | 4 個月前 | [YouTube](https://www.youtube.com/watch?v=Xbs6-F8dZYY) |
@@ -47,7 +47,7 @@
 | 38 | 釜山美食地圖，藍絲帶爽吃指南八選！韓國本土版米其林，濃郁膠質清蒸牛尾、釜山最爽粉嫩豬菲力、激爽口感韓牛火鍋、排到歪頭蜂巢豬皮  【 肥波外食記 】 | 19:30 | 觀看次數：3.9萬次 | 7 個月前 | [YouTube](https://www.youtube.com/watch?v=KXPfojMzoQ4) |
 | 39 | 台中美食地圖，24小時爽吃特輯四選！台中一日美食地圖，米其林認證酥炸東坡肉、濃醇油香和牛燒肉、迷你版香濃巴斯克、激爽宵夜生魚片  【 肥波外食記 】ft.台中通 | 16:31 | 觀看次數：6.2萬次 | 7 個月前 | [YouTube](https://www.youtube.com/watch?v=WsKl9rJ4jk4) |
 | 40 | 首爾美食江南篇，24小時爽吃特輯四選！江南一日美食地圖，藍絲帶認證韓牛燒肉、韓味魚蛋火鍋初體驗、肉量滿滿燻牛肉三明治、水水嫩嫩水芹烤豬  【 肥波外食記 】 | 10:58 | 觀看次數：2.7萬次 | 7 個月前 | [YouTube](https://www.youtube.com/watch?v=WsmVvszi5Nk) |
-| 41 | 首爾美食弘大篇，藍絲帶爽吃指南六選！ 韓國本土版米其林，激推海味居酒屋、水水嫩嫩白切肉、濃郁蒜味韓式豬腳、肉食系起司TACO 【 肥波外食記 】 | 15:20 | 觀看次數：3.2萬次 | 7 個月前 | [YouTube](https://www.youtube.com/watch?v=vb1E8NXK02k) |
+| 41 | 首爾美食弘大篇，藍絲帶爽吃指南六選！ 韓國本土版米其林，激推海味居酒屋、水水嫩嫩白切肉、濃郁蒜味韓式豬腳、肉食系起司TACO 【 肥波外食記 】 | 15:20 | 觀看次數：3.3萬次 | 7 個月前 | [YouTube](https://www.youtube.com/watch?v=vb1E8NXK02k) |
 | 42 | 釜山美食西面篇，24小時爽吃特輯四選！西面站一日美食地圖，水芹松阪豬肉捲、韓系海味生鮭魚麵、蜜汁牛尾初體驗、激推烤雞料理專精  【 肥波外食記 】 | 11:09 | 觀看次數：3.9萬次 | 8 個月前 | [YouTube](https://www.youtube.com/watch?v=aZyad-kMOag) |
 | 43 | 首爾爽吃指南，八家藍絲帶推薦美食！韓國在地版米其林，極度厚切激爽牛舌、在地超夯海味居酒屋、藍絲帶認證煙燻燒烤、肥美油潤韓牛烤腸【 肥波外食記 】 | 20:45 | 觀看次數：3.8萬次 | 8 個月前 | [YouTube](https://www.youtube.com/watch?v=CTwIIyPS-UY) |
 | 44 | 釜山美食南浦洞篇，24小時爽吃特輯四選！南浦洞一日美食地圖，麝香葡萄沙拉開局、南浦必逛罐頭市場爽吃攻略、香濃鍋氣炸醬麵、釜山最夯李在模披薩  【 肥波外食記 】 | 12:26 | 觀看次數：4.5萬次 | 8 個月前 | [YouTube](https://www.youtube.com/watch?v=_HzywpYkFy4) |
@@ -68,7 +68,7 @@
 | 59 | 桃園在地小吃指南，500碗推薦美食四選！軟綿香Q客家菜包、碳烤香腸銀絲捲、激爽酥嫩炸肉串、夜市超夯麻辣臭豆腐。 【 肥波外食記 】 | 11:32 | 觀看次數：5.5萬次 | 11 個月前 | [YouTube](https://www.youtube.com/watch?v=yZ2nrm2Fx3o) |
 | 60 | 台南美食關廟篇，24小時爽吃特輯四選！關廟肉粿初體驗、在地特色黃金水餃、CP值頂天現炸甜不辣、清甜涮嘴小卷關廟麵   【 肥波外食記 】 | 10:17 | 觀看次數：3.9萬次 | 11 個月前 | [YouTube](https://www.youtube.com/watch?v=D28TNwwonK0) |
 | 61 | 台南美食佳里篇，24小時爽吃特輯四選 !  在地超夯溫體牛肉火鍋、激推越式脆皮烤乳豬、酥嫩多汁脆皮臭豆腐、靈魂沾醬心肝湯  【 肥波外食記 】 | 11:54 | 觀看次數：4.8萬次 | 11 個月前 | [YouTube](https://www.youtube.com/watch?v=dL1JAw-FbdM) |
-| 62 | 台南美食永康篇，24小時爽吃特輯四選 !  口感頂天老麵燒餅、大灣美味綿密肉粿、永康超夯溫體牛肉鍋、巷內激爽乾炒鱔魚意麵  【 肥波外食記 】 | 11:46 | 觀看次數：6.9萬次 | 11 個月前 | [YouTube](https://www.youtube.com/watch?v=hcAWpadvOlg) |
+| 62 | 台南美食永康篇，24小時爽吃特輯四選 !  口感頂天老麵燒餅、大灣美味綿密肉粿、永康超夯溫體牛肉鍋、巷內激爽乾炒鱔魚意麵  【 肥波外食記 】 | 11:46 | 觀看次數：6.9萬次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=hcAWpadvOlg) |
 | 63 | 台北美食士林篇，24小時爽吃特輯四選 ! 滿滿排骨煲仔飯、台北最爽美式披薩、浮誇肉量牛肉麵、500盤推薦越南麵包  【 肥波外食記 】 | 11:29 | 觀看次數：6.3萬次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=Mu5srXBRKjA) |
 | 64 | 松山區小吃指南，500碗推薦美食四選 !  肥美鮮蚵綜合麵線、濃醇燻香超夯滷味、肉量滿滿獅子頭燒餅、爆汁松露小籠包  【 肥波外食記 】 | 12:17 | 觀看次數：7.5萬次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=l2lei0TOjvw) |
 | 65 | 台北美食大安篇，24小時爽吃特輯四選 !  激爽美式燒烤豬肋排、肉量滿滿教父披薩、顏值超高義式三明治、排到歪頭宵夜牛肉麵　【 肥波外食記 】 | 13:11 | 觀看次數：7.1萬次 | 1 年前 | [YouTube](https://www.youtube.com/watch?v=RqbbdufiTdk) |
@@ -145,7 +145,7 @@
 | 136 | 東京近郊茨城縣，72小時爽吃特輯EP.2 ! 超巨大現開生蠔、CP值頂天迴轉壽司、激爽常陸牛拼盤、安康魚火鍋初體驗、外酥內綿炸豬排  【 肥波外食記 】 | 16:03 | 觀看次數：4萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=JESKzVxsuC0) |
 | 137 | 東京近郊茨城縣，四天三夜自由行攻略 !  茨城必吃能量拉麵、在地特有常陸牛、深山賞櫻必逛景點、礁岩上絕美鳥居  【 肥波外食記 】 ft.@tigerairtaiwan6854 | 14:55 | 觀看次數：4萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=h41_A2fWRYE) |
 | 138 | 2024東京米其林，八家必比登推介美食 !  8 Bib Gourmand MICHELIN Restaurants in Tokyo | 24:37 | 觀看次數：28萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=bqEStaNHMV8) |
-| 139 | 東京美食地圖，中目黑爽吃特輯四選 ! 香濃鵝肝親子丼、激推水潤瑪格莉特、薄皮酥脆屋台餃子、親民和牛燒肉百名店、全球唯六星巴克  【 肥波外食記 】 | 16:11 | 觀看次數：7.9萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=UmzMmn1A8uQ) |
+| 139 | 東京美食地圖，中目黑爽吃特輯四選 ! 香濃鵝肝親子丼、激推水潤瑪格莉特、薄皮酥脆屋台餃子、親民和牛燒肉百名店、全球唯六星巴克  【 肥波外食記 】 | 16:11 | 觀看次數：8萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=UmzMmn1A8uQ) |
 | 140 | 台北美食地圖，爽吃日料特輯三選 !  一日三餐都吃日本料理，米其林一星和牛燒肉、激推日式精緻鍋物、浮誇系海味居酒屋  【 肥波外食記 】ft.@cathayunitedbank | 15:36 | 觀看次數：7.3萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=2Zp4LF3HdZQ) |
 | 141 | 全台最難訂吃到飽，文華cafe周末午間鮮吃吧開箱 ! 等了三個月才吃到的Buffet，米其林一星粵菜吃到飽、超頂奢華海鮮吧、激推火焰蛋糕秀 【 肥波外食記 】 | 13:12 | 觀看次數：16萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=8LlmqBolTEg) |
 | 142 | 台北美食士林篇，24小時爽吃特輯四選 ! 士林一日美食地圖推薦，激推韓式中華料理、中西融合麵疙瘩、天母義式餐酒館、台味豚骨醬油拉麵  【 肥波外食記 】 | 11:53 | 觀看次數：8.5萬次 | 2 年前 | [YouTube](https://www.youtube.com/watch?v=s5hqKCoj2nw) |
@@ -272,7 +272,7 @@
 | 263 | 台南成大商圈一日美食地圖四選 ! 24HR爽吃之旅，真材實料土魠羹、大塊厚切牛腩湯、激推泡菜風味意麵、台南小籠湯包代表  【 肥波外食記 】 | 8:56 | 觀看次數：6.3萬次 | 3 年前 | [YouTube](https://www.youtube.com/watch?v=s2UJNTSs6F0) |
 | 264 | 台南國華友愛商圈，一日美食地圖五選 ! 夏日台南遊必備名單，巷內優質牛肉湯、私心激推台南肉燥王、限量小卷蛋米粉、鱔魚意麵下午茶、友愛超夯宵夜麵攤  【 肥波外食記 】 | 10:41 | 觀看次數：8.7萬次 | 3 年前 | [YouTube](https://www.youtube.com/watch?v=h6_ynNgjmkw) |
 | 265 | 台南永康區一日美食地圖五選 !  24HR爽吃之旅，激推台南味肉粿、生食級溫體牛沙西米、浮誇系龍蝦丼、台南在地港點王、永康拉麵代表  【 肥波開吃啦 】 | 12:20 | 觀看次數：13萬次 | 3 年前 | [YouTube](https://www.youtube.com/watch?v=fKBXeaaFY2U) |
-| 266 | 新北小吃聖地，三重美食特輯四選 !  滷肉飯菁英一級戰區，24HR爽吃之旅 !  新北最夯滷肉飯、真材實料花枝羹、三重最夯五滷之一、奢華路線白松露雞豚白湯拉麵  【 肥波外食記 】  ft.素顏之本 | 10:23 | 觀看次數：6.3萬次 | 3 年前 | [YouTube](https://www.youtube.com/watch?v=PkJ_uzY8s1M) |
+| 266 | 新北小吃聖地，三重美食特輯四選 !  滷肉飯菁英一級戰區，24HR爽吃之旅 !  新北最夯滷肉飯、真材實料花枝羹、三重最夯五滷之一、奢華路線白松露雞豚白湯拉麵  【 肥波外食記 】  ft.素顏之本 | 10:23 | 觀看次數：6.3萬次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=PkJ_uzY8s1M) |
 | 267 | 南京復興商圈一日美食地圖四選 !  上班族必備名單，24HR爽吃之旅 ! 巷內超夯排隊肉圓店、罕見口味羅勒鮮蚵湯包、軟嫩極致海南雞飯、職人炭火燒鳥專門店  【 肥波外食記 】 ft.素顏之本 | 10:20 | 觀看次數：6.3萬次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=KHA0W_eELbM) |
 | 268 | 淡水區一日美食地圖四選 !  24HR爽吃之旅，淡水老街以外的優質選擇 !  高CP鴨血臭豆腐 、道樂系列罕見海老雞白湯拉、老街淡水味下午茶、公路旁激推日式關東煮  【 肥波外食記 】 ft.素顏之本 | 10:36 | 觀看次數：6.4萬次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=-6LLlI12x74) |
 | 269 | 一次四家台中聚餐美食推薦 ! 多元台中美食指南，職人日式燒肉店、經典路線烤鴨兩吃、薄脆多汁美式炸雞、十種口味泰國蝦大餐  【 肥波外食記 】 | 20:39 | 觀看次數：9萬次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=tn5FsHjcjQw) |
@@ -318,7 +318,7 @@
 | 309 | 高雄前鎮區一日美食地圖五選 ! 港都美食特輯回歸，24HR爽吃之旅 !  前鎮最夯爌肉飯、浮誇系全蝦蒸餃、在地人吃的肉粽名店、人氣老字號麵店、光華夜市超夯藥燉排骨  【 肥波外食記 】 | 10:35 | 觀看次數：12萬次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=mlq_qlzthZw) |
 | 310 | 嘉義市東區一日美食地圖五選 ! 24HR爽吃之旅，神極軟嫩火雞肉片、在地激推小籠湯包、嘉義人氣臭豆腐、文化夜市炒鱔魚、高CP值砂鍋菜  【 肥波外食記 】 | 10:35 | 觀看次數：8.5萬次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=vnGjBo2QKPQ) |
 | 311 | 嘉義市西區一日美食地圖五選 !  快閃嘉義二日遊EP.1，24小時爽吃之旅 ! 早餐雞肉飯首選、在地新鮮草魚粥、果汁涼麵優質組合、巷內芝加哥深盤披薩、粉嫩系溫體牛肉湯  【 肥波外食記 】 | 10:37 | 觀看次數：7.3萬次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=155aAkpX1z8) |
-| 312 | 台中烏日區一日美食地圖四選 !  24HR爽吃之旅，特色手搖佐滿滿餡料紅豆餅、罕見軟嫩系牛雜湯、寒冬進補用當歸腳筋湯、台中在地脆皮多汁烤全雞  【 肥波外食記 】 | 12:26 | 觀看次數：6.6萬次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=gkJCVzKX22I) |
+| 312 | 台中烏日區一日美食地圖四選 !  24HR爽吃之旅，特色手搖佐滿滿餡料紅豆餅、罕見軟嫩系牛雜湯、寒冬進補用當歸腳筋湯、台中在地脆皮多汁烤全雞  【 肥波外食記 】 | 12:26 | 觀看次數：6.7萬次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=gkJCVzKX22I) |
 | 313 | 台中西屯區一日美食地圖五選 !  24HR爽吃之旅，全國爌肉飯冠軍得主、必比登推薦印度咖哩、在地鴨肉飯老店、台中人氣脆皮煎餃、巷內精美花醬漢堡  【 肥波外食記 】 | 11:05 | 觀看次數：9.3萬次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=C7gNcQRYAak) |
 | 314 | 台中市北區一日美食地圖五選 !  24HR爽吃之旅，特色紅糟爌肉、嚼感天堂義式披薩、巷內脆皮肉圓、進補聖品藥燉支排、厚切蜜汁叉燒沾麵  【 肥波外食記 】 | 12:08 | 觀看次數：7.4萬次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=S87D70p-lG8) |
 | 315 | 羅東車站一日美食地圖五選 !  24HR爽吃之旅，泡湯用系列EP.2 ，羅東肉羹代表、激推去骨鴨片飯、特色港式臭豆腐、羅東夜市羊肉湯、經典日式B級美食  【 肥波外食記 】 | 11:18 | 觀看次數：10萬次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=yK_PSSugw0c) |
@@ -337,21 +337,21 @@
 | 328 | 高雄苓雅區一日美食地圖五選 ! 24HR爽吃之旅，在地超夯北方麵食、苓雅市場招牌滷肉飯、巷內臭豆腐三吃、高雄肉燥飯冠軍、美味職人串燒  【 肥波外食記 】 | 16:20 | 觀看次數：13萬次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=k1CEJz7gfXU) |
 | 329 | 高雄新興區一日美食地圖五選 !  24hr爽吃之旅，南臺灣經典早餐組合、老字號排骨酥湯、在地人氣炭烤燒肉飯、爆料海鮮粥、純正日本巷內燒肉店  【 肥波外食記 】 | 14:20 | 觀看次數：9.4萬次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=HA5DxhcBpOA) |
 | 330 | 高雄鹽埕區一日美食地圖五選 !  高雄在地小吃聖地，24hr爽吃之旅 !  市場爆量虱目魚肚漿、肉燥鴨肉神奇組合、鹽埕在地肉粽傳奇、愛河旁人氣米糕、熱賣一甲子牛肉乾拌麵  【 肥波外食記 】 | 13:38 | 觀看次數：14萬次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=x2pVqv0pANM) |
-| 331 | 自製韓式醬燒牛肉堡，再配上香腸起司年糕串 !  Korean Bulgogi Burger with Rice Cake Skewers  MUKBANG 【 想吃自己煮 】 | 7:59 | 觀看次數：8699次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=sGkyjkGOgAQ) |
+| 331 | 自製韓式醬燒牛肉堡，再配上香腸起司年糕串 !  Korean Bulgogi Burger with Rice Cake Skewers  MUKBANG 【 想吃自己煮 】 | 7:59 | 觀看次數：8700次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=sGkyjkGOgAQ) |
 | 332 | 自製青蔥玉子牛丼飯，再配上日式咖哩可樂餅 !  優質午餐組合吃起來 ~ 【 想吃自己煮 】 | 6:35 | 觀看次數：7909次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=vf9uCNRYV38) |
-| 333 | 自製三種全肉料理大餐 !  泰式醬燒松阪豬，配上奶油蘑菇翼板牛排~ 再來一份經典款蒜香肋眼 !   ft.老闆吃肉  【 想吃自己煮 】 | 7:31 | 觀看次數：6643次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=zANxq413n_E) |
+| 333 | 自製三種全肉料理大餐 !  泰式醬燒松阪豬，配上奶油蘑菇翼板牛排~ 再來一份經典款蒜香肋眼 !   ft.老闆吃肉  【 想吃自己煮 】 | 7:31 | 觀看次數：6644次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=zANxq413n_E) |
 | 334 | 自製三道居酒屋經典菜 !  日式唐揚雞配上照燒炒烏龍，再來一份明太子馬鈴薯 !  【 想吃自己煮 】 | 7:45 | 觀看次數：5982次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=zDluvbdpsWQ) |
-| 335 | 自製韓國外賣經典套餐，黑豆炸醬麵配上糖醋肉 ! 再來一份綜合海鮮煎餅~ 【 想吃自己煮 】 | 9:50 | 觀看次數：7354次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=gvPGSr6zEro) |
+| 335 | 自製韓國外賣經典套餐，黑豆炸醬麵配上糖醋肉 ! 再來一份綜合海鮮煎餅~ 【 想吃自己煮 】 | 9:50 | 觀看次數：7355次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=gvPGSr6zEro) |
 | 336 | 自製四種口味無骨韓式醬料炸雞 ! 蜂蜜奶油、蒜味醬油、韓式紅醬，再來一盤雪花起司 !   【 想吃自己煮 】 | 7:31 | 觀看次數：1.1萬次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=gKqRoqYCMuY) |
-| 337 | 自製日式炸豬排配上滿滿高麗菜絲，米飯一口接一口 ! 再來份 Katsu Sando 炸豬排三明治~  【 想吃自己煮 】 | 7:21 | 觀看次數：8105次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=rvrqAFDD3wA) |
+| 337 | 自製日式炸豬排配上滿滿高麗菜絲，米飯一口接一口 ! 再來份 Katsu Sando 炸豬排三明治~  【 想吃自己煮 】 | 7:21 | 觀看次數：8106次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=rvrqAFDD3wA) |
 | 338 | 拍片滿四周年重溫經典特輯，想吃自己買之舒爽吃播 ! 點了一桌起家雞人氣餐點，去骨頂級洋釀配上醃白蘿蔔塊 ! 百吃不膩幸福感滿滿~ 【 舒爽吃播 MUKBANG 먹방 EATING SHOW 】 | 6:50 | 觀看次數：1.3萬次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=U4GCi5vmAOg) |
 | 339 | 自製雙層花醬牛肉堡，配上 In-N-Out 隱藏菜單 Animal Style Fries ! 【 想吃自己煮 】 | 7:08 | 觀看次數：1.3萬次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=HdKxsoAuTDY) |
-| 340 | 防疫期間不想出門，波小廚再度上線 ! 網購各種生鮮食材，自製豪華單人Buffet ! ft.ShopBack 【 想吃自己煮 】 | 9:18 | 觀看次數：7703次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=Rz1w6YIX2vc) |
+| 340 | 防疫期間不想出門，波小廚再度上線 ! 網購各種生鮮食材，自製豪華單人Buffet ! ft.ShopBack 【 想吃自己煮 】 | 9:18 | 觀看次數：7704次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=Rz1w6YIX2vc) |
 | 341 | 自製三種口味的炙燒鮭魚握壽司 ! 焦糖黑松露、明太子鮭魚卵、起司美乃滋  【 想吃自己煮 】 | 5:56 | 觀看次數：1.6萬次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=_WK5Sbkdn-w) |
 | 342 | 2021台南美食地圖，最想二刷的六家店 !  超道地泡菜鍋燒意麵、鮮味滿滿小卷米粉、台南最強沾麵、永樂市場必吃碗粿、私心最愛台南肉燥飯、不用排隊的豬心冬粉 !  【 肥波外食記 】 | 14:09 | 觀看次數：19萬次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=5XfqQQuTwiU) |
 | 343 | 自製濃厚雞白湯拉麵，再配上一碗日式叉燒飯 ! 【 想吃自己煮 】 | 7:52 | 觀看次數：1.2萬次 | 4 年前 | [YouTube](https://www.youtube.com/watch?v=z_vpukmRzUQ) |
-| 344 | 自製港式茶餐廳經典套餐 ! 豉油王炒麵配上黑松露炒蛋多士，甜點當然要再來塊法蘭西多士~  【 想吃自己煮 】 | 8:04 | 觀看次數：9105次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=J9UpNT3gntk) |
-| 345 | 太久沒去居酒屋開吃~ 只好自製照燒雞腿肉串配上生啤模擬一下 !   【想吃自己煮】 | 7:24 | 觀看次數：7796次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=xFKt8SkG00A) |
+| 344 | 自製港式茶餐廳經典套餐 ! 豉油王炒麵配上黑松露炒蛋多士，甜點當然要再來塊法蘭西多士~  【 想吃自己煮 】 | 8:04 | 觀看次數：9106次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=J9UpNT3gntk) |
+| 345 | 太久沒去居酒屋開吃~ 只好自製照燒雞腿肉串配上生啤模擬一下 !   【想吃自己煮】 | 7:24 | 觀看次數：7797次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=xFKt8SkG00A) |
 | 346 | 防疫期間逛不了夜市沒關係，在家中也能自製韓式起司炸熱狗 ! 【想吃自己煮】 | 5:14 | 觀看次數：1.1萬次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=vMxroIIBmok) |
 | 347 | 2021新北市美食地圖，年中大回顧！ 最想二刷的六家店～ 中和激爽海鮮丼、板橋酸甜魷魚羹、三重最強滷肉飯、新店鮮嫩鱸魚湯、永和脆皮燒臘拼盤、新店賴岡山羊肉  【 肥波外食記 】 | 17:48 | 觀看次數：16萬次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=-IflU7pD3gE) |
 | 348 | 2021台北美食地圖，年中大回顧~ 最想二刷的六家店 !  南港最強美式燒烤、內湖肉量超多肉夾饃、萬華神級控肉飯、信義最愛牛肉麵、士林優質海鮮丼，當然還有五之神~  【 肥波外食記 】 | 21:35 | 觀看次數：21萬次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=2z6wgKKq7Fc) |
@@ -367,7 +367,7 @@
 | 358 | 嘉義市一日美食地圖四選 ! 爽吃24小時 !  東市場必吃牛雜湯~ 再來碗優質雞肉飯，配上嘉義獨有的美奶滋涼麵  【 肥波外食記 】 | 8:29 | 觀看次數：4萬次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=xXPbGGyJlOo) |
 | 359 | 中壢區一日美食地圖四選 ! 大鬍子米干、現炸脆皮炸肉圓、坐著做海鮮丼飯專賣店、壹等品霸王豬腳 【 肥波外食記 】 | 9:05 | 觀看次數：8.1萬次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=dfP5-5emS-0) |
 | 360 | 信義區一日美食地圖四選 ! 艾里翁海鮮粥專賣店、穆記牛肉麵、AWESOME BURGER、五之神製作所  【 肥波外食記 】 ft. GASTON LUGA | 13:20 | 觀看次數：7萬次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=DiO6djOjjTw) |
-| 361 | 土城區一日美食地圖四選 ! 陳家莊滷肉飯、阿城鵝肉、正宗岡山羊肉、上贊麵線臭豆腐 【 肥波外食記 】 | 10:14 | 觀看次數：5萬次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=9GvePQY6Jmo) |
+| 361 | 土城區一日美食地圖四選 ! 陳家莊滷肉飯、阿城鵝肉、正宗岡山羊肉、上贊麵線臭豆腐 【 肥波外食記 】 | 10:14 | 觀看次數：5.1萬次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=9GvePQY6Jmo) |
 | 362 | 士林區一日美食地圖四選 !  多摩食堂、及品鍋貼水餃專賣店、德州美墨炸雞、道樂屋台  【 肥波外食記 】 ft.金門燕仔草茶 | 13:57 | 觀看次數：6.4萬次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=h5F4_7CytxA) |
 | 363 | 中正區一日美食地圖四選 ! 東門赤肉羹、城中老牌牛肉拉麵大王、鄭記豬腳飯、巧之味手工水餃 【 肥波外食記 】 | 10:48 | 觀看次數：5.5萬次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=5bmkixd8TV8) |
 | 364 | 三重區一日美食地圖四選 ! 台南林無刺虱目魚、今大滷肉飯、光興腿庫、北港龍門生炒鴨肉羹 【 肥波外食記 】 | 10:53 | 觀看次數：5.2萬次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=JqfQrj6BKpI) |
@@ -375,7 +375,7 @@
 | 366 | 永和區一日美食地圖四選 ! 下港米糕排骨酥店、雲南婆婆滇緬小吃、廣東正龍城烤鴨、竹林雞肉 【 肥波外食記 】 | 10:50 | 觀看次數：5.1萬次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=pu9McOpAP-c) |
 | 367 | 自製辣炒年糕佐韓國魚板湯 Tteokbokki with fish cake soup MUKBANG 【想吃自己煮】 | 6:15 | 觀看次數：6347次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=B7ZYyVcZaoY) |
 | 368 | 新店區一日美食地圖四選 ! 超人鱸魚湯、北鴨鴨肉羹、小樂精緻麵食館、賴岡山羊肉 【 肥波外食記 】 | 10:35 | 觀看次數：7.7萬次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=syFY_EfFuqI) |
-| 369 | 六種口味、三種吃法 ! 煮水餃、冰花煎餃、紅油水餃，各種水餃讓你一次滿足 ft.林家日嚐 【想吃自己煮】 | 6:40 | 觀看次數：9291次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=dKXKsTagPzc) |
+| 369 | 六種口味、三種吃法 ! 煮水餃、冰花煎餃、紅油水餃，各種水餃讓你一次滿足 ft.林家日嚐 【想吃自己煮】 | 6:40 | 觀看次數：9292次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=dKXKsTagPzc) |
 | 370 | 中和區一日美食地圖四選 ! 大胖肉羹、洪記特製涼麵、揚日式料理、李家麵館刀削麵 【 肥波外食記 】 | 10:09 | 觀看次數：10萬次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=iPKtgR5wUV4) |
 | 371 | 自製巨型起司辣炒年糕  Giant Cheesy Korean Rice Cakes ( Tteokbokki 떡볶이 ) 【 ASMR 】 | 4:36 | 觀看次數：4671次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=l5S8YsF6I7Q) |
 | 372 | 基隆車站一日美食地圖四選 ! 周記蔥油餅、孝三大腸圈、天天鮮排骨飯、阿華炒麵 【 肥波外食記 】 | 8:58 | 觀看次數：6.8萬次 | 5 年前 | [YouTube](https://www.youtube.com/watch?v=lmajL8PZ7wo) |
@@ -526,7 +526,7 @@
 | 517 | 《 ASMR 》　之　《 在深夜裡吃了三份摩斯北海道栗南瓜可樂餅 Croquette 》 | 4:18 | 觀看次數：9504次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=hyqb917MouQ) |
 | 518 | 《 肥波吃一口 》　之　《 美式炸雞腿配泡菜 Fried Chicken With Kimchi Mukbang 》 | 6:36 | 觀看次數：1.7萬次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=Tgm-35EYT7Q) |
 | 519 | 《 ASMR 》　之　《 在深夜裡吸食了一碗449乾麵還吃了點泡菜 Instant Noodles with Kimchi 》 | 2:37 | 觀看次數：1.4萬次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=OoU4DkR2NJo) |
-| 520 | 《 肥波吃一口 》　之　《 下雨天的日常午餐 泡菜x燒臘x泡麵 Mukbang  》 | 2:53 | 觀看次數：9321次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=0ZpwftJ1W4c) |
+| 520 | 《 肥波吃一口 》　之　《 下雨天的日常午餐 泡菜x燒臘x泡麵 Mukbang  》 | 2:53 | 觀看次數：9322次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=0ZpwftJ1W4c) |
 | 521 | 《 肥波吃一口 》　之　《 八塊韓國起司炸雞配上鹽漬蘿蔔塊 Mukbang 》 | 8:13 | 觀看次數：1.3萬次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=fkbDl6H-3hU) |
 | 522 | 《 肥波外食記 》　之　《 吃遍小島 EP:6 Show泰 在金門爽吃泰式料理 Kinmen Food Tour 》 | 6:06 | 觀看次數：1.6萬次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=fp2yFnEZruE) |
 | 523 | 《 ASMR 》　之　《 在深夜裡吃了六種串燒 Taiwanese Grilled Skewers》 | 6:02 | 觀看次數：1.6萬次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=0JfsHd0kzZA) |
@@ -539,7 +539,7 @@
 | 530 | 《 肥波吃一口 》　之　《 八塊韓國紅醬炸雞配年糕還有白蘿蔔塊的吃播 MUKBANG 》 | 5:49 | 觀看次數：1萬次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=duiUoXVTtbI) |
 | 531 | 《 肥波吃一口 》　之　《 整盤鮮蝦、叉燒、豬肉腸粉的吃播 金門 盈記廣東腸粉 Mukbang 》 | 6:08 | 觀看次數：1萬次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=33D2KTrFI-E) |
 | 532 | 《 ASMR 》　之　《 在深夜裡吃了一整碗酥脆的洋蔥圈 Crispy Onion Rings 》 | 4:44 | 觀看次數：1.2萬次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=uBK09qH7AkQ) |
-| 533 | 《 肥波吃一口 》　之　《 摩斯漢堡十月新品 韓式燒肉珍珠堡 和風花枝鰹魚珍珠堡 試吃 》 | 4:23 | 觀看次數：7349次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=sCTRnAEOxMs) |
+| 533 | 《 肥波吃一口 》　之　《 摩斯漢堡十月新品 韓式燒肉珍珠堡 和風花枝鰹魚珍珠堡 試吃 》 | 4:23 | 觀看次數：7350次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=sCTRnAEOxMs) |
 | 534 | 《 肥波外食記 》　之　《 吃遍小島 EP.4 在金門吃了一家超大沙朗牛和雞腿排雙拼 旺鼎牛排  》 | 5:12 | 觀看次數：1.6萬次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=VRIBUUl0Uiw) |
 | 535 | 《 ASMR 》　之　《 在深夜裡吃了兩支超大根的火雞翅 Turkey Wings 》 | 9:37 | 觀看次數：1萬次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=uTZk5om3y7w) |
 | 536 | 《 肥波外食記 》　之　《 馬辣頂級麻辣鴛鴦火鍋 》 | 2:24 | 觀看次數：1.3萬次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=k4cU-lX6i60) |
@@ -569,12 +569,12 @@
 | 560 | 《 ASMR 》　之　《 原味麥脆雞 Mcdonald's Fried Chicken 》 | 4:00 | 觀看次數：1.5萬次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=lkh5odqLu3Q) |
 | 561 | 《 ASMR 》　之　《 紅龍起司雞肉捲 Chicken Bake 》 | 3:53 | 觀看次數：1萬次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=tgFWy8_d8Jg) |
 | 562 | 《 ASMR 》　之　《 魔王雞排 Fried Chicken Breast 》 | 5:29 | 觀看次數：2.5萬次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=MtTB4sJlhs0) |
-| 563 | 《 肥波外食記 》　之　《 爽吃燒肉丼EP4: 開丼 網路票選第一名的燒肉丼 》 | 3:02 | 觀看次數：9585次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=kvuwcySPl-M) |
+| 563 | 《 肥波外食記 》　之　《 爽吃燒肉丼EP4: 開丼 網路票選第一名的燒肉丼 》 | 3:02 | 觀看次數：9586次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=kvuwcySPl-M) |
 | 564 | 《 肥波吃一口 》　之　《 麥當勞新品 極選系列 蕈菇安格斯黑牛堡 》 | 3:04 | 觀看次數：1.3萬次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=G2m4MyLHGys) |
 | 565 | 《 ASMR 》　之　《 蜂巢蜜 Honeycomb 》 | 1:27 | 觀看次數：1.6萬次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=xADHtX_aLAE) |
 | 566 | 《 ASMR 》　之　《 韓式炸醬麵 Korea Black Bean Noodles 》 | 2:39 | 觀看次數：1.2萬次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=Sl0pXqwnv8I) |
 | 567 | 《 ASMR 》　之　《頂呱呱 哈燒烤腿 TKK's Barbecue Chicken Drumsticks》 | 4:04 | 觀看次數：1.4萬次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=1M3MI46ydb8) |
-| 568 | 《 肥波外食記 》　之　《 爽吃燒肉丼EP3: 初牛 招牌厚切牛排丼 》 | 1:58 | 觀看次數：8217次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=V4IuqByqszc) |
+| 568 | 《 肥波外食記 》　之　《 爽吃燒肉丼EP3: 初牛 招牌厚切牛排丼 》 | 1:58 | 觀看次數：8218次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=V4IuqByqszc) |
 | 569 | 《 ASMR 》　之　《 拿波里 咔滋雞腿桶 》 | 3:51 | 觀看次數：1.6萬次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=A-LQDeHoC3s) |
 | 570 | 《 肥波外食記 》　之　《  爽吃燒肉丼EP2: 漂丿燒肉食堂 炭燒牛排丼 》 | 2:15 | 觀看次數：7102次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=v97VQo-vdIU) |
 | 571 | 《 肥波吃一口 》　之　《 KFC 義式三重奏 披薩雞腿排 》 | 4:45 | 觀看次數：1.4萬次 | 7 年前 | [YouTube](https://www.youtube.com/watch?v=VH-6hH7H9lE) |
@@ -659,7 +659,7 @@
 | 650 | 《 肥波外食記 》　之　《 金門 光頭廚房 Guantou Kitchen 咖哩豬排歐姆蛋包飯 》 | 6:18 | 觀看次數：2萬次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=2q1AHzKAEP4) |
 | 651 | 《肥波吃一口》　之　《 金門 派克雞排 人氣配餐 》 | 6:16 | 觀看次數：1.1萬次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=iCPBIlEKeHU) |
 | 652 | 《肥波吃一口》　之　《 台酒新品 帕式達義大利麵 》 | 4:59 | 觀看次數：5574次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=UBFK4-q3dFo) |
-| 653 | 《肥波吃一口》　之　《金門 POPPY WAFFLE 比利時 烈日鬆餅》 | 6:28 | 觀看次數：3374次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=Mz40xL8lEIc) |
+| 653 | 《肥波吃一口》　之　《金門 POPPY WAFFLE 比利時 烈日鬆餅》 | 6:28 | 觀看次數：3375次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=Mz40xL8lEIc) |
 | 654 | 《肥波吃一口》　之　《7-11 超商新品 蒸美味 用蒸的關東煮》 | 5:52 | 觀看次數：9837次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=oboTHWFbNv0) |
 | 655 | 《肥波吃一口》　之　《金門 精食巧 韓國海苔飯捲》 | 4:56 | 觀看次數：7050次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=RjqunkcH6r4) |
 | 656 | 《肥波吃一口》　之　《金門 張家小籠包》 | 4:25 | 觀看次數：1.4萬次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=_5bML1kOHJk) |
@@ -690,7 +690,7 @@
 | 681 | 《肥波吃一口》　之　《 金門 吉祥餐飲 炒泡麵 》 | 3:47 | 觀看次數：9922次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=H4G1dxSLI60) |
 | 682 | 《肥波吃一口》　之　《 金門 韓國小姐 韓式炸雞 》 | 4:48 | 觀看次數：9054次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=N3-DgAm2j8E) |
 | 683 | 《肥波吃一口》　之　《 金門 小叮噹 海陸全餐 》 | 5:03 | 觀看次數：1.9萬次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=qm9Y2b6ky0Q) |
-| 684 | 《肥波吃一口》　之　《 金門 三寶齋 燒餅 》 | 4:57 | 觀看次數：5838次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=hh93S3ECfWM) |
+| 684 | 《肥波吃一口》　之　《 金門 三寶齋 燒餅 》 | 4:57 | 觀看次數：5839次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=hh93S3ECfWM) |
 | 685 | 《肥波吃一口》　之　《 金門 榕榕園 醬拌麵 》 | 4:17 | 觀看次數：7917次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=oI8bybD3-_0) |
 | 686 | 《肥波吃一口》　之　《 金門 肯德福 KENDORFU  》 | 3:27 | 觀看次數：9649次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=gdU69UK7WXY) |
 | 687 | 《肥波吃一口》　之　《金門 蚵嗲之家 》 | 3:01 | 觀看次數：8041次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=8wy0mLWwumo) |
@@ -717,7 +717,7 @@
 | 708 | 《肥波吃一口》　之　《Costco G.H.CRETORS 爆米花》 | 5:17 | 觀看次數：2491次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=U8XIXnzOyLE) |
 | 709 | 《肥波吃一口》　之　《Subway 賽百味 雙倍肉量》 | 4:08 | 觀看次數：5919次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=hX1rh4HzRo0) |
 | 710 | 《肥波吃一口》　之　《7-11 超商 中村系列》 | 3:24 | 觀看次數：2015次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=A24wi7tRvvE) |
-| 711 | 《肥波吃一口》　之　《曾拌麵 胡蔴醬香》 | 4:09 | 觀看次數：9972次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=xmkaPLGxxeU) |
+| 711 | 《肥波吃一口》　之　《曾拌麵 胡蔴醬香》 | 4:09 | 觀看次數：9973次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=xmkaPLGxxeU) |
 | 712 | 《肥波吃一口》　之　《倆倆號 熱壓吐司 三連發 + 一芳水果茶 》 | 5:38 | 觀看次數：4597次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=GBHEug-IBeg) |
 | 713 | 《肥波吃一口》　之　《稍飽 碳烤 燒肉麵包》 | 4:28 | 觀看次數：2815次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=1HCcRCTGLjQ) |
 | 714 | 《肥波吃一口》　之　《Today's Donut 美式甜甜圈》 | 4:47 | 觀看次數：2150次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=Oc9xVJGR8g0) |
@@ -725,10 +725,10 @@
 | 716 | 《肥波吃一口》　之　《COCA COLA PLUS VS COCA COLA ZERO》 | 2:54 | 觀看次數：1898次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=O_7Mmkbx5jY) |
 | 717 | 《肥波吃一口》　之　《KIKI 蔥油拌麵》 | 3:10 | 觀看次數：6398次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=PijRniCuw7I) |
 | 718 | 《肥波吃一口》　之　《新加坡 KOKA 和風醋醬 紫麥麵》 | 3:21 | 觀看次數：3197次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=nQ4PUPdNOko) |
-| 719 | 《肥波吃一口》　之　《古早味 牛角坡 炒麵》 | 4:14 | 觀看次數：5626次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=HHMFFSmKOqA) |
+| 719 | 《肥波吃一口》　之　《古早味 牛角坡 炒麵》 | 4:14 | 觀看次數：5627次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=HHMFFSmKOqA) |
 | 720 | 《肥波吃一口》　之　《麥當勞 法式嫩牛堡 佐 第戎芥末醬》 | 3:36 | 觀看次數：2906次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=iD34ViutSnM) |
 | 721 | 《肥波吃一口》　之　《アイスの実 果實冰 VS 冷凍葡萄》 | 3:28 | 觀看次數：1732次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=iZ9ujtV8DqI) |
-| 722 | 《肥波吃一口》　之　《香蔥椒麻 曾拌麵》 | 3:41 | 觀看次數：6605次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=QzxwzUM-ycE) |
+| 722 | 《肥波吃一口》　之　《香蔥椒麻 曾拌麵》 | 3:41 | 觀看次數：6607次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=QzxwzUM-ycE) |
 | 723 | 《肥波吃一口》　之　《KFC CHIZZA 韓式Q辣 比薩雞腿排》 | 3:22 | 觀看次數：7811次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=n7hduqQEvHc) |
 | 724 | 《肥波吃一口》　之　《必勝客 樂搖雞 美式炭烤》 | 3:52 | 觀看次數：7914次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=r_bHheKV0gM) |
 | 725 | 《肥波吃一口》　之　《ガリガリ君 嘎哩嘎哩君 四連發》 | 6:27 | 觀看次數：1460次 | 8 年前 | [YouTube](https://www.youtube.com/watch?v=3lidBnjzckg) |

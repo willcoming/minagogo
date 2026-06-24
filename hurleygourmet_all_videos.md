@@ -2,17 +2,17 @@
 
 - 頻道：[ハーリーのグルメ](https://www.youtube.com/@hurleygourmet)
 - 分頁：[影片](https://www.youtube.com/@hurleygourmet/videos)
-- 抓取日期：2026-06-22
+- 抓取日期：2026-06-24
 - 本檔整理筆數：292 部
 
 | # | 影片標題 | 發布時間 | 觀看次數 | 店家/地點筆數 | 影片連結 |
 | --- | --- | --- | --- | ---: | --- |
-| 1 | 今だけ限定メロンビュッフェが最高だった... | 2 天前 | 觀看次數：1.2萬次 | 3 | [YouTube](https://www.youtube.com/watch?v=V_nH-ApoJ0M) |
-| 2 | 東京駅のおすすめはコレ | 3 天前 | 觀看次數：1.6萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=7FF4Rk4dNpE) |
+| 1 | 東京駅直結！今だけ限定メロンビュッフェが最高だった... | 3 天前 | 觀看次數：2.3萬次 | 3 | [YouTube](https://www.youtube.com/watch?v=V_nH-ApoJ0M) |
+| 2 | 【東京駅ランチ10選】ミシュラン10年連続獲得店など、最高の東京駅ランチ | 4 天前 | 觀看次數：2.5萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=7FF4Rk4dNpE) |
 | 3 | 【東京食べ放題】ハーゲンダッツも食べ放題ビュッフェがスタート！ | 2 週前 | 觀看次數：2.3萬次 | 0 | [YouTube](https://www.youtube.com/watch?v=4rWNJcd86gc) |
-| 4 | ここ行けば間違いない | 2 週前 | 觀看次數：7萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=f5fSw52UBzE) |
+| 4 | ここ行けば間違いない | 2 週前 | 觀看次數：7.2萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=f5fSw52UBzE) |
 | 5 | 【ご報告】収益公開、今後のチャンネル運営と新たな取組について | 3 週前 | 觀看次數：2.4萬次 | 0 | [YouTube](https://www.youtube.com/watch?v=fF23iuxXokA) |
-| 6 | 【東京朝ごはん8選】今年オープン！最新スポットのモーニングなど！ | 1 個月前 | 觀看次數：5.9萬次 | 8 | [YouTube](https://www.youtube.com/watch?v=ncTeXPUNe88) |
+| 6 | 【東京朝ごはん8選】今年オープン！最新スポットのモーニングなど！ | 1 個月前 | 觀看次數：6萬次 | 8 | [YouTube](https://www.youtube.com/watch?v=ncTeXPUNe88) |
 | 7 | 【池袋ランチ10選】池袋住みが教える最高の池袋グルメ | 1 個月前 | 觀看次數：7.3萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=4Nuexb2kTGc) |
 | 8 | 【東京ランチ10選】今なら穴場！日本洋食発祥のお店など | 1 個月前 | 觀看次數：4萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=cOTqL7T8Plg) |
 | 9 | 【東京ビュッフェ10選】予約が2ヶ月先の名店、駅直結のホテルビュッフェなど！ | 1 個月前 | 觀看次數：2.4萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=tU4jzOeVCus) |
@@ -20,21 +20,21 @@
 | 11 | 【東京食べ放題】1000円台で神過ぎる！ミシュランやホテルビュッフェなど！ | 2 個月前 | 觀看次數：2.4萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=r4CNx93ofjw) |
 | 12 | 【日本橋・三越前ランチ10選】ミシュラン獲得！誰も知らない1,000円台ランチなど | 2 個月前 | 觀看次數：5.9萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=yh9s6bOVa4c) |
 | 13 | 【東京駅ランチ10選】菊池風磨やニノも絶賛！1,000円台から楽しめるミシュラン店など！ | 2 個月前 | 觀看次數：2.8萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=2lGOIX9A85A) |
-| 14 | 【東京ランチ10選】一人でも入りやすい！1000円で楽しめるコスパ最強ランチなど！ | 2 個月前 | 觀看次數：7.4萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=yqftMDKjY9Y) |
+| 14 | 【東京ランチ10選】一人でも入りやすい！1000円で楽しめるコスパ最強ランチなど！ | 2 個月前 | 觀看次數：7.5萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=yqftMDKjY9Y) |
 | 15 | 【保存版】東京で絶対外さないランチ10選！食べログ1位・ミシュラン・Diorカフェ | 3 個月前 | 觀看次數：4.5萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=s6xeAzXrYR8) |
 | 16 | 【銀座ランチ10選】マツコも認める最高の銀座ランチ！ | 3 個月前 | 觀看次數：5.6萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=62vWBf81QIA) |
-| 17 | 【東京食べ放題5選】1000円台で食べられるホテルビュッフェ、パン食べ放題！ | 3 個月前 | 觀看次數：3.3萬次 | 5 | [YouTube](https://www.youtube.com/watch?v=7k0_2zJJ7Og) |
+| 17 | 【東京食べ放題5選】1000円台で食べられるホテルビュッフェ、パン食べ放題！ | 3 個月前 | 觀看次數：3.4萬次 | 5 | [YouTube](https://www.youtube.com/watch?v=7k0_2zJJ7Og) |
 | 18 | 【池袋グルメ10選】100人中99人が食べられない幻の定食から5500円の高級寿司食べ放題まで！絶対に外さない名店まとめ | 3 個月前 | 觀看次數：3.5萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=7MSfHoqpOW0) |
 | 19 | 【東京駅ランチ10選】一人でも入りやすい！絶品東京駅ランチ！ | 4 個月前 | 觀看次數：6萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=LxcczhS0teI) |
 | 20 | 【東京朝ごはん10選】5つ星ホテルモーニングが500円!?築地本願寺で食べる全18品の至福モーニングなど！ | 4 個月前 | 觀看次數：10萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=KBCfPUMACUw) |
 | 21 | 2026年最新！銀座ランチ10選 | 4 個月前 | 觀看次數：7.1萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=Lc8l35zmkbs) |
 | 22 | 【東京ランチ】2026年最新！東京でランチを食べるならココ！ | 4 個月前 | 觀看次數：7.7萬次 | 0 | [YouTube](https://www.youtube.com/watch?v=CPsgj7IyfOw) |
-| 23 | 【東京食べ放題5選】60品の寿司が5000円で食べ放題！誰も知らない秘密のデザートワゴン♪ | 4 個月前 | 觀看次數：3.4萬次 | 5 | [YouTube](https://www.youtube.com/watch?v=DwGb0sDvDYY) |
+| 23 | 【東京食べ放題5選】60品の寿司が5000円で食べ放題！誰も知らない秘密のデザートワゴン♪ | 5 個月前 | 觀看次數：3.4萬次 | 5 | [YouTube](https://www.youtube.com/watch?v=DwGb0sDvDYY) |
 | 24 | 【2026年最新】東京で1000円台！？最強の食べ放題ベスト10 | 5 個月前 | 觀看次數：13萬次 | 0 | [YouTube](https://www.youtube.com/watch?v=-VBzi47AZr8) |
 | 25 | 【新宿ランチ10選】2026年最新！最高の新宿グルメ10選 | 5 個月前 | 觀看次數：18萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=lzfNcjaGqwI) |
 | 26 | 【2026年最新】銀座ランチ完全保存版！絶対に行くべき名店・穴場ベスト10 | 5 個月前 | 觀看次數：9.3萬次 | 0 | [YouTube](https://www.youtube.com/watch?v=B0AmrwXsnuk) |
 | 27 | 【東京駅ランチ】2026年最新！感動の東京駅ランチ | 5 個月前 | 觀看次數：15萬次 | 0 | [YouTube](https://www.youtube.com/watch?v=Idm1SSVKFH4) |
-| 28 | 【東京食べ放題ベスト10】2026年最新！最高の東京食べ放題 | 5 個月前 | 觀看次數：5.2萬次 | 0 | [YouTube](https://www.youtube.com/watch?v=PVl5nLZTDu0) |
+| 28 | 【東京食べ放題ベスト10】2026年最新！最高の東京食べ放題 | 5 個月前 | 觀看次數：5.3萬次 | 0 | [YouTube](https://www.youtube.com/watch?v=PVl5nLZTDu0) |
 | 29 | 【池袋ランチ】2026年最新！最高の池袋ランチ | 5 個月前 | 觀看次數：15萬次 | 0 | [YouTube](https://www.youtube.com/watch?v=3rHPH23tA-0) |
 | 30 | 【東京ランチ10選】食べ放題付破格のレストランが最高だった... | 5 個月前 | 觀看次數：9萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=obHRbHiOQwU) |
 | 31 | 【銀座ランチ10選】パン食べ放題付破格のデザートワゴン、「相棒」のロケ地になった日本最古のレストランなど！ | 5 個月前 | 觀看次數：4.8萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=598Lb7FxYgE) |
@@ -56,9 +56,9 @@
 | 47 | 【東京ランチ10選】国産小麦100%のパン食べ放題、2時間待ちの行列ビストロ、世界三大小籠包の天空ランチ！ | 9 個月前 | 觀看次數：38萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=2-lUsJCWYQ4) |
 | 48 | 【東京モーニング10選】500円で食べ放題！？マツコも驚く2時間待ちの大行列朝ごはん！ | 9 個月前 | 觀看次數：16萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=P1Ci6oY0HR8) |
 | 49 | 【東京食べ放題5選】東京駅のホテルビュッフェが1,000円台！？まだ誰も知らないおばんざいビュッフェ | 9 個月前 | 觀看次數：13萬次 | 5 | [YouTube](https://www.youtube.com/watch?v=nsW1KnZISdg) |
-| 50 | 【新大久保グルメ8選】1000円台で食べ放題！食べ歩きグルメも！ | 9 個月前 | 觀看次數：6.6萬次 | 8 | [YouTube](https://www.youtube.com/watch?v=CT3dnhdHsJE) |
+| 50 | 【新大久保グルメ8選】1000円台で食べ放題！食べ歩きグルメも！ | 10 個月前 | 觀看次數：6.6萬次 | 8 | [YouTube](https://www.youtube.com/watch?v=CT3dnhdHsJE) |
 | 51 | 【東京寿司食べ放題ベスト10】時間無制限で高級寿司食べ放題が4,000円台！？今年8月にオープンした名店も！ | 10 個月前 | 觀看次數：15萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=AkoPQU__YJA) |
-| 52 | 【セブ島旅行】物価安過ぎ！人気観光地やセブ島No.1グルメ、基本情報も完全解説！ | 10 個月前 | 觀看次數：8.4萬次 | 0 | [YouTube](https://www.youtube.com/watch?v=5eDOyR7D11o) |
+| 52 | 【セブ島旅行】物価安過ぎ！人気観光地やセブ島No.1グルメ、基本情報も完全解説！ | 10 個月前 | 觀看次數：8.5萬次 | 0 | [YouTube](https://www.youtube.com/watch?v=5eDOyR7D11o) |
 | 53 | 【東京食べ放題5選】ミシュランシェフのフルビュッフェが1,200円！？まるで軽井沢のようなオシャレビュッフェも紹介 | 10 個月前 | 觀看次數：11萬次 | 5 | [YouTube](https://www.youtube.com/watch?v=Nta6wI1GxCM) |
 | 54 | 【香港旅行】ミシュラン獲得店が1,000円！？世界三大夜景、世界一長いエスカレーターなど、基本情報も完全解説！ | 10 個月前 | 觀看次數：1.4萬次 | 0 | [YouTube](https://www.youtube.com/watch?v=QdBWRXDqZo8) |
 | 55 | 【銀座ランチ10選】1000円でミシュラン食べ放題！？ついに帰って来た2時間待ちのすき焼き！ | 10 個月前 | 觀看次數：26萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=bJ7ALp9eB08) |
@@ -66,7 +66,7 @@
 | 57 | 【東京駅ランチ10選】コスパ最高の食べ放題、ミシュラン獲得1,000円台ビストロなど！ | 10 個月前 | 觀看次數：28萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=oW9ypq6LNzs) |
 | 58 | 【池袋グルメ10選】そばが100円！？日本大使館出身フレンチ、明治40年創業の籠盛りランチ！ | 10 個月前 | 觀看次數：12萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=pv5_f-gMMw4) |
 | 59 | 【ご報告】帰ってきました！ハーリーです！ | 10 個月前 | 觀看次數：1.9萬次 | 0 | [YouTube](https://www.youtube.com/watch?v=6LTzJ3lKPKY) |
-| 60 | 「【驚愕】10,000円の高級コース料理1名分が完全無料に！？異次元すぎる東京グルメ5選！ | 11 個月前 | 觀看次數：7067次 | 5 | [YouTube](https://www.youtube.com/watch?v=uyet74cgrl4) |
+| 60 | 「【驚愕】10,000円の高級コース料理1名分が完全無料に！？異次元すぎる東京グルメ5選！ | 11 個月前 | 觀看次數：7069次 | 5 | [YouTube](https://www.youtube.com/watch?v=uyet74cgrl4) |
 | 61 | 【東京駅ランチ10選】食べ放題のパンや明太子！話題の和定食や餃子まで全部紹介！ | 11 個月前 | 觀看次數：3.4萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=yxn3JU0B-08) |
 | 62 | 【この夏行きたい】東京グルメ5選！ミシュランラーメンからおしゃれカフェまで | 11 個月前 | 觀看次數：6777次 | 5 | [YouTube](https://www.youtube.com/watch?v=4tGcXue4O8o) |
 | 63 | 【コスパ最強】東京寿司食べ放題6選！ウニ食べ放題×ハーゲンダッツ×景色最高で4000円台！！ | 1 年前 | 觀看次數：19萬次 | 6 | [YouTube](https://www.youtube.com/watch?v=pvEt7sZFgng) |
@@ -81,7 +81,7 @@
 | 72 | 【東京寿司5選】千円以下の超コスパ寿司から2時間待ちの行列店まで！丼からネタが溢れるあの有名店もご紹介！【ハーリー】 | 1 年前 | 觀看次數：4.9萬次 | 5 | [YouTube](https://www.youtube.com/watch?v=dP6ckmVgtKA) |
 | 73 | 【池袋美食10選】袴飯吃到飽！最好的家庭經營的壽司店！ | 1 年前 | 觀看次數：25萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=38RD_dcmo8A) |
 | 74 | 【東京10大吃到飽】5秒預約的名壽司店、米其林中餐等！ | 1 年前 | 觀看次數：40萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=PP6QYg_FAY4) |
-| 75 | 【銀座最佳7午餐】100年歷史的老店重新裝修了！米其林榮獲法國大獎！ | 1 年前 | 觀看次數：9.8萬次 | 7 | [YouTube](https://www.youtube.com/watch?v=F-qjU6FJZWM) |
+| 75 | 【銀座最佳7午餐】100年歷史的老店重新裝修了！米其林榮獲法國大獎！ | 1 年前 | 觀看次數：9.9萬次 | 7 | [YouTube](https://www.youtube.com/watch?v=F-qjU6FJZWM) |
 | 76 | 【東京5種吃到飽】1000日圓以下吃到飽！ ？米其林大廚的自助餐！ | 1 年前 | 觀看次數：12萬次 | 5 | [YouTube](https://www.youtube.com/watch?v=bIByoiH3waE) |
 | 77 | [上野午餐最佳7]這個地方很難被擊敗！跟大家介紹一下只有知情者才知道的上野午餐。 | 1 年前 | 觀看次數：35萬次 | 7 | [YouTube](https://www.youtube.com/watch?v=P6NMAGA-IoY) |
 | 78 | 【東京精選3大壽司自助餐】100多種壽司自助餐，約4000日圓！ ？ | 1 年前 | 觀看次數：7.4萬次 | 3 | [YouTube](https://www.youtube.com/watch?v=RRgQaK8O67U) |
@@ -97,7 +97,7 @@
 | 88 | 【東京5大吃到飽】米其林餐廳吃到飽僅需1,000日圓！ ？推出包含麵包和炸雞在內的超值無限暢吃菜單！ | 1 年前 | 觀看次數：49萬次 | 5 | [YouTube](https://www.youtube.com/watch?v=8UEHPJu3Q5M) |
 | 89 | 【池袋美食精選14】還有名店，預約1秒鐘爆滿！ ？隆重介紹 2024 年上半年的所有新職缺！ | 1 年前 | 觀看次數：9.4萬次 | 14 | [YouTube](https://www.youtube.com/watch?v=57qkBa1qV8Q) |
 | 90 | 【東京十大午餐】吃到飽的烤牛肉、最適合約會或女孩之夜的小酒館等等！ | 1 年前 | 觀看次數：9.1萬次 | 10 | [YouTube](https://www.youtube.com/watch?v=sw2RKptmG9E) |
-| 91 | 【東京車站拉麵最佳8】連續三年獲得米其林星級的拉麵、東京車站第一拉麵等等！ | 1 年前 | 觀看次數：17萬次 | 8 | [YouTube](https://www.youtube.com/watch?v=uhLxJn1ooEY) |
+| 91 | 【東京車站拉麵最佳8】連續三年獲得米其林星級的拉麵、東京車站第一拉麵等等！ | 2 年前 | 觀看次數：17萬次 | 8 | [YouTube](https://www.youtube.com/watch?v=uhLxJn1ooEY) |
 | 92 | [東京最佳咖啡廳 21 家] 東京 21 家最佳咖啡廳 | 2 年前 | 觀看次數：6.7萬次 | 21 | [YouTube](https://www.youtube.com/watch?v=kpQqkxuM9JU) |
 | 93 | [新橋居酒屋最佳7]清酒150日圓！模特兒居酒屋、新橋No.1烤肉等！ | 2 年前 | 觀看次數：10萬次 | 7 | [YouTube](https://www.youtube.com/watch?v=ezotOXpZsEM) |
 | 94 | 【日本橋午餐精選5選】米其林星級！ 1919年創業300年的壽喜燒鰹魚片家族經營的東京第一披薩店！ | 2 年前 | 觀看次數：14萬次 | 5 | [YouTube](https://www.youtube.com/watch?v=imShh65JKDI) |
@@ -131,7 +131,7 @@
 | 122 | 【新宿午餐精選5】米其林一星日本料理、連續10年榮獲金獎的天婦羅蓋飯、黃金比例香料咖哩等！ | 2 年前 | 觀看次數：10萬次 | 5 | [YouTube](https://www.youtube.com/watch?v=69sLLC7VR4w) |
 | 123 | 【日本橋午餐精選5選】從香川直送的高性價比烏龍麵、米其林星級斯里蘭卡料理、銀行裝修後的小酒館等等！ | 2 年前 | 觀看次數：5.3萬次 | 5 | [YouTube](https://www.youtube.com/watch?v=a-hJd0A0ys4) |
 | 124 | 【東京最佳3壽司】米其林星級餐廳前主廚，超值壽司配11000日圓無限暢飲，帶茶室的櫃檯壽司！ | 2 年前 | 觀看次數：3.1萬次 | 3 | [YouTube](https://www.youtube.com/watch?v=1tm-naFWG1I) |
-| 125 | 【銀座午餐Best 7】1000日圓左右的豪華櫃檯壽司、新開張的人氣壽喜燒酒、備受矚目的稀有天婦羅蓋飯等等！ | 2 年前 | 觀看次數：8.6萬次 | 7 | [YouTube](https://www.youtube.com/watch?v=0YwMf18oeRU) |
+| 125 | 【銀座午餐Best 7】1000日圓左右的豪華櫃檯壽司、新開張的人氣壽喜燒酒、備受矚目的稀有天婦羅蓋飯等等！ | 2 年前 | 觀看次數：8.7萬次 | 7 | [YouTube](https://www.youtube.com/watch?v=0YwMf18oeRU) |
 | 126 | 【上野最佳5單人餐】東京三大大餃子、1932年創業的肉食店等等！ | 2 年前 | 觀看次數：6.2萬次 | 5 | [YouTube](https://www.youtube.com/watch?v=A0DnujF3re4) |
 | 127 | 【東京車站最佳5午餐】第一任首相製作的麵包、巨型山牛排、黑咖哩吃到飽！ | 2 年前 | 觀看次數：15萬次 | 5 | [YouTube](https://www.youtube.com/watch?v=QfLYdAXe4l8) |
 | 128 | 【豐洲戰績番雷 Best 8】2月1日開幕！ 最新景點美味美食詳細報道！ | 2 年前 | 觀看次數：4.8萬次 | 0 | [YouTube](https://www.youtube.com/watch?v=YDrxAKSSlRA) |

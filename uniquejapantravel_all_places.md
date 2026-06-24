@@ -1,19 +1,17 @@
 # Unique Japan Travel 全頻道地點清單
 
 - 頻道：[Unique Japan Travel](https://www.youtube.com/@UniqueJapanTravel)
-- 抓取日期：2026-06-22
+- 抓取日期：2026-06-24
 - 整理流程：本輪重新抓取 YouTube 頻道影片清單；舊影片地點沿用既有抽取資料，新增影片解析 YouTube 描述欄/章節。
-- 本檔整理影片：45 部；本輪新增或補抓描述欄：45 部。
+- 本檔整理影片：45 部；本輪新增或補抓描述欄：0 部。
 - 店家/地點總筆數：188 筆；原始 Google/Share 地圖連結 0 筆，搜尋補足 188 筆，Naver Map 0 筆。
 - Google Maps 評分本輪未逐筆重查；既有評分保留，新增列標示未取得。
 - 無店家資料影片清單：見 [uniquejapantravel_no_places.md](./uniquejapantravel_no_places.md)。
 
-- 本輪新增/補抓影片 ID：NXS0MSn3Ldg, 9nuy4ingnGM, Y8DPDVgBmHY, yqRfrCCSCyY, Ey356ksgrP8, I15xzdcVIsQ, _awM1rlqLNQ, hrdUnLXLBjA, 6_OMbbJArrY, d8WWRZ54fGM, Yzcw7oyEips, fY944Cc8xAc, 3XZtzlML9oA, fKe4axoJrBY, O0Mui60YG8A, uYww5NquSuk, 4gcPpraTwRo, jT4liW3TUaA, AyeoImlzudk, dlC-KMAlpf0 ...
-
 ## 1. 走進日本最美自然秘境｜長野上高地寧靜晨間散步｜日本旅行Vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=NXS0MSn3Ldg)
-- 發布時間：1 天前；觀看次數：2.7萬次
+- 發布時間：3 天前；觀看次數：4.4萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -29,7 +27,7 @@
 ## 2. 搭乘地方列車漫遊岐阜鮮為人知的鄉村療癒之旅｜日本旅行Vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=9nuy4ingnGM)
-- 發布時間：4 週前；觀看次數：38萬次
+- 發布時間：4 週前；觀看次數：39萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -56,7 +54,7 @@
 ## 4. 東京近郊秘境海濱小鎮｜搭電車一日遊鮪魚之城三崎｜日本旅行Vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=yqRfrCCSCyY)
-- 發布時間：2 個月前；觀看次數：21萬次
+- 發布時間：2 個月前；觀看次數：22萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -140,7 +138,7 @@
 ## 10. 隱藏版京都鄉村之旅｜日本旅遊Vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=d8WWRZ54fGM)
-- 發布時間：7 個月前；觀看次數：190萬次
+- 發布時間：7 個月前；觀看次數：191萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -177,7 +175,7 @@
 ## 12. 搭乘在地列車探索日本鄉村｜日本旅遊vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=fY944Cc8xAc)
-- 發布時間：9 個月前；觀看次數：140萬次
+- 發布時間：9 個月前；觀看次數：141萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -292,7 +290,7 @@
 ## 21. 從東京出發的富士山地區一日遊 \| 冬季火車之旅 \| 日本旅行vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=n_PxJ2PyecI)
-- 發布時間：1 年前；觀看次數：335萬次
+- 發布時間：1 年前；觀看次數：336萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -341,7 +339,7 @@
 ## 25. 吉卜力風的海濱小鎮 \| 東京附近的鎌倉一日火車之旅 \| 日本旅遊影片博客
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=9KD3kg_L3n4)
-- 發布時間：1 年前；觀看次數：290萬次
+- 發布時間：1 年前；觀看次數：291萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -364,7 +362,7 @@
 ## 27. 享受東京附近的大自然 \| 秋季日光一日遊 \| 日本旅遊影片博客
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=FeqWDE_Fbyw)
-- 發布時間：1 年前；觀看次數：6.3萬次
+- 發布時間：1 年前；觀看次數：6.4萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -440,7 +438,7 @@
 ## 35. 東京晴空塔展望台 \| 體驗獨特的日本文化
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=xar-W6zVanM)
-- 發布時間：2 年前；觀看次數：7104次
+- 發布時間：2 年前；觀看次數：7110次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -449,7 +447,7 @@
 ## 36. 2024 年遊覽淺草的最佳方式 \| 日本旅遊
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=dcX9kmkNMiE)
-- 發布時間：2 年前；觀看次數：5316次
+- 發布時間：2 年前；觀看次數：5324次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |

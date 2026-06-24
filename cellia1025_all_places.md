@@ -1,7 +1,7 @@
 # Celia Ting 全頻道地點清單
 
 - 頻道：[Celia Ting](https://www.youtube.com/@cellia1025)
-- 抓取日期：2026-06-22
+- 抓取日期：2026-06-24
 - 整理流程：本輪重新抓取 YouTube 頻道影片清單；舊影片地點沿用既有抽取資料，新增影片解析 YouTube 描述欄/章節。
 - 本檔整理影片：41 部；本輪新增或補抓描述欄：0 部。
 - 店家/地點總筆數：107 筆；原始 Google/Share 地圖連結 0 筆，搜尋補足 107 筆，Naver Map 0 筆。
@@ -11,7 +11,7 @@
 ## 1. 如果 Google Maps 消失了？我在東京試了一天 \| a day in Tokyo without Google Maps ☕️
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Elnh4ZYpWkU)
-- 發布時間：2 週前；觀看次數：觀看次數：3807次
+- 發布時間：2 週前；觀看次數：3811次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -24,7 +24,7 @@
 ## 2. 東京三日散步日記 ☕️ 下北澤、美術館、咖啡廳…還準備了禮物送你們 ｜Tokyo travel diary ☕️ coffee shops, Shimokitazawa & gifts for you
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=RCheXgDuXCk)
-- 發布時間：1 個月前；觀看次數：觀看次數：1.8萬次
+- 發布時間：1 個月前；觀看次數：1.8萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -40,7 +40,7 @@
 ## 3. 陪我在台北大同區跑咖 ☕️ 回家做爆紅甜點＆回答你們的問題 \| a slow day in taipei 🤍
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=BOco6BIqwcc)
-- 發布時間：2 個月前；觀看次數：觀看次數：4421次
+- 發布時間：2 個月前；觀看次數：4425次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -51,7 +51,7 @@
 ## 4. 沒有行程的三天連假 ☕️ 只是一直喝咖啡、亂晃、和踩了雷 (?) \| no plans, just coffee. a slow & cozy long weekend
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=QSOtd_h1YwA)
-- 發布時間：2 個月前；觀看次數：觀看次數：7398次
+- 發布時間：2 個月前；觀看次數：7401次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -66,7 +66,7 @@
 ## 5. 週末一日快閃香港｜跑咖啡、逛麵包店，在中環散步…還把 iPhone 摔壞了😭｜Hong Kong solo day trip vlog
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=ZqmGEXob_fs)
-- 發布時間：3 個月前；觀看次數：觀看次數：3.9萬次
+- 發布時間：3 個月前；觀看次數：3.9萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -81,7 +81,7 @@
 ## 10. 72 小時東京跑咖｜精選 10+ 間風格咖啡店 ☕️｜tokyo cafés in 72 hours
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=w87nLAk6Pck)
-- 發布時間：5 個月前；觀看次數：觀看次數：1萬次
+- 發布時間：5 個月前；觀看次數：1萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -104,7 +104,7 @@
 ## 15. 台北板南線咖啡廳一日探店｜還有Super Junior銀赫愛去的咖啡店！One day café hopping on MRT Blue Line
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=ENQmUYy-Bsg)
-- 發布時間：8 個月前；觀看次數：觀看次數：9160次
+- 發布時間：8 個月前；觀看次數：9173次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -118,7 +118,7 @@
 ## 16. 你們敲碗的，我來台中了！｜咖啡店＋米其林冰淇淋＋抹茶甜點 ☕️ A Day in Taichung West｜Cafés, Michelin Ice Cream & Matcha Desserts
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=3O442NTN2uo)
-- 發布時間：9 個月前；觀看次數：觀看次數：3771次
+- 發布時間：9 個月前；觀看次數：3773次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -132,7 +132,7 @@
 ## 17. 台北象山一日咖啡＆美食散步｜咖啡店＋茶庵＋麵包店｜你們決定下支影片！Taipei Elephant Mountain Cafe Tour
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=-4Xkk3re0ZQ)
-- 發布時間：10 個月前；觀看次數：觀看次數：1.3萬次
+- 發布時間：10 個月前；觀看次數：1.3萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -144,7 +144,7 @@
 ## 18. 最愛的公館老味道 & 校園美食 \| 冰淇淋三明治、燒臘、刈包、雞蛋糕 🧁🍦 NTU Alumni Food Tour
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=lEtq_nfqjgg)
-- 發布時間：10 個月前；觀看次數：觀看次數：6304次
+- 發布時間：11 個月前；觀看次數：6306次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -159,7 +159,7 @@
 ## 19. 台北 Solo Vlog｜一人約會路線推薦：咖啡廳・展覽・麵包店・冰淇淋 ｜Solo Date in Taipei 💕
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=IoxGOlgHUhg)
-- 發布時間：11 個月前；觀看次數：觀看次數：7945次
+- 發布時間：11 個月前；觀看次數：7946次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -168,7 +168,7 @@
 ## 20. 民生社區6間無限回訪的日常愛店 ☀️｜Best Eats in Taipei’s Minsheng Area
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=QJB76eYAxCI)
-- 發布時間：1 年前；觀看次數：觀看次數：5.4萬次
+- 發布時間：1 年前；觀看次數：5.4萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -181,7 +181,7 @@
 ## 22. 日本小物開箱 🤎｜MUJI、平價版無印、咖啡豆、美妝、小廢物全都有
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=qfK_B9mPNGk)
-- 發布時間：1 年前；觀看次數：觀看次數：1659次
+- 發布時間：1 年前；觀看次數：1659次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -194,7 +194,7 @@
 ## 23. 東京10間超美咖啡廳踩點 ☕️｜最愛的居然不是 Fuglen？
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=fuDun1hFX0s)
-- 發布時間：1 年前；觀看次數：觀看次數：5.2萬次
+- 發布時間：1 年前；觀看次數：5.2萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -215,7 +215,7 @@
 ## 24. 5 Days in Tokyo 🗼 \| Must-Try Food Spots You’ll Love 🍜🍣  東京美食推薦!
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=27Gglse5FZk)
-- 發布時間：1 年前；觀看次數：觀看次數：7146次
+- 發布時間：1 年前；觀看次數：7146次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -224,7 +224,7 @@
 ## 25. Top 5 Must-Try Bakeries in Taipei! 🍞 🥐 🥨 🥖 💛
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=m-SS9gPBBh4)
-- 發布時間：1 年前；觀看次數：觀看次數：5.4萬次
+- 發布時間：1 年前；觀看次數：5.4萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -237,7 +237,7 @@
 ## 26. Top 5 Must-Visit Cafés in Taipei! ☕✨
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=MArVMHUQ0Ko)
-- 發布時間：1 年前；觀看次數：觀看次數：8萬次
+- 發布時間：1 年前；觀看次數：8萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -250,7 +250,7 @@
 ## 27. Lunar New Year in Taipei 🎆 \| 迪化街、大稻埕咖啡店! 蛇年快樂!
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=wKcgdecnAdg)
-- 發布時間：1 年前；觀看次數：觀看次數：1019次
+- 發布時間：1 年前；觀看次數：1019次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -259,7 +259,7 @@
 ## 38. 2019年 英國倫敦跨年煙火 #英國 #倫敦 #跨年煙火 #紅區
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=wcEqDTnrlDs)
-- 發布時間：7 年前；觀看次數：觀看次數：665次
+- 發布時間：7 年前；觀看次數：665次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -268,7 +268,7 @@
 ## 39. #倫敦 #鼎泰豐 Din Tai Fung London (價格.環境.心得)
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=JvLVLtPqMbc)
-- 發布時間：7 年前；觀看次數：觀看次數：1萬次
+- 發布時間：7 年前；觀看次數：1萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -277,7 +277,7 @@
 ## 40. 英國居大不易-水龍頭篇 #英國 #倫敦 #水龍頭 #冬天
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=qUlFpC4c2jc)
-- 發布時間：7 年前；觀看次數：觀看次數：772次
+- 發布時間：7 年前；觀看次數：772次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |

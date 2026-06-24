@@ -1,17 +1,17 @@
 # ハーリーのグルメ 全頻道地點清單
 
 - 頻道：[ハーリーのグルメ](https://www.youtube.com/@hurleygourmet)
-- 抓取日期：2026-06-22
+- 抓取日期：2026-06-24
 - 整理流程：本輪重新抓取 YouTube 頻道影片清單；舊影片地點沿用既有抽取資料，新增影片解析 YouTube 描述欄/章節。
 - 本檔整理影片：292 部；本輪新增或補抓描述欄：0 部。
 - 店家/地點總筆數：1832 筆；原始 Google/Share 地圖連結 0 筆，搜尋補足 1832 筆，Naver Map 0 筆。
 - Google Maps 評分本輪未逐筆重查；既有評分保留，新增列標示未取得。
 - 無店家資料影片清單：見 [hurleygourmet_no_places.md](./hurleygourmet_no_places.md)。
 
-## 1. 今だけ限定メロンビュッフェが最高だった...
+## 1. 東京駅直結！今だけ限定メロンビュッフェが最高だった...
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=V_nH-ApoJ0M)
-- 發布時間：2 天前；觀看次數：1.2萬次
+- 發布時間：3 天前；觀看次數：2.3萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -19,10 +19,10 @@
 | XEX 日本橋 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=XEX%20%E6%97%A5%E6%9C%AC%E6%A9%8B%20Japan) | Google Maps 未取得（以搜尋連結代替） | 描述欄將「XEX 日本橋」列為本集介紹店家；未提供 Google Maps 直連，改以店名搜尋地圖。 | [YouTube](https://www.youtube.com/watch?v=V_nH-ApoJ0M) | ハーリーのグルメ |
 | XEX ATAGO GREEN HILLS | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=XEX%20ATAGO%20GREEN%20HILLS%20Japan) | Google Maps 未取得（以搜尋連結代替） | 描述欄將「XEX ATAGO GREEN HILLS」列為本集介紹店家；未提供 Google Maps 直連，改以店名搜尋地圖。 | [YouTube](https://www.youtube.com/watch?v=V_nH-ApoJ0M) | ハーリーのグルメ |
 
-## 2. 東京駅のおすすめはコレ
+## 2. 【東京駅ランチ10選】ミシュラン10年連続獲得店など、最高の東京駅ランチ
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=7FF4Rk4dNpE)
-- 發布時間：3 天前；觀看次數：1.6萬次
+- 發布時間：4 天前；觀看次數：2.5萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -40,7 +40,7 @@
 ## 4. ここ行けば間違いない
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=f5fSw52UBzE)
-- 發布時間：2 週前；觀看次數：7萬次
+- 發布時間：2 週前；觀看次數：7.2萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -58,7 +58,7 @@
 ## 6. 【東京朝ごはん8選】今年オープン！最新スポットのモーニングなど！
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=ncTeXPUNe88)
-- 發布時間：1 個月前；觀看次數：5.9萬次
+- 發布時間：1 個月前；觀看次數：6萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -200,7 +200,7 @@
 ## 14. 【東京ランチ10選】一人でも入りやすい！1000円で楽しめるコスパ最強ランチなど！
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=yqftMDKjY9Y)
-- 發布時間：2 個月前；觀看次數：7.4萬次
+- 發布時間：2 個月前；觀看次數：7.5萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -254,7 +254,7 @@
 ## 17. 【東京食べ放題5選】1000円台で食べられるホテルビュッフェ、パン食べ放題！
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=7k0_2zJJ7Og)
-- 發布時間：3 個月前；觀看次數：3.3萬次
+- 發布時間：3 個月前；觀看次數：3.4萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -339,7 +339,7 @@
 ## 23. 【東京食べ放題5選】60品の寿司が5000円で食べ放題！誰も知らない秘密のデザートワゴン♪
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=DwGb0sDvDYY)
-- 發布時間：4 個月前；觀看次數：3.4萬次
+- 發布時間：5 個月前；觀看次數：3.4萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -671,7 +671,7 @@
 ## 50. 【新大久保グルメ8選】1000円台で食べ放題！食べ歩きグルメも！
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=CT3dnhdHsJE)
-- 發布時間：9 個月前；觀看次數：6.6萬次
+- 發布時間：10 個月前；觀看次數：6.6萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -785,7 +785,7 @@
 ## 60. 「【驚愕】10,000円の高級コース料理1名分が完全無料に！？異次元すぎる東京グルメ5選！
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=uyet74cgrl4)
-- 發布時間：11 個月前；觀看次數：7067次
+- 發布時間：11 個月前；觀看次數：7069次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -1031,7 +1031,7 @@
 ## 75. 【銀座最佳7午餐】100年歷史的老店重新裝修了！米其林榮獲法國大獎！
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=F-qjU6FJZWM)
-- 發布時間：1 年前；觀看次數：9.8萬次
+- 發布時間：1 年前；觀看次數：9.9萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -1243,7 +1243,7 @@
 ## 91. 【東京車站拉麵最佳8】連續三年獲得米其林星級的拉麵、東京車站第一拉麵等等！
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=uhLxJn1ooEY)
-- 發布時間：1 年前；觀看次數：17萬次
+- 發布時間：2 年前；觀看次數：17萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -1732,7 +1732,7 @@
 ## 125. 【銀座午餐Best 7】1000日圓左右的豪華櫃檯壽司、新開張的人氣壽喜燒酒、備受矚目的稀有天婦羅蓋飯等等！
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=0YwMf18oeRU)
-- 發布時間：2 年前；觀看次數：8.6萬次
+- 發布時間：2 年前；觀看次數：8.7萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |

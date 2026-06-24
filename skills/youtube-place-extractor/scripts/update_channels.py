@@ -799,8 +799,10 @@ def parse_hina(description: str, video: dict[str, Any], config: ChannelConfig) -
         if not is_map_url(line):
             continue
         map_url = extract_map_url(line)
-        name = ""
+        name, inline_time = clean_place_name(line)
         for prev in range(idx - 1, max(-1, idx - 5), -1):
+            if name:
+                break
             candidate = clean_line(lines[prev])
             if candidate and not is_noise_name(candidate) and not is_map_url(candidate):
                 name = candidate
@@ -815,7 +817,7 @@ def parse_hina(description: str, video: dict[str, Any], config: ChannelConfig) -
                 config=config,
                 name=name,
                 map_url=map_url,
-                time_label=chapter["time"] if chapter else "",
+                time_label=inline_time or (chapter["time"] if chapter else ""),
                 seconds=chapter["seconds"] if chapter else None,
                 chapter_title=chapter["title"] if chapter else "",
                 review=review,
@@ -901,11 +903,12 @@ def is_skip_chapter(name: str) -> bool:
         "camera",
         "intro",
         "outro",
-        "day",
         "home",
         "cooking",
         "shopping haul",
     ]
+    if re.fullmatch(r"day\s*\d*", lowered):
+        return True
     return any(word in lowered for word in skip_words)
 
 
@@ -1129,8 +1132,10 @@ def parse_generic_map_blocks(
         if not is_map_url(line):
             continue
         map_url = extract_map_url(line)
-        name = ""
+        name, inline_time = clean_place_name(line)
         for prev in range(idx - 1, max(-1, idx - 5), -1):
+            if name:
+                break
             candidate = clean_line(lines[prev])
             if candidate and not is_noise_name(candidate) and not is_map_url(candidate):
                 name = candidate
@@ -1145,7 +1150,7 @@ def parse_generic_map_blocks(
                 config=config,
                 name=name,
                 map_url=map_url,
-                time_label=chapter["time"] if chapter else "",
+                time_label=inline_time or (chapter["time"] if chapter else ""),
                 seconds=chapter["seconds"] if chapter else None,
                 chapter_title=chapter["title"] if chapter else "",
                 review=review,
