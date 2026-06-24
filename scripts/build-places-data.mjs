@@ -9,9 +9,10 @@ const dataDir = path.join(rootDir, "public", "data");
 const outputFile = path.join(dataDir, "places.json");
 const mapLinkCacheFile = path.join(dataDir, "map-link-cache.json");
 const googlePlaceCacheFile = path.join(dataDir, "google-place-cache.json");
+const legacyResolvedLinksFile = path.join(__dirname, "data", "legacy-resolved-links.json");
 
 const rawPlaceFilePattern = /_all_places_raw\.json$/;
-const ratingFilePattern = /_(map_ratings|map_resolved)\.json$/;
+const resolvedFilePattern = /_map_resolved\.json$/;
 
 const categoryFallbacks = [
   {
@@ -167,18 +168,6 @@ function parseLocationFromUrl(url) {
   return { lat, lng };
 }
 
-function parseRating(value) {
-  if (typeof value === "number") return value;
-  const match = String(value || "").match(/([0-5](?:\.\d)?)/);
-  return match ? Number(match[1]) : null;
-}
-
-function parseReviewCount(value) {
-  const text = String(value || "").replace(/,/g, "");
-  const match = text.match(/(\d+)/);
-  return match ? Number(match[1]) : null;
-}
-
 function normalizeChannelId(channelName, channelUrlOrHandle) {
   const handle = cleanText(channelUrlOrHandle)
     .replace(/^https?:\/\/(?:www\.)?youtube\.com\//, "")
@@ -234,28 +223,27 @@ function inferCategory(record) {
   return { key: "other", label: "其他", source: "heuristic" };
 }
 
-function loadRatings() {
-  const ratings = new Map();
+function loadResolvedLinks() {
   const resolved = new Map();
-  for (const file of fs.readdirSync(rootDir).filter((name) => ratingFilePattern.test(name))) {
+  for (const file of fs.readdirSync(rootDir).filter((name) => resolvedFilePattern.test(name))) {
     const content = readJson(path.join(rootDir, file), {});
     for (const [rawUrl, value] of Object.entries(content)) {
       const mapUrl = stripTracking(extractFirstUrl(rawUrl) || rawUrl);
       if (!mapUrl || typeof value !== "object" || !value) continue;
-      if ("rating" in value || "reviews" in value || "resolved_url" in value) {
-        ratings.set(mapUrl, {
-          name: value.name || "",
-          rating: parseRating(value.rating),
-          userRatingCount: parseReviewCount(value.reviews),
-          googleMapsUri: value.resolved_url || "",
-        });
-      }
       if ("final_url" in value || "resolved_url" in value) {
         resolved.set(mapUrl, value.final_url || value.resolved_url || "");
       }
     }
   }
-  return { ratings, resolved };
+
+  const legacy = readJson(legacyResolvedLinksFile, { records: {} });
+  for (const [rawUrl, value] of Object.entries(legacy.records || {})) {
+    const mapUrl = stripTracking(extractFirstUrl(rawUrl) || rawUrl);
+    if (!mapUrl || typeof value !== "object" || !value?.resolvedUrl) continue;
+    resolved.set(mapUrl, value.resolvedUrl);
+  }
+
+  return resolved;
 }
 
 function loadCache(filePath) {
@@ -307,7 +295,7 @@ function getRawPlaceEntries(raw, fileName) {
   return [];
 }
 
-function normalizeMention(entry, ratings, resolved) {
+function normalizeMention(entry, resolved) {
   const { place, video, placeIndex, videoIndex, channelName, channelUrlOrHandle, fileName } =
     entry;
   const channelId = normalizeChannelId(channelName, channelUrlOrHandle);
@@ -315,13 +303,8 @@ function normalizeMention(entry, ratings, resolved) {
   const mapUrl = stripTracking(extractFirstUrl(rawMapValue) || rawMapValue);
   const sourceKeyBase = mapUrl || `${fileName}:${video.id || place.video_id}:${placeIndex}:${place.name}`;
   const sourceKey = `src_${sha(sourceKeyBase, 18)}`;
-  const ratingRecord = ratings.get(mapUrl);
-  const resolvedUrl = resolved.get(mapUrl) || ratingRecord?.googleMapsUri || "";
-  const name = cleanName(place.name || ratingRecord?.name);
-  const googleRatingText = place.google_rating || "";
-  const rating = ratingRecord?.rating ?? parseRating(googleRatingText);
-  const userRatingCount =
-    ratingRecord?.userRatingCount ?? parseReviewCount(googleRatingText);
+  const resolvedUrl = resolved.get(mapUrl) || "";
+  const name = cleanName(place.name);
   const explicitLocation =
     place.location && typeof place.location === "object"
       ? parseLocationFromUrl(`@${place.location.lat},${place.location.lng}`)
@@ -356,8 +339,6 @@ function normalizeMention(entry, ratings, resolved) {
     resolvedUrl,
     address: cleanText(place.address),
     searchQuery: buildSearchQuery({ ...place, name, mapUrl }),
-    rating,
-    userRatingCount,
     location,
     channel: {
       id: channelId,
@@ -404,8 +385,6 @@ function mergeGoogleFromCache(record, cacheEntry) {
     primaryType: cacheEntry.primaryType || "",
     primaryTypeDisplayName: cacheEntry.primaryTypeDisplayName || null,
     types: cacheEntry.types || [],
-    rating: cacheEntry.rating ?? record.rating,
-    userRatingCount: cacheEntry.userRatingCount ?? record.userRatingCount,
     googleMapsUri: cacheEntry.googleMapsUri || record.resolvedUrl || record.mapUrl,
     googleMapsLinks: cacheEntry.googleMapsLinks || {},
     fetchedAt: cacheEntry.fetchedAt || "",
@@ -445,8 +424,6 @@ function groupRecords(records, mapLinkCache, googleCache) {
         searchQuery: record.searchQuery,
         sourceKeys: [],
         location,
-        rating: google?.rating ?? record.rating,
-        userRatingCount: google?.userRatingCount ?? record.userRatingCount,
         google,
         category: categoryFromGoogle(google) || inferCategory(record),
         mentions: [],
@@ -458,10 +435,6 @@ function groupRecords(records, mapLinkCache, googleCache) {
     group.mentions.push(record.mention);
     if (!group.location && location) group.location = location;
     if (!group.google && google) group.google = google;
-    if (!group.rating && record.rating) group.rating = record.rating;
-    if (!group.userRatingCount && record.userRatingCount) {
-      group.userRatingCount = record.userRatingCount;
-    }
   }
 
   return Array.from(groups.values())
@@ -492,7 +465,7 @@ function buildChannels(records) {
 
 function main() {
   const files = fs.readdirSync(rootDir).filter((file) => rawPlaceFilePattern.test(file));
-  const { ratings, resolved } = loadRatings();
+  const resolved = loadResolvedLinks();
   const mapLinkCache = loadCache(mapLinkCacheFile);
   const googleCache = loadCache(googlePlaceCacheFile);
   const records = [];
@@ -501,7 +474,7 @@ function main() {
     const raw = readJson(path.join(rootDir, file));
     const entries = getRawPlaceEntries(raw, file);
     for (const entry of entries) {
-      records.push(normalizeMention(entry, ratings, resolved));
+      records.push(normalizeMention(entry, resolved));
     }
   }
 

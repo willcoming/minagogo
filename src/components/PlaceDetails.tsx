@@ -2,11 +2,9 @@ import {
   ExternalLink,
   MessageSquareText,
   Navigation,
-  Star,
   Youtube,
 } from "lucide-react";
 import {
-  formatRating,
   getDirectionsUrl,
   getPlaceMapsUrl,
   uniqueMentionChannels,
@@ -27,7 +25,7 @@ export function PlaceDetails({ place }: PlaceDetailsProps) {
       <section className="details-panel empty-details" aria-label="地點詳情">
         <MessageSquareText size={18} />
         <strong>選取地點查看詳情</strong>
-        <span>點選左側清單或地圖 marker 後會顯示評分、影片來源與導航。</span>
+        <span>點選左側清單或地圖 marker 後會顯示地圖連結、影片來源與導航。</span>
       </section>
     );
   }
@@ -39,10 +37,6 @@ export function PlaceDetails({ place }: PlaceDetailsProps) {
           <p>{place.category.label}</p>
           <h2>{place.name}</h2>
         </div>
-        <span className="rating-score">
-          <Star size={14} />
-          {formatRating(place)}
-        </span>
       </div>
 
       <dl className="detail-facts">
@@ -71,21 +65,6 @@ export function PlaceDetails({ place }: PlaceDetailsProps) {
           <MessageSquareText size={16} />
           評論
         </a>
-      </div>
-
-      <div className="reviews-block">
-        <h3>Google Maps 評論</h3>
-        <article className="review-item">
-          <header>
-            <strong>{formatRating(place)}</strong>
-            <span>
-              {place.userRatingCount
-                ? `${place.userRatingCount.toLocaleString("zh-TW")} 則評論`
-                : "評論數未取得"}
-            </span>
-          </header>
-          <p>完整評論保留在 Google Maps，可用上方評論連結查看。</p>
-        </article>
       </div>
 
       <div className="mentions-block">

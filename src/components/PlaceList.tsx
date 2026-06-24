@@ -1,5 +1,5 @@
-import { MapPin, Star } from "lucide-react";
-import { formatRating, uniqueMentionChannels } from "../data";
+import { MapPin } from "lucide-react";
+import { uniqueMentionChannels } from "../data";
 import type { GroupMode, Place } from "../types";
 
 type PlaceListProps = {
@@ -98,10 +98,6 @@ export function PlaceList({
                       <span className="place-meta">{uniqueMentionChannels(place)}</span>
                     </span>
                     <span className="place-row-side">
-                      <span className="rating-pill">
-                        <Star size={13} />
-                        {formatRating(place)}
-                      </span>
                       <span className="category-pill">{place.category.label}</span>
                     </span>
                   </button>

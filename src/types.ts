@@ -57,8 +57,6 @@ export type GooglePlaceData = {
   primaryType: string;
   primaryTypeDisplayName?: { text?: string } | null;
   types: string[];
-  rating: number | null;
-  userRatingCount: number | null;
   googleMapsUri: string;
   googleMapsLinks: GooglePlaceLinks;
   fetchedAt: string;
@@ -73,8 +71,6 @@ export type Place = {
   searchQuery: string;
   sourceKeys: string[];
   location: LatLng | null;
-  rating: number | null;
-  userRatingCount: number | null;
   google: GooglePlaceData | null;
   category: PlaceCategory;
   mentions: PlaceMention[];

@@ -39,8 +39,6 @@ function placeMatchesMode(place: Place, mode: GroupMode, selected: Set<string>):
 
 function sortPlaces(places: Place[]): Place[] {
   return [...places].sort((a, b) => {
-    const ratingDiff = (b.rating || 0) - (a.rating || 0);
-    if (ratingDiff !== 0) return ratingDiff;
     const mentionDiff = b.mentions.length - a.mentions.length;
     if (mentionDiff !== 0) return mentionDiff;
     return a.name.localeCompare(b.name, "zh-Hant");

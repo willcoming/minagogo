@@ -21,14 +21,6 @@ export function placeInBounds(place: Place, bounds: BoundsLiteral | null): boole
   );
 }
 
-export function formatRating(place: Place): string {
-  if (!place.rating) return "尚無評分";
-  const count = place.userRatingCount
-    ? `（${new Intl.NumberFormat("zh-TW").format(place.userRatingCount)} 則）`
-    : "";
-  return `${place.rating.toFixed(1)} ${count}`;
-}
-
 export function getPlaceMapsUrl(place: Place): string {
   return (
     place.google?.googleMapsLinks?.placeUri ||

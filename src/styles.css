@@ -120,9 +120,7 @@ h1 {
   letter-spacing: 0;
 }
 
-.rating-pill,
-.category-pill,
-.rating-score {
+.category-pill {
   display: inline-flex;
   align-items: center;
   gap: 5px;
@@ -385,7 +383,6 @@ h1 {
   white-space: nowrap;
 }
 
-.rating-pill,
 .category-pill {
   max-width: 140px;
   min-height: 22px;
@@ -393,11 +390,6 @@ h1 {
   border-radius: 999px;
   font-size: 0.74rem;
   font-weight: 800;
-}
-
-.rating-pill {
-  background: #fff4d6;
-  color: #7c4a03;
 }
 
 .category-pill {
@@ -443,15 +435,6 @@ h1 {
   line-height: 1.22;
 }
 
-.rating-score {
-  padding: 5px 8px;
-  border-radius: 6px;
-  background: #fff4d6;
-  color: #7c4a03;
-  font-size: 0.78rem;
-  font-weight: 800;
-}
-
 .detail-facts {
   display: grid;
   gap: 7px;
@@ -481,14 +464,12 @@ h1 {
   margin-bottom: 12px;
 }
 
-.reviews-block,
 .mentions-block {
   display: grid;
   gap: 8px;
   margin-top: 12px;
 }
 
-.reviews-block h3,
 .mentions-block h3 {
   font-size: 0.9rem;
 }
@@ -498,7 +479,6 @@ h1 {
   font-size: 0.84rem;
 }
 
-.review-item,
 .mention-item {
   display: grid;
   gap: 4px;
@@ -508,7 +488,6 @@ h1 {
   background: var(--surface);
 }
 
-.review-item header,
 .mention-item header {
   display: flex;
   align-items: baseline;
@@ -516,13 +495,11 @@ h1 {
   gap: 8px;
 }
 
-.review-item header span,
 .mention-item header small {
   color: var(--text-muted);
   font-size: 0.76rem;
 }
 
-.review-item p,
 .mention-item p {
   color: #38414a;
   font-size: 0.84rem;

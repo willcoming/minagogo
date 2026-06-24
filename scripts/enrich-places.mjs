@@ -18,8 +18,6 @@ const fieldMask = [
   "places.primaryType",
   "places.primaryTypeDisplayName",
   "places.types",
-  "places.rating",
-  "places.userRatingCount",
   "places.googleMapsUri",
   "places.googleMapsLinks",
 ].join(",");
@@ -342,8 +340,6 @@ function normalizePlaceResult(place, queryUsed, regionCode) {
     primaryType: place.primaryType || "",
     primaryTypeDisplayName: primaryTypeDisplayName(place),
     types: place.types || [],
-    rating: place.rating ?? null,
-    userRatingCount: place.userRatingCount ?? null,
     googleMapsUri: place.googleMapsUri || "",
     googleMapsLinks: place.googleMapsLinks || {},
   };
@@ -367,8 +363,6 @@ function normalizeGeocodeResult(result, queryUsed, regionCode) {
     primaryType: result.types?.[0] || "",
     primaryTypeDisplayName: null,
     types: result.types || [],
-    rating: null,
-    userRatingCount: null,
     googleMapsUri: result.place_id
       ? `https://www.google.com/maps/search/?api=1&query_place_id=${encodeURIComponent(result.place_id)}&query=${encodeURIComponent(queryUsed)}`
       : "",
