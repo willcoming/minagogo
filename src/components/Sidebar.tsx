@@ -76,7 +76,7 @@ export function Sidebar({
   onSelectedCategoriesChange,
   onSelectPlace,
 }: SidebarProps) {
-  const [filtersCollapsed, setFiltersCollapsed] = useState(false);
+  const [filtersCollapsed, setFiltersCollapsed] = useState(true);
   const categoryOptions = useMemo(() => buildCategoryOptions(places), [places]);
   const channelOptions = useMemo(
     () => channelsWithCounts(data.channels, places),
