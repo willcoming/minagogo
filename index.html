@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Minagogo YouTube Map</title>
+    <style>
+      body {
+        margin: 0;
+        font-family:
+          Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+          "Segoe UI", sans-serif;
+        background: #f6f7f9;
+        color: #202428;
+      }
+
+      .boot-fallback {
+        display: grid;
+        min-height: 100vh;
+        place-items: center;
+        padding: 24px;
+      }
+
+      .boot-fallback__panel {
+        max-width: 480px;
+        padding: 22px;
+        border: 1px solid #d9dee4;
+        border-radius: 8px;
+        background: #ffffff;
+        box-shadow: 0 12px 32px rgba(23, 31, 38, 0.12);
+      }
+
+      .boot-fallback h1 {
+        margin: 0 0 8px;
+        font-size: 1.35rem;
+        line-height: 1.2;
+      }
+
+      .boot-fallback p {
+        margin: 0 0 14px;
+        color: #66717c;
+        line-height: 1.55;
+      }
+
+      .boot-fallback a {
+        display: inline-flex;
+        align-items: center;
+        min-height: 36px;
+        padding: 0 12px;
+        border-radius: 6px;
+        background: #0e7c66;
+        color: #ffffff;
+        font-weight: 700;
+        text-decoration: none;
+      }
+
+      .boot-fallback code {
+        padding: 2px 5px;
+        border-radius: 4px;
+        background: #e8ecef;
+        color: #111827;
+      }
+    </style>
+    <script type="module" crossorigin src="/minagogo/assets/index-B8hOutry.js"></script>
+    <link rel="stylesheet" crossorigin href="/minagogo/assets/index-UQVRhXy0.css">
+  </head>
+  <body>
+    <div id="root">
+      <main class="boot-fallback">
+        <section class="boot-fallback__panel">
+          <h1>請用本機開發伺服器開啟</h1>
+          <p>
+            這個 React / Vite 網站不能直接用 <code>file://</code> 開啟。
+            請使用 dev server URL，或先執行 <code>npm run dev</code>。
+          </p>
+          <a href="http://127.0.0.1:5173/">開啟 Minagogo 地圖</a>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>
