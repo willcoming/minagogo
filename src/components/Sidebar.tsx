@@ -1,5 +1,5 @@
-import { useMemo } from "react";
-import { Filter, LocateFixed } from "lucide-react";
+import { useMemo, useState } from "react";
+import { ChevronDown, Filter, LocateFixed } from "lucide-react";
 import type {
   BoundsLiteral,
   Channel,
@@ -75,6 +75,7 @@ export function Sidebar({
   onSelectedCategoriesChange,
   onSelectPlace,
 }: SidebarProps) {
+  const [filtersCollapsed, setFiltersCollapsed] = useState(false);
   const categoryOptions = useMemo(() => buildCategoryOptions(data.places), [data.places]);
   const channelOptions = useMemo(
     () => channelsWithCounts(data.channels, data.places),
@@ -95,41 +96,48 @@ export function Sidebar({
         </div>
       </header>
 
-      <section className="summary-strip" aria-label="資料摘要">
-        <div>
-          <strong>{visiblePlaces.length.toLocaleString("zh-TW")}</strong>
-          <span>{bounds ? "目前範圍" : "全部清單"}</span>
-        </div>
-        <div>
-          <strong>{unlocatedPlaces.length.toLocaleString("zh-TW")}</strong>
-          <span>尚未定位</span>
-        </div>
-        <div>
-          <strong>{data.stats.rawMentions.toLocaleString("zh-TW")}</strong>
-          <span>YouTube 提及</span>
-        </div>
-      </section>
-
-      <section className="control-surface" aria-label="篩選">
-        <div className="section-heading">
+      <section
+        className={`control-surface ${filtersCollapsed ? "collapsed" : ""}`}
+        aria-label="篩選"
+      >
+        <div className="section-heading filter-heading">
           <Filter size={16} />
           <h2>篩選</h2>
+          <button
+            type="button"
+            className="collapse-button"
+            onClick={() => setFiltersCollapsed((value) => !value)}
+            aria-expanded={!filtersCollapsed}
+            aria-controls="filter-panel"
+            aria-label={filtersCollapsed ? "展開篩選" : "收合篩選"}
+            title={filtersCollapsed ? "展開篩選" : "收合篩選"}
+          >
+            <ChevronDown
+              size={17}
+              className={filtersCollapsed ? "collapse-icon collapsed" : "collapse-icon"}
+            />
+          </button>
         </div>
-        <FilterPanel
-          mode={groupMode}
-          channels={channelOptions}
-          categories={categoryOptions}
-          selectedChannels={selectedChannels}
-          selectedCategories={selectedCategories}
-          onModeChange={onGroupModeChange}
-          onSelectedChannelsChange={onSelectedChannelsChange}
-          onSelectedCategoriesChange={onSelectedCategoriesChange}
-        />
+        {!filtersCollapsed ? (
+          <div id="filter-panel">
+            <FilterPanel
+              mode={groupMode}
+              channels={channelOptions}
+              categories={categoryOptions}
+              selectedChannels={selectedChannels}
+              selectedCategories={selectedCategories}
+              onModeChange={onGroupModeChange}
+              onSelectedChannelsChange={onSelectedChannelsChange}
+              onSelectedCategoriesChange={onSelectedCategoriesChange}
+            />
+          </div>
+        ) : null}
       </section>
 
       <PlaceList
         places={visiblePlaces}
         unlocatedPlaces={unlocatedPlaces}
+        hasBounds={Boolean(bounds)}
         mode={groupMode}
         selectedChannels={selectedChannels}
         selectedCategories={selectedCategories}

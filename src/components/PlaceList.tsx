@@ -5,6 +5,7 @@ import type { GroupMode, Place } from "../types";
 type PlaceListProps = {
   places: Place[];
   unlocatedPlaces: Place[];
+  hasBounds: boolean;
   mode: GroupMode;
   selectedChannels: Set<string>;
   selectedCategories: Set<string>;
@@ -53,6 +54,7 @@ function groupPlaces(
 export function PlaceList({
   places,
   unlocatedPlaces,
+  hasBounds,
   mode,
   selectedChannels,
   selectedCategories,
@@ -68,10 +70,13 @@ export function PlaceList({
   );
 
   return (
-    <section className="place-list-region" aria-label="目前範圍內的地點">
+    <section
+      className="place-list-region"
+      aria-label={hasBounds ? "目前範圍內的地點" : "全部地點"}
+    >
       <div className="section-heading sticky-heading">
         <MapPin size={16} />
-        <h2>目前範圍</h2>
+        <h2>{hasBounds ? "目前範圍" : "全部清單"}</h2>
         <span>{places.length.toLocaleString("zh-TW")}</span>
       </div>
 

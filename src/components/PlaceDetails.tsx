@@ -59,15 +59,15 @@ export function PlaceDetails({ place }: PlaceDetailsProps) {
       </dl>
 
       <div className="action-row">
-        <a href={getPlaceMapsUrl(place)} target="_blank" rel="noreferrer">
+        <a href={getPlaceMapsUrl(place)} target="_blank" rel="noopener noreferrer">
           <ExternalLink size={16} />
           Google Maps
         </a>
-        <a href={getDirectionsUrl(place)} target="_blank" rel="noreferrer">
+        <a href={getDirectionsUrl(place)} target="_blank" rel="noopener noreferrer">
           <Navigation size={16} />
           路線
         </a>
-        <a href={reviewsUrl(place)} target="_blank" rel="noreferrer">
+        <a href={reviewsUrl(place)} target="_blank" rel="noopener noreferrer">
           <MessageSquareText size={16} />
           評論
         </a>
@@ -96,7 +96,7 @@ export function PlaceDetails({ place }: PlaceDetailsProps) {
               <span>{mention.channelName}</span>
               {mention.time ? <small>{mention.time}</small> : null}
             </header>
-            <a href={mention.videoUrl} target="_blank" rel="noreferrer">
+            <a href={mention.videoUrl} target="_blank" rel="noopener noreferrer">
               <Youtube size={15} />
               {mention.videoTitle || "YouTube"}
             </a>

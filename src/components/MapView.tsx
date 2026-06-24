@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { MarkerClusterer } from "@googlemaps/markerclusterer";
-import { AlertTriangle, KeyRound, Map as MapIcon } from "lucide-react";
+import { AlertTriangle, KeyRound, LocateFixed, Map as MapIcon } from "lucide-react";
 import { hasGoogleMapsKey, loadGoogleMaps } from "../googleMaps";
 import type { BoundsLiteral, Place } from "../types";
 
@@ -43,6 +43,29 @@ function createPinIcon(isSelected: boolean): google.maps.Icon {
   };
 }
 
+function createUserLocationIcon(): google.maps.Icon {
+  const size = 26;
+  const svg = `
+    <svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}" viewBox="0 0 26 26">
+      <circle cx="13" cy="13" r="10" fill="#2563eb" fill-opacity="0.22"/>
+      <circle cx="13" cy="13" r="6.5" fill="#2563eb" stroke="#ffffff" stroke-width="3"/>
+    </svg>
+  `;
+
+  return {
+    url: `data:image/svg+xml;charset=UTF-8,${encodeURIComponent(svg)}`,
+    scaledSize: new google.maps.Size(size, size),
+    anchor: new google.maps.Point(size / 2, size / 2),
+  };
+}
+
+function locationErrorMessage(error: { code: number }): string {
+  if (error.code === 1) return "瀏覽器未允許位置權限";
+  if (error.code === 2) return "目前無法取得位置";
+  if (error.code === 3) return "定位逾時，請再試一次";
+  return "定位失敗，請再試一次";
+}
+
 export function MapView({
   apiKey,
   places,
@@ -54,8 +77,15 @@ export function MapView({
   const mapRef = useRef<google.maps.Map | null>(null);
   const clusterRef = useRef<MarkerClusterer | null>(null);
   const markersRef = useRef<google.maps.Marker[]>([]);
+  const userMarkerRef = useRef<google.maps.Marker | null>(null);
+  const userAccuracyRef = useRef<google.maps.Circle | null>(null);
   const fittedRef = useRef(false);
   const [loadError, setLoadError] = useState<string | null>(null);
+  const [mapReady, setMapReady] = useState(false);
+  const [locationState, setLocationState] = useState<
+    "idle" | "locating" | "ready" | "error"
+  >("idle");
+  const [locationMessage, setLocationMessage] = useState<string | null>(null);
 
   const placeById = useMemo(() => {
     return new globalThis.Map(places.map((place) => [place.id, place]));
@@ -73,11 +103,13 @@ export function MapView({
           mapTypeControl: false,
           fullscreenControl: true,
           streetViewControl: false,
-          clickableIcons: true,
+          clickableIcons: false,
           gestureHandling: "greedy",
         });
         mapRef.current = map;
+        setMapReady(true);
         map.addListener("idle", () => {
+          if (!fittedRef.current) return;
           const bounds = map.getBounds();
           onBoundsChange(bounds ? boundsToLiteral(bounds) : null);
         });
@@ -89,12 +121,14 @@ export function MapView({
       });
     return () => {
       disposed = true;
+      userMarkerRef.current?.setMap(null);
+      userAccuracyRef.current?.setMap(null);
     };
   }, [apiKey, onBoundsChange]);
 
   useEffect(() => {
     const map = mapRef.current;
-    if (!map) return;
+    if (!map || !mapReady) return;
 
     markersRef.current.forEach((marker) => marker.setMap(null));
     clusterRef.current?.clearMarkers();
@@ -133,7 +167,7 @@ export function MapView({
       map.fitBounds(bounds, 48);
       fittedRef.current = true;
     }
-  }, [onSelectPlace, places, selectedPlaceId]);
+  }, [mapReady, onSelectPlace, places, selectedPlaceId]);
 
   useEffect(() => {
     const selected = selectedPlaceId ? placeById.get(selectedPlaceId) : null;
@@ -143,6 +177,76 @@ export function MapView({
       mapRef.current.setZoom(14);
     }
   }, [placeById, selectedPlaceId]);
+
+  const handleLocateUser = () => {
+    const map = mapRef.current;
+    if (!map || locationState === "locating") return;
+
+    if (!navigator.geolocation) {
+      setLocationState("error");
+      setLocationMessage("這個瀏覽器不支援定位");
+      return;
+    }
+
+    setLocationState("locating");
+    setLocationMessage("正在取得你的目前位置...");
+
+    navigator.geolocation.getCurrentPosition(
+      (position) => {
+        const location = {
+          lat: position.coords.latitude,
+          lng: position.coords.longitude,
+        };
+
+        if (userMarkerRef.current) {
+          userMarkerRef.current.setPosition(location);
+          userMarkerRef.current.setMap(map);
+        } else {
+          userMarkerRef.current = new google.maps.Marker({
+            icon: createUserLocationIcon(),
+            map,
+            position: location,
+            title: "我的位置",
+            zIndex: 2000,
+          });
+        }
+
+        const accuracy = Math.max(position.coords.accuracy || 0, 20);
+        if (userAccuracyRef.current) {
+          userAccuracyRef.current.setCenter(location);
+          userAccuracyRef.current.setRadius(accuracy);
+          userAccuracyRef.current.setMap(map);
+        } else {
+          userAccuracyRef.current = new google.maps.Circle({
+            center: location,
+            radius: accuracy,
+            map,
+            strokeColor: "#2563eb",
+            strokeOpacity: 0.55,
+            strokeWeight: 1,
+            fillColor: "#2563eb",
+            fillOpacity: 0.12,
+          });
+        }
+
+        map.panTo(location);
+        if ((map.getZoom() || 0) < 15) {
+          map.setZoom(15);
+        }
+        setLocationState("ready");
+        setLocationMessage("已顯示你的目前位置");
+      },
+      (error) => {
+        setLocationState("error");
+        setLocationMessage(locationErrorMessage(error));
+      },
+      {
+        enableHighAccuracy: true,
+        maximumAge: 60_000,
+        timeout: 10_000,
+      },
+    );
+  };
 
   if (!hasGoogleMapsKey(apiKey)) {
     return (
@@ -174,6 +278,28 @@ export function MapView({
   return (
     <section className="map-region" aria-label="地圖">
       <div ref={mapElementRef} className="map-canvas" />
+      {!mapReady ? <div className="map-loading-note">正在載入 Google Maps...</div> : null}
+      <div className="map-location-control">
+        <button
+          type="button"
+          className="map-location-button"
+          onClick={handleLocateUser}
+          disabled={!mapReady || locationState === "locating"}
+          aria-live="polite"
+        >
+          <LocateFixed size={16} />
+          <span>{locationState === "locating" ? "定位中" : "我的位置"}</span>
+        </button>
+        {locationMessage ? (
+          <div
+            className={`map-location-message ${
+              locationState === "error" ? "error" : ""
+            }`}
+          >
+            {locationMessage}
+          </div>
+        ) : null}
+      </div>
       <div className="map-status">
         <MapIcon size={16} />
         <span>{places.length.toLocaleString("zh-TW")} 個可定位地點</span>

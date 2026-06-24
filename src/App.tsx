@@ -7,6 +7,31 @@ import type { BoundsLiteral, GroupMode, Place, PlacesData } from "./types";
 
 const googleMapsApiKey = import.meta.env.VITE_GOOGLE_MAPS_API_KEY as string | undefined;
 
+function isExternalLink(href: string): boolean {
+  try {
+    return new URL(href, window.location.href).origin !== window.location.origin;
+  } catch {
+    return false;
+  }
+}
+
+function enforceExternalLinkTarget(anchor: HTMLAnchorElement): void {
+  if (!isExternalLink(anchor.href)) return;
+  anchor.target = "_blank";
+  const relValues = new Set(anchor.rel.split(/\s+/).filter(Boolean));
+  relValues.add("noopener");
+  relValues.add("noreferrer");
+  anchor.rel = Array.from(relValues).join(" ");
+}
+
+function enforceExternalLinks(root: ParentNode): void {
+  root.querySelectorAll("a[href]").forEach((anchor) => {
+    if (anchor instanceof HTMLAnchorElement) {
+      enforceExternalLinkTarget(anchor);
+    }
+  });
+}
+
 function placeMatchesMode(place: Place, mode: GroupMode, selected: Set<string>): boolean {
   if (mode === "category") return selected.has(place.category.key);
   return place.mentions.some((mention) => selected.has(mention.channelId));
@@ -31,6 +56,37 @@ export function App() {
   const [selectedCategories, setSelectedCategories] = useState<Set<string>>(new Set());
   const [bounds, setBounds] = useState<BoundsLiteral | null>(null);
   const [selectedPlaceId, setSelectedPlaceId] = useState<string | null>(null);
+
+  useEffect(() => {
+    enforceExternalLinks(document);
+
+    const handleClick = (event: MouseEvent) => {
+      const target = event.target instanceof Element ? event.target.closest("a[href]") : null;
+      if (target instanceof HTMLAnchorElement) {
+        enforceExternalLinkTarget(target);
+      }
+    };
+
+    const observer = new MutationObserver((mutations) => {
+      for (const mutation of mutations) {
+        mutation.addedNodes.forEach((node) => {
+          if (node instanceof HTMLAnchorElement) {
+            enforceExternalLinkTarget(node);
+          } else if (node instanceof HTMLElement) {
+            enforceExternalLinks(node);
+          }
+        });
+      }
+    });
+
+    document.addEventListener("click", handleClick, true);
+    observer.observe(document.body, { childList: true, subtree: true });
+
+    return () => {
+      document.removeEventListener("click", handleClick, true);
+      observer.disconnect();
+    };
+  }, []);
 
   useEffect(() => {
     let ignore = false;
