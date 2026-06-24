@@ -6,7 +6,7 @@ import { fileURLToPath } from "node:url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const rootDir = path.resolve(__dirname, "..");
 const placesFile = path.join(rootDir, "public", "data", "places.json");
-const cacheFile = path.join(rootDir, "public", "data", "google-place-cache.json");
+const cacheFile = path.join(__dirname, "data", "google-place-cache.json");
 
 const placesTextSearchEndpoint = "https://places.googleapis.com/v1/places:searchText";
 const geocodingEndpoint = "https://maps.googleapis.com/maps/api/geocode/json";

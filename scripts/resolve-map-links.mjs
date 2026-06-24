@@ -6,7 +6,7 @@ import { fileURLToPath } from "node:url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const rootDir = path.resolve(__dirname, "..");
 const placesFile = path.join(rootDir, "public", "data", "places.json");
-const cacheFile = path.join(rootDir, "public", "data", "map-link-cache.json");
+const cacheFile = path.join(__dirname, "data", "map-link-cache.json");
 
 const userAgent =
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 " +

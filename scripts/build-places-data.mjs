@@ -6,10 +6,11 @@ import { fileURLToPath } from "node:url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const rootDir = path.resolve(__dirname, "..");
 const dataDir = path.join(rootDir, "public", "data");
+const scriptDataDir = path.join(__dirname, "data");
 const outputFile = path.join(dataDir, "places.json");
-const mapLinkCacheFile = path.join(dataDir, "map-link-cache.json");
-const googlePlaceCacheFile = path.join(dataDir, "google-place-cache.json");
-const legacyResolvedLinksFile = path.join(__dirname, "data", "legacy-resolved-links.json");
+const mapLinkCacheFile = path.join(scriptDataDir, "map-link-cache.json");
+const googlePlaceCacheFile = path.join(scriptDataDir, "google-place-cache.json");
+const legacyResolvedLinksFile = path.join(scriptDataDir, "legacy-resolved-links.json");
 
 const rawPlaceFilePattern = /_all_places_raw\.json$/;
 const resolvedFilePattern = /_map_resolved\.json$/;

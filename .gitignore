@@ -3,7 +3,7 @@ dist/
 .env
 .env.*
 !.env.example
-public/data/google-place-cache.json
+scripts/data/google-place-cache.json
 *.log
 *.tsbuildinfo
 vite.config.js
