@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import { ChevronDown, Filter, LocateFixed } from "lucide-react";
+import { ChevronDown, Filter } from "lucide-react";
 import type {
   BoundsLiteral,
   Channel,
@@ -13,11 +13,11 @@ import { PlaceList } from "./PlaceList";
 
 type SidebarProps = {
   data: PlacesData;
+  places: Place[];
   groupMode: GroupMode;
   selectedChannels: Set<string>;
   selectedCategories: Set<string>;
   visiblePlaces: Place[];
-  unlocatedPlaces: Place[];
   selectedPlace: Place | null;
   bounds: BoundsLiteral | null;
   onGroupModeChange: (mode: GroupMode) => void;
@@ -58,16 +58,17 @@ function channelsWithCounts(channels: Channel[], places: Place[]): Channel[] {
   }
   return channels
     .map((channel) => ({ ...channel, mentions: counts.get(channel.id) || 0 }))
+    .filter((channel) => channel.mentions > 0)
     .sort((a, b) => b.mentions - a.mentions);
 }
 
 export function Sidebar({
   data,
+  places,
   groupMode,
   selectedChannels,
   selectedCategories,
   visiblePlaces,
-  unlocatedPlaces,
   selectedPlace,
   bounds,
   onGroupModeChange,
@@ -76,12 +77,11 @@ export function Sidebar({
   onSelectPlace,
 }: SidebarProps) {
   const [filtersCollapsed, setFiltersCollapsed] = useState(false);
-  const categoryOptions = useMemo(() => buildCategoryOptions(data.places), [data.places]);
+  const categoryOptions = useMemo(() => buildCategoryOptions(places), [places]);
   const channelOptions = useMemo(
-    () => channelsWithCounts(data.channels, data.places),
-    [data.channels, data.places],
+    () => channelsWithCounts(data.channels, places),
+    [data.channels, places],
   );
-  const locatedRatio = `${data.stats.locatedPlaces.toLocaleString("zh-TW")} / ${data.stats.places.toLocaleString("zh-TW")}`;
 
   return (
     <aside className="sidebar">
@@ -89,10 +89,6 @@ export function Sidebar({
         <div>
           <p className="eyebrow">YouTube Places</p>
           <h1>Minagogo 地圖</h1>
-        </div>
-        <div className="header-badge" title="已定位 / 全部地點">
-          <LocateFixed size={16} />
-          <span>{locatedRatio}</span>
         </div>
       </header>
 
@@ -136,7 +132,6 @@ export function Sidebar({
 
       <PlaceList
         places={visiblePlaces}
-        unlocatedPlaces={unlocatedPlaces}
         hasBounds={Boolean(bounds)}
         mode={groupMode}
         selectedChannels={selectedChannels}

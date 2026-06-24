@@ -93,10 +93,16 @@ export function App() {
     loadPlacesData()
       .then((placesData) => {
         if (ignore) return;
+        const locatedPlaces = placesData.places.filter((place) => place.location);
+        const locatedChannelIds = new Set(
+          locatedPlaces.flatMap((place) =>
+            place.mentions.map((mention) => mention.channelId),
+          ),
+        );
         setData(placesData);
-        setSelectedChannels(new Set(placesData.channels.map((channel) => channel.id)));
+        setSelectedChannels(locatedChannelIds);
         setSelectedCategories(
-          new Set(placesData.places.map((place) => place.category.key)),
+          new Set(locatedPlaces.map((place) => place.category.key)),
         );
       })
       .catch((loadError: unknown) => {
@@ -114,29 +120,32 @@ export function App() {
 
   const activeSelection = groupMode === "channel" ? selectedChannels : selectedCategories;
 
-  const filteredPlaces = useMemo(() => {
+  const locatedPlaces = useMemo(() => {
     if (!data) return [];
-    return data.places.filter((place) =>
+    return data.places.filter((place) => place.location);
+  }, [data]);
+
+  const filteredPlaces = useMemo(() => {
+    return locatedPlaces.filter((place) =>
       placeMatchesMode(place, groupMode, activeSelection),
     );
-  }, [activeSelection, data, groupMode]);
+  }, [activeSelection, groupMode, locatedPlaces]);
 
   const visiblePlaces = useMemo(() => {
     return sortPlaces(filteredPlaces.filter((place) => placeInBounds(place, bounds)));
   }, [bounds, filteredPlaces]);
 
-  const unlocatedPlaces = useMemo(() => {
-    return sortPlaces(filteredPlaces.filter((place) => !place.location));
-  }, [filteredPlaces]);
-
   const selectedPlace = useMemo(() => {
-    if (!data || !selectedPlaceId) return null;
-    return data.places.find((place) => place.id === selectedPlaceId) || null;
-  }, [data, selectedPlaceId]);
+    if (!selectedPlaceId) return null;
+    return filteredPlaces.find((place) => place.id === selectedPlaceId) || null;
+  }, [filteredPlaces, selectedPlaceId]);
 
-  const mapPlaces = useMemo(() => filteredPlaces.filter((place) => place.location), [
-    filteredPlaces,
-  ]);
+  useEffect(() => {
+    if (!selectedPlaceId) return;
+    if (!filteredPlaces.some((place) => place.id === selectedPlaceId)) {
+      setSelectedPlaceId(null);
+    }
+  }, [filteredPlaces, selectedPlaceId]);
 
   if (loading) {
     return (
@@ -160,11 +169,11 @@ export function App() {
     <main className="app-shell">
       <Sidebar
         data={data}
+        places={locatedPlaces}
         groupMode={groupMode}
         selectedChannels={selectedChannels}
         selectedCategories={selectedCategories}
         visiblePlaces={visiblePlaces}
-        unlocatedPlaces={unlocatedPlaces}
         selectedPlace={selectedPlace}
         bounds={bounds}
         onGroupModeChange={setGroupMode}
@@ -174,7 +183,7 @@ export function App() {
       />
       <MapView
         apiKey={googleMapsApiKey}
-        places={mapPlaces}
+        places={filteredPlaces}
         selectedPlaceId={selectedPlaceId}
         onBoundsChange={setBounds}
         onSelectPlace={setSelectedPlaceId}

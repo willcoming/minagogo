@@ -506,24 +506,26 @@ function main() {
   }
 
   const places = groupRecords(records, mapLinkCache, googleCache);
-  const locatedCount = places.filter((place) => place.location).length;
+  const locatedPlaces = places.filter((place) => place.location);
+  const locatedSourceKeys = new Set(locatedPlaces.flatMap((place) => place.sourceKeys));
+  const locatedRecords = records.filter((record) => locatedSourceKeys.has(record.sourceKey));
   const output = {
     generatedAt: new Date().toISOString(),
     sourceFiles: files,
     stats: {
-      rawMentions: records.length,
-      places: places.length,
-      locatedPlaces: locatedCount,
-      unresolvedPlaces: places.length - locatedCount,
-      channels: new Set(records.map((record) => record.channel.id)).size,
+      rawMentions: locatedRecords.length,
+      places: locatedPlaces.length,
+      locatedPlaces: locatedPlaces.length,
+      unresolvedPlaces: 0,
+      channels: new Set(locatedRecords.map((record) => record.channel.id)).size,
     },
-    channels: buildChannels(records),
-    places,
+    channels: buildChannels(locatedRecords),
+    places: locatedPlaces,
   };
 
   writeJson(outputFile, output);
   console.log(
-    `Built ${path.relative(rootDir, outputFile)}: ${places.length} places, ${records.length} mentions, ${locatedCount} located.`,
+    `Built ${path.relative(rootDir, outputFile)}: ${locatedPlaces.length} located places, ${locatedRecords.length} mentions, ${places.length - locatedPlaces.length} skipped without coordinates.`,
   );
 }
 

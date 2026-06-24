@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { MarkerClusterer } from "@googlemaps/markerclusterer";
-import { AlertTriangle, KeyRound, LocateFixed, Map as MapIcon } from "lucide-react";
+import { AlertTriangle, KeyRound, LocateFixed } from "lucide-react";
 import { hasGoogleMapsKey, loadGoogleMaps } from "../googleMaps";
 import type { BoundsLiteral, Place } from "../types";
 
@@ -299,10 +299,6 @@ export function MapView({
             {locationMessage}
           </div>
         ) : null}
-      </div>
-      <div className="map-status">
-        <MapIcon size={16} />
-        <span>{places.length.toLocaleString("zh-TW")} 個可定位地點</span>
       </div>
     </section>
   );
