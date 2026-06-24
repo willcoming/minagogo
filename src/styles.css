@@ -625,6 +625,12 @@ h1 {
   color: var(--accent-dark);
 }
 
+.map-location-button.ready {
+  border-color: rgba(37, 99, 235, 0.35);
+  background: rgba(239, 246, 255, 0.96);
+  color: #1d4ed8;
+}
+
 .map-location-button:disabled {
   cursor: wait;
   opacity: 0.68;

@@ -206,7 +206,7 @@ export function MapView({
             icon: createUserLocationIcon(),
             map,
             position: location,
-            title: "我的位置",
+            title: "現在位置",
             zIndex: 2000,
           });
         }
@@ -234,7 +234,7 @@ export function MapView({
           map.setZoom(15);
         }
         setLocationState("ready");
-        setLocationMessage("已顯示你的目前位置");
+        setLocationMessage("已加入現在位置");
       },
       (error) => {
         setLocationState("error");
@@ -275,6 +275,10 @@ export function MapView({
     );
   }
 
+  const locationButtonLabel = locationState === "locating" ? "定位中" : "現在位置";
+  const locationButtonActionLabel =
+    locationState === "ready" ? "更新現在位置" : "顯示現在位置";
+
   return (
     <section className="map-region" aria-label="地圖">
       <div ref={mapElementRef} className="map-canvas" />
@@ -282,13 +286,15 @@ export function MapView({
       <div className="map-location-control">
         <button
           type="button"
-          className="map-location-button"
+          className={`map-location-button ${locationState === "ready" ? "ready" : ""}`}
           onClick={handleLocateUser}
           disabled={!mapReady || locationState === "locating"}
           aria-live="polite"
+          aria-label={locationButtonActionLabel}
+          title={locationButtonActionLabel}
         >
           <LocateFixed size={16} />
-          <span>{locationState === "locating" ? "定位中" : "我的位置"}</span>
+          <span>{locationButtonLabel}</span>
         </button>
         {locationMessage ? (
           <div
