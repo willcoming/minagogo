@@ -708,7 +708,12 @@ h1 {
   }
 
   .sidebar {
+    grid-template-rows: auto minmax(260px, 1fr) auto;
     padding: 12px;
+  }
+
+  .app-header {
+    display: none;
   }
 
   .place-row {
@@ -716,7 +721,7 @@ h1 {
   }
 
   .place-row-side {
-    justify-items: start;
+    display: none;
   }
 
   .map-region,
