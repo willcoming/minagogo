@@ -14,6 +14,9 @@ const legacyResolvedLinksFile = path.join(scriptDataDir, "legacy-resolved-links.
 
 const rawPlaceFilePattern = /_all_places_raw\.json$/;
 const resolvedFilePattern = /_map_resolved\.json$/;
+const includeUnlocated =
+  process.argv.includes("--include-unlocated") ||
+  process.env.BUILD_PLACES_INCLUDE_UNLOCATED === "1";
 
 const categoryFallbacks = [
   {
@@ -483,23 +486,26 @@ function main() {
   const locatedPlaces = places.filter((place) => place.location);
   const locatedSourceKeys = new Set(locatedPlaces.flatMap((place) => place.sourceKeys));
   const locatedRecords = records.filter((record) => locatedSourceKeys.has(record.sourceKey));
+  const outputPlaces = includeUnlocated ? places : locatedPlaces;
+  const outputSourceKeys = new Set(outputPlaces.flatMap((place) => place.sourceKeys));
+  const outputRecords = records.filter((record) => outputSourceKeys.has(record.sourceKey));
   const output = {
     generatedAt: new Date().toISOString(),
     sourceFiles: files,
     stats: {
-      rawMentions: locatedRecords.length,
-      places: locatedPlaces.length,
+      rawMentions: outputRecords.length,
+      places: outputPlaces.length,
       locatedPlaces: locatedPlaces.length,
-      unresolvedPlaces: 0,
-      channels: new Set(locatedRecords.map((record) => record.channel.id)).size,
+      unresolvedPlaces: outputPlaces.length - locatedPlaces.length,
+      channels: new Set(outputRecords.map((record) => record.channel.id)).size,
     },
-    channels: buildChannels(locatedRecords),
-    places: locatedPlaces,
+    channels: buildChannels(outputRecords),
+    places: outputPlaces,
   };
 
   writeJson(outputFile, output);
   console.log(
-    `Built ${path.relative(rootDir, outputFile)}: ${locatedPlaces.length} located places, ${locatedRecords.length} mentions, ${places.length - locatedPlaces.length} skipped without coordinates.`,
+    `Built ${path.relative(rootDir, outputFile)}: ${locatedPlaces.length} located places, ${locatedRecords.length} mentions, ${places.length - locatedPlaces.length} skipped without coordinates${includeUnlocated ? " (included in output)" : ""}.`,
   );
 }
 

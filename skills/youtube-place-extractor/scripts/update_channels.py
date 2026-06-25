@@ -128,6 +128,15 @@ CHANNELS = [
         no_places_title="ハーリーのグルメ 未抓到店家/地點資料影片",
         search_suffix="Japan",
     ),
+    ChannelConfig(
+        slug="oimonokoto",
+        handle="oimonokoto",
+        name="Oimoの休日グルメ旅",
+        raw_kind="flat",
+        place_title="Oimoの休日グルメ旅 全頻道地點清單",
+        no_places_title="Oimoの休日グルメ旅 未抓到店家/地點資料影片",
+        search_suffix="Japan",
+    ),
 ]
 
 
@@ -1194,6 +1203,106 @@ def parse_generic_map_blocks(
     return dedupe_places(places)
 
 
+def oimonokoto_area_hint(title: str, config: ChannelConfig) -> str:
+    title = str(title)
+    hints = [
+        ("グランスタ", "Gransta Tokyo Station Tokyo Japan"),
+        ("東京駅", "Tokyo Station Tokyo Japan"),
+        ("大井町トラックス", "Oimachi Tracks Tokyo Japan"),
+        ("大井町", "Oimachi Tokyo Japan"),
+        ("高輪ゲートウェイ", "Takanawa Gateway City Tokyo Japan"),
+        ("深大寺", "Jindaiji Tokyo Japan"),
+        ("浅草", "Asakusa Tokyo Japan"),
+        ("根津", "Nezu Tokyo Japan"),
+        ("銀座", "Ginza Tokyo Japan"),
+        ("金沢", "Kanazawa Ishikawa Japan"),
+        ("松本", "Matsumoto Nagano Japan"),
+        ("長野", "Nagano Japan"),
+        ("オークランド", "Auckland New Zealand"),
+    ]
+    for marker, hint in hints:
+        if marker in title:
+            return hint
+    return config.search_suffix
+
+
+def strip_leading_symbols(value: str) -> str:
+    text = value.strip()
+    while text and not text[0].isalnum() and text[0] != "&":
+        text = text[1:].lstrip()
+    return text
+
+
+def clean_oimonokoto_place_line(line: str) -> tuple[str, str]:
+    line = clean_line(line)
+    if "📍" in line:
+        name, location = line.split("📍", 1)
+    else:
+        name, location = line, ""
+    name = strip_leading_symbols(name)
+    name = re.sub(r"\s*[（(][^（）()]{1,30}[）)]\s*$", "", name).strip()
+    location = clean_line(location)
+    return name, location
+
+
+def is_oimonokoto_place_candidate(name: str) -> bool:
+    if not name or len(name) > 80 or is_noise_name(name):
+        return False
+    lowered = name.lower()
+    if lowered.startswith(("instagram", "#")) or name.startswith(("【", "訪問日")):
+        return False
+    return True
+
+
+def parse_oimonokoto(
+    description: str, video: dict[str, Any], config: ChannelConfig
+) -> list[dict[str, Any]]:
+    lines = [line.strip() for line in description.splitlines()]
+    area_hint = oimonokoto_area_hint(video.get("title", ""), config)
+    places: list[dict[str, Any]] = []
+    pending_line = ""
+
+    for raw_line in lines:
+        line = clean_line(raw_line)
+        if not line:
+            continue
+        if line.lower().startswith(("instagram", "@oimonokoto")):
+            pending_line = ""
+            continue
+
+        seconds = time_to_seconds(line)
+        if seconds is not None and pending_line:
+            name, location = clean_oimonokoto_place_line(pending_line)
+            if is_oimonokoto_place_candidate(name):
+                query = " ".join(part for part in [name, location, area_hint] if part)
+                location_text = f"（{location}）" if location else ""
+                review = (
+                    f"oimonokoto 在描述欄將「{name}」{location_text}列為本集美食、咖啡或甜點停留點；"
+                    "未提供原始地圖連結，改以 Google Maps 搜尋補足。"
+                )
+                places.append(
+                    base_place(
+                        video=video,
+                        config=config,
+                        name=name,
+                        address=location,
+                        map_url=google_search_url(query),
+                        time_label=line,
+                        seconds=seconds,
+                        chapter_title=name,
+                        review=review,
+                        source_review=f"描述欄列出「{name}」時間戳 {line}。",
+                    )
+                )
+            pending_line = ""
+            continue
+
+        if is_oimonokoto_place_candidate(clean_oimonokoto_place_line(line)[0]):
+            pending_line = raw_line
+
+    return dedupe_places(places)
+
+
 def dedupe_places(places: list[dict[str, Any]]) -> list[dict[str, Any]]:
     seen: set[tuple[str, str]] = set()
     deduped: list[dict[str, Any]] = []
@@ -1225,6 +1334,8 @@ def parse_places(description: str, video: dict[str, Any], config: ChannelConfig)
         places = parse_uniquejapantravel(description, video, config)
     elif config.slug == "hurleygourmet":
         places = parse_hurley(description, video, config)
+    elif config.slug == "oimonokoto":
+        places = parse_oimonokoto(description, video, config)
     else:
         places = []
     if not places:
