@@ -91,16 +91,7 @@ function createPlaceInfoWindowContent(place: Place): HTMLElement {
 
   const title = document.createElement("h2");
   title.className = "place-info-title";
-
-  const category = document.createElement("span");
-  category.className = "place-info-title-category";
-  category.textContent = place.category.label;
-
-  const name = document.createElement("span");
-  name.className = "place-info-title-name";
-  name.textContent = place.name;
-
-  title.append(category, name);
+  title.textContent = `${place.category.label} ${place.name}`;
 
   const channel = document.createElement("p");
   channel.className = "place-info-meta";
@@ -109,7 +100,7 @@ function createPlaceInfoWindowContent(place: Place): HTMLElement {
   const actions = document.createElement("div");
   actions.className = "place-info-actions";
   actions.append(
-    createInfoWindowLink(getPlaceMapsUrl(place), "Google Maps"),
+    createInfoWindowLink(getPlaceMapsUrl(place), "地圖"),
     createInfoWindowLink(getDirectionsUrl(place), "路線"),
     createInfoWindowLink(reviewsUrl(place), "評論"),
   );
