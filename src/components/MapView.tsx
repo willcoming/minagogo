@@ -89,13 +89,18 @@ function createPlaceInfoWindowContent(place: Place): HTMLElement {
   const container = document.createElement("div");
   container.className = "place-info-window";
 
-  const category = document.createElement("p");
-  category.className = "place-info-category";
-  category.textContent = place.category.label;
-
   const title = document.createElement("h2");
   title.className = "place-info-title";
-  title.textContent = place.name;
+
+  const category = document.createElement("span");
+  category.className = "place-info-title-category";
+  category.textContent = place.category.label;
+
+  const name = document.createElement("span");
+  name.className = "place-info-title-name";
+  name.textContent = place.name;
+
+  title.append(category, name);
 
   const channel = document.createElement("p");
   channel.className = "place-info-meta";
@@ -109,7 +114,7 @@ function createPlaceInfoWindowContent(place: Place): HTMLElement {
     createInfoWindowLink(reviewsUrl(place), "評論"),
   );
 
-  container.append(category, title, channel, actions);
+  container.append(title, channel, actions);
   return container;
 }
 
