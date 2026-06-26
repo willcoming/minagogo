@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import { AlertTriangle, MapPin } from "lucide-react";
 import { loadPlacesData, placeInBounds } from "./data";
 import { MapView } from "./components/MapView";
@@ -133,17 +133,16 @@ export function App() {
     return sortPlaces(filteredPlaces.filter((place) => placeInBounds(place, bounds)));
   }, [bounds, filteredPlaces]);
 
-  const selectedPlace = useMemo(() => {
-    if (!selectedPlaceId) return null;
-    return filteredPlaces.find((place) => place.id === selectedPlaceId) || null;
-  }, [filteredPlaces, selectedPlaceId]);
-
   useEffect(() => {
     if (!selectedPlaceId) return;
     if (!filteredPlaces.some((place) => place.id === selectedPlaceId)) {
       setSelectedPlaceId(null);
     }
   }, [filteredPlaces, selectedPlaceId]);
+
+  const clearSelectedPlace = useCallback(() => {
+    setSelectedPlaceId(null);
+  }, []);
 
   if (loading) {
     return (
@@ -172,7 +171,7 @@ export function App() {
         selectedChannels={selectedChannels}
         selectedCategories={selectedCategories}
         visiblePlaces={visiblePlaces}
-        selectedPlace={selectedPlace}
+        selectedPlaceId={selectedPlaceId}
         bounds={bounds}
         onGroupModeChange={setGroupMode}
         onSelectedChannelsChange={setSelectedChannels}
@@ -185,6 +184,7 @@ export function App() {
         selectedPlaceId={selectedPlaceId}
         onBoundsChange={setBounds}
         onSelectPlace={setSelectedPlaceId}
+        onClearSelection={clearSelectedPlace}
       />
     </main>
   );

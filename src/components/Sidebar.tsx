@@ -8,7 +8,6 @@ import type {
   PlacesData,
 } from "../types";
 import { FilterPanel } from "./FilterPanel";
-import { PlaceDetails } from "./PlaceDetails";
 import { PlaceList } from "./PlaceList";
 
 type SidebarProps = {
@@ -18,7 +17,7 @@ type SidebarProps = {
   selectedChannels: Set<string>;
   selectedCategories: Set<string>;
   visiblePlaces: Place[];
-  selectedPlace: Place | null;
+  selectedPlaceId: string | null;
   bounds: BoundsLiteral | null;
   onGroupModeChange: (mode: GroupMode) => void;
   onSelectedChannelsChange: (value: Set<string>) => void;
@@ -69,7 +68,7 @@ export function Sidebar({
   selectedChannels,
   selectedCategories,
   visiblePlaces,
-  selectedPlace,
+  selectedPlaceId,
   bounds,
   onGroupModeChange,
   onSelectedChannelsChange,
@@ -136,11 +135,9 @@ export function Sidebar({
         mode={groupMode}
         selectedChannels={selectedChannels}
         selectedCategories={selectedCategories}
-        selectedPlaceId={selectedPlace?.id || null}
+        selectedPlaceId={selectedPlaceId}
         onSelectPlace={onSelectPlace}
       />
-
-      <PlaceDetails place={selectedPlace} />
     </aside>
   );
 }

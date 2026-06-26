@@ -1,6 +1,11 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { MarkerClusterer } from "@googlemaps/markerclusterer";
 import { AlertTriangle, KeyRound, LocateFixed } from "lucide-react";
+import {
+  getDirectionsUrl,
+  getPlaceMapsUrl,
+  uniqueMentionChannels,
+} from "../data";
 import { hasGoogleMapsKey, loadGoogleMaps } from "../googleMaps";
 import type { BoundsLiteral, Place } from "../types";
 
@@ -10,6 +15,7 @@ type MapViewProps = {
   selectedPlaceId: string | null;
   onBoundsChange: (bounds: BoundsLiteral | null) => void;
   onSelectPlace: (placeId: string) => void;
+  onClearSelection: () => void;
 };
 
 function boundsToLiteral(bounds: google.maps.LatLngBounds): BoundsLiteral {
@@ -66,17 +72,62 @@ function locationErrorMessage(error: { code: number }): string {
   return "定位失敗，請再試一次";
 }
 
+function reviewsUrl(place: Place): string {
+  return place.google?.googleMapsLinks?.reviewsUri || getPlaceMapsUrl(place);
+}
+
+function createInfoWindowLink(href: string, label: string): HTMLAnchorElement {
+  const link = document.createElement("a");
+  link.href = href;
+  link.target = "_blank";
+  link.rel = "noopener noreferrer";
+  link.textContent = label;
+  return link;
+}
+
+function createPlaceInfoWindowContent(place: Place): HTMLElement {
+  const container = document.createElement("div");
+  container.className = "place-info-window";
+
+  const category = document.createElement("p");
+  category.className = "place-info-category";
+  category.textContent = place.category.label;
+
+  const title = document.createElement("h2");
+  title.className = "place-info-title";
+  title.textContent = place.name;
+
+  const channel = document.createElement("p");
+  channel.className = "place-info-meta";
+  channel.textContent = `頻道：${uniqueMentionChannels(place)}`;
+
+  const actions = document.createElement("div");
+  actions.className = "place-info-actions";
+  actions.append(
+    createInfoWindowLink(getPlaceMapsUrl(place), "Google Maps"),
+    createInfoWindowLink(getDirectionsUrl(place), "路線"),
+    createInfoWindowLink(reviewsUrl(place), "評論"),
+  );
+
+  container.append(category, title, channel, actions);
+  return container;
+}
+
 export function MapView({
   apiKey,
   places,
   selectedPlaceId,
   onBoundsChange,
   onSelectPlace,
+  onClearSelection,
 }: MapViewProps) {
   const mapElementRef = useRef<HTMLDivElement | null>(null);
   const mapRef = useRef<google.maps.Map | null>(null);
   const clusterRef = useRef<MarkerClusterer | null>(null);
   const markersRef = useRef<google.maps.Marker[]>([]);
+  const markerByIdRef = useRef<Map<string, google.maps.Marker>>(new globalThis.Map());
+  const infoWindowRef = useRef<google.maps.InfoWindow | null>(null);
+  const infoWindowCloseListenerRef = useRef<google.maps.MapsEventListener | null>(null);
   const userMarkerRef = useRef<google.maps.Marker | null>(null);
   const userAccuracyRef = useRef<google.maps.Circle | null>(null);
   const fittedRef = useRef(false);
@@ -121,6 +172,8 @@ export function MapView({
       });
     return () => {
       disposed = true;
+      infoWindowCloseListenerRef.current?.remove();
+      infoWindowRef.current?.close();
       userMarkerRef.current?.setMap(null);
       userAccuracyRef.current?.setMap(null);
     };
@@ -133,6 +186,7 @@ export function MapView({
     markersRef.current.forEach((marker) => marker.setMap(null));
     clusterRef.current?.clearMarkers();
 
+    const markerById = new globalThis.Map<string, google.maps.Marker>();
     const clusteredMarkers: google.maps.Marker[] = [];
     const allMarkers: google.maps.Marker[] = [];
 
@@ -147,6 +201,7 @@ export function MapView({
           zIndex: isSelected ? 1000 : 1,
         });
         marker.addListener("click", () => onSelectPlace(place.id));
+        markerById.set(place.id, marker);
         allMarkers.push(marker);
         if (isSelected) {
           marker.setMap(map);
@@ -156,6 +211,7 @@ export function MapView({
       });
 
     markersRef.current = allMarkers;
+    markerByIdRef.current = markerById;
     clusterRef.current = new MarkerClusterer({ map, markers: clusteredMarkers });
 
     if (!fittedRef.current && allMarkers.length > 0) {
@@ -171,12 +227,48 @@ export function MapView({
 
   useEffect(() => {
     const selected = selectedPlaceId ? placeById.get(selectedPlaceId) : null;
-    if (!selected?.location || !mapRef.current) return;
-    mapRef.current.panTo(selected.location);
-    if ((mapRef.current.getZoom() || 0) < 14) {
-      mapRef.current.setZoom(14);
+    const map = mapRef.current;
+    if (!map || !mapReady) return;
+
+    if (!selected?.location) {
+      infoWindowRef.current?.close();
+      return;
     }
-  }, [placeById, selectedPlaceId]);
+
+    if (!infoWindowRef.current) {
+      infoWindowRef.current = new google.maps.InfoWindow({
+        maxWidth: 320,
+        pixelOffset: new google.maps.Size(0, -6),
+      });
+    }
+
+    const infoWindow = infoWindowRef.current;
+    infoWindowCloseListenerRef.current?.remove();
+    infoWindow.setContent(createPlaceInfoWindowContent(selected));
+
+    const selectedMarker = markerByIdRef.current.get(selected.id);
+    if (selectedMarker) {
+      infoWindow.open({ map, anchor: selectedMarker });
+    } else {
+      infoWindow.setPosition(selected.location);
+      infoWindow.open({ map });
+    }
+
+    infoWindowCloseListenerRef.current = infoWindow.addListener(
+      "closeclick",
+      onClearSelection,
+    );
+
+    map.panTo(selected.location);
+    if ((map.getZoom() || 0) < 14) {
+      map.setZoom(14);
+    }
+
+    return () => {
+      infoWindowCloseListenerRef.current?.remove();
+      infoWindowCloseListenerRef.current = null;
+    };
+  }, [mapReady, onClearSelection, placeById, selectedPlaceId]);
 
   const handleLocateUser = () => {
     const map = mapRef.current;
