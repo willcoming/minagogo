@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T04:52:34.815Z",
+  "generatedAt": "2026-06-27T06:53:17.106Z",
   "records": {
     "src_2be75271a8a371d6fb": {
       "status": "no_coordinates",
@@ -30836,6 +30836,739 @@
       "source": "url",
       "url": "https://www.google.com/maps/search/?api=1&query=This+is+how+I+spend+my+weekend+in+my+30s+%E2%80%94+no+marriage%2C+no+kids%2C+just+quiet+moments+alone.",
       "fetchedAt": "2026-06-24T04:50:36.635Z"
+    },
+    "src_b2c2393440e42bd37a": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=365%E6%97%A5%E3%81%A8Coffee+Takanawa+Gateway+City+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/365%E6%97%A5%E5%8F%8ACOFFEE+NEWoMan%E9%AB%98%E8%BC%AA%E5%BA%97/@35.6367409,139.7401369,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b004aaf12df:0xce453e0a82ef4436!8m2!3d35.6367409!4d139.7401369!16s%2Fg%2F11xdgfy5z_?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "365日及COFFEE NEWoMan高輪店",
+      "location": {
+        "lat": 35.6367409,
+        "lng": 139.7401369
+      },
+      "fetchedAt": "2026-06-27T06:45:42.296Z"
+    },
+    "src_7d0b3611efee7cbed0": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E8%8A%B3%E5%9C%92%E6%B4%8B%E8%8F%93%E5%AD%90%E5%BA%97+Takanawa+Gateway+City+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/%E5%85%AB%E8%8A%B3%E5%9C%92%E6%B4%8B%E8%8F%93%E5%AD%90%E5%BA%97/@35.6364912,139.7401798,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b0055376fa9:0x4cb377a4c0152d92!8m2!3d35.6364912!4d139.7401798!16s%2Fg%2F11xdggd2gk?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "八芳園洋菓子店",
+      "location": {
+        "lat": 35.6364912,
+        "lng": 139.7401798
+      },
+      "fetchedAt": "2026-06-27T06:45:46.961Z"
+    },
+    "src_94d93a1cb84384b264": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E5%AE%9A+Asakusa+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/%E5%A4%A9%E5%A9%A6%E7%BE%85+%E4%B8%89%E5%AE%9A/@35.7109887,139.7966179,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec0e739e8a9:0x8232ef6740d31307!8m2!3d35.7109887!4d139.7966179!16s%2Fg%2F1td1ddw9?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "天婦羅 三定",
+      "location": {
+        "lat": 35.7109887,
+        "lng": 139.7966179
+      },
+      "fetchedAt": "2026-06-27T06:45:51.679Z"
+    },
+    "src_8d4cae97fc71d7ae72": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%8D%E4%BA%8C%E5%AE%B6+Ginza+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/%E4%B8%8D%E4%BA%8C%E5%AE%B6+%E9%8A%80%E5%BA%A7%E4%B8%89%E8%B6%8A%E5%BA%97/data=!4m7!3m6!1s0x60188b7e48946ccb:0x613a963560a68b9f!8m2!3d35.6712401!4d139.765716!16s%2Fg%2F11s34v2s3v!19sChIJy2yUSH6LGGARn4umYDWWOmE?authuser=0&hl=zh-TW&rclk=1",
+      "displayName": "不二家 銀座三越店",
+      "location": {
+        "lat": 35.6712401,
+        "lng": 139.765716
+      },
+      "fetchedAt": "2026-06-27T06:45:55.390Z"
+    },
+    "src_a1adc09c744281e913": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E6%96%87%E5%96%AB+Takanawa+Gateway+City+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/BUNKITSU+TOKYO/data=!4m7!3m6!1s0x60188b000c88dd83:0x915ad5c961b9824d!8m2!3d35.6348916!4d139.7394533!16s%2Fg%2F11ycxxfxr0!19sChIJg92IDACLGGARTYK5YcnVWpE?authuser=0&hl=zh-TW&rclk=1",
+      "displayName": "BUNKITSU TOKYO",
+      "location": {
+        "lat": 35.6348916,
+        "lng": 139.7394533
+      },
+      "fetchedAt": "2026-06-27T06:45:59.151Z"
+    },
+    "src_06de97135d11bb1f3b": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E7%94%98%E5%91%B3%E3%81%8A%E3%81%8B%E3%82%81+Ginza+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/Kanmi-Okame/data=!4m7!3m6!1s0x60188be56ceb2bb7:0xf92b07babf9e0938!8m2!3d35.6741697!4d139.7633792!16s%2Fg%2F1tdfhp8k!19sChIJtyvrbOWLGGAROAmev7oHK_k?authuser=0&hl=zh-TW&rclk=1",
+      "displayName": "Kanmi-Okame",
+      "location": {
+        "lat": 35.6741697,
+        "lng": 139.7633792
+      },
+      "fetchedAt": "2026-06-27T06:46:02.807Z"
+    },
+    "src_52fd00da9e3bdf7ed1": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%89%E5%BF%83%E3%82%84+Asakusa+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/%E5%AE%89%E5%BF%83%E5%B1%8B/@35.7127652,139.7961957,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec121f3c5d5:0xb453ae3bd29475ba!8m2!3d35.7127652!4d139.7961957!16s%2Fg%2F1thkx84k?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "安心屋",
+      "location": {
+        "lat": 35.7127652,
+        "lng": 139.7961957
+      },
+      "fetchedAt": "2026-06-27T06:46:07.489Z"
+    },
+    "src_b1e1d8bfe07177322a": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E8%A5%BF%E3%82%80%E3%82%89+Asakusa+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/Ryushotei+Nishimura/@35.7107074,139.7966859,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec6eecae46b:0x234285ca3440eb8f!8m2!3d35.7107074!4d139.7966859!16s%2Fg%2F1tgg9zgj?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "Ryushotei Nishimura",
+      "location": {
+        "lat": 35.7107074,
+        "lng": 139.7966859
+      },
+      "fetchedAt": "2026-06-27T06:46:12.195Z"
+    },
+    "src_ee7d9365604bf8a296": {
+      "status": "ok",
+      "source": "manual_fallback_department_store",
+      "url": "https://www.google.com/maps/place/HIGASHIYA+%E9%8A%80%E5%BA%A7/@35.6742784,139.76795,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be38bd9ba33:0x41c1908dadf7884!8m2!3d35.6742784!4d139.76795!16s%2Fg%2F120_rv25?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "finalUrl": "https://www.google.com/maps/place/%E9%8A%80%E5%BA%A7%E4%B8%89%E8%B6%8A/@35.6712864,139.7657382,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be68e21d35f:0x91fb4ae4762f83be!8m2!3d35.6712864!4d139.7657382!16s%2Fg%2F11byp6q2nj?entry=ttu",
+      "displayName": "銀座三越",
+      "location": {
+        "lat": 35.6712864,
+        "lng": 139.7657382
+      },
+      "message": "No exact Google Maps place found for 東山茶寮; pinned to Ginza Mitsukoshi from the source video context.",
+      "fetchedAt": "2026-06-27T06:53:17.106Z"
+    },
+    "src_78c865f79b82cb217c": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E3%80%85%E6%B0%B4SASUI%E4%BC%8A%E8%97%A4%E5%9C%92+Takanawa+Gateway+City+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/%E8%8C%B6%E6%B0%B4SASUI+%E4%BC%8A%E8%97%A4%E5%9C%92/@35.6361012,139.7400293,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b0042e7577d:0x5e87a00cece6321e!8m2!3d35.6361012!4d139.7400293!16s%2Fg%2F11ycyvvzf0?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "茶水SASUI 伊藤園",
+      "location": {
+        "lat": 35.6361012,
+        "lng": 139.7400293
+      },
+      "fetchedAt": "2026-06-27T06:46:21.565Z"
+    },
+    "src_96a164265a41ac539d": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%80%E5%8D%81+Asakusa+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/%E9%8A%85%E9%91%BC%E7%87%92+%E9%BE%9C%E5%8D%81/@35.7107247,139.796774,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec6eecae46b:0x32ae89e994aad78a!8m2!3d35.7107247!4d139.796774!16s%2Fg%2F1tsyk5pm?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "銅鑼燒 龜十",
+      "location": {
+        "lat": 35.7107247,
+        "lng": 139.796774
+      },
+      "fetchedAt": "2026-06-27T06:46:26.282Z"
+    },
+    "src_5f5d0ec25846141fe0": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%96%AB%E8%8C%B6%E5%BA%97%E3%81%AB%E6%81%8B%E3%81%97%E3%81%A6%E3%80%82+Gransta+Tokyo+Station+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/%E5%96%AB%E8%8C%B6%E5%BA%97%E3%81%AB%E6%81%8B%E3%81%97%E3%81%A6%E3%80%82%E6%9D%B1%E4%BA%AC%E9%A7%85%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B9%E3%82%BF%E5%BA%97/@35.6813189,139.7672059,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b1219294a07:0x2debed0eb0fabf7c!8m2!3d35.6813189!4d139.7672059!16s%2Fg%2F11lr3brr3s?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "喫茶店に恋して。東京駅グランスタ店",
+      "location": {
+        "lat": 35.6813189,
+        "lng": 139.7672059
+      },
+      "fetchedAt": "2026-06-27T06:46:30.999Z"
+    },
+    "src_ae1e62b3d10ab14b8b": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%96%AB%E8%8C%B6you+Ginza+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/%E5%96%AB%E8%8C%B6You/@35.6694644,139.7686589,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be0bbe9246b:0x48ea261820b8e596!8m2!3d35.6694644!4d139.7686589!16s%2Fg%2F11b72mzx2s?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "喫茶You",
+      "location": {
+        "lat": 35.6694644,
+        "lng": 139.7686589
+      },
+      "fetchedAt": "2026-06-27T06:46:35.720Z"
+    },
+    "src_830c8792f166cf1c50": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%96%AB%E8%8C%B6%E3%82%AD%E3%83%8A%E3%82%B6%E3%83%83%E3%82%AB+Ginza+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/Kissa+Quinazakka/@35.6722792,139.7671747,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b0d78208759:0xb0c09ce8311dd006!8m2!3d35.6722792!4d139.7671747!16s%2Fg%2F11kjm3s_kd?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "Kissa Quinazakka",
+      "location": {
+        "lat": 35.6722792,
+        "lng": 139.7671747
+      },
+      "fetchedAt": "2026-06-27T06:46:40.437Z"
+    },
+    "src_694503a51fdc557c4d": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E8%9B%B8%E3%81%9F%E3%81%93+Asakusa+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/Taco-Taco+Asakusa+Koromo+Brothers/@35.7122366,139.7970628,17z/data=!3m1!4b1!4m6!3m5!1s0x60188fa8144fe7c1:0xe07e4ac4ad23f5ca!8m2!3d35.7122366!4d139.7970628!16s%2Fg%2F11tj3rq28f?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "Taco-Taco Asakusa Koromo Brothers",
+      "location": {
+        "lat": 35.7122366,
+        "lng": 139.7970628
+      },
+      "fetchedAt": "2026-06-27T06:46:45.157Z"
+    },
+    "src_8c76b4e586d5bca8aa": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E9%8A%80%E5%BA%A7%E3%83%99%E3%83%BC%E3%82%AB%E3%83%AA%E3%83%BC+Ginza+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/Ginza+Bakery/@35.6749266,139.7675508,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be47e667a67:0x6a05ffa43341bff6!8m2!3d35.6749266!4d139.7675508!16s%2Fg%2F12qf7w8yp?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "Ginza Bakery",
+      "location": {
+        "lat": 35.6749266,
+        "lng": 139.7675508
+      },
+      "fetchedAt": "2026-06-27T06:46:49.814Z"
+    },
+    "src_e51b2bf9ef75530aa6": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E7%BE%85%E5%AE%B6+%E6%9D%B1%E4%BA%AC%E8%B1%9A%E9%A5%85+Oimachi+Tracks+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/%E7%BE%85%E5%AE%B6+%E6%9D%B1%E4%BA%AC%E8%B1%9A%E9%A5%85+%E5%A4%A7%E4%BA%95%E7%94%BATRACKS%E5%BA%97/@35.6078673,139.7339953,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b001fea0e2b:0x3f857869cc23c457!8m2!3d35.6078673!4d139.7339953!16s%2Fg%2F11ykmsg5pz?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "羅家 東京豚饅 大井町TRACKS店",
+      "location": {
+        "lat": 35.6078673,
+        "lng": 139.7339953
+      },
+      "fetchedAt": "2026-06-27T06:46:54.437Z"
+    },
+    "src_4f55ee1f866f092771": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=BAKE+CHEESE+TART+Gransta+Tokyo+Station+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/BAKE+CHEESE+TART+Gransta+Marunouchi/@35.6821512,139.7657154,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bf95f25e619:0x923b20132f449942!8m2!3d35.6821512!4d139.7657154!16s%2Fg%2F11d_yvyn3q?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "BAKE CHEESE TART Gransta Marunouchi",
+      "location": {
+        "lat": 35.6821512,
+        "lng": 139.7657154
+      },
+      "fetchedAt": "2026-06-27T06:46:59.063Z"
+    },
+    "src_e56bffa067e7f19751": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=Bicerin+Takanawa+Gateway+City+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/al+bicerin+NEWoMan%E9%AB%98%E8%BC%AA%E5%BA%97/@35.6361561,139.7400761,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b0012b3bc13:0x6f9fe98ce7cd3ace!8m2!3d35.6361561!4d139.7400761!16s%2Fg%2F11ycyg3h_5?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "al bicerin NEWoMan高輪店",
+      "location": {
+        "lat": 35.6361561,
+        "lng": 139.7400761
+      },
+      "fetchedAt": "2026-06-27T06:47:03.688Z"
+    },
+    "src_7432bca2529abb992d": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=BONGEN+COFFEE+TOKYO+%E6%97%A5%E6%9C%AC%E6%A9%8B+%E6%97%A5%E6%9C%AC%E6%A9%8B+Tokyo+Station+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/BONGEN+COFFEE+Tokyo+Nihonbashi/@35.6768331,139.7737574,17z/data=!3m1!4b1!4m6!3m5!1s0x601889dfac0b6bf1:0xb28a035c99c3efe5!8m2!3d35.6768331!4d139.7737574!16s%2Fg%2F11ybvjm1tp?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "BONGEN COFFEE Tokyo Nihonbashi",
+      "location": {
+        "lat": 35.6768331,
+        "lng": 139.7737574
+      },
+      "fetchedAt": "2026-06-27T06:47:08.330Z"
+    },
+    "src_64cec23d8fefabd820": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=BUTTER+%E7%BE%8E%E7%91%9B%E6%94%BE%E7%89%A7%E9%85%AA%E8%BE%B2%E5%A0%B4+Ginza+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/BUTTER+-+Biei+Pasture+Diary+Farm+-+Shop+%26+Cafe/@35.6807194,139.7636391,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bff311035d1:0x9f6595d0bc00c919!8m2!3d35.6807194!4d139.7636391!16s%2Fg%2F11kqs7_rb1?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "BUTTER - Biei Pasture Diary Farm - Shop & Cafe",
+      "location": {
+        "lat": 35.6807194,
+        "lng": 139.7636391
+      },
+      "fetchedAt": "2026-06-27T06:47:13.018Z"
+    },
+    "src_b27ddfd16950ebca23": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=BUTTER+%E7%BE%8E%E7%91%9B%E6%94%BE%E7%89%A7%E9%85%AA%E8%BE%B2%E5%A0%B4+%E4%B8%B8%E3%83%93%E3%83%AB+Tokyo+Station+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/BUTTER+-+Biei+Pasture+Diary+Farm+-+Shop+%26+Cafe/@35.6807194,139.7636391,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bff311035d1:0x9f6595d0bc00c919!8m2!3d35.6807194!4d139.7636391!16s%2Fg%2F11kqs7_rb1?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "BUTTER - Biei Pasture Diary Farm - Shop & Cafe",
+      "location": {
+        "lat": 35.6807194,
+        "lng": 139.7636391
+      },
+      "fetchedAt": "2026-06-27T06:47:17.743Z"
+    },
+    "src_fbe518c2e4e6be4420": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=CANNELE+LITE+Gransta+Tokyo+Station+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/CANNELE+LITE+GRANSTA%E6%9D%B1%E4%BA%AC%E5%BA%97/data=!4m7!3m6!1s0x60188b006e5ea7db:0x545eb675c37fd7e7!8m2!3d35.6811776!4d139.76723!16s%2Fg%2F11whgsh7lp!19sChIJ26debgCLGGAR59d_w3W2XlQ?authuser=0&hl=zh-TW&rclk=1",
+      "displayName": "CANNELE LITE GRANSTA東京店",
+      "location": {
+        "lat": 35.6811776,
+        "lng": 139.76723
+      },
+      "fetchedAt": "2026-06-27T06:47:21.455Z"
+    },
+    "src_ef9f9961e06bb6ce2f": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=CUSTA+Ginza+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/GINZA+Petit+Custa/data=!4m7!3m6!1s0x60188be5ac7d445f:0xd68fb1a98c725575!8m2!3d35.66946!4d139.7693576!16s%2Fg%2F1hc4r857k!19sChIJX0R9rOWLGGARdVVyjKmxj9Y?authuser=0&hl=zh-TW&rclk=1",
+      "displayName": "GINZA Petit Custa",
+      "location": {
+        "lat": 35.66946,
+        "lng": 139.7693576
+      },
+      "fetchedAt": "2026-06-27T06:47:25.123Z"
+    },
+    "src_dbc852ae8007f506eb": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=Depot+%E6%9D%B1%E4%BA%AC%E9%A7%85%E6%94%B9%E6%9C%AD%E5%A4%96+Tokyo+Station+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/Depot/@35.6822249,139.7674076,17z/data=!3m1!4b1!4m6!3m5!1s0x60188d6c207ef9c5:0x68cb5aaf7b9912c1!8m2!3d35.6822249!4d139.7674076!16s%2Fg%2F11jpxyg9h1?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "Depot",
+      "location": {
+        "lat": 35.6822249,
+        "lng": 139.7674076
+      },
+      "fetchedAt": "2026-06-27T06:47:29.801Z"
+    },
+    "src_36570a7ebf84a66f4c": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=feb%E2%80%99s+coffee+%26+scone+TOKYO+%E6%9D%B1%E4%BA%AC%E9%A7%85%E5%85%AB%E9%87%8D%E6%B4%B2%E5%8F%A3+Tokyo+Station+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/feb%E2%80%99s+coffee+and+scone+TOKYO/@35.6799801,139.7679926,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b00786c07c9:0x1d483213fbea47d1!8m2!3d35.6799801!4d139.7679926!16s%2Fg%2F11y_zt09rg?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "feb’s coffee and scone TOKYO",
+      "location": {
+        "lat": 35.6799801,
+        "lng": 139.7679926
+      },
+      "fetchedAt": "2026-06-27T06:47:34.522Z"
+    },
+    "src_f25e0fc6450b763fe3": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=Freckle+donuts+Takanawa+Gateway+City+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/FRECKLE+donuts+%E9%AB%98%E8%BC%AA%E3%82%B2%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A4%E5%BA%97/@35.6364424,139.7400742,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b003887c3d5:0x7968e2068d026e8d!8m2!3d35.6364424!4d139.7400742!16s%2Fg%2F11yrfd1pck?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "FRECKLE donuts 高輪ゲートウェイ店",
+      "location": {
+        "lat": 35.6364424,
+        "lng": 139.7400742
+      },
+      "fetchedAt": "2026-06-27T06:47:39.283Z"
+    },
+    "src_b09b11d645c9e27047": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=Frites+Bruges+Asakusa+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/Frites+Bruges/@35.7117064,139.7936754,17z/data=!3m1!4b1!4m6!3m5!1s0x60188f55f8e6547f:0xbdf676c6e9feb11f!8m2!3d35.7117064!4d139.7936754!16s%2Fg%2F11nmjc79h5?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "Frites Bruges",
+      "location": {
+        "lat": 35.7117064,
+        "lng": 139.7936754
+      },
+      "fetchedAt": "2026-06-27T06:47:43.902Z"
+    },
+    "src_fde375dbab2c89ef5b": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=JAGA+BOULDE+Gransta+Tokyo+Station+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/Jaga+Boulde/@35.6818716,139.7672078,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b9bd353ed1f:0x8fd2e2940e422051!8m2!3d35.6818716!4d139.7672078!16s%2Fg%2F11hn5dwrwp?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "Jaga Boulde",
+      "location": {
+        "lat": 35.6818716,
+        "lng": 139.7672078
+      },
+      "fetchedAt": "2026-06-27T06:47:48.676Z"
+    },
+    "src_48f7c4cd65bdafd012": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=L%27Atelier+du+Pain+Oimachi+Tracks+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/L%E2%80%99Atelier+du+Pain+%E5%A4%A7%E4%BA%95%E7%94%BATRACKS%E5%BA%97/@35.6080363,139.7330502,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b5b3c913d19:0xeb1981b5927d0ff!8m2!3d35.6080363!4d139.7330502!16s%2Fg%2F11m_60csqm?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "L’Atelier du Pain 大井町TRACKS店",
+      "location": {
+        "lat": 35.6080363,
+        "lng": 139.7330502
+      },
+      "fetchedAt": "2026-06-27T06:47:53.401Z"
+    },
+    "src_3fe3d4e9186b8eeed7": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=LA+MAISON+DU+CHOCOLAT+Takanawa+Gateway+City+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/LA+MAISON+DU+CHOCOLAT+NEWoMAN%E9%AB%98%E8%BC%AA%E5%BA%97/@35.6349248,139.7394544,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b004c70f639:0x1b2de9fbb0d42f0!8m2!3d35.6349248!4d139.7394544!16s%2Fg%2F11ycyrww19?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "LA MAISON DU CHOCOLAT NEWoMAN高輪店",
+      "location": {
+        "lat": 35.6349248,
+        "lng": 139.7394544
+      },
+      "fetchedAt": "2026-06-27T06:47:58.112Z"
+    },
+    "src_822dd7d901c1c20854": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=les+joues+de+BeBe+Oimachi+Tracks+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/les+joues+de+BeBe+%E5%A4%A7%E4%BA%95%E7%94%BA%E5%BA%97/@35.6079895,139.7340737,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b006817b9cf:0x6a1019c385e0aab4!8m2!3d35.6079895!4d139.7340737!16s%2Fg%2F11yknksc65?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "les joues de BeBe 大井町店",
+      "location": {
+        "lat": 35.6079895,
+        "lng": 139.7340737
+      },
+      "fetchedAt": "2026-06-27T06:48:02.837Z"
+    },
+    "src_24bfc15274f1c89def": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=Link+cafe+Tokyo+Takanawa+Gateway+City+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/Link+cafe+TOKYO/@35.6348916,139.7394533,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b00369aa5df:0xf3ec16e047554703!8m2!3d35.6348916!4d139.7394533!16s%2Fg%2F11xg4dcp5s?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "Link cafe TOKYO",
+      "location": {
+        "lat": 35.6348916,
+        "lng": 139.7394533
+      },
+      "fetchedAt": "2026-06-27T06:48:07.555Z"
+    },
+    "src_34611e7061949f8cba": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=MAISON+CLASSIC+FACTORY+Takanawa+Gateway+City+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/MAISON+CLASSIC+FACTORY/data=!4m7!3m6!1s0x60188b006bdddc1d:0x9a324bf9f5ee5a64!8m2!3d35.6355533!4d139.7406938!16s%2Fg%2F11m5y66f3d!19sChIJHdzdawCLGGARZFru9flLMpo?authuser=0&hl=zh-TW&rclk=1",
+      "displayName": "MAISON CLASSIC FACTORY",
+      "location": {
+        "lat": 35.6355533,
+        "lng": 139.7406938
+      },
+      "fetchedAt": "2026-06-27T06:48:11.261Z"
+    },
+    "src_c05ccfe647ff52a014": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=Maruzen+Asakusa+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/MARUZEN+Tea+Roastery/@35.7124232,139.7968586,17z/data=!3m1!4b1!4m6!3m5!1s0x60188fbf0f4c165b:0x20d72e4cba9ed3a0!8m2!3d35.7124232!4d139.7968586!16s%2Fg%2F11x7j159qj?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "MARUZEN Tea Roastery",
+      "location": {
+        "lat": 35.7124232,
+        "lng": 139.7968586
+      },
+      "fetchedAt": "2026-06-27T06:48:15.936Z"
+    },
+    "src_82eb7b6f2b19ae6224": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=NO+RAISIN+SANDWICH+Gransta+Tokyo+Station+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/(NO)+RAISIN+SANDWICH+GRANSTA%E6%9D%B1%E4%BA%AC%E5%BA%97/@35.681955,139.7668068,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b003fe18a97:0xac8935d51ae471d1!8m2!3d35.681955!4d139.7668068!16s%2Fg%2F11x14j01hx?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "(NO) RAISIN SANDWICH GRANSTA東京店",
+      "location": {
+        "lat": 35.681955,
+        "lng": 139.7668068
+      },
+      "fetchedAt": "2026-06-27T06:48:20.667Z"
+    },
+    "src_b872a58fa6a70b8ec1": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=RURU+MARY%E2%80%99S+Ginza+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/RURU+MARY'S+%E9%8A%80%E5%BA%A7%E4%B8%89%E8%B6%8A%E5%BA%97/@35.6714529,139.7658003,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b00092d303b:0xc06b9220fb3454c7!8m2!3d35.6714529!4d139.7658003!16s%2Fg%2F11zjp6q1mb?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "RURU MARY'S 銀座三越店",
+      "location": {
+        "lat": 35.6714529,
+        "lng": 139.7658003
+      },
+      "fetchedAt": "2026-06-27T06:48:25.389Z"
+    },
+    "src_6d94891d72db242da4": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=sow+coffee+roasters+Takanawa+Gateway+City+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/SOW+COFFEE+ROASTERS/@35.6347309,139.7393849,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b0077fd4c45:0x28612f20be9a44e3!8m2!3d35.6347309!4d139.7393849!16s%2Fg%2F11xg4kb596?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "SOW COFFEE ROASTERS",
+      "location": {
+        "lat": 35.6347309,
+        "lng": 139.7393849
+      },
+      "fetchedAt": "2026-06-27T06:48:30.107Z"
+    },
+    "src_8809a1c274e69c2f69": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=THE+DROS+Gransta+Tokyo+Station+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/THE+DROS/@35.6813469,139.7670877,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b9a45d8bbd3:0x5ff439046e3d6cb!8m2!3d35.6813469!4d139.7670877!16s%2Fg%2F11svnbh873?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "THE DROS",
+      "location": {
+        "lat": 35.6813469,
+        "lng": 139.7670877
+      },
+      "fetchedAt": "2026-06-27T06:48:34.812Z"
+    },
+    "src_48c1014bb462e31ee2": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%26TOKYO+Gransta+Tokyo+Station+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/GRANSTA%E6%9D%B1%E4%BA%AC%C2%B7GRANSTA%E4%B8%B8%E4%B9%8B%E5%85%A7/@35.6798702,139.7675145,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bfbd9008ca1:0x5fc9c642387233ad!8m2!3d35.6798702!4d139.7675145!16s%2Fg%2F1tj21jly?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "GRANSTA東京·GRANSTA丸之內",
+      "location": {
+        "lat": 35.6798702,
+        "lng": 139.7675145
+      },
+      "fetchedAt": "2026-06-27T06:48:39.538Z"
+    },
+    "src_b8ab94a10c3239b8cf": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=TOOTH+TOOTH+Takanawa+Gateway+City+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/TOOTH+TOOTH+BISTRO%26CAFE/@35.6347309,139.7393849,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b0068bb47b7:0x10907235915e6316!8m2!3d35.6347309!4d139.7393849!16s%2Fg%2F11ycy9blr6?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "TOOTH TOOTH BISTRO&CAFE",
+      "location": {
+        "lat": 35.6347309,
+        "lng": 139.7393849
+      },
+      "fetchedAt": "2026-06-27T06:48:44.265Z"
+    },
+    "src_57f11524fde22ddee0": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tracks+park+Oimachi+Tracks+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/TRACKS%E5%85%AC%E5%9C%92/data=!4m7!3m6!1s0x60188b003ddcddf9:0xe628a637e677e081!8m2!3d35.608255!4d139.7311371!16s%2Fg%2F11z17fbggt!19sChIJ-d3cPQCLGGARgeB35jemKOY?authuser=0&hl=zh-TW&rclk=1",
+      "displayName": "TRACKS公園",
+      "location": {
+        "lat": 35.608255,
+        "lng": 139.7311371
+      },
+      "fetchedAt": "2026-06-27T06:48:47.995Z"
+    },
+    "src_f73fda8eaf0a2878ae": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=TRUFFLE+mini+Ginza+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/TRUFFLE+mini+ecute+EDITION%E6%9C%89%E6%A8%82%E7%94%BA%E5%BA%97/data=!4m7!3m6!1s0x60188b698add0d4f:0x21cae707791e9d1a!8m2!3d35.6754242!4d139.7637655!16s%2Fg%2F11ngf4dxk0!19sChIJTw3dimmLGGARGp0eeQfnyiE?authuser=0&hl=zh-TW&rclk=1",
+      "displayName": "TRUFFLE mini ecute EDITION有樂町店",
+      "location": {
+        "lat": 35.6754242,
+        "lng": 139.7637655
+      },
+      "fetchedAt": "2026-06-27T06:48:51.645Z"
+    },
+    "src_b7c1927e9c4a01541d": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=unplugged+COFFEE+STAND+Oimachi+Tracks+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/unplugged+COFFEE+STAND/@35.6057755,139.7358324,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b476b6e57d3:0xb42f559472064e0d!8m2!3d35.6057755!4d139.7358324!16s%2Fg%2F11t6w4ptqb?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "unplugged COFFEE STAND",
+      "location": {
+        "lat": 35.6057755,
+        "lng": 139.7358324
+      },
+      "fetchedAt": "2026-06-27T06:48:56.332Z"
+    },
+    "src_a6a2c1fa29d8a041f3": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=Vermicular+pot+made+bakery+Takanawa+Gateway+City+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/VERMICULAR+POT+MADE+BAKERY/@35.6361031,139.7400259,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b000bcd1b79:0x2b96e7b253ebf0d8!8m2!3d35.6361031!4d139.7400259!16s%2Fg%2F11yjzybvl_?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "VERMICULAR POT MADE BAKERY",
+      "location": {
+        "lat": 35.6361031,
+        "lng": 139.7400259
+      },
+      "fetchedAt": "2026-06-27T06:49:00.976Z"
+    },
+    "src_b7592f2eabf7b221ed": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=WOODBERRY+COFFEE+Oimachi+Tracks+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/WOODBERRY+COFFEE+%E5%A4%A7%E4%BA%95%E7%94%BA%E5%BA%97/@35.6079739,139.7341963,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b003fa1f653:0x56211b43ed469a95!8m2!3d35.6079739!4d139.7341963!16s%2Fg%2F11z2j02qcz?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "WOODBERRY COFFEE 大井町店",
+      "location": {
+        "lat": 35.6079739,
+        "lng": 139.7341963
+      },
+      "fetchedAt": "2026-06-27T06:49:05.698Z"
+    },
+    "src_c988d9c4ac1ca4aee4": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=yellow+Oimachi+Tracks+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/Yellow+%E5%A4%A7%E4%BA%95%E7%94%BATRACKS%E5%BA%97/@35.6080745,139.732615,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b0020a47e1d:0x6fb1ce634d3d129a!8m2!3d35.6080745!4d139.732615!16s%2Fg%2F11y0yc1y86?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "Yellow 大井町TRACKS店",
+      "location": {
+        "lat": 35.6080745,
+        "lng": 139.732615
+      },
+      "fetchedAt": "2026-06-27T06:49:10.416Z"
+    },
+    "src_44d8ac4df5bc4848b6": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AD%E3%83%9E%E7%8F%88%E7%90%B2+Ginza+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/Aroma+Coffee+Yaesu/@35.6796077,139.770923,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bfcefeae7f1:0xba0fbb491f79ab4a!8m2!3d35.6796077!4d139.770923!16s%2Fg%2F1tdwkhkv?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "Aroma Coffee Yaesu",
+      "location": {
+        "lat": 35.6796077,
+        "lng": 139.770923
+      },
+      "fetchedAt": "2026-06-27T06:49:15.130Z"
+    },
+    "src_a770ee38914a8fead9": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%86%E3%81%AA%E3%81%AA+Asakusa+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/Asakusa+Unana/@35.7147474,139.7944546,17z/data=!3m1!4b1!4m6!3m5!1s0x60188f3b199068bf:0x9e7cb8d2fa9ae0fd!8m2!3d35.7147474!4d139.7944546!16s%2Fg%2F11n5rrvh7b?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "Asakusa Unana",
+      "location": {
+        "lat": 35.7147474,
+        "lng": 139.7944546
+      },
+      "fetchedAt": "2026-06-27T06:49:19.852Z"
+    },
+    "src_cc42e22a38c021fcf1": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E3%81%84%E3%82%82%E3%82%84%E3%81%95%E3%82%93%E8%88%88%E4%BC%B8+Asakusa+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/Oimoyasankoshin+Asakusakaminarimonten/data=!4m7!3m6!1s0x60188fd9ab789fc3:0x5b6f964bfd49bbc6!8m2!3d35.710672!4d139.7969434!16s%2Fg%2F11rz9s5j9s!19sChIJw594q9mPGGARxrtJ_UuWb1s?authuser=0&hl=zh-TW&rclk=1",
+      "displayName": "Oimoyasankoshin Asakusakaminarimonten",
+      "location": {
+        "lat": 35.710672,
+        "lng": 139.7969434
+      },
+      "fetchedAt": "2026-06-27T06:49:23.569Z"
+    },
+    "src_b4357314d6d3166e7a": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A%E6%88%B8%E8%B6%8A%E5%B1%8B+Oimachi+Tracks+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/%E9%A3%AF%E7%B3%B0+%E6%88%B6%E8%B6%8A%E5%B1%8B+%E5%A4%A7%E4%BA%95%E7%94%BATRACKS%E5%BA%97/@35.6080098,139.7339149,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b0046608653:0xfde21decbdd749ee!8m2!3d35.6080098!4d139.7339149!16s%2Fg%2F11ykmfx5nb?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "飯糰 戶越屋 大井町TRACKS店",
+      "location": {
+        "lat": 35.6080098,
+        "lng": 139.7339149
+      },
+      "fetchedAt": "2026-06-27T06:49:28.300Z"
+    },
+    "src_29e39a638257e8d9be": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%8B%E3%83%A3%E3%83%BC%E3%83%8D%E3%81%AE%E5%BA%97+Ginza+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/Kougnane+no+Mise/@35.6744744,139.7630037,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b4df86c0d47:0xcd81ce78148cdcf4!8m2!3d35.6744744!4d139.7630037!16s%2Fg%2F11pdm0x454?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "Kougnane no Mise",
+      "location": {
+        "lat": 35.6744744,
+        "lng": 139.7630037
+      },
+      "fetchedAt": "2026-06-27T06:49:33.032Z"
+    },
+    "src_a6e6479eb82cd82d84": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B6%E3%83%BB%E3%83%9E%E3%83%B3%E3%83%80%E3%83%AA%E3%83%B3%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%B0%E3%83%AB%E3%83%A1%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97+%E4%B8%89%E8%B6%8A%E5%89%8D+Tokyo+Station+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/%E6%96%87%E8%8F%AF%E6%9D%B1%E6%96%B9%E7%BE%8E%E9%A3%9F%E5%BA%97/@35.6867956,139.7729814,17z/data=!3m1!4b1!4m6!3m5!1s0x60188955795f1ccd:0xd68d30b6df1154ba!8m2!3d35.6867956!4d139.7729814!16s%2Fg%2F11g6j7r7d6?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "文華東方美食店",
+      "location": {
+        "lat": 35.6867956,
+        "lng": 139.7729814
+      },
+      "fetchedAt": "2026-06-27T06:49:37.760Z"
+    },
+    "src_6a2e6d0c3af0842ff5": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%9F%E3%81%AD%E3%82%84+Ginza+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/%E7%A8%AE%E5%B1%8B+%E9%8A%80%E5%BA%A7%E4%B8%89%E8%B6%8A%E5%BA%97/@35.6715437,139.7656957,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be685a07257:0x7259b8aecae90989!8m2!3d35.6715437!4d139.7656957!16s%2Fg%2F119v7td39?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "種屋 銀座三越店",
+      "location": {
+        "lat": 35.6715437,
+        "lng": 139.7656957
+      },
+      "fetchedAt": "2026-06-27T06:49:42.464Z"
+    },
+    "src_32fa9e412cc5237019": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%80%E3%83%AD%E3%83%AF%E3%82%A4%E3%83%A8+Ginza+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/%E9%81%94%E6%B4%9B%E5%84%AA+%E9%8A%80%E5%BA%A7%E4%B8%89%E8%B6%8A%E5%BA%97/@35.6711731,139.7659368,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be6926881fd:0x718d8818dc27e0a4!8m2!3d35.6711731!4d139.7659368!16s%2Fg%2F113dqczq_?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "達洛優 銀座三越店",
+      "location": {
+        "lat": 35.6711731,
+        "lng": 139.7659368
+      },
+      "fetchedAt": "2026-06-27T06:49:47.184Z"
+    },
+    "src_a42a18a423f8f76788": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%88%E3%83%AA%E3%82%B3%E3%83%AD%E3%83%BC%E3%83%AB+Ginza+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/Tricolore/@35.6702154,139.7650596,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bef080d6a0b:0x95cc0d6816085dc5!8m2!3d35.6702154!4d139.7650596!16s%2Fg%2F1tmqg619?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "Tricolore",
+      "location": {
+        "lat": 35.6702154,
+        "lng": 139.7650596
+      },
+      "fetchedAt": "2026-06-27T06:49:51.919Z"
+    },
+    "src_b887e425512cfb5c8b": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%8E%E3%83%AF%E3%83%BB%E3%83%89%E3%82%A5%E3%83%BB%E3%83%96%E3%83%BC%E3%83%AB+Ginza+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/noix+de+beurre+%E9%8A%80%E5%BA%A7%E4%B8%89%E8%B6%8A%E5%BA%97/@35.6714528,139.7655931,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b638595212d:0xd0f80f22b62377f1!8m2!3d35.6714528!4d139.7655931!16s%2Fg%2F11mtjw4c2h?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "noix de beurre 銀座三越店",
+      "location": {
+        "lat": 35.6714528,
+        "lng": 139.7655931
+      },
+      "fetchedAt": "2026-06-27T06:49:56.623Z"
+    },
+    "src_d785876eebc5e365d1": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%91%E3%83%86%E3%82%A3%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%A2%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%AB+Ginza+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/Mon+cher+%E9%8A%80%E5%BA%A7%E4%B8%89%E8%B6%8A%E5%BA%97/@35.6713219,139.7658764,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be68e263a39:0x54028b82df974cbd!8m2!3d35.6713219!4d139.7658764!16s%2Fg%2F1ptx1n5lp?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "Mon cher 銀座三越店",
+      "location": {
+        "lat": 35.6713219,
+        "lng": 139.7658764
+      },
+      "fetchedAt": "2026-06-27T06:50:01.341Z"
+    },
+    "src_f4e270a39302513bba": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%82%B0%E3%83%AC%E3%83%B3+Asakusa+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/FUGLEN+ASAKUSA/@35.7144526,139.7939807,17z/data=!3m1!4b1!4m6!3m5!1s0x60188f94c3ce55cd:0xba4fa108446d25ef!8m2!3d35.7144526!4d139.7939807!16s%2Fg%2F11gjj16wd3?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "FUGLEN ASAKUSA",
+      "location": {
+        "lat": 35.7144526,
+        "lng": 139.7939807
+      },
+      "fetchedAt": "2026-06-27T06:50:06.070Z"
+    },
+    "src_2a988144ca325eadfc": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%99%E3%82%A4%E3%82%AB%E3%83%BC%E3%82%BA%E3%82%B4%E3%83%8A%E3%83%99%E3%82%A4%E3%82%AF+Ginza+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/Bakers+Gonna+Bake!+%E6%9D%B1%E4%BA%AC%E7%A6%AE%E7%89%A9%E8%AA%BF%E8%89%B2%E7%9B%A4%E5%BA%97/@35.682221,139.7686415,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bbe05d60d65:0xec6faeca9498fa7!8m2!3d35.682221!4d139.7686415!16s%2Fg%2F11hgdfh9n7?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "Bakers Gonna Bake! 東京禮物調色盤店",
+      "location": {
+        "lat": 35.682221,
+        "lng": 139.7686415
+      },
+      "fetchedAt": "2026-06-27T06:50:10.788Z"
+    },
+    "src_cf0b5ef045452783c2": {
+      "status": "ok",
+      "source": "google_maps_web_search",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%BB%E3%81%97%E3%81%AE%E3%83%90%E3%82%BF%E3%83%BC+Ginza+Tokyo+Japan",
+      "finalUrl": "https://www.google.com/maps/place/%E3%81%BB%E3%81%97%E3%81%AE%E3%83%90%E3%82%BF%E3%83%BC+GINZA+SIX%E5%BA%97/@35.669704,139.7639709,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b2e861e0365:0x95f73ea6e5ec5a02!8m2!3d35.669704!4d139.7639709!16s%2Fg%2F11mrxycyrm?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+      "displayName": "ほしのバター GINZA SIX店",
+      "location": {
+        "lat": 35.669704,
+        "lng": 139.7639709
+      },
+      "fetchedAt": "2026-06-27T06:50:15.490Z"
     }
   }
 }

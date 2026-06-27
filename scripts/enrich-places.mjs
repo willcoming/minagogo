@@ -1,11 +1,11 @@
 import fs from "node:fs";
+import os from "node:os";
 import path from "node:path";
 import { spawnSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const rootDir = path.resolve(__dirname, "..");
-const placesFile = path.join(rootDir, "public", "data", "places.json");
 const cacheFile = path.join(__dirname, "data", "google-place-cache.json");
 
 const placesTextSearchEndpoint = "https://places.googleapis.com/v1/places:searchText";
@@ -32,6 +32,7 @@ function parseArgs(argv) {
     rebuild: true,
     delayMs: 120,
     provider: "both",
+    channel: "",
   };
   for (const arg of argv) {
     if (arg === "--force") args.force = true;
@@ -45,6 +46,7 @@ function parseArgs(argv) {
     }
     if (arg.startsWith("--delay-ms=")) args.delayMs = Number(arg.split("=")[1]);
     if (arg.startsWith("--provider=")) args.provider = arg.split("=")[1];
+    if (arg.startsWith("--channel=")) args.channel = arg.split("=").slice(1).join("=");
   }
   return args;
 }
@@ -82,15 +84,21 @@ function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-function ensurePlacesData() {
-  if (fs.existsSync(placesFile)) return;
-  const result = spawnSync(process.execPath, ["scripts/build-places-data.mjs"], {
+function buildCandidatePlacesData() {
+  const tempDir = fs.mkdtempSync(path.join(os.tmpdir(), "minagogo-places-"));
+  const candidateFile = path.join(tempDir, "places.json");
+  const result = spawnSync(process.execPath, [
+    "scripts/build-places-data.mjs",
+    "--include-unlocated",
+    `--output=${candidateFile}`,
+  ], {
     cwd: rootDir,
     stdio: "inherit",
   });
   if (result.status !== 0) {
-    throw new Error("Failed to build initial places data.");
+    throw new Error("Failed to build candidate places data.");
   }
+  return readJson(candidateFile, { places: [] });
 }
 
 function sourceKeysForPlace(place) {
@@ -230,10 +238,10 @@ function regionSearchTerm(regionCode) {
 function queryForPlace(place) {
   const name = cleanQueryPart(place.name);
   const address = cleanQueryPart(place.address);
-  if (name && address) return `${name} ${address}`;
-  if (name) return `${name} ${regionSearchTerm(inferRegionCode(place))}`;
   const searchQuery = cleanQueryPart(place.searchQuery);
+  if (name && address) return `${name} ${address}`;
   if (searchQuery && searchQuery.length <= 180) return searchQuery;
+  if (name) return `${name} ${regionSearchTerm(inferRegionCode(place))}`;
   return searchQuery;
 }
 
@@ -422,6 +430,23 @@ function writeResult(records, place, result) {
   }
 }
 
+function matchesFilter(value, filter) {
+  if (!filter) return true;
+  return cleanQueryPart(value).toLocaleLowerCase("zh-Hant").includes(
+    cleanQueryPart(filter).toLocaleLowerCase("zh-Hant"),
+  );
+}
+
+function placeMatchesScope(place, args) {
+  if (!args.channel) return true;
+  const mentions = Array.isArray(place.mentions) ? place.mentions : [];
+  return mentions.some((mention) =>
+    [mention.channelId, mention.channelName].some((value) =>
+      matchesFilter(value, args.channel),
+    ),
+  );
+}
+
 async function enrichPlace(apiKey, place, args) {
   const query = queryForPlace(place);
   const regionCode = inferRegionCode(place);
@@ -506,12 +531,12 @@ async function main() {
     throw new Error("GOOGLE_MAPS_API_KEY is required. Put it in .env or .env.local.");
   }
 
-  ensurePlacesData();
-  const placesData = readJson(placesFile, { places: [] });
+  const placesData = buildCandidatePlacesData();
   const cache = readJson(cacheFile, { generatedAt: "", records: {} });
   const records = cache.records || {};
 
   const candidates = placesData.places.filter((place) => {
+    if (!placeMatchesScope(place, args)) return false;
     if (place.location && !args.force) return false;
     const skip = shouldSkipPlace(place);
     if (skip.skip) return false;

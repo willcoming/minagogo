@@ -7,13 +7,27 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const rootDir = path.resolve(__dirname, "..");
 const dataDir = path.join(rootDir, "public", "data");
 const scriptDataDir = path.join(__dirname, "data");
-const outputFile = path.join(dataDir, "places.json");
+const defaultOutputFile = path.join(dataDir, "places.json");
 const mapLinkCacheFile = path.join(scriptDataDir, "map-link-cache.json");
 const googlePlaceCacheFile = path.join(scriptDataDir, "google-place-cache.json");
 const legacyResolvedLinksFile = path.join(scriptDataDir, "legacy-resolved-links.json");
 
 const rawPlaceFilePattern = /_all_places_raw\.json$/;
 const resolvedFilePattern = /_map_resolved\.json$/;
+
+function parseArgs(argv) {
+  const args = {
+    includeUnlocated: false,
+    outputFile: defaultOutputFile,
+  };
+  for (const arg of argv) {
+    if (arg === "--include-unlocated") args.includeUnlocated = true;
+    if (arg.startsWith("--output=")) {
+      args.outputFile = path.resolve(rootDir, arg.split("=").slice(1).join("="));
+    }
+  }
+  return args;
+}
 
 const categoryFallbacks = [
   {
@@ -117,10 +131,11 @@ function cleanText(value) {
 }
 
 function cleanName(value) {
-  const text = cleanText(value)
-    .replace(/^\d{1,2}:\d{2}(?::\d{2})?\s*/, "")
-    .replace(/^[^\p{Letter}\p{Number}]+/u, "")
-    .trim();
+  let text = cleanText(value).replace(/^\d{1,2}:\d{2}(?::\d{2})?\s*/, "");
+  if (!text.startsWith("&")) {
+    text = text.replace(/^[^\p{Letter}\p{Number}]+/u, "");
+  }
+  text = text.trim();
   return text || cleanText(value) || "未命名地點";
 }
 
@@ -465,6 +480,7 @@ function buildChannels(records) {
 }
 
 function main() {
+  const args = parseArgs(process.argv.slice(2));
   const files = fs.readdirSync(rootDir).filter((file) => rawPlaceFilePattern.test(file));
   const resolved = loadResolvedLinks();
   const mapLinkCache = loadCache(mapLinkCacheFile);
@@ -483,23 +499,25 @@ function main() {
   const locatedPlaces = places.filter((place) => place.location);
   const locatedSourceKeys = new Set(locatedPlaces.flatMap((place) => place.sourceKeys));
   const locatedRecords = records.filter((record) => locatedSourceKeys.has(record.sourceKey));
+  const outputPlaces = args.includeUnlocated ? places : locatedPlaces;
+  const outputRecords = args.includeUnlocated ? records : locatedRecords;
   const output = {
     generatedAt: new Date().toISOString(),
     sourceFiles: files,
     stats: {
-      rawMentions: locatedRecords.length,
-      places: locatedPlaces.length,
+      rawMentions: outputRecords.length,
+      places: outputPlaces.length,
       locatedPlaces: locatedPlaces.length,
-      unresolvedPlaces: 0,
-      channels: new Set(locatedRecords.map((record) => record.channel.id)).size,
+      unresolvedPlaces: args.includeUnlocated ? places.length - locatedPlaces.length : 0,
+      channels: new Set(outputRecords.map((record) => record.channel.id)).size,
     },
-    channels: buildChannels(locatedRecords),
-    places: locatedPlaces,
+    channels: buildChannels(outputRecords),
+    places: outputPlaces,
   };
 
-  writeJson(outputFile, output);
+  writeJson(args.outputFile, output);
   console.log(
-    `Built ${path.relative(rootDir, outputFile)}: ${locatedPlaces.length} located places, ${locatedRecords.length} mentions, ${places.length - locatedPlaces.length} skipped without coordinates.`,
+    `Built ${path.relative(rootDir, args.outputFile)}: ${locatedPlaces.length} located places, ${locatedRecords.length} located mentions, ${places.length - locatedPlaces.length} skipped without coordinates.`,
   );
 }
 
