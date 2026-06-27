@@ -13,6 +13,7 @@ import html
 import json
 import os
 import re
+import signal
 import subprocess
 import sys
 import time
@@ -29,6 +30,15 @@ TODAY = dt.datetime.now().astimezone().strftime("%Y-%m-%d")
 FETCHED_AT = dt.datetime.now(dt.timezone.utc).isoformat(timespec="milliseconds").replace(
     "+00:00", "Z"
 )
+NETWORK_DEADLINE_SECONDS = 45
+
+
+class NetworkDeadlineError(TimeoutError):
+    pass
+
+
+def raise_network_deadline(_signum: int, _frame: Any) -> None:
+    raise NetworkDeadlineError(f"network request exceeded {NETWORK_DEADLINE_SECONDS}s")
 
 
 @dataclass(frozen=True)
@@ -213,12 +223,18 @@ def get_text(url: str, *, retries: int = 3) -> str:
     last_error: Exception | None = None
     for attempt in range(retries):
         try:
-            response = SESSION.get(url, timeout=30)
+            previous_handler = signal.getsignal(signal.SIGALRM)
+            signal.signal(signal.SIGALRM, raise_network_deadline)
+            signal.setitimer(signal.ITIMER_REAL, NETWORK_DEADLINE_SECONDS)
+            response = SESSION.get(url, timeout=(10, 20))
             response.raise_for_status()
             return response.text
         except Exception as exc:  # pragma: no cover - network guard
             last_error = exc
             time.sleep(1.5 + attempt)
+        finally:
+            signal.setitimer(signal.ITIMER_REAL, 0)
+            signal.signal(signal.SIGALRM, previous_handler)
     raise RuntimeError(f"Failed to fetch {url}: {last_error}")
 
 
@@ -226,12 +242,18 @@ def post_json(url: str, payload: dict[str, Any], *, retries: int = 3) -> dict[st
     last_error: Exception | None = None
     for attempt in range(retries):
         try:
-            response = SESSION.post(url, json=payload, timeout=30)
+            previous_handler = signal.getsignal(signal.SIGALRM)
+            signal.signal(signal.SIGALRM, raise_network_deadline)
+            signal.setitimer(signal.ITIMER_REAL, NETWORK_DEADLINE_SECONDS)
+            response = SESSION.post(url, json=payload, timeout=(10, 20))
             response.raise_for_status()
             return response.json()
         except Exception as exc:  # pragma: no cover - network guard
             last_error = exc
             time.sleep(1.5 + attempt)
+        finally:
+            signal.setitimer(signal.ITIMER_REAL, 0)
+            signal.signal(signal.SIGALRM, previous_handler)
     raise RuntimeError(f"Failed to post {url}: {last_error}")
 
 
@@ -1467,6 +1489,10 @@ def merge_channel(config: ChannelConfig) -> tuple[list[dict[str, Any]], list[str
             merged["places"] = old_places
         else:
             try:
+                print(
+                    f"  fetching description: {config.slug} {video['id']} {video['title'][:60]}",
+                    flush=True,
+                )
                 description, _player = fetch_video_description(video["id"])
                 merged["description_length"] = len(description)
                 merged["places"] = parse_places(description, video, config)
@@ -1512,12 +1538,23 @@ def run_location_resolution() -> None:
         print("Skipping no-API map location resolution.", flush=True)
         return
     print("Resolving Google Maps links without Places API...", flush=True)
-    subprocess.run(["node", "scripts/build-places-data.mjs"], cwd=ROOT, check=True)
+    candidate_path = ROOT / ".tmp-places-with-unlocated.json"
     subprocess.run(
-        ["node", "scripts/resolve-map-links.mjs", "--limit=all"],
+        [
+            "node",
+            "scripts/build-places-data.mjs",
+            "--include-unlocated",
+            f"--output={candidate_path}",
+        ],
         cwd=ROOT,
         check=True,
     )
+    subprocess.run(
+        ["node", "scripts/resolve-map-links.mjs", "--limit=all", f"--input={candidate_path}"],
+        cwd=ROOT,
+        check=True,
+    )
+    candidate_path.unlink(missing_ok=True)
 
 
 def place_timestamp(place: dict[str, Any]) -> tuple[str, int | None]:

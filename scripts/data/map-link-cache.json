@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T08:27:57.932Z",
+  "generatedAt": "2026-06-27T09:12:50.133Z",
   "records": {
     "src_2be75271a8a371d6fb": {
       "status": "ok",
@@ -32440,6 +32440,118 @@
       "finalUrl": "https://www.google.com/sorry/index?continue=https://www.google.com/maps/search/%3Fapi%3D1%26query%3D%25E3%2583%258A%25E3%2582%25A6%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%2581%25E3%2583%25BC%25E3%2582%25BA%2520%25E3%2583%258F%25E3%2583%25AD%25E3%2583%25BC%2520%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25AD%25E3%2583%25A7%25E3%2582%25A6%2520%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2520(Now%2520on%2520Cheese%25E2%2599%25AA%2520Hello%252C%2520Tokyo%2520Station%2520!)%2520Tokyo%2520Station%2520Tokyo%2520Japan&q=EhAgAbARQBP4N6CYwPvhfVyIGK-S_tEGIjBAmNMBduZ9xAWSmWZojV3OIUQpRs9ITJpUCuPdF9U2GF7sN0aWyQVBwYqIZ7DWKWUyAnJSWgFD",
       "message": "https://www.google.com/maps/search/?api=1&query=%E3%83%8A%E3%82%A6%E3%82%AA%E3%83%B3%E3%83%81%E3%83%BC%E3%82%BA%20%E3%83%8F%E3%83%AD%E3%83%BC%20%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%20%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20(Now%20on%20Cheese%E2%99%AA%20Hello%2C%20Tokyo%20Station%20!)%20Tokyo%20Station%20Tokyo%20Japan",
       "fetchedAt": "2026-06-27T08:26:25.138Z"
+    },
+    "src_4e835ec6bf0421dbf9": {
+      "status": "no_coordinates",
+      "source": "redirect",
+      "url": "https://maps.app.goo.gl/b8KQnG76F13uhATW7",
+      "finalUrl": "https://maps.app.goo.gl/b8KQnG76F13uhATW7",
+      "httpStatus": 200,
+      "fetchedAt": "2026-06-27T09:12:44.079Z"
+    },
+    "src_60e600419a5c7afd5a": {
+      "status": "no_coordinates",
+      "source": "redirect",
+      "url": "https://maps.app.goo.gl/bzbVGZzZ2aRKBxnG6",
+      "finalUrl": "https://maps.app.goo.gl/bzbVGZzZ2aRKBxnG6",
+      "httpStatus": 200,
+      "fetchedAt": "2026-06-27T09:12:44.864Z"
+    },
+    "src_bcc412acea994cab81": {
+      "status": "no_coordinates",
+      "source": "redirect",
+      "url": "https://maps.app.goo.gl/npTxMoFArn2djqyE7",
+      "finalUrl": "https://maps.app.goo.gl/npTxMoFArn2djqyE7",
+      "httpStatus": 200,
+      "fetchedAt": "2026-06-27T09:12:45.040Z"
+    },
+    "src_f1f63402e193c3010b": {
+      "status": "no_coordinates",
+      "source": "redirect",
+      "url": "https://maps.app.goo.gl/Vwd1J33se41hCbLeA",
+      "finalUrl": "https://maps.app.goo.gl/Vwd1J33se41hCbLeA",
+      "httpStatus": 200,
+      "fetchedAt": "2026-06-27T09:12:45.836Z"
+    },
+    "src_fa72b95385e63a37fa": {
+      "status": "no_coordinates",
+      "source": "redirect",
+      "url": "https://maps.app.goo.gl/UsPbg5HdZrtyvfU86",
+      "finalUrl": "https://maps.app.goo.gl/UsPbg5HdZrtyvfU86",
+      "httpStatus": 200,
+      "fetchedAt": "2026-06-27T09:12:46.017Z"
+    },
+    "src_208a099132e1c22c57": {
+      "status": "no_coordinates",
+      "source": "redirect",
+      "url": "https://maps.app.goo.gl/nti4gnBrVYVoRt4G7",
+      "finalUrl": "https://maps.app.goo.gl/nti4gnBrVYVoRt4G7",
+      "httpStatus": 200,
+      "fetchedAt": "2026-06-27T09:12:46.703Z"
+    },
+    "src_e91c95865e76dbc471": {
+      "status": "no_coordinates",
+      "source": "redirect",
+      "url": "https://maps.app.goo.gl/iNNGGskDpRudTKe38",
+      "finalUrl": "https://maps.app.goo.gl/iNNGGskDpRudTKe38",
+      "httpStatus": 200,
+      "fetchedAt": "2026-06-27T09:12:46.884Z"
+    },
+    "src_44762a73e4a6b6eb64": {
+      "status": "no_coordinates",
+      "source": "redirect",
+      "url": "https://maps.app.goo.gl/W1eMXhUQpM2iVZr79",
+      "finalUrl": "https://maps.app.goo.gl/W1eMXhUQpM2iVZr79",
+      "httpStatus": 200,
+      "fetchedAt": "2026-06-27T09:12:47.495Z"
+    },
+    "src_2f695cea06f78583c5": {
+      "status": "no_coordinates",
+      "source": "redirect",
+      "url": "https://maps.app.goo.gl/KGNCdkAM3rWFAPTZ6",
+      "finalUrl": "https://maps.app.goo.gl/KGNCdkAM3rWFAPTZ6",
+      "httpStatus": 200,
+      "fetchedAt": "2026-06-27T09:12:47.679Z"
+    },
+    "src_52aa28157d41d8f5b8": {
+      "status": "no_coordinates",
+      "source": "redirect",
+      "url": "https://maps.app.goo.gl/rrhZkMb6UFq5UtQ78",
+      "finalUrl": "https://maps.app.goo.gl/rrhZkMb6UFq5UtQ78",
+      "httpStatus": 200,
+      "fetchedAt": "2026-06-27T09:12:48.547Z"
+    },
+    "src_ab57b286a00d8beb01": {
+      "status": "no_coordinates",
+      "source": "redirect",
+      "url": "https://maps.app.goo.gl/HdY2Uf8hAtGfFBEQ8",
+      "finalUrl": "https://maps.app.goo.gl/HdY2Uf8hAtGfFBEQ8",
+      "httpStatus": 200,
+      "fetchedAt": "2026-06-27T09:12:48.723Z"
+    },
+    "src_dbe9ea20c311b8eb13": {
+      "status": "no_coordinates",
+      "source": "redirect",
+      "url": "https://maps.app.goo.gl/HG3jAMTCA9XkEukz9",
+      "finalUrl": "https://maps.app.goo.gl/HG3jAMTCA9XkEukz9",
+      "httpStatus": 200,
+      "fetchedAt": "2026-06-27T09:12:49.341Z"
+    },
+    "src_78c4105d6838809cec": {
+      "status": "no_coordinates",
+      "source": "redirect",
+      "url": "https://maps.app.goo.gl/kUd1RfMvZdTZwUQSA",
+      "finalUrl": "https://maps.app.goo.gl/kUd1RfMvZdTZwUQSA",
+      "httpStatus": 200,
+      "fetchedAt": "2026-06-27T09:12:49.522Z"
+    },
+    "src_4087f8a926dab58d05": {
+      "status": "no_coordinates",
+      "source": "redirect",
+      "url": "https://maps.app.goo.gl/ykRKXSViNU8vWwNz8",
+      "finalUrl": "https://maps.app.goo.gl/ykRKXSViNU8vWwNz8",
+      "httpStatus": 200,
+      "fetchedAt": "2026-06-27T09:12:50.133Z"
     }
   }
 }

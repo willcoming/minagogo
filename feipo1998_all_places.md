@@ -1,19 +1,31 @@
 # 肥波開吃啦 全頻道店家清單
 
 - 頻道：[肥波開吃啦](https://www.youtube.com/@feipo1998)
-- 抓取日期：2026-06-24
+- 抓取日期：2026-06-27
 - 整理流程：本輪重新抓取 YouTube 頻道影片清單；舊影片地點沿用既有抽取資料，新增影片解析 YouTube 描述欄/章節。
-- 本檔整理影片：742 部；本輪新增或補抓描述欄：534 部。
-- 店家/地點總筆數：1071 筆；原始 Google/Share 地圖連結 922 筆，搜尋補足 38 筆，Naver Map 111 筆。
+- 本檔整理影片：743 部；本輪新增或補抓描述欄：535 部。
+- 店家/地點總筆數：1075 筆；原始 Google/Share 地圖連結 926 筆，搜尋補足 38 筆，Naver Map 111 筆。
 - Google Maps 評分本輪未逐筆重查；既有評分保留，新增列標示未取得。
 - 無店家資料影片清單：見 [feipo1998_no_places.md](./feipo1998_no_places.md)。
 
-- 本輪新增/補抓影片 ID：WsKl9rJ4jk4, ru_kUPBFSjc, I1yYBu4l9C4, f_yMvgkRxdY, mz3BA43CU6Q, KdXNrKTFpeE, MRa9rdR7rCk, ge4LdWcmiic, GTg6t6e8PBU, QUsrRZ4yAvI, YqudFxMyrII, No-wLgTvI3I, f7qdQN5D13Q, ICSpzBanrrI, E2IOfripNIM, pDJ7-1zpobA, ExtjTGMYxcQ, rFs009_BNqk, ehHR6CP36hg, uYQkViS4PC8 ...
+- 本輪新增/補抓影片 ID：GhwhqQeUrdA, WsKl9rJ4jk4, ru_kUPBFSjc, I1yYBu4l9C4, f_yMvgkRxdY, mz3BA43CU6Q, KdXNrKTFpeE, MRa9rdR7rCk, ge4LdWcmiic, GTg6t6e8PBU, QUsrRZ4yAvI, YqudFxMyrII, No-wLgTvI3I, f7qdQN5D13Q, ICSpzBanrrI, E2IOfripNIM, pDJ7-1zpobA, ExtjTGMYxcQ, rFs009_BNqk, ehHR6CP36hg ...
 
-## 1. 2026 東京米其林，十家必比登推薦美食 ! 10 Bib Gourmand MICHELIN Restaurants in Tokyo
+## 1. 台北美食大安篇，24小時爽吃特輯四選！大安區一日美食地圖，激爽辣蘿蔔肉蛋土司、米其林認證大腸TACO、炭火燒烤肉料理專精、極度濃郁螃蟹沾麵 【 肥波外食記 】
+
+- 影片：[YouTube](https://www.youtube.com/watch?v=GhwhqQeUrdA)
+- 發布時間：20 小時前；觀看次數：1.1萬次
+
+| 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
+| --- | --- | --- | --- | --- | --- |
+| 扶旺號 | [Google Maps](https://maps.app.goo.gl/npTxMoFArn2djqyE7) | Google Maps 未取得 | 品嚐了 狠辣蛋肉鐵板土司$90+沙朗牛排鐵板炒飯$210+海派鮮蚵爹$80+甘梅薯條$40+木瓜奶昔$150，很想二刷指數為 5/5。 | [0:22](https://www.youtube.com/watch?v=GhwhqQeUrdA&t=22s) | 肥波開吃啦 |
+| Pang Taco | [Google Maps](https://maps.app.goo.gl/W1eMXhUQpM2iVZr79) | Google Maps 未取得 | 品嚐了 台式滷大腸$130+酥脆啤酒炸魚$130+墨西哥絞肉$110+碳烤皇宮菜$110+火烤牛胸排$140+炙香沙爹雞腿$120+牛頰起司餡餅$360，很想二刷指數為 5/5。 | [3:56](https://www.youtube.com/watch?v=GhwhqQeUrdA&t=236s) | 肥波開吃啦 |
+| 文火處方料理所 | [Google Maps](https://maps.app.goo.gl/bzbVGZzZ2aRKBxnG6) | Google Maps 未取得 | 品嚐了 直火烤羊頸$750+乾烙烏魚子節瓜$320+野菜鮮蚵烘蛋$480+白花椰菜奶酪$220，很想二刷指數為 5/5。 | [7:11](https://www.youtube.com/watch?v=GhwhqQeUrdA&t=431s) | 肥波開吃啦 |
+| 湮鯱 | [Google Maps](https://maps.app.goo.gl/Vwd1J33se41hCbLeA) | Google Maps 未取得 | 品嚐了 濃厚螃蟹沾麵$350+叉燒飯$60，很想二刷指數為 5/5。 | [10:39](https://www.youtube.com/watch?v=GhwhqQeUrdA&t=639s) | 肥波開吃啦 |
+
+## 2. 2026 東京米其林，十家必比登推薦美食 ! 10 Bib Gourmand MICHELIN Restaurants in Tokyo
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=XFOau6fyk6I)
-- 發布時間：7 天前；觀看次數：4.1萬次
+- 發布時間：10 天前；觀看次數：4.4萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -28,7 +40,7 @@
 | とんかつ 七井戸 | [Google Maps](https://maps.app.goo.gl/bLZeidC1VUfoQnHc9) | Google Maps 未取得 | 品嚐了 上等里肌豬排$3828+特製酥炸雞排$2948，很想二刷指數為 4/5。 | [19:53](https://www.youtube.com/watch?v=XFOau6fyk6I&t=1193s) | 肥波開吃啦 |
 | 串焼き 鳥茂 | [Google Maps](https://maps.app.goo.gl/eCf81EgUBYmq638Q8) | Google Maps 未取得 | 品嚐了 大將串燒套餐$8800，很想二刷指數為 5/5。 | [21:39](https://www.youtube.com/watch?v=XFOau6fyk6I&t=1299s) | 肥波開吃啦 |
 
-## 2. 東京美食神樂坂篇，24小時爽吃特輯四選！神樂坂一日美食地圖，純正法式可麗餅專門店、預約困難起司披薩，牛舌料理居酒屋，激爽和牛內臟燒肉  【 肥波外食記 】
+## 3. 東京美食神樂坂篇，24小時爽吃特輯四選！神樂坂一日美食地圖，純正法式可麗餅專門店、預約困難起司披薩，牛舌料理居酒屋，激爽和牛內臟燒肉  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=uG3Kcy5aNAI)
 - 發布時間：2 週前；觀看次數：2.1萬次
@@ -40,10 +52,10 @@
 | たん焼 忍 | [Google Maps](https://maps.app.goo.gl/MhEQCNS9A9aXzxuX9) | Google Maps 未取得 | 品嚐了 碳烤牛舌$1900+紅酒牛舌$2000+燉煮牛舌$1900，很想二刷指數為 4.5/5。 | [6:40](https://www.youtube.com/watch?v=uG3Kcy5aNAI&t=400s) | 肥波開吃啦 |
 | ホルモン焼き炭蔵 | [Google Maps](https://maps.app.goo.gl/oUvJEGLQGZ7GQrPa9) | Google Maps 未取得 | 品嚐了 厚切牛舌$2000+招牌牛尾$980+名物鹽烤肝$680+壽喜燒牛肋$1000，很想二刷指數為 6/5。 | [9:05](https://www.youtube.com/watch?v=uG3Kcy5aNAI&t=545s) | 肥波開吃啦 |
 
-## 3. 東京美食地圖，72小時爽吃特輯十選！三天兩夜東京爽吃指南，百名店炸豬排、激爽浮誇海鮮丼、香辣和牛擔擔麵、蜂蜜五起司披薩，72 hours FOOD tour in Tokyo !【 肥波外食記 】
+## 4. 東京美食地圖，72小時爽吃特輯十選！三天兩夜東京爽吃指南，百名店炸豬排、激爽浮誇海鮮丼、香辣和牛擔擔麵、蜂蜜五起司披薩，72 hours FOOD tour in Tokyo !【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=X-nIPhjpsvA)
-- 發布時間：3 週前；觀看次數：5.1萬次
+- 發布時間：4 週前；觀看次數：5.2萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -58,10 +70,10 @@
 | 戶越銀座商店街 | [Google Maps](https://maps.app.goo.gl/QrDwzAPRRiujf6Ub9) | Google Maps 未取得 | 很想二刷指數為 5/5。 | [22:26](https://www.youtube.com/watch?v=X-nIPhjpsvA&t=1346s) | 肥波開吃啦 |
 | La Bisboccia | [Google Maps](https://maps.app.goo.gl/7ueiE7bx2hgPdMd87) | Google Maps 未取得 | 品嚐了 煙燻卡帕喬$2600、炭燒和牛肋眼$7600、蕃茄鮮蝦義麵餃$2800，很想二刷指數為 5/5。 | [27:06](https://www.youtube.com/watch?v=X-nIPhjpsvA&t=1626s) | 肥波開吃啦 |
 
-## 4. 東京美食淺草篇，24小時爽吃特輯四選！淺草一日美食地圖，米其林推薦厚切炸豬排、東京鹽味拉麵代表、淺草超夯和牛燒肉、百名店認證海味居酒屋  【 肥波外食記 】
+## 5. 東京美食淺草篇，24小時爽吃特輯四選！淺草一日美食地圖，米其林推薦厚切炸豬排、東京鹽味拉麵代表、淺草超夯和牛燒肉、百名店認證海味居酒屋  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=9dvDl6CBd_o)
-- 發布時間：4 週前；觀看次數：4.9萬次
+- 發布時間：1 個月前；觀看次數：5萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -70,7 +82,7 @@
 | 本とさや | [Google Maps](https://maps.app.goo.gl/Sjz8LyYAFaHS8UGw9) | Google Maps 未取得 | 品嚐了 特上牛小排$3245、鹽味牛舌$3025、特上橫隔膜$3025，很想二刷指數為 6/5。 | [5:59](https://www.youtube.com/watch?v=9dvDl6CBd_o&t=359s) | 肥波開吃啦 |
 | ASA虎 | [Google Maps](https://maps.app.goo.gl/1xCvLUvY6q3PgYDf6) | Google Maps 未取得 | 品嚐了 磯煮章魚$1100、海味三拼捲$2200、酥炸竹莢魚$800、鯖魚紫蘇捲$500、鮪魚大腹$1500，很想二刷指數為 4/5。 | [9:01](https://www.youtube.com/watch?v=9dvDl6CBd_o&t=541s) | 肥波開吃啦 |
 
-## 5. 東京美食高圓寺篇，24小時爽吃特輯四選！高圓寺一日美食地圖，百名店認證香料咖哩、高圓寺排行榜一和牛燒肉、貝類專精居酒屋、東京豚骨拉麵新人王  【 肥波外食記 】
+## 6. 東京美食高圓寺篇，24小時爽吃特輯四選！高圓寺一日美食地圖，百名店認證香料咖哩、高圓寺排行榜一和牛燒肉、貝類專精居酒屋、東京豚骨拉麵新人王  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=LBVxF06O5SQ)
 - 發布時間：1 個月前；觀看次數：3.3萬次
@@ -82,7 +94,7 @@
 | 貝せん | [Google Maps](https://maps.app.goo.gl/dUVAzpsHb1ayVgft8) | Google Maps 未取得 | 品嚐了 特大炸牡蠣$590、五種烤貝盛$2980、三種刺身拼盤$1800、九州岩牡蠣$890，很想二刷指數為 5/5。 | [6:07](https://www.youtube.com/watch?v=LBVxF06O5SQ&t=367s) | 肥波開吃啦 |
 | 豚骨蒼翔 | [Google Maps](https://maps.app.goo.gl/EBpnaNNQfsPXbThp8) | Google Maps 未取得 | 品嚐了 叉燒餛飩拉麵$1700、蔥鹽叉燒丼$500，很想二刷指數為 4.5/5。 | [10:26](https://www.youtube.com/watch?v=LBVxF06O5SQ&t=626s) | 肥波開吃啦 |
 
-## 6. 亞洲最強披薩城市，東京拿坡里披薩指南六選！The Best Tokyo Pizza Guide!
+## 7. 亞洲最強披薩城市，東京拿坡里披薩指南六選！The Best Tokyo Pizza Guide!
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=slq1NVdLXmo)
 - 發布時間：1 個月前；觀看次數：2.9萬次
@@ -96,7 +108,7 @@
 | Pizzeria da Peppe Napoli Sta’ Ca” | [Google Maps](https://maps.app.goo.gl/g8crVQxKKa6aFJAK8) | Google Maps 未取得 | 影片描述：開心果火腿披薩$2800；很想二刷指數 4\5 | [8:58](https://www.youtube.com/watch?v=slq1NVdLXmo&t=538s) | 肥波開吃啦 |
 | Pizza Strada | [Google Maps](https://maps.app.goo.gl/s9owKFPfsu8y5mTq6) | Google Maps 未取得 | 影片描述：水牛瑪格$3080+Strada$2684；很想二刷指數 6\5 | [10:45](https://www.youtube.com/watch?v=slq1NVdLXmo&t=645s) | 肥波開吃啦 |
 
-## 7. 東京美食日本橋篇，24小時爽吃特輯四選！日本橋一日美食地圖，激爽和牛鐵板漢堡排、親民米其林豬排炸串店，巨量起司肋眼牛 cheese steak、直火碳烤肉食系餐酒館  【 肥波外食記 】
+## 8. 東京美食日本橋篇，24小時爽吃特輯四選！日本橋一日美食地圖，激爽和牛鐵板漢堡排、親民米其林豬排炸串店，巨量起司肋眼牛 cheese steak、直火碳烤肉食系餐酒館  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=bUyYrtSg9WU)
 - 發布時間：1 個月前；觀看次數：4.5萬次
@@ -108,10 +120,10 @@
 | Nihombashi Philly Tokyo | [Google Maps](https://maps.app.goo.gl/W9LyEz727djq98Mv8) | Google Maps 未取得 | 影片描述：起司牛排$2580；很想二刷指數 4\5 | [5:33](https://www.youtube.com/watch?v=bUyYrtSg9WU&t=333s) | 肥波開吃啦 |
 | 東京ブッチャーズ | [Google Maps](https://maps.app.goo.gl/ZXJMGBQ489wCeci6A) | Google Maps 未取得 | 影片描述：粉嫩烤羊腿$2500+碳烤豬里肌$1600+碳烤橫隔膜$1900；很想二刷指數 5\5 | [7:36](https://www.youtube.com/watch?v=bUyYrtSg9WU&t=456s) | 肥波開吃啦 |
 
-## 8. 東京美食新宿篇，24小時爽吃特輯四選！新宿一日美食地圖，綿密多汁鵝肝漢堡排、加州激爽雞蛋三明治、預約困難義式餐酒館、米其林認證內臟串燒  【 肥波外食記 】
+## 9. 東京美食新宿篇，24小時爽吃特輯四選！新宿一日美食地圖，綿密多汁鵝肝漢堡排、加州激爽雞蛋三明治、預約困難義式餐酒館、米其林認證內臟串燒  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=G5HKmU8-4BI)
-- 發布時間：1 個月前；觀看次數：3.3萬次
+- 發布時間：1 個月前；觀看次數：3.4萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -120,7 +132,7 @@
 | 新宿DRAセブン | [Google Maps](https://maps.app.goo.gl/jLLkpwX4PoJMMPbt9) | Google Maps 未取得 | 影片描述：紅酒醬山椒牛排$2288+草莓布拉塔$2288+起司櫻桃蝦$935；很想二刷指數 4.5\5 | [5:04](https://www.youtube.com/watch?v=G5HKmU8-4BI&t=304s) | 肥波開吃啦 |
 | 串焼き 鳥茂 | [Google Maps](https://maps.app.goo.gl/3KGDbpkNq5NFFo9j6) | Google Maps 未取得 | 影片描述：大將串燒套餐$8800；很想二刷指數 5\5 | [7:48](https://www.youtube.com/watch?v=G5HKmU8-4BI&t=468s) | 肥波開吃啦 |
 
-## 9. 東京美食惠比壽篇，24小時爽吃特輯四選！惠比壽一日美食地圖，紐約百年牛排館、預約困難拿坡里披薩、下酒神器燉肉豆腐、極度綿密松露歐姆蛋 【 肥波外食記 】
+## 10. 東京美食惠比壽篇，24小時爽吃特輯四選！惠比壽一日美食地圖，紐約百年牛排館、預約困難拿坡里披薩、下酒神器燉肉豆腐、極度綿密松露歐姆蛋 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=kIc8tJgimWA)
 - 發布時間：1 個月前；觀看次數：3.5萬次
@@ -132,7 +144,7 @@
 | 酒場 シナトラ 恵比寿店 | [Google Maps](https://maps.app.goo.gl/CXm223MDyY1DJjEq6) | Google Maps 未取得 | 影片描述：燉肉豆腐$1080+穴子玉子燒$1080+炭燒和牛$1980+螢烏賊薯泥$580；很想二刷指數 4.5\5 | [6:09](https://www.youtube.com/watch?v=kIc8tJgimWA&t=369s) | 肥波開吃啦 |
 | BISTRO TORICOYA | [Google Maps](https://maps.app.goo.gl/436kT5CU7fTHx23SA) | Google Maps 未取得 | 影片描述：松露歐姆蛋$2178+法式烤雞$1540；很想二刷指數 4\5 | [9:15](https://www.youtube.com/watch?v=kIc8tJgimWA&t=555s) | 肥波開吃啦 |
 
-## 10. 東京美食澀谷篇，24小時爽吃特輯四選！澀谷一日美食地圖，百年老店瑪格麗特、激爽TOKYO X炸豬排、澀谷tabelog評分榜一內臟燒肉、道玄阪超夯燒鳥專精  【 肥波外食記 】
+## 11. 東京美食澀谷篇，24小時爽吃特輯四選！澀谷一日美食地圖，百年老店瑪格麗特、激爽TOKYO X炸豬排、澀谷tabelog評分榜一內臟燒肉、道玄阪超夯燒鳥專精  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=yXMXYfmn0Co)
 - 發布時間：2 個月前；觀看次數：5.4萬次
@@ -144,7 +156,7 @@
 | ゆうじ | [Google Maps](https://maps.app.goo.gl/PdabcCxkGFhv4gor5) | Google Maps 未取得 | 影片描述：橫隔膜$1600+牛肝$900+上等牛五花$1600+牛心刺身$1200；很想二刷指數 3.5\5 | [5:29](https://www.youtube.com/watch?v=yXMXYfmn0Co&t=329s) | 肥波開吃啦 |
 | YAOYA TOKYO | [Google Maps](https://maps.app.goo.gl/Ebrmex8Df847m6cN9) | Google Maps 未取得 | 影片描述：起司青椒鑲肉$630+紫蘇雞頸肉$380+山葵里肌肉$380+醬燒雞肝$330+糖心鵪鶉蛋$330；很想二刷指數 4.5\5 | [8:29](https://www.youtube.com/watch?v=yXMXYfmn0Co&t=509s) | 肥波開吃啦 |
 
-## 11. 東京美食六本木篇，24小時爽吃特輯四選！六本木一日美食地圖，百名店認證厚切肋眼、在地超夯洋食老店、法式高湯醬油拉麵、激推煙燻莫札瑞拉披薩  【 肥波外食記 】
+## 12. 東京美食六本木篇，24小時爽吃特輯四選！六本木一日美食地圖，百名店認證厚切肋眼、在地超夯洋食老店、法式高湯醬油拉麵、激推煙燻莫札瑞拉披薩  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=CP6sUzigEhU)
 - 發布時間：2 個月前；觀看次數：5.8萬次
@@ -156,10 +168,10 @@
 | 入鹿 Tokyo | [Google Maps](https://maps.app.goo.gl/Q8cBNaxNJRPsH14U6) | Google Maps 未取得 | 影片描述：牛肝菌醬油拉麵$2200+松露生蛋飯$400；很想二刷指數 5\5 | [6:08](https://www.youtube.com/watch?v=CP6sUzigEhU&t=368s) | 肥波開吃啦 |
 | Pizza Strada | [Google Maps](https://maps.app.goo.gl/1rJbcLd5GuAKeuwF6) | Google Maps 未取得 | 影片描述：水牛瑪格$3080+Strada$2684；很想二刷指數 6\5 | [8:18](https://www.youtube.com/watch?v=CP6sUzigEhU&t=498s) | 肥波開吃啦 |
 
-## 12. 新店美食地圖，24小時爽吃特輯四選！新店一日美食地圖，在地超夯港點大王、激爽美式煙燻燒烤、米其林認證肉骨茶、鮮嫩多汁牛肉鍋 【 肥波外食記 】
+## 13. 新店美食地圖，24小時爽吃特輯四選！新店一日美食地圖，在地超夯港點大王、激爽美式煙燻燒烤、米其林認證肉骨茶、鮮嫩多汁牛肉鍋 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=_9gcbg5a6Tw)
-- 發布時間：2 個月前；觀看次數：7.8萬次
+- 發布時間：2 個月前；觀看次數：7.9萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -168,10 +180,10 @@
 | 肉骨潘 巴生肉骨茶專賣 | [Google Maps](https://maps.app.goo.gl/8xDfvcb4WULgX45i6) | Google Maps 未取得 | 影片描述：綜合乾燒肉骨茶$245；很想二刷指數 5\5；阿輝牛肉城 | [8:16](https://www.youtube.com/watch?v=_9gcbg5a6Tw&t=496s) | 肥波開吃啦 |
 | 阿輝牛肉城 | [Google Maps](https://maps.app.goo.gl/FXMSDyvJGfXXs8Ta8) | Google Maps 未取得 | 影片描述：牛肉鍋$630+半筋半肉$480；很想二刷指數 4\5 | [11:27](https://www.youtube.com/watch?v=_9gcbg5a6Tw&t=687s) | 肥波開吃啦 |
 
-## 13. 京都美食地圖，72小時爽吃特輯十選！三天兩夜京都爽吃指南，米其林推薦熟成和牛、CP值頂天立吞燒鳥、激爽厚切蔥鹽牛舌、京都榜一脆皮煎餃、百名店認證背脂拉麵 【 肥波外食記 】
+## 14. 京都美食地圖，72小時爽吃特輯十選！三天兩夜京都爽吃指南，米其林推薦熟成和牛、CP值頂天立吞燒鳥、激爽厚切蔥鹽牛舌、京都榜一脆皮煎餃、百名店認證背脂拉麵 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=2ZykAOTHM9c)
-- 發布時間：2 個月前；觀看次數：9萬次
+- 發布時間：2 個月前；觀看次數：9.1萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -186,10 +198,10 @@
 | 伖(かねぐら) | [Google Maps](https://maps.app.goo.gl/xf5dXKeiSGkjLXoH7) | Google Maps 未取得 | 影片描述：特上肉鍋¥3500+厚切牛舌¥2200+生拌和牛¥1750；很想二刷指數 4\5；京洛焼肉やぶ | [21:23](https://www.youtube.com/watch?v=2ZykAOTHM9c&t=1283s) | 肥波開吃啦 |
 | 京洛焼肉やぶ | [Google Maps](https://maps.app.goo.gl/r84jYgrB6t9sxoLs5) | Google Maps 未取得 | 影片描述：厚切蔥鹽牛舌¥2376+蒜味牛舌¥1188+和牛壽喜燒¥1595；很想二刷指數 5\5 | [24:01](https://www.youtube.com/watch?v=2ZykAOTHM9c&t=1441s) | 肥波開吃啦 |
 
-## 14. 京都米其林指南，八家必比登推薦美食！8 Bib Gourmand MICHELIN Restaurants in Kyoto  【 肥波外食記 】
+## 15. 京都米其林指南，八家必比登推薦美食！8 Bib Gourmand MICHELIN Restaurants in Kyoto  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Aq5FmVZZ6GU)
-- 發布時間：2 個月前；觀看次數：5.3萬次
+- 發布時間：3 個月前；觀看次數：5.3萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -202,7 +214,7 @@
 | すきやき いろは 北店 | [Google Maps](https://maps.app.goo.gl/rRXkFiGSgrqqnwrXA) | Google Maps 未取得 | 影片描述：壽喜燒套餐¥9000；很想二刷指數 5\5 | [15:03](https://www.youtube.com/watch?v=Aq5FmVZZ6GU&t=903s) | 肥波開吃啦 |
 | くちばしモダン | [Google Maps](https://maps.app.goo.gl/ZjEEemVKdQBvsQE97) | Google Maps 未取得 | 影片描述：燒鳥套餐¥6600+加點提燈¥400；很想二刷指數 3.5\5 | [16:56](https://www.youtube.com/watch?v=Aq5FmVZZ6GU&t=1016s) | 肥波開吃啦 |
 
-## 15. 大阪美食地圖，72小時爽吃特輯十選！三天兩夜大阪爽吃指南，百名店認證香料咖哩、大阪榜三炸豬排、厚切蒜味牛舌、肉汁炸裂漢堡排 72 hours FOOD tour in Osaka !【 肥波外食記 】
+## 16. 大阪美食地圖，72小時爽吃特輯十選！三天兩夜大阪爽吃指南，百名店認證香料咖哩、大阪榜三炸豬排、厚切蒜味牛舌、肉汁炸裂漢堡排 72 hours FOOD tour in Osaka !【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=9aARBMYZ9OI)
 - 發布時間：3 個月前；觀看次數：12萬次
@@ -220,10 +232,10 @@
 | ニク サングルマン | [Google Maps](https://maps.app.goo.gl/KK3oQrhywcYpKG476) | Google Maps 未取得 | 影片描述：Tabelog 3.56 西式料理 WEST "百名店" 2025；歐姆蛋漢堡排¥2080+厚切牛舌漢堡¥$2580；很想二刷指數 4.5\5；焼肉 ホルモン 万千 | [20:52](https://www.youtube.com/watch?v=9aARBMYZ9OI&t=1252s) | 肥波開吃啦 |
 | 焼肉 ホルモン 万千 | [Google Maps](https://maps.app.goo.gl/UzMLm3pSR4S7F3Ss5) | Google Maps 未取得 | 影片描述：Tabelog 3.71 日式燒肉 WEST "百名店" 2025；蔥鹽牛舌¥1760+鹽味牛五花¥1760+鹽味牛肋肉¥1870+醬燒橫隔膜¥1870；很想二刷指數 6\5 | [23:19](https://www.youtube.com/watch?v=9aARBMYZ9OI&t=1399s) | 肥波開吃啦 |
 
-## 16. 大阪米其林指南，八家必比登推薦美食！8 Bib Gourmand MICHELIN Restaurants in Osaka 【 肥波外食記 】
+## 17. 大阪米其林指南，八家必比登推薦美食！8 Bib Gourmand MICHELIN Restaurants in Osaka 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=hIFJwUQ5LSo)
-- 發布時間：3 個月前；觀看次數：6萬次
+- 發布時間：3 個月前；觀看次數：6.1萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -236,7 +248,7 @@
 | 食堂 燈 あかり | [Google Maps](https://maps.app.goo.gl/anVghaJ2roLtEDDUA) | Google Maps 未取得 | 影片描述：酥炸竹莢魚¥1700+牡蠣釜飯¥2950+穴子茄子¥2500+銀魚沙拉烤起司¥1400；很想二刷指數 4\5 | [14:30](https://www.youtube.com/watch?v=hIFJwUQ5LSo&t=870s) | 肥波開吃啦 |
 | Gastroteka Bimendi | [Google Maps](https://maps.app.goo.gl/7DsRhLRGdBEsPKYT9) | Google Maps 未取得 | 影片描述：帶骨鐵板羊¥3300+開胃菜拼盤¥2640+巴斯克起司蛋糕¥880；很想二刷指數 5\5 | [17:07](https://www.youtube.com/watch?v=hIFJwUQ5LSo&t=1027s) | 肥波開吃啦 |
 
-## 17. 台北美食六張犁篇，24小時爽吃特輯四選！六張犁一日美食地圖，激爽紅燒鴨血牛肉麵、口感頂天紐約式披薩、台北超夯千層酥、巷內質感餐酒館  【 肥波外食記 】
+## 18. 台北美食六張犁篇，24小時爽吃特輯四選！六張犁一日美食地圖，激爽紅燒鴨血牛肉麵、口感頂天紐約式披薩、台北超夯千層酥、巷內質感餐酒館  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=FrkcIKwPc0g)
 - 發布時間：3 個月前；觀看次數：4.8萬次
@@ -248,7 +260,7 @@
 | 午冬 5.TUNG | [Google Maps](https://maps.app.goo.gl/ry2AtLfBj2Fq2MFQA) | Google Maps 未取得 | 影片描述：負債千層蛋塔$220+海鹽焦糖藍姆香草千層酥$250+草莓蒙布朗巴斯克flan$260；很想二刷指數 4\5 | [6:39](https://www.youtube.com/watch?v=FrkcIKwPc0g&t=399s) | 肥波開吃啦 |
 | 從粮 being kind | [Google Maps](https://maps.app.goo.gl/o1FTBUPHWq9hsWpw5) | Google Maps 未取得 | 影片描述：栗子蟹肉奶油義大利麵$450+爐烤青花筍$420+脆皮鴨胸酒釀青蘋果醬$850；很想二刷指數 4\5 | [9:35](https://www.youtube.com/watch?v=FrkcIKwPc0g&t=575s) | 肥波開吃啦 |
 
-## 18. 台北美食公館篇，24小時爽吃特輯四選！公館一日美食地圖，泰味滿點媽媽麵、激推市場滑蛋牛、酥炸臭豆腐配鴨血、CP值頂天越南河粉  【 肥波外食記 】
+## 19. 台北美食公館篇，24小時爽吃特輯四選！公館一日美食地圖，泰味滿點媽媽麵、激推市場滑蛋牛、酥炸臭豆腐配鴨血、CP值頂天越南河粉  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=ucYo--RHJ08)
 - 發布時間：3 個月前；觀看次數：6.7萬次
@@ -260,7 +272,7 @@
 | 得記麻辣脆皮臭豆腐 | [Google Maps](https://maps.app.goo.gl/MGdiwPixB4m7dnUb8) | Google Maps 未取得 | 影片描述：脆皮臭豆腐$80+五更腸旺$150；很想二刷指數 5\5 | [5:01](https://www.youtube.com/watch?v=ucYo--RHJ08&t=301s) | 肥波開吃啦 |
 | 越南清化河粉 | [Google Maps](https://maps.app.goo.gl/JwzEPBAZ8LEWt2UN7) | Google Maps 未取得 | 影片描述：蕃茄牛肉河粉$170+蜜汁豬肉麵包$100；很想二刷指數 4.5\5 | [7:33](https://www.youtube.com/watch?v=ucYo--RHJ08&t=453s) | 肥波開吃啦 |
 
-## 19. 胡志明美食地圖，72小時爽吃特輯10選！米其林認證蟹肉冬粉、肝醬炸裂越南麵包、激爽蜂蜜起司披薩、超嫩慢燉羊肉火鍋  【 肥波外食記 】
+## 20. 胡志明美食地圖，72小時爽吃特輯10選！米其林認證蟹肉冬粉、肝醬炸裂越南麵包、激爽蜂蜜起司披薩、超嫩慢燉羊肉火鍋  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=h_7e4qtORpA)
 - 發布時間：4 個月前；觀看次數：5.4萬次
@@ -278,7 +290,7 @@
 | Taco Del Sol | [Google Maps](https://maps.app.goo.gl/N7wRf5D6TZ1nkmco6) | Google Maps 未取得 | 影片描述：BO KHO、POC CHUC、BAJA FISH、CARNE ASADA、SMOKED BEEF CHEEKS、BIRRIA$480000；很想二刷指數 4.5\5；老賴羊肉火鍋 | [16:17](https://www.youtube.com/watch?v=h_7e4qtORpA&t=977s) | 肥波開吃啦 |
 | 老賴羊肉火鍋 | [Google Maps](https://maps.app.goo.gl/MwVQ9R8jF1hRPn6r6) | Google Maps 未取得 | 影片描述：羊骨髓煎蛋$180000+羊肉火鍋$190000；很想二刷指數 5\5 | [18:24](https://www.youtube.com/watch?v=h_7e4qtORpA&t=1104s) | 肥波開吃啦 |
 
-## 20. 台北美食迪化街篇，24小時爽吃特輯四選！迪化街一日美食地圖，永樂市場生魚片大王、香酥飽滿老字號蚵嗲、米其林認證牛肉麵、大稻埕披薩代表  【 肥波外食記 】
+## 21. 台北美食迪化街篇，24小時爽吃特輯四選！迪化街一日美食地圖，永樂市場生魚片大王、香酥飽滿老字號蚵嗲、米其林認證牛肉麵、大稻埕披薩代表  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=BLP2GkcXWho)
 - 發布時間：4 個月前；觀看次數：7萬次
@@ -290,7 +302,7 @@
 | 披薩有張臉 | [Google Maps](https://maps.app.goo.gl/Ndpej8aFzCWkzFVr9) | Google Maps 未取得 | 影片描述：布魯克林$350+蘑菇醬烤花椰菜$270；很想二刷指數 5\5；江牛樓 | [5:14](https://www.youtube.com/watch?v=BLP2GkcXWho&t=314s) | 肥波開吃啦 |
 | 江牛樓 | [Google Maps](https://maps.app.goo.gl/MErYePgtrEEt7DaC7) | Google Maps 未取得 | 影片描述：紅燒牛肉麵$320+櫻桃鴨胸$150；很想二刷指數 5\5 | [7:47](https://www.youtube.com/watch?v=BLP2GkcXWho&t=467s) | 肥波開吃啦 |
 
-## 21. 峴港美食地圖，72小時爽吃特輯10選！峴港三天兩夜爽吃指南，激爽米紙豬肉捲、在地超夯海鮮餐廳、米其林認證牛排館、流心起司越南麵包 【 肥波外食記 】
+## 22. 峴港美食地圖，72小時爽吃特輯10選！峴港三天兩夜爽吃指南，激爽米紙豬肉捲、在地超夯海鮮餐廳、米其林認證牛排館、流心起司越南麵包 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=G--03VAFr3c)
 - 發布時間：4 個月前；觀看次數：5.1萬次
@@ -308,7 +320,7 @@
 | LUK LAK | [Google Maps](https://maps.app.goo.gl/Tq8dJt2Vu4fV9WR96) | Google Maps 未取得 | 影片描述：假蒟葉牛排$590000+烤肉米線拼盤$150000；很想二刷指數 4.5\5 | [19:37](https://www.youtube.com/watch?v=G--03VAFr3c&t=1177s) | 肥波開吃啦 |
 | Olivia's Prime Steakhouse | [Google Maps](https://maps.app.goo.gl/wzZwQ36YpdQWmZUY9) | Google Maps 未取得 | 影片描述：鵝肝漢堡$450000+黑毛和牛紐約客$1300000；很想二刷指數 5\5 | [22:27](https://www.youtube.com/watch?v=G--03VAFr3c&t=1347s) | 肥波開吃啦 |
 
-## 22. 台北美食大巨蛋篇，24小時爽吃特輯四選！大巨蛋一日美食地圖，500盤認證拿坡里披薩、激爽松露壓扁漢堡、東區超夯日系麵包、粉嫩多汁法式羊排 【 肥波外食記 】
+## 23. 台北美食大巨蛋篇，24小時爽吃特輯四選！大巨蛋一日美食地圖，500盤認證拿坡里披薩、激爽松露壓扁漢堡、東區超夯日系麵包、粉嫩多汁法式羊排 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Xbs6-F8dZYY)
 - 發布時間：4 個月前；觀看次數：5.1萬次
@@ -320,7 +332,7 @@
 | libreadry 巢屋 | [Google Maps](https://maps.app.goo.gl/4hUx43pTULjK3L4M6) | Google Maps 未取得 | 影片描述：義式蛋塔$80+明太子軟法$80+無花果生火腿$220+黑麥檸檬奶油$65+麝香葡萄生乳三明治$180+密巢法蘭西$95；很想二刷指數 5\5 | [5:57](https://www.youtube.com/watch?v=Xbs6-F8dZYY&t=357s) | 肥波開吃啦 |
 | 疆羊大道 | [Google Maps](https://maps.app.goo.gl/79HrtJDkiyzcPs1m7) | Google Maps 未取得 | 影片描述：法式羊排$1000+帶骨牛小排$350+蒜球$80；很想二刷指數 5\5 | [10:00](https://www.youtube.com/watch?v=Xbs6-F8dZYY&t=600s) | 肥波開吃啦 |
 
-## 23. 胡志明米其林指南，八家必比登推薦美食！8 Bib Gourmand MICHELIN Restaurants in Ho Chi Minh 【 肥波外食記 】
+## 24. 胡志明米其林指南，八家必比登推薦美食！8 Bib Gourmand MICHELIN Restaurants in Ho Chi Minh 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=553m43gN1Nk)
 - 發布時間：4 個月前；觀看次數：5.6萬次
@@ -336,10 +348,10 @@
 | Bếp Mẹ Ỉn | [Google Maps](https://maps.app.goo.gl/gTe8TwZN8kDEoj6B6) | Google Maps 未取得 | 影片描述：烤肉米線$259000+海鮮煎餅$269000；很想二刷指數 4.5\5 | [15:22](https://www.youtube.com/watch?v=553m43gN1Nk&t=922s) | 肥波開吃啦 |
 | Sol Kitchen & Bar | [Google Maps](https://maps.app.goo.gl/fWLQ3g1vuLi2BG8R8) | Google Maps 未取得 | 影片描述：碳烤和牛$900000+西班牙海鮮燉飯$480000；很想二刷指數 6\5 | [17:48](https://www.youtube.com/watch?v=553m43gN1Nk&t=1068s) | 肥波開吃啦 |
 
-## 24. 峴港米其林指南，八家必比登推薦美食！8 Bib Gourmand MICHELIN Restaurants in Da Nang 【 肥波外食記 】
+## 25. 峴港米其林指南，八家必比登推薦美食！8 Bib Gourmand MICHELIN Restaurants in Da Nang 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=NwVDdkeNeD4)
-- 發布時間：4 個月前；觀看次數：4.1萬次
+- 發布時間：5 個月前；觀看次數：4.2萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -352,7 +364,7 @@
 | Quán nhân - Cháo Vịt | [Google Maps](https://maps.app.goo.gl/RcXgZLbpTXdUfYdu6) | Google Maps 未取得 | 影片描述：鴨肉沙拉$60000+鴨肉粥$30000；很想二刷指數 5\5 | [14:52](https://www.youtube.com/watch?v=NwVDdkeNeD4&t=892s) | 肥波開吃啦 |
 | Bé Ni 2 | [Google Maps](https://maps.app.goo.gl/CzwzMXa4243fjzpG6) | Google Maps 未取得 | 影片描述：清蒸龍蝦$1657500+奶油虎蝦$375000；很想二刷指數 5\5 | [17:03](https://www.youtube.com/watch?v=NwVDdkeNeD4&t=1023s) | 肥波開吃啦 |
 
-## 25. 台北美食行天宮篇，24小時爽吃特輯四選！行天宮一日美食地圖，韓味滿滿馬鈴薯排骨湯、超夯爆炒石頭火鍋、米其林認證蔬菜羊肉爐、多汁鮮嫩鐵板串燒【 肥波外食記 】
+## 26. 台北美食行天宮篇，24小時爽吃特輯四選！行天宮一日美食地圖，韓味滿滿馬鈴薯排骨湯、超夯爆炒石頭火鍋、米其林認證蔬菜羊肉爐、多汁鮮嫩鐵板串燒【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=f_kpF2bTuOo)
 - 發布時間：5 個月前；觀看次數：7.1萬次
@@ -364,10 +376,10 @@
 | 林家蔬菜羊肉爐 | [Google Maps](https://maps.app.goo.gl/RLger4xz8A9WwjVs7) | Google Maps 未取得 | 影片描述：菜心羊肉爐$1000+溫體羊肉片$1000；很想二刷指數 4\5；年三十鐵板串燒居酒屋 松江店 | [5:48](https://www.youtube.com/watch?v=f_kpF2bTuOo&t=348s) | 肥波開吃啦 |
 | 年三十鐵板串燒居酒屋 松江店 | [Google Maps](https://maps.app.goo.gl/Z6LmyguNww5FKKNL6) | Google Maps 未取得 | 影片描述：蔥鹽牛舌$120+章魚山葵葉$100+安康魚肝吐司$100+牛肋條香菇$150+蟹味噌貝柱$100+香菜雞肉丸$80小倉吐司$60+牛舌炒飯$250；很想二刷指數 4.5\5 | [8:27](https://www.youtube.com/watch?v=f_kpF2bTuOo&t=507s) | 肥波開吃啦 |
 
-## 26. 釜山美食海雲台篇，24小時爽吃特輯四選！海雲台一日美食地圖，韓屋激爽熟成韓牛、炙燒松阪豬冷麵、滿滿蛤仔刀切麵、油脂炸裂烤牛腸  【 肥波外食記 】
+## 27. 釜山美食海雲台篇，24小時爽吃特輯四選！海雲台一日美食地圖，韓屋激爽熟成韓牛、炙燒松阪豬冷麵、滿滿蛤仔刀切麵、油脂炸裂烤牛腸  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=XV6Sc1kpQLk)
-- 發布時間：5 個月前；觀看次數：4.3萬次
+- 發布時間：5 個月前；觀看次數：4.4萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -376,7 +388,7 @@
 | 이가솜씨 | [Naver Map](https://naver.me/FRLNO8vX) | Google Maps 未取得 | 影片描述：海味刀切麵$16000+水芹海鮮煎餅$12000；很想二刷指數 4.5\5 | [5:47](https://www.youtube.com/watch?v=XV6Sc1kpQLk&t=347s) | 肥波開吃啦 |
 | 달인막창 해운대 본점 | [Naver Map](https://naver.me/GEXhAEvs) | Google Maps 未取得 | 影片描述：綜合鹽味牛腸$35000；很想二刷指數 4.5 | [8:07](https://www.youtube.com/watch?v=XV6Sc1kpQLk&t=487s) | 肥波開吃啦 |
 
-## 27. 高雄美食苓雅篇，24小時爽吃特輯四選！苓雅區一日美食地圖，激推潮州牛雜湯、肉量滿滿羅馬豬肉捲三明治、巨型酥脆炸魚塔可、米其林認證台菜小館。【 肥波外食記 】
+## 28. 高雄美食苓雅篇，24小時爽吃特輯四選！苓雅區一日美食地圖，激推潮州牛雜湯、肉量滿滿羅馬豬肉捲三明治、巨型酥脆炸魚塔可、米其林認證台菜小館。【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=VIwNRq1GkYM)
 - 發布時間：5 個月前；觀看次數：6.8萬次
@@ -388,7 +400,7 @@
 | 米卡希達 Mi Casita 墨西哥餐廳 | [Google Maps](https://maps.app.goo.gl/h5h5HEexAFGXyX638) | Google Maps 未取得 | 影片描述：橙汁慢燉豬$330+炸魚脆塔可$280+燉牛肉塔可$390+墨西哥布丁$130；很想二刷指數 5\5 | [5:48](https://www.youtube.com/watch?v=VIwNRq1GkYM&t=348s) | 肥波開吃啦 |
 | 三餐暖食 | [Google Maps](https://maps.app.goo.gl/xLsvGqNTJULFw4WM9) | Google Maps 未取得 | 影片描述：滑蛋蝦仁$318+腰果宮保雞丁$318；很想二刷指數 4.5\5 | [8:44](https://www.youtube.com/watch?v=VIwNRq1GkYM&t=524s) | 肥波開吃啦 |
 
-## 28. 2025 臺北在地小吃指南，500碗推薦美食八選！口感超優福州乾麵、激推夜市脆皮蚵仔煎、排到歪頭刀削麵、極度罪惡壓扁漢堡、台味滿點居酒屋 【 肥波外食記 】
+## 29. 2025 臺北在地小吃指南，500碗推薦美食八選！口感超優福州乾麵、激推夜市脆皮蚵仔煎、排到歪頭刀削麵、極度罪惡壓扁漢堡、台味滿點居酒屋 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=s6aIlkWNGzo)
 - 發布時間：5 個月前；觀看次數：12萬次
@@ -404,7 +416,7 @@
 | 黃金麵線 | [Google Maps](https://maps.app.goo.gl/jLLEBjqb6nHNW3d47) | Google Maps 未取得 | 影片描述：綜合麵線$80；很想二刷指數 5/5 | [16:00](https://www.youtube.com/watch?v=s6aIlkWNGzo&t=960s) | 肥波開吃啦 |
 | 饞食坊 | [Google Maps](https://maps.app.goo.gl/UJbaePKXnKX4A7AEA) | Google Maps 未取得 | 影片描述：大仔皮蛋豆腐$180+桔醬豬五花$170+橄欖油嫩煎小卷$300+腐乳鹹酥雞$235；很想二刷指數 4\5 | [18:59](https://www.youtube.com/watch?v=s6aIlkWNGzo&t=1139s) | 肥波開吃啦 |
 
-## 29. 高雄美食鼓山篇，24小時爽吃特輯四選！鼓山一日美食地圖，純正港味冰室、近期超夯紐約式貝果、激推壓扁漢堡專門店、宵夜美味豬油拌麵 【 肥波外食記 】
+## 30. 高雄美食鼓山篇，24小時爽吃特輯四選！鼓山一日美食地圖，純正港味冰室、近期超夯紐約式貝果、激推壓扁漢堡專門店、宵夜美味豬油拌麵 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=KDZwQv6Wbg8)
 - 發布時間：6 個月前；觀看次數：4萬次
@@ -416,7 +428,7 @@
 | HONBO、HONBO、HONBO Burger shop | [Google Maps](https://maps.app.goo.gl/nDqEEPquEVaiHzpNA) | Google Maps 未取得 | 影片描述：壓碎肉排$280+披薩炸雞三明治$320+脆培根$60；很想二刷指數 6\5；阿妙麵店 | [5:46](https://www.youtube.com/watch?v=KDZwQv6Wbg8&t=346s) | 肥波開吃啦 |
 | 阿妙麵店 | [Google Maps](https://maps.app.goo.gl/6X9YxpHdRxt8g5L89) | Google Maps 未取得 | 影片描述：招牌乾麵$50+餛飩湯$30+豆乾大腸$70；很想二刷指數 4.5\5 | [8:48](https://www.youtube.com/watch?v=KDZwQv6Wbg8&t=528s) | 肥波開吃啦 |
 
-## 30. 2025高雄必比登，最想二刷的六家店！6 Bib Gourmand MICHELIN Restaurants in Kaohsiung【 肥波外食記 】
+## 31. 2025高雄必比登，最想二刷的六家店！6 Bib Gourmand MICHELIN Restaurants in Kaohsiung【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=UWN5tCdsh-o)
 - 發布時間：6 個月前；觀看次數：14萬次
@@ -430,7 +442,7 @@
 | 春蘭割包 | [Google Maps](https://maps.app.goo.gl/6CykSPVzdf8MPVCr8) | Google Maps 未取得 | 影片描述：綜合刈包$80+爌肉刈包$80；很想二刷指數 5\5；湖東牛肉館 | [13:11](https://www.youtube.com/watch?v=UWN5tCdsh-o&t=791s) | 肥波開吃啦 |
 | 湖東牛肉館 | [Google Maps](https://maps.app.goo.gl/ZvnzhxQ6XwneKa9T7) | Google Maps 未取得 | 影片描述：新鮮牛肉$550+新鮮牛尾$250+新鮮牛頰$300；很想二刷指數 5\5 | [16:06](https://www.youtube.com/watch?v=UWN5tCdsh-o&t=966s) | 肥波開吃啦 |
 
-## 31. 首爾美食地圖，最想二刷的10家店！TOP 10 Must-Try FOOD in Seoul 【 肥波外食記 】
+## 32. 首爾美食地圖，最想二刷的10家店！TOP 10 Must-Try FOOD in Seoul 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=0ycWDjHeFwU)
 - 發布時間：6 個月前；觀看次數：10萬次
@@ -448,7 +460,7 @@
 | 風川鰻魚 | [Naver Map](https://naver.me/5AmfnBTN) | Google Maps 未取得 | 影片描述：白燒鰻魚套餐78000₩；很想二刷指數 5/5 | [22:29](https://www.youtube.com/watch?v=0ycWDjHeFwU&t=1349s) | 肥波開吃啦 |
 | 아소토 Aalto | [Naver Map](https://naver.me/GyYbPxng) | Google Maps 未取得 | 影片描述：青甘韭菜捲$17000 起司酪梨生魚丁$18000 鹽烤雞頸肉$17000；很想二刷指數 6\5 | [24:59](https://www.youtube.com/watch?v=0ycWDjHeFwU&t=1499s) | 肥波開吃啦 |
 
-## 32. 2025新竹米其林，10家必比登推薦美食！10 Bib Gourmand MICHELIN Restaurants in Hsinchu【 肥波外食記 】
+## 33. 2025新竹米其林，10家必比登推薦美食！10 Bib Gourmand MICHELIN Restaurants in Hsinchu【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=aZuh1CeVvc4)
 - 發布時間：6 個月前；觀看次數：10萬次
@@ -466,10 +478,10 @@
 | 善菓堂 SHAN GUO TANG | [Google Maps](https://maps.app.goo.gl/UpNiiMq2tPogjgbD6) | Google Maps 未取得 | 影片描述：月見芙蓉$360 宮保猴菇$320 牛蒡飯$40；很想二刷指數 5\5 | [23:18](https://www.youtube.com/watch?v=aZuh1CeVvc4&t=1398s) | 肥波開吃啦 |
 | 晌午粄食 | [Google Maps](https://maps.app.goo.gl/Ntzu8KeULx1VuzMq5) | Google Maps 未取得 | 影片描述：綜合套餐$200 甜水粄$40；很想二刷指數 4\5 | [25:45](https://www.youtube.com/watch?v=aZuh1CeVvc4&t=1545s) | 肥波開吃啦 |
 
-## 33. 台北美食通化街篇，24小時爽吃特輯四選！通化商圈一日美食地圖，香酥鬆軟激爽可頌、皮酥肉嫩鴨箱飯、肉量炸裂燉肉塔可、通化宵夜牛肉麵大王  【 肥波外食記 】
+## 34. 台北美食通化街篇，24小時爽吃特輯四選！通化商圈一日美食地圖，香酥鬆軟激爽可頌、皮酥肉嫩鴨箱飯、肉量炸裂燉肉塔可、通化宵夜牛肉麵大王  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=NZ5wRZWhM50)
-- 發布時間：6 個月前；觀看次數：6.8萬次
+- 發布時間：7 個月前；觀看次數：6.8萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -478,7 +490,7 @@
 | Nacho Mama Taco | [Google Maps](https://maps.app.goo.gl/3717vESaMMQnLnSN9) | Google Maps 未取得 | 影片描述：墨西哥燉牛肉$120 墨西哥香煎牛排$140 秘製果香油封豬$110 主廚香料雞$100 主廚醬汁炸蝦$140 Horchata$100；很想二刷指數 4\5；18冠軍牛肉麵 | [5:30](https://www.youtube.com/watch?v=NZ5wRZWhM50&t=330s) | 肥波開吃啦 |
 | 冠軍牛肉麵 | [Google Maps](https://maps.app.goo.gl/xwTNr6MVhjw5uZXm6) | Google Maps 未取得 | 影片描述：紅燒冠軍牛肉麵$318 百菇雞湯麵$208；很想二刷指數 5\5 | [8:59](https://www.youtube.com/watch?v=NZ5wRZWhM50&t=539s) | 肥波開吃啦 |
 
-## 34. 首爾美食梨泰院篇，24小時爽吃特輯四選！梨泰院一日美食地圖，首爾美式煙燻燒烤一級戰區、紐約式瑪格麗特披薩、舒肥松阪豬肉火鍋、稻燒帶骨牛小排【 肥波外食記 】
+## 35. 首爾美食梨泰院篇，24小時爽吃特輯四選！梨泰院一日美食地圖，首爾美式煙燻燒烤一級戰區、紐約式瑪格麗特披薩、舒肥松阪豬肉火鍋、稻燒帶骨牛小排【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=_gM6WmUKXZA)
 - 發布時間：7 個月前；觀看次數：1.5萬次
@@ -490,7 +502,7 @@
 | Gino’s Pizza 지노스 뉴욕 피자 이태원점 | [Naver Map](https://naver.me/GQ1lszYc) | Google Maps 未取得 | 影片描述：半半披薩$28000；很想二刷指數 4\5 | [4:43](https://www.youtube.com/watch?v=_gM6WmUKXZA&t=283s) | 肥波開吃啦 |
 | 정든집 | [Naver Map](https://naver.me/I55a1Kqm) | Google Maps 未取得 | 影片描述：稻燒牛小排$77000；很想二刷指數 4\5 | [7:06](https://www.youtube.com/watch?v=_gM6WmUKXZA&t=426s) | 肥波開吃啦 |
 
-## 35. 釜山美食廣安里篇，24小時爽吃特輯四選！廣安里一日美食地圖，釜山三大豬肉湯飯、二刷激爽粉嫩豬排、薄脆好嚼紐約式披薩、韓味碳烤豬肋排  【 肥波外食記 】
+## 36. 釜山美食廣安里篇，24小時爽吃特輯四選！廣安里一日美食地圖，釜山三大豬肉湯飯、二刷激爽粉嫩豬排、薄脆好嚼紐約式披薩、韓味碳烤豬肋排  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=T2g3k32VXlE)
 - 發布時間：7 個月前；觀看次數：2.6萬次
@@ -502,7 +514,7 @@
 | 솔탭하우스 | [Naver Map](https://naver.me/FhULGTbJ) | Google Maps 未取得 | 影片描述：義式臘腸$6900 蒜味白醬$7200 瑪格麗特$7200；很想二刷指數 6\5 | [5:03](https://www.youtube.com/watch?v=T2g3k32VXlE&t=303s) | 肥波開吃啦 |
 | 오쪽이락 광안본점 | [Naver Map](https://naver.me/54LbRkF5) | Google Maps 未取得 | 影片描述：半半豬肋$31000 加點起司$4000；很想二刷指數 5\5 | [7:59](https://www.youtube.com/watch?v=T2g3k32VXlE&t=479s) | 肥波開吃啦 |
 
-## 36. 探索廚房強勢回歸，全新菜色爽吃開箱！五星飯店吃到飽，海膽手捲任你吃、巨型奶油香煎干貝、口感超優義式披薩、生食級干貝自由  【 肥波外食記 】
+## 37. 探索廚房強勢回歸，全新菜色爽吃開箱！五星飯店吃到飽，海膽手捲任你吃、巨型奶油香煎干貝、口感超優義式披薩、生食級干貝自由  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=HRq6EQ70k8U)
 - 發布時間：7 個月前；觀看次數：4.8萬次
@@ -511,7 +523,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 探索廚房 | [Google Maps](https://maps.app.goo.gl/ESHv4ZiyR6HWftRPA) | Google Maps 未取得 | 影片描述：週五晚餐 18:00~21:00；$2580+10%；很想二刷指數 4\5 | [YouTube](https://www.youtube.com/watch?v=HRq6EQ70k8U) | 肥波開吃啦 |
 
-## 37. 台中美食北區篇，24小時爽吃特輯四選！北區一日美食地圖，激爽海味居酒屋、鮮味滿滿絲瓜湯包、旋轉炒鍋麻油雞、巷內寶藏櫻桃鴨【 肥波外食記 】
+## 38. 台中美食北區篇，24小時爽吃特輯四選！北區一日美食地圖，激爽海味居酒屋、鮮味滿滿絲瓜湯包、旋轉炒鍋麻油雞、巷內寶藏櫻桃鴨【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=gUl30FELoak)
 - 發布時間：7 個月前；觀看次數：5.1萬次
@@ -523,7 +535,7 @@
 | 阿源麻油雞 | [Google Maps](https://maps.app.goo.gl/z8aopkY3QJUbKMWi7) | Google Maps 未取得 | 影片描述：麻油雞加青菜$190 醬油炒蛋$60 雞油拌飯$20 荷包蛋$20 蒜頭蝦$150；很想二刷指數 5\5 | [8:30](https://www.youtube.com/watch?v=gUl30FELoak&t=510s) | 肥波開吃啦 |
 | 鳳久 Fengjiu | [Google Maps](https://maps.app.goo.gl/yHdvEFFmUxhpWNQf9) | Google Maps 未取得 | 影片描述：阿成南瓜湯$105 櫻桃鴨胸$560 午仔魚$460；很想二刷指數 5\5 | [11:51](https://www.youtube.com/watch?v=gUl30FELoak&t=711s) | 肥波開吃啦 |
 
-## 38. 釜山美食地圖，藍絲帶爽吃指南八選！韓國本土版米其林，濃郁膠質清蒸牛尾、釜山最爽粉嫩豬菲力、激爽口感韓牛火鍋、排到歪頭蜂巢豬皮  【 肥波外食記 】
+## 39. 釜山美食地圖，藍絲帶爽吃指南八選！韓國本土版米其林，濃郁膠質清蒸牛尾、釜山最爽粉嫩豬菲力、激爽口感韓牛火鍋、排到歪頭蜂巢豬皮  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=KXPfojMzoQ4)
 - 發布時間：7 個月前；觀看次數：3.9萬次
@@ -539,7 +551,7 @@
 | 상황삼계탕 본점 | [Naver Map](https://naver.me/GbDFnmmH) | Google Maps 未取得 | 影片描述：鮑魚蔘雞湯$28000；很想二刷指數 4.5\5；非常適合冬天享用，湯頭進補感很足 | [14:29](https://www.youtube.com/watch?v=KXPfojMzoQ4&t=869s) | 肥波開吃啦 |
 | 초필살돼지구이 광안직영점 | [Naver Map](https://naver.me/FG7xgeXd) | Google Maps 未取得 | 影片描述：蜂巢豬皮$19000 熟成五花$24000；很想二刷指數 4\5；豬皮口感很優五花普普，但排四個小時有點硬，建議開店前提早30分鐘去 | [16:33](https://www.youtube.com/watch?v=KXPfojMzoQ4&t=993s) | 肥波開吃啦 |
 
-## 40. 首爾美食江南篇，24小時爽吃特輯四選！江南一日美食地圖，藍絲帶認證韓牛燒肉、韓味魚蛋火鍋初體驗、肉量滿滿燻牛肉三明治、水水嫩嫩水芹烤豬  【 肥波外食記 】
+## 41. 首爾美食江南篇，24小時爽吃特輯四選！江南一日美食地圖，藍絲帶認證韓牛燒肉、韓味魚蛋火鍋初體驗、肉量滿滿燻牛肉三明治、水水嫩嫩水芹烤豬  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=WsmVvszi5Nk)
 - 發布時間：7 個月前；觀看次數：2.7萬次
@@ -551,10 +563,10 @@
 | 데일리픽스 강남본점 | [Naver Map](https://naver.me/xUw1Ee8r) | Google Maps 未取得 | 影片描述：燻牛肉三明治$15900；很想二刷指數 3.5\5 | [5:32](https://www.youtube.com/watch?v=WsmVvszi5Nk&t=332s) | 肥波開吃啦 |
 | 목구멍 신논현점 | [Naver Map](https://naver.me/GZZubWkd) | Google Maps 未取得 | 影片描述：五花肉$14000 豬頸肉$14000 牛肋排$22000 水芹菜$5500；很想二刷指數 5\5 | [7:27](https://www.youtube.com/watch?v=WsmVvszi5Nk&t=447s) | 肥波開吃啦 |
 
-## 41. 首爾美食弘大篇，藍絲帶爽吃指南六選！ 韓國本土版米其林，激推海味居酒屋、水水嫩嫩白切肉、濃郁蒜味韓式豬腳、肉食系起司TACO 【 肥波外食記 】
+## 42. 首爾美食弘大篇，藍絲帶爽吃指南六選！ 韓國本土版米其林，激推海味居酒屋、水水嫩嫩白切肉、濃郁蒜味韓式豬腳、肉食系起司TACO 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=vb1E8NXK02k)
-- 發布時間：7 個月前；觀看次數：3.3萬次
+- 發布時間：8 個月前；觀看次數：3.3萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -565,10 +577,10 @@
 | 신미경홍대닭갈비 | [Naver Map](https://naver.me/Gubw0jFk) | Google Maps 未取得 | 影片描述：起司辣炒雞$32000；很想二刷指數 3.5\5 | [10:02](https://www.youtube.com/watch?v=vb1E8NXK02k&t=602s) | 肥波開吃啦 |
 | 아소토 | [Naver Map](https://naver.me/GyYbPxng) | Google Maps 未取得 | 影片描述：青甘韭菜捲$17000 起司酪梨生魚丁$18000 鹽烤雞頸肉$17000；很想二刷指數 6\5 | [12:10](https://www.youtube.com/watch?v=vb1E8NXK02k&t=730s) | 肥波開吃啦 |
 
-## 42. 釜山美食西面篇，24小時爽吃特輯四選！西面站一日美食地圖，水芹松阪豬肉捲、韓系海味生鮭魚麵、蜜汁牛尾初體驗、激推烤雞料理專精  【 肥波外食記 】
+## 43. 釜山美食西面篇，24小時爽吃特輯四選！西面站一日美食地圖，水芹松阪豬肉捲、韓系海味生鮭魚麵、蜜汁牛尾初體驗、激推烤雞料理專精  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=aZyad-kMOag)
-- 發布時間：8 個月前；觀看次數：3.9萬次
+- 發布時間：8 個月前；觀看次數：4萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -577,7 +589,7 @@
 | 소장각 서면본점 | [Naver Map](https://naver.me/xhzCZ6PN) | Google Maps 未取得 | 影片描述：元祖烤牛尾$25800 蜜汁牛肋條$19800；很想二刷指數 4.5\5 | [4:58](https://www.youtube.com/watch?v=aZyad-kMOag&t=298s) | 肥波開吃啦 |
 | 이세계 | [Naver Map](https://naver.me/xnh0ug8T) | Google Maps 未取得 | 影片描述：招牌綜合拼盤$33000 烤飯糰$3500；很想二刷指數 6\5 | [7:22](https://www.youtube.com/watch?v=aZyad-kMOag&t=442s) | 肥波開吃啦 |
 
-## 43. 首爾爽吃指南，八家藍絲帶推薦美食！韓國在地版米其林，極度厚切激爽牛舌、在地超夯海味居酒屋、藍絲帶認證煙燻燒烤、肥美油潤韓牛烤腸【 肥波外食記 】
+## 44. 首爾爽吃指南，八家藍絲帶推薦美食！韓國在地版米其林，極度厚切激爽牛舌、在地超夯海味居酒屋、藍絲帶認證煙燻燒烤、肥美油潤韓牛烤腸【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=CTwIIyPS-UY)
 - 發布時間：8 個月前；觀看次數：3.8萬次
@@ -593,7 +605,7 @@
 | 초원 | [Naver Map](https://naver.me/5CW7z1aV) | Google Maps 未取得 | 影片描述：韓牛霜降$48000 特級牛舌$36000；很想二刷指數 5\5 | [14:53](https://www.youtube.com/watch?v=CTwIIyPS-UY&t=893s) | 肥波開吃啦 |
 | 남영탉 Namyeong Chicken (已歇業) | [Google Maps](https://maps.app.goo.gl/FjRe9gPEYha8tcmQ6) | Google Maps 未取得 | 影片描述：起司玉米雞$26000；很想二刷指數 5\5 | [17:40](https://www.youtube.com/watch?v=CTwIIyPS-UY&t=1060s) | 肥波開吃啦 |
 
-## 44. 釜山美食南浦洞篇，24小時爽吃特輯四選！南浦洞一日美食地圖，麝香葡萄沙拉開局、南浦必逛罐頭市場爽吃攻略、香濃鍋氣炸醬麵、釜山最夯李在模披薩  【 肥波外食記 】
+## 45. 釜山美食南浦洞篇，24小時爽吃特輯四選！南浦洞一日美食地圖，麝香葡萄沙拉開局、南浦必逛罐頭市場爽吃攻略、香濃鍋氣炸醬麵、釜山最夯李在模披薩  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=_HzywpYkFy4)
 - 發布時間：8 個月前；觀看次數：4.5萬次
@@ -609,10 +621,10 @@
 | 홍유단 남포본점 紅油短 | [Naver Map](https://naver.me/5ssTlOWt) | Google Maps 未取得 | 影片描述：三鮮乾炸醬麵$10000 酥炸麵包蝦$16000；很想二刷指數 5\5；이재모피자 본점 李在模披薩 | [6:29](https://www.youtube.com/watch?v=_HzywpYkFy4&t=389s) | 肥波開吃啦 |
 | 이재모피자 본점 李在模披薩 | [Naver Map](https://naver.me/GzE9tcdA) | Google Maps 未取得 | 影片描述：李在模crust $25000；很想二刷指數 5\5 | [9:33](https://www.youtube.com/watch?v=_HzywpYkFy4&t=573s) | 肥波開吃啦 |
 
-## 45. 首爾美食聖水洞篇，24小時爽吃特輯四選！聖水一日美食地圖，激推水芹菜牛肉拌飯、口感超頂拿坡里披薩、米其林認證熟成烤豬、極度多汁碳烤貝類  【 肥波外食記 】
+## 46. 首爾美食聖水洞篇，24小時爽吃特輯四選！聖水一日美食地圖，激推水芹菜牛肉拌飯、口感超頂拿坡里披薩、米其林認證熟成烤豬、極度多汁碳烤貝類  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Pc-sHXzAOcY)
-- 發布時間：8 個月前；觀看次數：3.9萬次
+- 發布時間：8 個月前；觀看次數：4萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -621,10 +633,10 @@
 | 꿉당 성수점 | [Naver Map](https://naver.me/FZ275oxv) | Google Maps 未取得 | 影片描述：熟成梅花$19000 熟成五花19000 熟成豬頰$20000；很想二刷指數 5\5 | [5:25](https://www.youtube.com/watch?v=Pc-sHXzAOcY&t=325s) | 肥波開吃啦 |
 | 조개도 | [Naver Map](https://naver.me/5EUZEMOV) | Google Maps 未取得 | 影片描述：石頭烤貝雙人份$59000；很想二刷指數 4.5\5 | [8:23](https://www.youtube.com/watch?v=Pc-sHXzAOcY&t=503s) | 肥波開吃啦 |
 
-## 46. 首爾美食汝矣島篇，24小時爽吃特輯四選！首爾上班族美食戰區，在地超夯鐵板LA排骨、正宗韓味部隊鍋、細嫩口感清蒸羊肉、漢江公園野餐生魚片  【 肥波外食記 】
+## 47. 首爾美食汝矣島篇，24小時爽吃特輯四選！首爾上班族美食戰區，在地超夯鐵板LA排骨、正宗韓味部隊鍋、細嫩口感清蒸羊肉、漢江公園野餐生魚片  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=e9UmOc89z0A)
-- 發布時間：8 個月前；觀看次數：2.6萬次
+- 發布時間：9 個月前；觀看次數：2.6萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -633,7 +645,7 @@
 | 향촌흑염소 국회의사당직영점 | [Naver Map](https://naver.me/G4WbvtPE) | Google Maps 未取得 | 影片描述：清蒸羊排套餐$78000；很想二刷指數 4.5\5 | [5:11](https://www.youtube.com/watch?v=e9UmOc89z0A&t=311s) | 肥波開吃啦 |
 | 노량진수산시장 독도수산 | [Naver Map](https://naver.me/IDFUUyCX) | Google Maps 未取得 | 影片描述：美食家3.0拼盤$60000；很想二刷指數 4.5\5 | [7:49](https://www.youtube.com/watch?v=e9UmOc89z0A&t=469s) | 肥波開吃啦 |
 
-## 47. 台北美食中山篇，24小時爽吃特輯四選！中山區一日美食地圖，激爽港式牛腩麵、療癒甜點咖啡廳、細嫩口感溫體羊肉、巨型煙燻牛肋排 【 肥波外食記 】
+## 48. 台北美食中山篇，24小時爽吃特輯四選！中山區一日美食地圖，激爽港式牛腩麵、療癒甜點咖啡廳、細嫩口感溫體羊肉、巨型煙燻牛肋排 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=L3do_Mp5VUY)
 - 發布時間：9 個月前；觀看次數：8.5萬次
@@ -645,7 +657,7 @@
 | 阿財蔬菜羊肉爐 | [Google Maps](https://maps.app.goo.gl/G9Ef3PMSvvFJhres7) | Google Maps 未取得 | 影片描述：竹筍羊肉爐$1000 燙生羊肉片$1000；很想二刷指數 5\5；ED's Diner美式BBQ燒烤餐館 Est. 2011 | [6:47](https://www.youtube.com/watch?v=L3do_Mp5VUY&t=407s) | 肥波開吃啦 |
 | ED's Diner美式BBQ燒烤餐館 Est. 2011 | [Google Maps](https://maps.app.goo.gl/iB48TE7Qd4TcAoYk9) | Google Maps 未取得 | 影片描述：煙燻厚切牛肋排$1388；很想二刷指數 4.5\5 | [10:27](https://www.youtube.com/watch?v=L3do_Mp5VUY&t=627s) | 肥波開吃啦 |
 
-## 48. 首爾美食明洞篇，24小時爽吃特輯四選！明洞一日美食地圖，在地超夯刀切炸醬麵、粉粉嫩嫩炸豬菲力、藍絲帶認證提拉米蘇、藥草醃製醬油螃蟹 【 肥波外食記 】
+## 49. 首爾美食明洞篇，24小時爽吃特輯四選！明洞一日美食地圖，在地超夯刀切炸醬麵、粉粉嫩嫩炸豬菲力、藍絲帶認證提拉米蘇、藥草醃製醬油螃蟹 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=oMqKi64IV-E)
 - 發布時間：9 個月前；觀看次數：5.5萬次
@@ -657,7 +669,7 @@
 | The Spot Fabulous | [Naver Map](https://naver.me/xucpDp5E) | Google Maps 未取得 | 影片描述：杜拜巧克力餅乾$5500 無花果提拉米蘇$9000 濟州抹茶巴斯克$8500；很想二刷指數 5\5；鹹草醬蟹 | [4:47](https://www.youtube.com/watch?v=oMqKi64IV-E&t=287s) | 肥波開吃啦 |
 | 鹹草醬蟹 | [Naver Map](https://naver.me/5EUZpa7l) | Google Maps 未取得 | 影片描述：醬油螃蟹套餐$88000；很想二刷指數 5\5 | [7:27](https://www.youtube.com/watch?v=oMqKi64IV-E&t=447s) | 肥波開吃啦 |
 
-## 49. 2025新北米其林，10家必比登推薦美食！10 Bib Gourmand MICHELIN Restaurants in New Taipei City 【 肥波外食記 】
+## 50. 2025新北米其林，10家必比登推薦美食！10 Bib Gourmand MICHELIN Restaurants in New Taipei City 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=w7SXCt3A_J8)
 - 發布時間：9 個月前；觀看次數：28萬次
@@ -675,10 +687,10 @@
 | 阿爸の芋圓 | [Google Maps](https://maps.app.goo.gl/i9BmodMWm2NAcudm8) | Google Maps 未取得 | 影片描述：招牌芋見泥蔗片冰$145；很想二刷指數 5\5 | [21:25](https://www.youtube.com/watch?v=w7SXCt3A_J8&t=1285s) | 肥波開吃啦 |
 | 宋朝 | [Google Maps](https://maps.app.goo.gl/P4zRWSdwozQCUTDj7) | Google Maps 未取得 | 影片描述：麻辣滷肉飯$50 宋朝口水雞$120 番茄冰沙糖葫蘆$55；很想二刷指數 4.5\5 | [23:51](https://www.youtube.com/watch?v=w7SXCt3A_J8&t=1431s) | 肥波開吃啦 |
 
-## 50. 台中北區小吃指南，500碗推薦美食四選！道地山西貓耳朵、綿密口感排骨酥麵、激推油蔥鴨肉飯、香辣涮嘴芥末涼麵 【 肥波外食記 】
+## 51. 台中北區小吃指南，500碗推薦美食四選！道地山西貓耳朵、綿密口感排骨酥麵、激推油蔥鴨肉飯、香辣涮嘴芥末涼麵 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=KrloWgAuq0M)
-- 發布時間：9 個月前；觀看次數：5.2萬次
+- 發布時間：10 個月前；觀看次數：5.2萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -687,7 +699,7 @@
 | 東沐。食在 | [Google Maps](https://maps.app.goo.gl/XyFnmYqAg8ZZLTi96) | Google Maps 未取得 | 影片描述：古早味油蔥鴨肉飯$80 油蔥醬香鴨肉乾拌麵$80 冰糖醬鴨$1xx；很想二刷指數 6\5；董媽涼麵 | [5:05](https://www.youtube.com/watch?v=KrloWgAuq0M&t=305s) | 肥波開吃啦 |
 | 董媽涼麵 | [Google Maps](https://maps.app.goo.gl/AYwUgwsm8J8VaYm29) | Google Maps 未取得 | 影片描述：芥末辣椒涼麵$45 薄豆乾絲$25 餛飩湯$45；很想二刷指數 4\5 | [7:57](https://www.youtube.com/watch?v=KrloWgAuq0M&t=477s) | 肥波開吃啦 |
 
-## 51. 台中美食南屯篇，24小時爽吃特輯四選！南屯一日美食地圖，激爽韓式職人燒烤、濃醇肉香溫體牛橫隔膜、飽滿多汁蒜味淡菜、道地手工港點專精【 肥波外食記 】
+## 52. 台中美食南屯篇，24小時爽吃特輯四選！南屯一日美食地圖，激爽韓式職人燒烤、濃醇肉香溫體牛橫隔膜、飽滿多汁蒜味淡菜、道地手工港點專精【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=2Me7eYws7wk)
 - 發布時間：10 個月前；觀看次數：9.7萬次
@@ -699,7 +711,7 @@
 | 鹽與胡椒餐館SALT&PEPPER RESTAURANT | [Google Maps](https://maps.app.goo.gl/KrLsRS9DVRKFq7gp7) | Google Maps 未取得 | 影片描述：自家醃製炸雞$320 干貝番紅花海鮮頓飯$620 蒜味番茄馬祖淡菜$450；很想二刷指數 5\5；一點心意 | [11:25](https://www.youtube.com/watch?v=2Me7eYws7wk&t=685s) | 肥波開吃啦 |
 | 一點心意 | [Google Maps](https://maps.app.goo.gl/tuoKwYtffpcHjs3L7) | Google Maps 未取得 | 影片描述：金邊蝦餃皇$110 山竹牛肉球$105 賽螃蟹餃$110 蘿蔔絲酥餅$100 椰絲甜薄罉$95；很想二刷指數 4.5\5 | [15:10](https://www.youtube.com/watch?v=2Me7eYws7wk&t=910s) | 肥波開吃啦 |
 
-## 52. 高雄美食鹽埕篇，24小時爽吃特輯四選！鹽埕區一日美食地圖，500碗推薦脆皮煎餃、激爽煙燻牛肋排、香濃宵夜豬油拌麵、鹽埕幽靈燒烤牛肉。【 肥波外食記 】ft.K-Seafood
+## 53. 高雄美食鹽埕篇，24小時爽吃特輯四選！鹽埕區一日美食地圖，500碗推薦脆皮煎餃、激爽煙燻牛肋排、香濃宵夜豬油拌麵、鹽埕幽靈燒烤牛肉。【 肥波外食記 】ft.K-Seafood
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=V7rBMTYimF4)
 - 發布時間：10 個月前；觀看次數：8.3萬次
@@ -711,7 +723,7 @@
 | 大胖豬油拌麵 | [Google Maps](https://maps.app.goo.gl/mbBdYYFwYmiBzJd98) | Google Maps 未取得 | 影片描述：豬油拌麵＄45+蔥油餛飩$80+冷筍沙拉$100；很想二刷指數5\5；阿男燒烤 | [12:16](https://www.youtube.com/watch?v=V7rBMTYimF4&t=736s) | 肥波開吃啦 |
 | 阿男燒烤 | [Google Maps](https://maps.app.goo.gl/aykV5xz1XmbhKPBdA) | Google Maps 未取得 | 影片描述：椒鹽雞翅＄150+烤軟絲＄370＋松阪豬＄390+烤牛肉＄４６０；很想二刷指數5\5 | [15:08](https://www.youtube.com/watch?v=V7rBMTYimF4&t=908s) | 肥波開吃啦 |
 
-## 53. 台北美食地圖，激爽美式漢堡特輯四選！一天四顆激爽 Smash Burger，爆汁爐烤小番茄、激爽煙燻牛肉堡、天母在地版Shake Shack、極度罪惡洋蔥起司牛肉堡 【 肥波外食記 】
+## 54. 台北美食地圖，激爽美式漢堡特輯四選！一天四顆激爽 Smash Burger，爆汁爐烤小番茄、激爽煙燻牛肉堡、天母在地版Shake Shack、極度罪惡洋蔥起司牛肉堡 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=3z4DjN8Hqf0)
 - 發布時間：10 個月前；觀看次數：6.2萬次
@@ -723,7 +735,7 @@
 | LOUIS' BURGERS | [Google Maps](https://maps.app.goo.gl/otPs7E4jonpMNN9y9) | Google Maps 未取得 | 影片描述：經典雙層起司漢堡$239；很想二刷指數 6\6 | [5:00](https://www.youtube.com/watch?v=3z4DjN8Hqf0&t=300s) | 肥波開吃啦 |
 | Patty Addy Burger | [Google Maps](https://maps.app.goo.gl/bqAUYsNE98N38gZX7) | Google Maps 未取得 | 影片描述：OKLAHOMA BURGER$340 派蒂薯條$220；很想二刷指數 4.5\5 | [7:41](https://www.youtube.com/watch?v=3z4DjN8Hqf0&t=461s) | 肥波開吃啦 |
 
-## 54. 饗賓集團全新吃到飽，精品餐酒 Buffet Urban Paradise，九大餐區爽吃開箱！極度多元菜色選擇，激推干貝奶油鬆餅、印度風味醬烤豬肋、藍莓生甜甜圈、濃醇酒香烤生蠔  【 肥波外食記 】
+## 55. 饗賓集團全新吃到飽，精品餐酒 Buffet Urban Paradise，九大餐區爽吃開箱！極度多元菜色選擇，激推干貝奶油鬆餅、印度風味醬烤豬肋、藍莓生甜甜圈、濃醇酒香烤生蠔  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=18dNdRIplOI)
 - 發布時間：10 個月前；觀看次數：6.9萬次
@@ -732,7 +744,7 @@
 | --- | --- | --- | --- | --- | --- |
 | URBAN PARADISE 信義店 | [Google Maps](https://maps.app.goo.gl/T8CVtadLk5w3TfR1A) | Google Maps 未取得 | 影片描述：很想二刷指數 4.5\5 | [YouTube](https://www.youtube.com/watch?v=18dNdRIplOI) | 肥波開吃啦 |
 
-## 55. 高雄美食新興篇，24小時爽吃特輯四選！新興區一日美食地圖，激爽肥美爌肉刈包、古早味炭燒豬舌冬粉、香濃正宗家系拉麵、酥嫩綿密法式烤雞 【 肥波外食記 】
+## 56. 高雄美食新興篇，24小時爽吃特輯四選！新興區一日美食地圖，激爽肥美爌肉刈包、古早味炭燒豬舌冬粉、香濃正宗家系拉麵、酥嫩綿密法式烤雞 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=X6_-_1TZRjQ)
 - 發布時間：10 個月前；觀看次數：5.6萬次
@@ -744,7 +756,7 @@
 | 鹿鳴商店 | [Google Maps](https://maps.app.goo.gl/yGvDFwQwGhKdPTM59) | Google Maps 未取得 | 影片描述：叉燒豚骨醬油拉麵$280 蔥鹽醬豬舌&150 TKG$80；很想二刷指數 4.5\5 | [5:52](https://www.youtube.com/watch?v=X6_-_1TZRjQ&t=352s) | 肥波開吃啦 |
 | Mon Poulet | [Google Maps](https://maps.app.goo.gl/bgKmCNadLQaQ4akM7) | Google Maps 未取得 | 影片描述：半隻烤雞$350 多菲內奶油烤馬鈴薯$170；很想二刷指數 5\5 | [9:24](https://www.youtube.com/watch?v=X6_-_1TZRjQ&t=564s) | 肥波開吃啦 |
 
-## 56. 台中美食大里篇，24小時爽吃特輯四選！激爽辣醬爌肉飯、炙燒溫體牛肋眼、超飽滿鮮蝦煎餃、水水嫩嫩無骨鵝肉【 肥波外食記 】
+## 57. 台中美食大里篇，24小時爽吃特輯四選！激爽辣醬爌肉飯、炙燒溫體牛肋眼、超飽滿鮮蝦煎餃、水水嫩嫩無骨鵝肉【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=f0Vt6jKWCMc)
 - 發布時間：11 個月前；觀看次數：6.4萬次
@@ -756,10 +768,10 @@
 | 華ㄟ煎餃 | [Google Maps](https://maps.app.goo.gl/1Gtn9qddU7kbthmKA) | Google Maps 未取得 | 影片描述：鮮蝦韭菜＄80 鮮蝦煎餃＄80；很想二刷指數 5\5；大世紀無骨鵝肉 | [5:42](https://www.youtube.com/watch?v=f0Vt6jKWCMc&t=342s) | 肥波開吃啦 |
 | 大世紀無骨鵝肉 | [Google Maps](https://maps.app.goo.gl/cY3hCW5Mk23JMaq89) | Google Maps 未取得 | 影片描述：無骨鵝肉＄220 綜合黑白切＄120 鵝油蔥飯＄20；很想二刷指數 5\5 | [8:24](https://www.youtube.com/watch?v=f0Vt6jKWCMc&t=504s) | 肥波開吃啦 |
 
-## 58. 台中西區小吃指南，500碗推薦美食四選！激爽炸物拼盤蚵仔粥、在地超夯清燉牛肉麵、CP值滿滿虱目魚大餐、激推牛排館熱炒  【 肥波外食記 】
+## 59. 台中西區小吃指南，500碗推薦美食四選！激爽炸物拼盤蚵仔粥、在地超夯清燉牛肉麵、CP值滿滿虱目魚大餐、激推牛排館熱炒  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=t9-YF6xJuzY)
-- 發布時間：11 個月前；觀看次數：8.7萬次
+- 發布時間：11 個月前；觀看次數：8.8萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -768,7 +780,7 @@
 | 台南蘇無刺虱目魚肚 | [Google Maps](https://maps.app.goo.gl/QjMFm1Pwu9B6bnRLA) | Google Maps 未取得 | 影片描述：肉燥飯＄30 煎虱目魚肚＄150 魚腸湯＄130；很想二刷指數 5\5；烘牛炭燒大牛排.現炒 | [7:14](https://www.youtube.com/watch?v=t9-YF6xJuzY&t=434s) | 肥波開吃啦 |
 | 烘牛炭燒大牛排.現炒 | [Google Maps](https://maps.app.goo.gl/CUr5cYy2bdznswAp9) | Google Maps 未取得 | 影片描述：Choice熟成霜降牛＄580 鮮蚵香蛋蛋＄280；很想二刷指數 6\5 | [10:04](https://www.youtube.com/watch?v=t9-YF6xJuzY&t=604s) | 肥波開吃啦 |
 
-## 59. 桃園在地小吃指南，500碗推薦美食四選！軟綿香Q客家菜包、碳烤香腸銀絲捲、激爽酥嫩炸肉串、夜市超夯麻辣臭豆腐。 【 肥波外食記 】
+## 60. 桃園在地小吃指南，500碗推薦美食四選！軟綿香Q客家菜包、碳烤香腸銀絲捲、激爽酥嫩炸肉串、夜市超夯麻辣臭豆腐。 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=yZ2nrm2Fx3o)
 - 發布時間：11 個月前；觀看次數：5.5萬次
@@ -780,7 +792,7 @@
 | 大香酥香雞排 | [Google Maps](https://maps.app.goo.gl/DX4hcKEy4KiThNMMA) | Google Maps 未取得 | 影片描述：香雞排＄80 獨家肉串＄25 蔥肉串＄70；很想二刷指數 5\5 | [5:25](https://www.youtube.com/watch?v=yZ2nrm2Fx3o&t=325s) | 肥波開吃啦 |
 | 簡師傅麻辣臭豆腐 | [Google Maps](https://maps.app.goo.gl/gXrCEYDEquSp4n618) | Google Maps 未取得 | 影片描述：麻辣臭豆腐加梅花豬＄130；很想二刷指數 5\5 | [8:38](https://www.youtube.com/watch?v=yZ2nrm2Fx3o&t=518s) | 肥波開吃啦 |
 
-## 60. 台南美食關廟篇，24小時爽吃特輯四選！關廟肉粿初體驗、在地特色黃金水餃、CP值頂天現炸甜不辣、清甜涮嘴小卷關廟麵   【 肥波外食記 】
+## 61. 台南美食關廟篇，24小時爽吃特輯四選！關廟肉粿初體驗、在地特色黃金水餃、CP值頂天現炸甜不辣、清甜涮嘴小卷關廟麵   【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=D28TNwwonK0)
 - 發布時間：11 個月前；觀看次數：3.9萬次
@@ -792,7 +804,7 @@
 | 阿婆甜不辣 | [Google Maps](https://maps.app.goo.gl/pnwppyzaPMgS65yh8) | Google Maps 未取得 | 影片描述：菜單通吃＄100；很想二刷指數 4\5；阿助𩵚魠魚羹 | [4:57](https://www.youtube.com/watch?v=D28TNwwonK0&t=297s) | 肥波開吃啦 |
 | 阿助𩵚魠魚羹 | [Google Maps](https://maps.app.goo.gl/eJyxqiCER3xQGNe86) | Google Maps 未取得 | 影片描述：小卷關廟麵羹＄75 乾土魠魚＄65 薑醋小卷＄70；很想二刷指數 5\5 | [7:24](https://www.youtube.com/watch?v=D28TNwwonK0&t=444s) | 肥波開吃啦 |
 
-## 61. 台南美食佳里篇，24小時爽吃特輯四選 !  在地超夯溫體牛肉火鍋、激推越式脆皮烤乳豬、酥嫩多汁脆皮臭豆腐、靈魂沾醬心肝湯  【 肥波外食記 】
+## 62. 台南美食佳里篇，24小時爽吃特輯四選 !  在地超夯溫體牛肉火鍋、激推越式脆皮烤乳豬、酥嫩多汁脆皮臭豆腐、靈魂沾醬心肝湯  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=dL1JAw-FbdM)
 - 發布時間：11 個月前；觀看次數：4.8萬次
@@ -804,7 +816,7 @@
 | 佳里阿彌專業臭豆腐 | [Google Maps](https://maps.app.goo.gl/GX1rA5DnY7eeCMzv6) | Google Maps 未取得 | 影片描述：酥炸臭豆腐$75；很想二刷指數 4.5/5；品香心肝湯 | [6:04](https://www.youtube.com/watch?v=dL1JAw-FbdM&t=364s) | 肥波開吃啦 |
 | 品香心肝湯 | [Google Maps](https://maps.app.goo.gl/bVNRWJBZq7FN45pN8) | Google Maps 未取得 | 影片描述：綜合湯$110 肉燥飯$25；很想二刷指數 5/5 | [8:26](https://www.youtube.com/watch?v=dL1JAw-FbdM&t=506s) | 肥波開吃啦 |
 
-## 62. 台南美食永康篇，24小時爽吃特輯四選 !  口感頂天老麵燒餅、大灣美味綿密肉粿、永康超夯溫體牛肉鍋、巷內激爽乾炒鱔魚意麵  【 肥波外食記 】
+## 63. 台南美食永康篇，24小時爽吃特輯四選 !  口感頂天老麵燒餅、大灣美味綿密肉粿、永康超夯溫體牛肉鍋、巷內激爽乾炒鱔魚意麵  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=hcAWpadvOlg)
 - 發布時間：1 年前；觀看次數：6.9萬次
@@ -816,7 +828,7 @@
 | 三大牛肉火鍋 | [Google Maps](https://maps.app.goo.gl/4p7nuWbvdptXYMV29) | Google Maps 未取得 | 影片描述：牛肉盤$350 鍋底$150；很想二刷指數 6/5；尺二鱔魚意麵 | [5:26](https://www.youtube.com/watch?v=hcAWpadvOlg&t=326s) | 肥波開吃啦 |
 | 尺二鱔魚意麵 | [Google Maps](https://maps.app.goo.gl/Bjj3XeffaWgf9YsJ6) | Google Maps 未取得 | 影片描述：乾炒鱔魚意麵$200 炒花枝$200；很想二刷指數 6/5 | [8:26](https://www.youtube.com/watch?v=hcAWpadvOlg&t=506s) | 肥波開吃啦 |
 
-## 63. 台北美食士林篇，24小時爽吃特輯四選 ! 滿滿排骨煲仔飯、台北最爽美式披薩、浮誇肉量牛肉麵、500盤推薦越南麵包  【 肥波外食記 】
+## 64. 台北美食士林篇，24小時爽吃特輯四選 ! 滿滿排骨煲仔飯、台北最爽美式披薩、浮誇肉量牛肉麵、500盤推薦越南麵包  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Mu5srXBRKjA)
 - 發布時間：1 年前；觀看次數：6.3萬次
@@ -828,7 +840,7 @@
 | 忠誠牛肉麵 | [Google Maps](https://maps.app.goo.gl/TchRuy2zzF9Dp6UN9) | Google Maps 未取得 | 影片描述：紅燒牛肉麵$250；很想二刷指數 4.5/5；越富越南法國麵包 | [6:02](https://www.youtube.com/watch?v=Mu5srXBRKjA&t=362s) | 肥波開吃啦 |
 | 越富越南法國麵包 | [Google Maps](https://maps.app.goo.gl/Y3hTxNtA4fgvrNx76) | Google Maps 未取得 | 影片描述：招牌夾心$120 起司雞排夾心$120；很想二刷指數 4/5 | [8:48](https://www.youtube.com/watch?v=Mu5srXBRKjA&t=528s) | 肥波開吃啦 |
 
-## 64. 松山區小吃指南，500碗推薦美食四選 !  肥美鮮蚵綜合麵線、濃醇燻香超夯滷味、肉量滿滿獅子頭燒餅、爆汁松露小籠包  【 肥波外食記 】
+## 65. 松山區小吃指南，500碗推薦美食四選 !  肥美鮮蚵綜合麵線、濃醇燻香超夯滷味、肉量滿滿獅子頭燒餅、爆汁松露小籠包  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=l2lei0TOjvw)
 - 發布時間：1 年前；觀看次數：7.5萬次
@@ -840,7 +852,7 @@
 | 秦小姐豆漿店 | [Google Maps](https://maps.app.goo.gl/aKHn2mirFhcSJZDC7) | Google Maps 未取得 | 影片描述：新疆豬排蛋燒餅$60 獅子頭蛋燒餅$60 甜飯糰$35；很想二刷指數 4/5 | [6:35](https://www.youtube.com/watch?v=l2lei0TOjvw&t=395s) | 肥波開吃啦 |
 | 京鼎小館 | [Google Maps](https://maps.app.goo.gl/wxMUw9XpzPqxrib87) | Google Maps 未取得 | 影片描述：松露小籠包$190 鮮魚蒸餃$125 豆沙小包$90；很想二刷指數 4.5/5 | [9:03](https://www.youtube.com/watch?v=l2lei0TOjvw&t=543s) | 肥波開吃啦 |
 
-## 65. 台北美食大安篇，24小時爽吃特輯四選 !  激爽美式燒烤豬肋排、肉量滿滿教父披薩、顏值超高義式三明治、排到歪頭宵夜牛肉麵　【 肥波外食記 】
+## 66. 台北美食大安篇，24小時爽吃特輯四選 !  激爽美式燒烤豬肋排、肉量滿滿教父披薩、顏值超高義式三明治、排到歪頭宵夜牛肉麵　【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=RqbbdufiTdk)
 - 發布時間：1 年前；觀看次數：7.1萬次
@@ -852,7 +864,7 @@
 | EL Panino | [Google Maps](https://maps.app.goo.gl/S2pjnzzY8y1BTEpY9) | Google Maps 未取得 | 影片描述：FIGATA$410 LA VESPA$390；很想二刷指數 3/5；牛肉麵．雞湯 | [6:35](https://www.youtube.com/watch?v=RqbbdufiTdk&t=395s) | 肥波開吃啦 |
 | 牛肉麵．雞湯 | [Google Maps](https://maps.app.goo.gl/dLR85tAXkbArLPo98) | Google Maps 未取得 | 影片描述：紅燒大三元牛肉麵$290 剝皮辣椒雞湯$160 牛原汁花干$60；很想二刷指數 4.5/5 | [9:12](https://www.youtube.com/watch?v=RqbbdufiTdk&t=552s) | 肥波開吃啦 |
 
-## 66. 高雄美食前鎮篇，24小時爽吃特輯四選 !  光華夜市激爽肉燥飯、豪邁厚切滑蛋牛肉、純正韓式水冷麵、秋冬限定中藥排骨火鍋  【 肥波外食記 】
+## 67. 高雄美食前鎮篇，24小時爽吃特輯四選 !  光華夜市激爽肉燥飯、豪邁厚切滑蛋牛肉、純正韓式水冷麵、秋冬限定中藥排骨火鍋  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=lVsj5YsbDYI)
 - 發布時間：1 年前；觀看次數：6.8萬次
@@ -864,7 +876,7 @@
 | 滿月보름달-韓式正統炸醬麵 | [Google Maps](https://maps.app.goo.gl/1cXPHoSifqLWTNeZ7) | Google Maps 未取得 | 影片描述：韓式水冷麵$220；很想二刷指數 4.5/5；三姊妹排骨火鍋 | [5:34](https://www.youtube.com/watch?v=lVsj5YsbDYI&t=334s) | 肥波開吃啦 |
 | 三姊妹排骨火鍋 | [Google Maps](https://maps.app.goo.gl/UEQraMmxh9HjCB82A) | Google Maps 未取得 | 影片描述：排骨火鍋$380；很想二刷指數 4/5 | [7:54](https://www.youtube.com/watch?v=lVsj5YsbDYI&t=474s) | 肥波開吃啦 |
 
-## 67. 高雄美食鳳山篇，24小時爽吃特輯四選 !  激爽焦糖香蕉花醬堡、IG超夯蟹黃拌麵、巨型越南包子、靈魂醬汁鹹水鵝肉  【 肥波外食記 】
+## 68. 高雄美食鳳山篇，24小時爽吃特輯四選 !  激爽焦糖香蕉花醬堡、IG超夯蟹黃拌麵、巨型越南包子、靈魂醬汁鹹水鵝肉  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=p2Kv-uhKRVI)
 - 發布時間：1 年前；觀看次數：6.2萬次
@@ -876,7 +888,7 @@
 | 自由手工包子饅頭店 | [Google Maps](https://maps.app.goo.gl/CYGK7wGNw4QBtzB57) | Google Maps 未取得 | 影片描述：海鮮包子$45 香蘭包子$45 甜菜根包子$45；很想二刷指數 4/5；北門鵝肉店 | [6:57](https://www.youtube.com/watch?v=p2Kv-uhKRVI&t=417s) | 肥波開吃啦 |
 | 北門鵝肉店 | [Google Maps](https://maps.app.goo.gl/d9CJHdfqFHPF2xxW6) | Google Maps 未取得 | 影片描述：鹹水鵝肉$350 鵝肉飯$85；很想二刷指數 4.5/5 | [9:29](https://www.youtube.com/watch?v=p2Kv-uhKRVI&t=569s) | 肥波開吃啦 |
 
-## 68. 高雄美食前金篇，24小時爽吃特輯四選 ! 米其林認證冰糖元蹄、市場海味炸物老店、優質口感軟Q碗粿、激推粉嫩豬菲力 【 肥波外食記 】
+## 69. 高雄美食前金篇，24小時爽吃特輯四選 ! 米其林認證冰糖元蹄、市場海味炸物老店、優質口感軟Q碗粿、激推粉嫩豬菲力 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=PWnvPjmPgFs)
 - 發布時間：1 年前；觀看次數：7.6萬次
@@ -887,7 +899,7 @@
 | 香四海現做旗魚黑輪 | [Google Maps](https://maps.app.goo.gl/VxY5TPnPZuHno8Bq9) | Google Maps 未取得 | 影片描述：起司旗魚黑輪$30 魷魚天婦羅$55 牛肉捲$35 蝦捲$30 鱈魚起司捲$30；很想二刷指數 4.5/5 | [4:11](https://www.youtube.com/watch?v=PWnvPjmPgFs&t=251s) | 肥波開吃啦 |
 | 小南碗粿 | [Google Maps](https://maps.app.goo.gl/Gz686NuNAUUrWmkEA) | Google Maps 未取得 | 影片描述：招牌碗粿$45 黑糖年糕$15 旗魚羹$55；很想二刷指數 5/5 | [6:51](https://www.youtube.com/watch?v=PWnvPjmPgFs&t=411s) | 肥波開吃啦 |
 
-## 69. 大同區小吃指南，500碗推薦美食四選 ! 激爽阿嬤滷爌肉、半熟蛋肉燥油飯、香濃乾拌豬血、延三夜市中藥烤雞 【 肥波外食記 】
+## 70. 大同區小吃指南，500碗推薦美食四選 ! 激爽阿嬤滷爌肉、半熟蛋肉燥油飯、香濃乾拌豬血、延三夜市中藥烤雞 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=hSuEMWV2a3w)
 - 發布時間：1 年前；觀看次數：7萬次
@@ -899,7 +911,7 @@
 | 企鵝文肉羹店 | [Google Maps](https://maps.app.goo.gl/whMarcY5oEeoyyer5) | Google Maps 未取得 | 影片描述：炒米粉麵$35 綜合湯$80 乾豬血$30；很想二刷指數 4.5/5；黃大腸煎 | [5:35](https://www.youtube.com/watch?v=hSuEMWV2a3w&t=335s) | 肥波開吃啦 |
 | 黃大腸煎 | [Google Maps](https://maps.app.goo.gl/15KoRzpqrgy7Nnyp8) | Google Maps 未取得 | 影片描述：大腸煎$70 香腸$35 燒雞腿$90；很想二刷指數 4/5 | [8:08](https://www.youtube.com/watch?v=hSuEMWV2a3w&t=488s) | 肥波開吃啦 |
 
-## 70. 中山區小吃指南，500碗推薦美食四選 !  激推平替版阜杭豆漿、排到歪頭油泡肉圓、極濃郁沙茶牛燴飯、海味滿滿蚵仔粥  【 肥波外食記 】
+## 71. 中山區小吃指南，500碗推薦美食四選 !  激推平替版阜杭豆漿、排到歪頭油泡肉圓、極濃郁沙茶牛燴飯、海味滿滿蚵仔粥  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=UAAugrNOnNE)
 - 發布時間：1 年前；觀看次數：7.7萬次
@@ -911,7 +923,7 @@
 | 牛家村 | [Google Maps](https://maps.app.goo.gl/EMUwbs1tyiLe5oWm6) | Google Maps 未取得 | 影片描述：牛肉燴飯$110 牛雜湯$120 蔥爆牛心$180；很想二刷指數 5/5；3元6虱目魚 | [5:23](https://www.youtube.com/watch?v=UAAugrNOnNE&t=323s) | 肥波開吃啦 |
 | 元6虱目魚 | [Google Maps](https://maps.app.goo.gl/xE6VfZEw1JeJHELv8) | Google Maps 未取得 | 影片描述：蚵仔粥$110 蚵仔蛋$80；很想二刷指數 4/5 | [8:03](https://www.youtube.com/watch?v=UAAugrNOnNE&t=483s) | 肥波開吃啦 |
 
-## 71. 萬華在地小吃指南，500碗推薦美食四選 !  在地超夯鹹水鵝肉、口感超頂原汁排骨、香濃綿密排骨酥湯、激推蒜味蜜汁雞排【 肥波外食記 】
+## 72. 萬華在地小吃指南，500碗推薦美食四選 !  在地超夯鹹水鵝肉、口感超頂原汁排骨、香濃綿密排骨酥湯、激推蒜味蜜汁雞排【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=RLG0eZ5-0GI)
 - 發布時間：1 年前；觀看次數：7.1萬次
@@ -923,7 +935,7 @@
 | 何家排骨酥 | [Google Maps](https://maps.app.goo.gl/WqHwXXktHZnPqenE8) | Google Maps 未取得 | 影片描述：排骨酥雞絲麵$100 滷肉飯$35 豬血糕$50；很想二刷指數 4.5/5；180度C蜜酥雞排 | [5:39](https://www.youtube.com/watch?v=RLG0eZ5-0GI&t=339s) | 肥波開吃啦 |
 | 度C蜜酥雞排 | [Google Maps](https://maps.app.goo.gl/cEN1nEJeZ1YgBxQ8A) | Google Maps 未取得 | 影片描述：蜜汁雞排$80 鮮脆魷魚$60 鹹酥白精靈菇$50 豆乳鹹酥雞$60 豆皮$25；很想二刷指數 6/5 | [8:22](https://www.youtube.com/watch?v=RLG0eZ5-0GI&t=502s) | 肥波開吃啦 |
 
-## 72. 宜蘭在地小吃指南，500碗推薦美食四選 !  軟糯香Q草仔粿、炭香十足胡椒餅、宜蘭必備炸醬麵套組、CP值頂天雲南美食  【 肥波外食記 】
+## 73. 宜蘭在地小吃指南，500碗推薦美食四選 !  軟糯香Q草仔粿、炭香十足胡椒餅、宜蘭必備炸醬麵套組、CP值頂天雲南美食  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Ybkio4mK5fE)
 - 發布時間：1 年前；觀看次數：5.7萬次
@@ -935,7 +947,7 @@
 | 一香飲食店 | [Google Maps](https://maps.app.goo.gl/PCwbMzAV1xxTTM9A7) | Google Maps 未取得 | 影片描述：炸醬麵$30 餛飩丸湯$50；很想二刷指數 3.5/5 | [6:21](https://www.youtube.com/watch?v=Ybkio4mK5fE&t=381s) | 肥波開吃啦 |
 | 米玲坊雲南美食 | [Google Maps](https://maps.app.goo.gl/NYktkDNPTLJ9Chpr8) | Google Maps 未取得 | 影片描述：椒麻雞$170 煉乳甩餅$100；很想二刷指數 4.5/5 | [8:54](https://www.youtube.com/watch?v=Ybkio4mK5fE&t=534s) | 肥波開吃啦 |
 
-## 73. 屏東在地小吃指南，500碗推薦美食四選 !  香濃綿密肉燥粿、正宗印度脆球、酥嫩多汁脆皮臭豆腐、激爽霜降牛汕頭火鍋  【 肥波外食記 】
+## 74. 屏東在地小吃指南，500碗推薦美食四選 !  香濃綿密肉燥粿、正宗印度脆球、酥嫩多汁脆皮臭豆腐、激爽霜降牛汕頭火鍋  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=gI-mQs421_s)
 - 發布時間：1 年前；觀看次數：4.8萬次
@@ -947,7 +959,7 @@
 | 愛家臭豆腐 | [Google Maps](https://maps.app.goo.gl/1xbdAoo9TazTePQU8) | Google Maps 未取得 | 影片描述：脆皮臭豆腐$95；很想二刷指數 5/5；隆賓汕頭火鍋 | [6:38](https://www.youtube.com/watch?v=gI-mQs421_s&t=398s) | 肥波開吃啦 |
 | 隆賓汕頭火鍋 | [Google Maps](https://maps.app.goo.gl/A8F387acztwXthVg8) | Google Maps 未取得 | 影片描述：霜降牛肉$450 霜降邊角肉$250；很想二刷指數 4.5/5 | [9:06](https://www.youtube.com/watch?v=gI-mQs421_s&t=546s) | 肥波開吃啦 |
 
-## 74. 高雄在地小吃指南，500碗推薦美食四選 !  鮮味滿滿小卷米粉、激爽麵攤蔗香燻雞、超夯老字號鴨肉飯、綿密化口滷腿庫 【 肥波外食記 】
+## 75. 高雄在地小吃指南，500碗推薦美食四選 !  鮮味滿滿小卷米粉、激爽麵攤蔗香燻雞、超夯老字號鴨肉飯、綿密化口滷腿庫 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=ptcBIy3lJdQ)
 - 發布時間：1 年前；觀看次數：9.8萬次
@@ -959,7 +971,7 @@
 | 七賢鴨肉飯專賣店 | [Google Maps](https://maps.app.goo.gl/jqhkt222QJxyrqMWA) | Google Maps 未取得 | 影片描述：鴨肉飯$60 鴨腸拌豆芽$70 鴨新冬粉$80；很想二刷指數 4.5/5；君腿庫飯 | [6:44](https://www.youtube.com/watch?v=ptcBIy3lJdQ&t=404s) | 肥波開吃啦 |
 | 君腿庫飯 | [Google Maps](https://maps.app.goo.gl/eKiS9Ph5NUbUb6mKA) | Google Maps 未取得 | 影片描述：肉燥飯$50 腿庫肉$145 滷大腸$90；很想二刷指數 5/5 | [9:01](https://www.youtube.com/watch?v=ptcBIy3lJdQ&t=541s) | 肥波開吃啦 |
 
-## 75. 彰化在地小吃指南，500碗推薦美食四選 !  在地人激推碗粿、CP值頂天蔥爆小卷、濃稠肉羹湯麵線、肥美厚切爌肉飯  【 肥波外食記 】
+## 76. 彰化在地小吃指南，500碗推薦美食四選 !  在地人激推碗粿、CP值頂天蔥爆小卷、濃稠肉羹湯麵線、肥美厚切爌肉飯  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=pPS8ItHv80o)
 - 發布時間：1 年前；觀看次數：5.7萬次
@@ -971,7 +983,7 @@
 | 車路口肉羹 | [Google Maps](https://maps.app.goo.gl/3mfiFEon4MYPT73V7) | Google Maps 未取得 | 影片描述：肉羹$50 綜合羹$50；很想二刷指數 4.5/5 | [5:34](https://www.youtube.com/watch?v=pPS8ItHv80o&t=334s) | 肥波開吃啦 |
 | 蚵ㄚ仁 | [Google Maps](https://maps.app.goo.gl/xjip3Vn1EUGgtDRd8) | Google Maps 未取得 | 影片描述：肉燥飯$45 爌肉飯$70 蚵仔清湯$100；很想二刷指數 5/5 | [7:49](https://www.youtube.com/watch?v=pPS8ItHv80o&t=469s) | 肥波開吃啦 |
 
-## 76. 雲林在地小吃指南，500碗推薦美食四選 !  斗南招牌蒜頭麵、羊肉米糕初體驗、老街古早味蛋飯、激推梅干扣肉飯  【 肥波外食記 】
+## 77. 雲林在地小吃指南，500碗推薦美食四選 !  斗南招牌蒜頭麵、羊肉米糕初體驗、老街古早味蛋飯、激推梅干扣肉飯  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=KEbd6qdmOJI)
 - 發布時間：1 年前；觀看次數：4.6萬次
@@ -983,7 +995,7 @@
 | 老街碗粿 | [Google Maps](https://maps.app.goo.gl/z41VKpFBo3p1yqpi6) | Google Maps 未取得 | 影片描述：蛋飯$40 碗粿$45 關東煮$65；很想二刷指數 4/5；阿賜豬腳 | [5:55](https://www.youtube.com/watch?v=KEbd6qdmOJI&t=355s) | 肥波開吃啦 |
 | 阿賜豬腳 | [Google Maps](https://maps.app.goo.gl/FDErw9kUin1RVetX6) | Google Maps 未取得 | 影片描述：梅干扣肉飯$85 豬腳中段$80；很想二指數 6/5 | [8:26](https://www.youtube.com/watch?v=KEbd6qdmOJI&t=506s) | 肥波開吃啦 |
 
-## 77. 嘉義在地小吃指南，500碗推薦美食五選 !  在地超夯魯熟肉、鍋氣香濃鱔魚麵、巷內激推雞湯餛飩、消夜場火雞肉飯、甘甜溫體牛肉湯【 肥波外食記 】
+## 78. 嘉義在地小吃指南，500碗推薦美食五選 !  在地超夯魯熟肉、鍋氣香濃鱔魚麵、巷內激推雞湯餛飩、消夜場火雞肉飯、甘甜溫體牛肉湯【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=xMJrOQ2XYQ0)
 - 發布時間：1 年前；觀看次數：9萬次
@@ -996,7 +1008,7 @@
 | 阿樓師火雞肉飯 | [Google Maps](https://maps.app.goo.gl/fcTzpTVPPtkD4Mpz7) | Google Maps 未取得 | 影片描述：火雞肉飯$30 火雞片飯$60 火雞下水湯$35；很想二刷指數 4/5；阿進土產牛肉湯 | [8:20](https://www.youtube.com/watch?v=xMJrOQ2XYQ0&t=500s) | 肥波開吃啦 |
 | 阿進土產牛肉湯 | [Google Maps](https://maps.app.goo.gl/ohjp6FnU6oB7Nv3f7) | Google Maps 未取得 | 影片描述：牛肉湯$190 青蒜龍骨髓$220；很想二刷指數 4.5/5 | [10:27](https://www.youtube.com/watch?v=xMJrOQ2XYQ0&t=627s) | 肥波開吃啦 |
 
-## 78. 中永和在地小吃指南，500碗推薦美食四選 !  正宗泰北料理、川味麻醬湯圓、激爽煙燻鵝肉、超夯港式脆皮燒肉  【 肥波外食記 】
+## 79. 中永和在地小吃指南，500碗推薦美食四選 !  正宗泰北料理、川味麻醬湯圓、激爽煙燻鵝肉、超夯港式脆皮燒肉  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=SnVnwZhvWEA)
 - 發布時間：1 年前；觀看次數：7.3萬次
@@ -1008,7 +1020,7 @@
 | 鵝師父鵝肉店 | [Google Maps](https://maps.app.goo.gl/M6ABfgEbVH1fg5cW8) | Google Maps 未取得 | 影片描述：鵝肉切盤$120 鵝血糕$40 鵝油飯$20；很想二刷指數 6/5；入魂燒味 燒臘餐廳 | [6:08](https://www.youtube.com/watch?v=SnVnwZhvWEA&t=368s) | 肥波開吃啦 |
 | 入魂燒味 燒臘餐廳 | [Google Maps](https://maps.app.goo.gl/JiQ3DyVPKW9T9nFX8) | Google Maps 未取得 | 影片描述：人氣燒肉雙拼$300；很想二刷指數 5/5 | [8:43](https://www.youtube.com/watch?v=SnVnwZhvWEA&t=523s) | 肥波開吃啦 |
 
-## 79. 新竹在地小吃指南，500碗推薦美食四選 !  市場超夯糯米水餃、香濃鍋氣鴨肉炒麵、甘甜豆瓣炸醬麵、激爽台味下午茶  【 肥波外食記 】
+## 80. 新竹在地小吃指南，500碗推薦美食四選 !  市場超夯糯米水餃、香濃鍋氣鴨肉炒麵、甘甜豆瓣炸醬麵、激爽台味下午茶  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=kMOyfayM6bY)
 - 發布時間：1 年前；觀看次數：6.5萬次
@@ -1020,7 +1032,7 @@
 | 三廠炸醬麵 | [Google Maps](https://maps.app.goo.gl/sj6WXDaGTHfLg6Fu7) | Google Maps 未取得 | 影片描述：炸醬乾麵$82 牛肉湯$70；很想二刷指數 4.5/5；鷹王肉圓 | [5:39](https://www.youtube.com/watch?v=kMOyfayM6bY&t=339s) | 肥波開吃啦 |
 | 鷹王肉圓 | [Google Maps](https://maps.app.goo.gl/PqhWyiTpzydL8Bbv9) | Google Maps 未取得 | 影片描述：碳烤香腸$144 紅糟肉圓$55；很想二刷指數 5/5 | [8:16](https://www.youtube.com/watch?v=kMOyfayM6bY&t=496s) | 肥波開吃啦 |
 
-## 80. 基隆在地小吃指南，500碗推薦美食四選 !  巷內炭烤三明治、仁愛市場超夯海鮮蓋飯、CP值擔當咖哩沙茶炒麵、激推爆漿皮蛋潤餅  【 肥波外食記 】
+## 81. 基隆在地小吃指南，500碗推薦美食四選 !  巷內炭烤三明治、仁愛市場超夯海鮮蓋飯、CP值擔當咖哩沙茶炒麵、激推爆漿皮蛋潤餅  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=bLvdIENd0yE)
 - 發布時間：1 年前；觀看次數：8.4萬次
@@ -1032,7 +1044,7 @@
 | 廣東汕頭牛肉店 | [Google Maps](https://maps.app.goo.gl/toZN9RTM5bmZtLu6A) | Google Maps 未取得 | 影片描述：炒牛肉麵$110 乾切牛肉$260；很想二刷指數 4/5 | [5:31](https://www.youtube.com/watch?v=bLvdIENd0yE&t=331s) | 肥波開吃啦 |
 | 潤潤潤餅 | [Google Maps](https://maps.app.goo.gl/tCC7Ug39dq9Kssiw9) | Google Maps 未取得 | 影片描述：台式皮蛋$60 港式叉燒$60；很想二刷指數 5/5 | [8:24](https://www.youtube.com/watch?v=bLvdIENd0yE&t=504s) | 肥波開吃啦 |
 
-## 81. 三重在地小吃指南，500碗推薦美食四選 !  新北美食精華區，三重超夯無名刈包、消夜激爽涼麵套餐、肥美鮮蚵九層塔麵線、濕潤軟Q老字號油飯  【 肥波外食記 】
+## 82. 三重在地小吃指南，500碗推薦美食四選 !  新北美食精華區，三重超夯無名刈包、消夜激爽涼麵套餐、肥美鮮蚵九層塔麵線、濕潤軟Q老字號油飯  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=j0oyp9hNsrs)
 - 發布時間：1 年前；觀看次數：9.8萬次
@@ -1044,7 +1056,7 @@
 | 三重橋頭麵線 | [Google Maps](https://maps.app.goo.gl/XyXmRfHmge4tee5a6) | Google Maps 未取得 | 影片描述：蚵仔麵線$70 蒜酥乾蚵$60；很想二刷指數 4.5/5；太順油飯 三陽店 | [5:49](https://www.youtube.com/watch?v=j0oyp9hNsrs&t=349s) | 肥波開吃啦 |
 | 太順油飯 三陽店 | [Google Maps](https://maps.app.goo.gl/cQCXZEVni8zMjJf57) | Google Maps 未取得 | 影片描述：油飯加滷蛋$60 赤肉湯$60；很想二刷指數 4.5/5 | [8:37](https://www.youtube.com/watch?v=j0oyp9hNsrs&t=517s) | 肥波開吃啦 |
 
-## 82. 2025清邁米其林，八家必比登推薦美食 !  8 Bib Gourmand MICHELIN Restaurants in Chiang Mai 【 肥波外食記 】
+## 83. 2025清邁米其林，八家必比登推薦美食 !  8 Bib Gourmand MICHELIN Restaurants in Chiang Mai 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=LUV1on-f_Ts)
 - 發布時間：1 年前；觀看次數：4.8萬次
@@ -1060,7 +1072,7 @@
 | Huen Muan Jai | [Google Maps](https://maps.app.goo.gl/g72PsvDwc4mKQhvo8) | Google Maps 未取得 | 影片描述：開胃菜拼盤$290 AEB MOO$95；很想二刷指數 3.5/5 | [14:25](https://www.youtube.com/watch?v=LUV1on-f_Ts&t=865s) | 肥波開吃啦 |
 | Ekachan The Wisdom of Ethnic Thai Cuisine | [Google Maps](https://maps.app.goo.gl/6fnmC5xpGjfTiQqq9) | Google Maps 未取得 | 影片描述：青醬烤牛排$450 香蕉葉烤魚$350；很想二刷指數 5/5 | [17:28](https://www.youtube.com/watch?v=LUV1on-f_Ts&t=1048s) | 肥波開吃啦 |
 
-## 83. 東京美食炸豬排篇，高田馬場爽吃特輯三選 !  東京炸豬排一級戰區，連吃三家激爽炸豬排名店，米其林認證炸豬菲力、激爽酥炸豬肋排、Tabelog排行榜一豬排豚太!  【 肥波外食記 】
+## 84. 東京美食炸豬排篇，高田馬場爽吃特輯三選 !  東京炸豬排一級戰區，連吃三家激爽炸豬排名店，米其林認證炸豬菲力、激爽酥炸豬肋排、Tabelog排行榜一豬排豚太!  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Y0PSXGfBI3g)
 - 發布時間：1 年前；觀看次數：4.8萬次
@@ -1071,7 +1083,7 @@
 | Fry家 | [Google Maps](https://maps.app.goo.gl/TBZ2ynrwaCJ7vyRx5) | Google Maps 未取得 | 影片描述：綜合炸豬排定食$3600；很想二刷指數 5/5 | [3:48](https://www.youtube.com/watch?v=Y0PSXGfBI3g&t=228s) | 肥波開吃啦 |
 | 豚太 | [Google Maps](https://maps.app.goo.gl/6jLWbCpsVYFu1gkv5) | Google Maps 未取得 | 影片描述：特選炸豬里肌$2500 特選炸豬菲力$2600；很想二刷指數 6/5 | [6:16](https://www.youtube.com/watch?v=Y0PSXGfBI3g&t=376s) | 肥波開吃啦 |
 
-## 84. 拉麵王國朝聖之旅，爽吃新潟五大特色拉麵 !  東京也找不到的獨特口味，生薑醬油拉麵的故鄉、背脂超載的熱量炸彈、咖喱拉麵初體驗，三天兩夜美食攻略，拉麵、海鮮、清酒【肥波外食記】 ft.​⁠台灣虎航
+## 85. 拉麵王國朝聖之旅，爽吃新潟五大特色拉麵 !  東京也找不到的獨特口味，生薑醬油拉麵的故鄉、背脂超載的熱量炸彈、咖喱拉麵初體驗，三天兩夜美食攻略，拉麵、海鮮、清酒【肥波外食記】 ft.​⁠台灣虎航
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=YCb5YihbZIU)
 - 發布時間：1 年前；觀看次數：5萬次
@@ -1086,7 +1098,7 @@
 | 三吉屋 駅南けやき通り店 | [Google Maps](https://maps.app.goo.gl/C3yfuSpjvZeDEk5s5) | Google Maps 未取得 | 影片描述：中華拉麵$700；很想二刷指數 4/5 | [15:38](https://www.youtube.com/watch?v=YCb5YihbZIU&t=938s) | 肥波開吃啦 |
 | 萬代港口市場 みなとのマルシェピアBandai | [Google Maps](https://maps.app.goo.gl/iFNXspi1yw8xVyGL6) | Google Maps 未取得 | 影片描述欄列為本集店家，未擷取到更細部心得。 | [17:25](https://www.youtube.com/watch?v=YCb5YihbZIU&t=1045s) | 肥波開吃啦 |
 
-## 85. 東京美食吉祥寺篇，24小時爽吃特輯四選 !  吉祥寺一日美食地圖，日本人最愛街區 !  水潤軟Q瑪格麗特、商店街美食攻略、激爽和牛燒肉、超夯無菜單肉料理  【 肥波外食記 】
+## 86. 東京美食吉祥寺篇，24小時爽吃特輯四選 !  吉祥寺一日美食地圖，日本人最愛街區 !  水潤軟Q瑪格麗特、商店街美食攻略、激爽和牛燒肉、超夯無菜單肉料理  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=SRMGYVuiIAs)
 - 發布時間：1 年前；觀看次數：7.1萬次
@@ -1098,7 +1110,7 @@
 | 焼肉みゆき苑 | [Google Maps](https://maps.app.goo.gl/puwmPxK5izGXP1tw5) | Google Maps 未取得 | 影片描述：和牛海膽手卷$548 四色和牛海鮮丼$2748 和牛肋眼$1098 和牛壽喜燒$1098；很想二刷指數 4/5；肉山 | [07:54](https://www.youtube.com/watch?v=SRMGYVuiIAs&t=474s) | 肥波開吃啦 |
 | 肉山 | [Google Maps](https://maps.app.goo.gl/Ss6Ggz5TSx7YymE17) | Google Maps 未取得 | 影片描述：無菜單套餐$6600；很想二刷指數 5/5 | [11:41](https://www.youtube.com/watch?v=SRMGYVuiIAs&t=701s) | 肥波開吃啦 |
 
-## 86. 曼谷美食地圖，72小時爽吃特輯八選 !  曼谷三天兩夜爽吃攻略，激推水嫩牛舌麵、曼谷最推海南雞、網紅牛排三明治、最新夜市開箱、浮誇熟成生魚片  【 肥波外食記 】
+## 87. 曼谷美食地圖，72小時爽吃特輯八選 !  曼谷三天兩夜爽吃攻略，激推水嫩牛舌麵、曼谷最推海南雞、網紅牛排三明治、最新夜市開箱、浮誇熟成生魚片  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=A7b26UKia3s)
 - 發布時間：1 年前；觀看次數：11萬次
@@ -1114,7 +1126,7 @@
 | Elvis Suki | [Google Maps](https://maps.app.goo.gl/kjoPESTrwMfT3NMi8) | Google Maps 未取得 | 影片描述：海鮮乾suki$100 奶油扇貝$250；很想二刷指數 3.5/5 | [19:04](https://www.youtube.com/watch?v=A7b26UKia3s&t=1144s) | 肥波開吃啦 |
 | iODE | [Google Maps](https://maps.app.goo.gl/QkBuPvEckd3w7FueA) | Google Maps 未取得 | 影片描述：熟成鯛魚生魚片$1400 海膽烤骨髓$690 炙燒起司生乳包$390；很想二刷指數 4/5 | [21:47](https://www.youtube.com/watch?v=A7b26UKia3s&t=1307s) | 肥波開吃啦 |
 
-## 87. 清邁美食地圖，72小時爽吃特輯八選 !  三天兩夜清邁爽吃攻略，正宗泰北生拌牛肉、甕缸窯烤脆皮豬、傳統市場美味豬皮山、夜市激爽炒冬粉、香濃咖哩雞腿麵  【 肥波外食記 】
+## 88. 清邁美食地圖，72小時爽吃特輯八選 !  三天兩夜清邁爽吃攻略，正宗泰北生拌牛肉、甕缸窯烤脆皮豬、傳統市場美味豬皮山、夜市激爽炒冬粉、香濃咖哩雞腿麵  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=f3xfOnvavCQ)
 - 發布時間：1 年前；觀看次數：6.5萬次
@@ -1130,7 +1142,7 @@
 | Suki Changphuak | [Google Maps](https://maps.app.goo.gl/V6nRS8AEw9ZrcX1j6) | Google Maps 未取得 | 影片描述：乾炒牛肉冬粉$69；很想二刷指數 6/5；鳳飛飛豬腳飯 | [19:24](https://www.youtube.com/watch?v=f3xfOnvavCQ&t=1164s) | 肥波開吃啦 |
 | 鳳飛飛豬腳飯 | [Google Maps](https://maps.app.goo.gl/rT3HMtbG1u31XjvVA) | Google Maps 未取得 | 影片描述：招牌豬腳飯$80；很想二刷指數 4/5 | [21:32](https://www.youtube.com/watch?v=f3xfOnvavCQ&t=1292s) | 肥波開吃啦 |
 
-## 88. 曼谷美食老城區篇，24小時爽吃特輯四選 !  老城區一日美食地圖，超滋潤叉燒飯、香酥冰花蚵仔煎、米其林認證豬腦湯、炭燒雞肉炒粿條  【 肥波外食記 】
+## 89. 曼谷美食老城區篇，24小時爽吃特輯四選 !  老城區一日美食地圖，超滋潤叉燒飯、香酥冰花蚵仔煎、米其林認證豬腦湯、炭燒雞肉炒粿條  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=_C4pYzIdMeM)
 - 發布時間：1 年前；觀看次數：3.2萬次
@@ -1142,7 +1154,7 @@
 | Thai Tham pork brain Gao Lao soup | [Google Maps](https://maps.app.goo.gl/Jkn37UiMhYHpmEiAA) | Google Maps 未取得 | 影片描述：招牌豬腦湯100$；很想二刷指數 6/5 | [5:47](https://www.youtube.com/watch?v=_C4pYzIdMeM&t=347s) | 肥波開吃啦 |
 | Suan Mali Chicken Noodle at Klang Hospital Junction | [Google Maps](https://maps.app.goo.gl/p2rsZBkeQ1oJMN3m7) | Google Maps 未取得 | 影片描述：雞肉炒粿條50$ 雙蛋炒粿條60$；很想二刷指數 5/5 | [8:28](https://www.youtube.com/watch?v=_C4pYzIdMeM&t=508s) | 肥波開吃啦 |
 
-## 89. 2025曼谷米其林，八家必比登推薦美食 ! 8 Bib Gourmand MICHELIN Restaurants in Bangkok 【 肥波外食記 】
+## 90. 2025曼谷米其林，八家必比登推薦美食 ! 8 Bib Gourmand MICHELIN Restaurants in Bangkok 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Qqztk9TtMGE)
 - 發布時間：1 年前；觀看次數：8.5萬次
@@ -1158,7 +1170,7 @@
 | NO NAME NOODLE BKK | [Google Maps](https://maps.app.goo.gl/Uf73bP1uqpETYzm47) | Google Maps 未取得 | 影片描述：昆布水蕎麥沾麵祭御膳1350$；很想二刷指數 4/5 | [17:32](https://www.youtube.com/watch?v=Qqztk9TtMGE&t=1052s) | 肥波開吃啦 |
 | Prik-Yuak | [Google Maps](https://maps.app.goo.gl/XS7YLSqhQXHbgTeE9) | Google Maps 未取得 | 影片描述：泰南滷爌肉220$ 蒜香豬肝250$；很想二刷指數 3.5/5 | [20:03](https://www.youtube.com/watch?v=Qqztk9TtMGE&t=1203s) | 肥波開吃啦 |
 
-## 90. 曼谷激爽五星飯店buffet開箱 ! 帝王蟹、蝦蛄、肋眼牛排吃到飽，台幣不到$2500，爽吃四個小時半，激爽脆皮燒肉、各種炭烤牛排、肥美帝王蟹 Goji Kitchen【 肥波外食記 】
+## 91. 曼谷激爽五星飯店buffet開箱 ! 帝王蟹、蝦蛄、肋眼牛排吃到飽，台幣不到$2500，爽吃四個小時半，激爽脆皮燒肉、各種炭烤牛排、肥美帝王蟹 Goji Kitchen【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=sMoT90dD6xo)
 - 發布時間：1 年前；觀看次數：7萬次
@@ -1167,7 +1179,7 @@
 | --- | --- | --- | --- | --- | --- |
 | Goji Kitchen | [Google Maps](https://maps.app.goo.gl/FKxr1okqLmZvU1ky6) | Google Maps 未取得 | 影片描述：周末晚餐 (17:30~22:00) 2499฿ | [YouTube](https://www.youtube.com/watch?v=sMoT90dD6xo) | 肥波開吃啦 |
 
-## 91. 台中美食東區篇，24小時爽吃特輯四選 !  台中東區一日美食地圖，香甜綿密豆沙包、冬天暖胃菜脯雞湯、激爽肥美腳庫飯、巷內米其林推薦小料理  【 肥波外食記 】
+## 92. 台中美食東區篇，24小時爽吃特輯四選 !  台中東區一日美食地圖，香甜綿密豆沙包、冬天暖胃菜脯雞湯、激爽肥美腳庫飯、巷內米其林推薦小料理  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=-g76GMBEWiI)
 - 發布時間：1 年前；觀看次數：7.1萬次
@@ -1179,7 +1191,7 @@
 | 黑豬師菜尾控肉飯 | [Google Maps](https://maps.app.goo.gl/i77Dh2fQWSrWakdX8) | Google Maps 未取得 | 影片描述：爌肉飯65$ 小菜尾湯75$ 肉燥飯40$；很想二刷指數 5/5；豬肉榮小料理 | [6:44](https://www.youtube.com/watch?v=-g76GMBEWiI&t=404s) | 肥波開吃啦 |
 | 豬肉榮小料理 | [Google Maps](https://maps.app.goo.gl/6svX5ZpTdCW2Ac4aA) | Google Maps 未取得 | 影片描述：紅酒燴牛肉270$ 佃煮焦糖白蘿蔔100$ 岩石煙燻豬心170$ 乾煎小卷250$；很想二刷指數 4/5 | [9:34](https://www.youtube.com/watch?v=-g76GMBEWiI&t=574s) | 肥波開吃啦 |
 
-## 93. 台中美食中區篇，24小時爽吃特輯四選 !  火車站周邊好料，免出國爽吃正宗東南亞美食，酥脆炒河粉初體驗、泰北經典生牛肉、激推越式牛肉捲、中區資深汕頭火鍋  【 肥波外食記 】
+## 94. 台中美食中區篇，24小時爽吃特輯四選 !  火車站周邊好料，免出國爽吃正宗東南亞美食，酥脆炒河粉初體驗、泰北經典生牛肉、激推越式牛肉捲、中區資深汕頭火鍋  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=XpzbSXpbHg4)
 - 發布時間：1 年前；觀看次數：7萬次
@@ -1191,7 +1203,7 @@
 | Cơm Quê Ngọc Tuyền 玉泉道地越南美食 | [Google Maps](https://maps.app.goo.gl/PdmB4c6hzoP9uWHR6) | Google Maps 未取得 | 影片描述：烤越香牛肉捲300$；很想二刷指數 5/5；汕頭牛肉劉 | [6:16](https://www.youtube.com/watch?v=XpzbSXpbHg4&t=376s) | 肥波開吃啦 |
 | 汕頭牛肉劉 | [Google Maps](https://maps.app.goo.gl/YiLc4rSCsdQHr4iB8) | Google Maps 未取得 | 影片描述：牛肉切盤300$ 朱肉切盤260$ 豆皮80$；很想二刷指數 4/5 | [9:25](https://www.youtube.com/watch?v=XpzbSXpbHg4&t=565s) | 肥波開吃啦 |
 
-## 94. 林口美食地圖，24小時爽吃特輯四選 !  林口一日美食地圖，真．在地人口袋名單上交，林口特色肉燥炒麵、香濃炙燒豬耳朵、激推招牌香腸披薩、正宗炭火燒鳥 【 肥波外食記 】
+## 95. 林口美食地圖，24小時爽吃特輯四選 !  林口一日美食地圖，真．在地人口袋名單上交，林口特色肉燥炒麵、香濃炙燒豬耳朵、激推招牌香腸披薩、正宗炭火燒鳥 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=WBPjcMCEDyI)
 - 發布時間：1 年前；觀看次數：6.4萬次
@@ -1203,7 +1215,7 @@
 | 好好Chill 義式小餐館 | [Google Maps](https://maps.app.goo.gl/QpV2xRVjMbzPjLLA7) | Google Maps 未取得 | 影片描述：蜂蜜芥末台腸蒜330$ 澳洲羊肩排880$；很想二刷指數 5/5；鳥籠炭火燒鳥 | [5:35](https://www.youtube.com/watch?v=WBPjcMCEDyI&t=335s) | 肥波開吃啦 |
 | 鳥籠炭火燒鳥 | [Google Maps](https://maps.app.goo.gl/vi4h64CjpJMb77vW9) | Google Maps 未取得 | 影片描述：燈籠250$ 山葵里肌55$ 雞背皮60$ 雞翅55$ 鳥籠炸雞230$ 雞肝55$；很想二刷指數 5/5 | [9:12](https://www.youtube.com/watch?v=WBPjcMCEDyI&t=552s) | 肥波開吃啦 |
 
-## 96. 台北美食內湖篇，24小時爽吃特輯四選 !  內湖一日美食地圖，厚切滿漢牛肉麵、極濃郁雞豚拉麵、500碗認證桶仔雞、日式屋台關東煮  【 肥波外食記 】
+## 97. 台北美食內湖篇，24小時爽吃特輯四選 !  內湖一日美食地圖，厚切滿漢牛肉麵、極濃郁雞豚拉麵、500碗認證桶仔雞、日式屋台關東煮  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=8Yv64PcNHfg)
 - 發布時間：1 年前；觀看次數：7.1萬次
@@ -1215,7 +1227,7 @@
 | 碧山岩 桶仔雞 | [Google Maps](https://maps.app.goo.gl/zngzeZo4U1caSPhm8) | Google Maps 未取得 | 影片描述：桶仔雞$750 雞油馬鈴薯$100；很想二刷指數 5/5 | [7:03](https://www.youtube.com/watch?v=8Yv64PcNHfg&t=423s) | 肥波開吃啦 |
 | 屋台日式關東煮 | [Google Maps](https://maps.app.goo.gl/wnzSrW67u8qKR1VM8) | Google Maps 未取得 | 影片描述：關東煮們$380；很想二刷指數 4.5/5 | [10:15](https://www.youtube.com/watch?v=8Yv64PcNHfg&t=615s) | 肥波開吃啦 |
 
-## 97. 台南在地小吃指南，500碗推薦美食八選 ! 台灣本土版本米其林，激爽花紋牛肉湯、酥脆多汁中藥炸雞、台南肉燥飯大帝、滑嫩口感海南雞  【 肥波外食記 】
+## 98. 台南在地小吃指南，500碗推薦美食八選 ! 台灣本土版本米其林，激爽花紋牛肉湯、酥脆多汁中藥炸雞、台南肉燥飯大帝、滑嫩口感海南雞  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=XAylXEyJT34)
 - 發布時間：1 年前；觀看次數：15萬次
@@ -1231,7 +1243,7 @@
 | 水仙宮鍋燒海鮮意麵 | [Google Maps](https://maps.app.goo.gl/TCHCpoJzRWCBoyby6) | Google Maps 未取得 | 影片描述：原味鍋燒加小卷150$；很想二刷指數 4/5；下大道旗魚羹 | [16:32](https://www.youtube.com/watch?v=XAylXEyJT34&t=992s) | 肥波開吃啦 |
 | 下大道旗魚羹 | [Google Maps](https://maps.app.goo.gl/4FZPGBDuafJaZLyj9) | Google Maps 未取得 | 影片描述：米粉麵加肉80$；很想二刷指數 5/5 | [18:35](https://www.youtube.com/watch?v=XAylXEyJT34&t=1115s) | 肥波開吃啦 |
 
-## 98. 台中在地小吃指南，500碗推薦美食八選 !  台灣本土版本米其林，激推Q彈手打麵、三碗推薦蒜香拌麵、水嫩私房雞肉飯、早餐首選爆汁湯包  【 肥波外食記 】
+## 99. 台中在地小吃指南，500碗推薦美食八選 !  台灣本土版本米其林，激推Q彈手打麵、三碗推薦蒜香拌麵、水嫩私房雞肉飯、早餐首選爆汁湯包  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=9-IB3vFHgw8)
 - 發布時間：1 年前；觀看次數：18萬次
@@ -1247,7 +1259,7 @@
 | 丁記炸粿 | [Google Maps](https://maps.app.goo.gl/CBRhTodNSE9TSsi89) | Google Maps 未取得 | 影片描述：蚵嗲60$ 甜糯米糕25$ 炸香菜捲30$ 招牌辣香腸40$ 紅糟燒肉50$；很想二刷指數 5/5 | [16:03](https://www.youtube.com/watch?v=9-IB3vFHgw8&t=963s) | 肥波開吃啦 |
 | 湖南味 | [Google Maps](https://maps.app.goo.gl/xXBrgpqSeZ8WxXzq9) | Google Maps 未取得 | 影片描述：陽春麵45$ 滷味切盤450$；很想二刷指數 4.5/5 | [19:19](https://www.youtube.com/watch?v=9-IB3vFHgw8&t=1159s) | 肥波開吃啦 |
 
-## 99. 嘉義美食地圖，72小時爽吃特輯八選 !  三天兩夜嘉義爽吃攻略，溫體羊腸初體驗、德州煙燻燒烤、超在地魯熟肉大餐、激爽汕頭火鍋 【 肥波外食記 】 72 hrs Food Tour in Chiayi
+## 100. 嘉義美食地圖，72小時爽吃特輯八選 !  三天兩夜嘉義爽吃攻略，溫體羊腸初體驗、德州煙燻燒烤、超在地魯熟肉大餐、激爽汕頭火鍋 【 肥波外食記 】 72 hrs Food Tour in Chiayi
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=HntcU95x8W8)
 - 發布時間：1 年前；觀看次數：15萬次
@@ -1263,7 +1275,7 @@
 | Pizzeria CHU 朱氏披薩 | [Google Maps](https://maps.app.goo.gl/b5LbRz2czd9mhR6m8) | Google Maps 未取得 | 影片描述：大約在冬季430$ 炸海藻麵包100$；很想二刷指數 4.5/5；山越拉麵 | [20:57](https://www.youtube.com/watch?v=HntcU95x8W8&t=1257s) | 肥波開吃啦 |
 | 山越拉麵 | [Google Maps](https://maps.app.goo.gl/S89UD8u6K5uducnF8) | Google Maps 未取得 | 影片描述：黑蒜油豚骨拉麵250$ 加點角煮70$；很想二刷指數 4.5/5 | [23:37](https://www.youtube.com/watch?v=HntcU95x8W8&t=1417s) | 肥波開吃啦 |
 
-## 100. 臺北在地小吃指南，500碗推薦美食八選 !  台灣本土版本米其林，道地泰式乾冬粉、香濃牛肉咖哩配麵包、水嫩當歸豬腳、香濃川味小麵  【 肥波外食記 】
+## 101. 臺北在地小吃指南，500碗推薦美食八選 !  台灣本土版本米其林，道地泰式乾冬粉、香濃牛肉咖哩配麵包、水嫩當歸豬腳、香濃川味小麵  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=v7cXT3RbLJI)
 - 發布時間：1 年前；觀看次數：16萬次
@@ -1279,7 +1291,7 @@
 | 南港老張燒餅店 | [Google Maps](https://maps.app.goo.gl/B4aJNS1r5eg6EQzs9) | Google Maps 未取得 | 影片描述：胡椒餅50$ 糖膏酥餅25$ 芝麻酥餅25$ 小酥餅15$ 紅豆酥餅15$ 綠豆酥餅15$；很想二刷指數 4/5；老杭家麵食館 | [16:16](https://www.youtube.com/watch?v=v7cXT3RbLJI&t=976s) | 肥波開吃啦 |
 | 老杭家麵食館 | [Google Maps](https://maps.app.goo.gl/zU6aRYLzg7Gpgbda8) | Google Maps 未取得 | 影片描述：川味小麵85$ 冰糖蹄花110$ 牛腱豆干125$；很想二刷指數 5/5 | [19:17](https://www.youtube.com/watch?v=v7cXT3RbLJI&t=1157s) | 肥波開吃啦 |
 
-## 101. 台北美食中正篇，24小時爽吃特輯四選 !  中正區一日四家美食推薦，奢華生蠔炸雞堡、CP值頂天餛飩湯、膠質滿滿牛筋麵、獨享版本佛跳牆  【 肥波外食記 】ft. @EmmaSleepTaiwan
+## 102. 台北美食中正篇，24小時爽吃特輯四選 !  中正區一日四家美食推薦，奢華生蠔炸雞堡、CP值頂天餛飩湯、膠質滿滿牛筋麵、獨享版本佛跳牆  【 肥波外食記 】ft. @EmmaSleepTaiwan
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=2k43pahwieI)
 - 發布時間：1 年前；觀看次數：9.5萬次
@@ -1291,7 +1303,7 @@
 | 濟南牛肉麵 | [Google Maps](https://maps.app.goo.gl/hrcFkFiz9bLzkRbBA) | Google Maps 未取得 | 影片描述：牛筋麵250$；很想二刷指數 4/5；王記排骨酥湯 | [9:44](https://www.youtube.com/watch?v=2k43pahwieI&t=584s) | 肥波開吃啦 |
 | 王記排骨酥湯 | [Google Maps](https://maps.app.goo.gl/4VjdwNPAaZBgD2D99) | Google Maps 未取得 | 影片描述：筒仔米糕40$ 金針排骨酥湯45$ 佛跳牆95$；很想二刷指數 5/5 | [12:33](https://www.youtube.com/watch?v=2k43pahwieI&t=753s) | 肥波開吃啦 |
 
-## 103. 淡水美食地圖，24小時爽吃特輯四選 ! 淡水一日四家美食推薦，在地超夯北方麵點、意外超搭草莓乳酪漢堡、厚實爆餡紐約式貝果、直球對決沙茶羊肉  【 肥波外食記 】
+## 104. 淡水美食地圖，24小時爽吃特輯四選 ! 淡水一日四家美食推薦，在地超夯北方麵點、意外超搭草莓乳酪漢堡、厚實爆餡紐約式貝果、直球對決沙茶羊肉  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=E8A_JtbCvKY)
 - 發布時間：1 年前；觀看次數：7.2萬次
@@ -1303,7 +1315,7 @@
 | DOUBLE O’S BAGELS CAFE’ | [Google Maps](https://maps.app.goo.gl/uvHXorHpEtsf3KSg9) | Google Maps 未取得 | 影片描述：煙燻鮭魚洋蔥奶酪350$ 非常美莓200$；很想二刷指數 4/5；沙茶羊肉 | [6:06](https://www.youtube.com/watch?v=E8A_JtbCvKY&t=366s) | 肥波開吃啦 |
 | 沙茶羊肉 | [Google Maps](https://maps.app.goo.gl/D8uojQvditpbYgjKA) | Google Maps 未取得 | 影片描述：沙茶羊肉180$；很想二刷指數 4/5 | [9:05](https://www.youtube.com/watch?v=E8A_JtbCvKY&t=545s) | 肥波開吃啦 |
 
-## 104. 樹林美食地圖，24小時爽吃特輯四選 ! 樹林一日四家美食推薦，激爽九層塔羊肉飯、肉量無敵便當店、夜市浮誇起司牛排、激推手工義大利麵吧  【 肥波外食記 】
+## 105. 樹林美食地圖，24小時爽吃特輯四選 ! 樹林一日四家美食推薦，激爽九層塔羊肉飯、肉量無敵便當店、夜市浮誇起司牛排、激推手工義大利麵吧  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=21Its7lK2-4)
 - 發布時間：1 年前；觀看次數：5萬次
@@ -1315,7 +1327,7 @@
 | 樹林大眾牛排 | [Google Maps](https://maps.app.goo.gl/7tTCC4HX1wctkYEo6) | Google Maps 未取得 | 影片描述：起司牛肉多多420$ 茄汁漢堡排210$；很想二刷指數 5/5；MARCOO 手工義大利麵 | [6:03](https://www.youtube.com/watch?v=21Its7lK2-4&t=363s) | 肥波開吃啦 |
 | MARCOO 手工義大利麵 | [Google Maps](https://maps.app.goo.gl/bHjhCx9QgpirQoq68) | Google Maps 未取得 | 影片描述：墨魚麵350$ 長直麵250$ 馬鈴薯120$；很想二刷指數 6/5 | [9:14](https://www.youtube.com/watch?v=21Its7lK2-4&t=554s) | 肥波開吃啦 |
 
-## 105. 台南爽吃特輯，八家米其林推薦美食 !  8  MICHELIN Street Food in Tainan
+## 106. 台南爽吃特輯，八家米其林推薦美食 !  8  MICHELIN Street Food in Tainan
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=7J_XOzB9zMc)
 - 發布時間：1 年前；觀看次數：14萬次
@@ -1331,7 +1343,7 @@
 | 牛五蔵 - 肉鍋 x 塩ホルモン | [Google Maps](https://maps.app.goo.gl/NkpKhPq5p4anECrE8) | Google Maps 未取得 | 影片描述：牛骨鍋底150$ 主廚推薦嚴選牛1250$；很想二刷指數 4/5；開元紅燒𩵚魠魚羹 | [16:17](https://www.youtube.com/watch?v=7J_XOzB9zMc&t=977s) | 肥波開吃啦 |
 | 開元紅燒𩵚魠魚羹 | [Google Maps](https://maps.app.goo.gl/1fD14CyWUbQW2DCj6) | Google Maps 未取得 | 影片描述：紅燒土魠魚羹90$ 乾土魠魚塊100$ 肉燥飯30$；很想二刷指數 4/5 | [19:37](https://www.youtube.com/watch?v=7J_XOzB9zMc&t=1177s) | 肥波開吃啦 |
 
-## 106. 台北美食文山篇，24小時爽吃特輯四選 !  文山區一日美食地圖推薦，日式漢堡排咖哩飯、米其林認證鹹水鵝肉、景美夜市超夯雙管四神湯、激推黑金滷肉飯  【 肥波外食記 】
+## 107. 台北美食文山篇，24小時爽吃特輯四選 !  文山區一日美食地圖推薦，日式漢堡排咖哩飯、米其林認證鹹水鵝肉、景美夜市超夯雙管四神湯、激推黑金滷肉飯  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=jgAeaS4FhcM)
 - 發布時間：1 年前；觀看次數：7.4萬次
@@ -1343,7 +1355,7 @@
 | 高-雙管四神湯 | [Google Maps](https://maps.app.goo.gl/Pf6c5N9AthLEBQw2A) | Google Maps 未取得 | 影片描述：雙管四神湯70$ 油飯50$ 蚵仔麵線60$；很想二刷指數 4/5；寶杏堂手切滷肉飯 溫補羊肉湯 | [5:58](https://www.youtube.com/watch?v=jgAeaS4FhcM&t=358s) | 肥波開吃啦 |
 | 寶杏堂手切滷肉飯 溫補羊肉湯 | [Google Maps](https://maps.app.goo.gl/83NVdMsa58jyfQcK6) | Google Maps 未取得 | 影片描述：小滷加蛋55$ 羊小排湯145$；很想二刷指數 5/5 | [9:01](https://www.youtube.com/watch?v=jgAeaS4FhcM&t=541s) | 肥波開吃啦 |
 
-## 107. 全台最難訂日式吃到飽，旭集和食集錦開箱 !  九大餐區通吃起來，水嫩多汁雪蟹腳、必拿春雨揚炸蝦、激推現煎鱸魚排、日本燒酎調酒放題  【 肥波外食記 】
+## 108. 全台最難訂日式吃到飽，旭集和食集錦開箱 !  九大餐區通吃起來，水嫩多汁雪蟹腳、必拿春雨揚炸蝦、激推現煎鱸魚排、日本燒酎調酒放題  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=bzXKA0GyVBo)
 - 發布時間：1 年前；觀看次數：13萬次
@@ -1352,7 +1364,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 旭集 和食集錦 天母店 | [Google Maps](https://maps.app.goo.gl/u13wdCS3HLQ6h3Y97) | Google Maps 未取得 | 影片描述：週五晚餐場 17:30~21:00；$1690+10% | [YouTube](https://www.youtube.com/watch?v=bzXKA0GyVBo) | 肥波開吃啦 |
 
-## 108. 2024高雄米其林，八家必比登推薦美食 ! 8 Bib Gourmand MICHELIN Restaurants in Kaohsiung
+## 109. 2024高雄米其林，八家必比登推薦美食 ! 8 Bib Gourmand MICHELIN Restaurants in Kaohsiung
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=rhjO1v-_bWs)
 - 發布時間：1 年前；觀看次數：27萬次
@@ -1368,7 +1380,7 @@
 | 泰元 | [Google Maps](https://maps.app.goo.gl/ezKMMT3rCNe1Rtnh6) | Google Maps 未取得 | 影片描述：雞肉炒粿條230$ 酸辣炸雞；很想二刷指數 5/5 | [15:53](https://www.youtube.com/watch?v=rhjO1v-_bWs&t=953s) | 肥波開吃啦 |
 | 北港蔡三代筒仔米糕 | [Google Maps](https://maps.app.goo.gl/N9Hcxyo2LGhyuN1G9) | Google Maps 未取得 | 影片描述：筒仔米糕50$ 蒸蛋湯50$；很想二刷指數 4.5/5 | [18:40](https://www.youtube.com/watch?v=rhjO1v-_bWs&t=1120s) | 肥波開吃啦 |
 
-## 116. 台北美食松山篇，24小時爽吃特輯四選 ! 松山一日四家美食推薦，肉感滿點煙燻牛小排、水潤軟Q松露披薩、激推黃金麵線、蝦味滿滿海鮮飯  【 肥波外食記 】
+## 117. 台北美食松山篇，24小時爽吃特輯四選 ! 松山一日四家美食推薦，肉感滿點煙燻牛小排、水潤軟Q松露披薩、激推黃金麵線、蝦味滿滿海鮮飯  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=ePsyX2uKUZw)
 - 發布時間：1 年前；觀看次數：7.5萬次
@@ -1380,7 +1392,7 @@
 | 黃金麵線 | [Google Maps](https://maps.app.goo.gl/6xjuHRPX5nACsoYr9) | Google Maps 未取得 | 影片描述：綜合麵線80$ 小籠湯包80$；很想二刷指數 5/5 | [6:25](https://www.youtube.com/watch?v=ePsyX2uKUZw&t=385s) | 肥波開吃啦 |
 | Bottless 非瓶 | [Google Maps](https://maps.app.goo.gl/m4ATJ1jenrUPZepS7) | Google Maps 未取得 | 影片描述：炸牛排三明治980$ 馬鈴薯千層酥280$ 海鮮飯640$；很想二刷指數 4.5/5 | [9:25](https://www.youtube.com/watch?v=ePsyX2uKUZw&t=565s) | 肥波開吃啦 |
 
-## 117. 首爾美食地圖，72小時爽吃特輯八選 ! 首爾三天兩夜爽吃攻略，超夯倫敦貝果早餐、浮誇松露牛排炸醬麵、水嫩多汁炸豬菲力、梨泰院超爽美式燒烤、真的必吃馬鈴薯排骨湯 【 肥波外食記 】
+## 118. 首爾美食地圖，72小時爽吃特輯八選 ! 首爾三天兩夜爽吃攻略，超夯倫敦貝果早餐、浮誇松露牛排炸醬麵、水嫩多汁炸豬菲力、梨泰院超爽美式燒烤、真的必吃馬鈴薯排骨湯 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=bAja3N9rrMw)
 - 發布時間：1 年前；觀看次數：19萬次
@@ -1396,7 +1408,7 @@
 | 夢炭 | [Naver Map](https://naver.me/5eGT08VK) | Google Maps 未取得 | 影片描述：稻燒牛肋64000₩ 稻燒松阪17000₩ 泡菜炒飯5000₩；很想二刷指數 6/5 | [16:26](https://www.youtube.com/watch?v=bAja3N9rrMw&t=986s) | 肥波開吃啦 |
 | Manimal Smokehouse | [Naver Map](https://naver.me/F6mxlYHX) | Google Maps 未取得 | 影片描述：煙燻烤肉拼盤59000₩；很想二刷指數 6/5 | [20:05](https://www.youtube.com/watch?v=bAja3N9rrMw&t=1205s) | 肥波開吃啦 |
 
-## 118. 台東美食地圖，24小時爽吃特輯五選 ! 台東一日五家美食推薦，在地特色米苔目、激推香酥鬼頭刀、CP值頂天生魚片、酥嫩多汁炸雞腿、口感超強蔥油餅、蝦味滿滿鮮蝦蒸餃  【 肥波外食記 】
+## 119. 台東美食地圖，24小時爽吃特輯五選 ! 台東一日五家美食推薦，在地特色米苔目、激推香酥鬼頭刀、CP值頂天生魚片、酥嫩多汁炸雞腿、口感超強蔥油餅、蝦味滿滿鮮蝦蒸餃  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=KpQA9_M0lu8)
 - 發布時間：1 年前；觀看次數：7.3萬次
@@ -1409,7 +1421,7 @@
 | 黃記蔥油餅 | [Google Maps](https://maps.app.goo.gl/DRaE7hBJrt7RYLTj7) | Google Maps 未取得 | 影片描述：雙蛋蔥油餅60$；很想二刷指數 5/5 | [11:14](https://www.youtube.com/watch?v=KpQA9_M0lu8&t=674s) | 肥波開吃啦 |
 | 鄰家蒸餃 | [Google Maps](https://maps.app.goo.gl/n5wMHaD58WUJvLbh8) | Google Maps 未取得 | 影片描述：鮮肉蒸餃100$ 鮮蝦蒸餃100$；很想二刷指數 5/5 | [13:08](https://www.youtube.com/watch?v=KpQA9_M0lu8&t=788s) | 肥波開吃啦 |
 
-## 119. 台中美食南區篇，24小時爽吃特輯四選 ! 台中南區一日四家美食推薦，超夯水嫩海南雞飯、巨型鮮肉鍋貼、甘甜米醬肉圓老店、酥脆多汁鮮蚵煎餃  【 肥波外食記 】
+## 120. 台中美食南區篇，24小時爽吃特輯四選 ! 台中南區一日四家美食推薦，超夯水嫩海南雞飯、巨型鮮肉鍋貼、甘甜米醬肉圓老店、酥脆多汁鮮蚵煎餃  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=8A7goXN4FxM)
 - 發布時間：1 年前；觀看次數：6.8萬次
@@ -1421,7 +1433,7 @@
 | 南興肉圓 | [Google Maps](https://maps.app.goo.gl/iz2m2bAiMEwJMpZm8) | Google Maps 未取得 | 影片描述：肉圓兩粒80$ 麻薏湯30$；很想二刷指數 4.5/5；肉汁餃子軒 | [5:14](https://www.youtube.com/watch?v=8A7goXN4FxM&t=314s) | 肥波開吃啦 |
 | 肉汁餃子軒 | [Google Maps](https://maps.app.goo.gl/TUm31Pc4drJSGvih8) | Google Maps 未取得 | 影片描述：鮮蚵煎餃100$；很想二刷指數 5/5 | [7:24](https://www.youtube.com/watch?v=8A7goXN4FxM&t=444s) | 肥波開吃啦 |
 
-## 120. 釜山美食地圖，72小時爽吃特輯八選 ! 釜山三天兩夜美食攻略，扎嘎其市場海鮮大餐、BIFF廣場糖餅、激推味讚王烤肉、顏值頂天生醃拼盤、正宗韓味烤大腸  【 肥波外食記 】
+## 121. 釜山美食地圖，72小時爽吃特輯八選 ! 釜山三天兩夜美食攻略，扎嘎其市場海鮮大餐、BIFF廣場糖餅、激推味讚王烤肉、顏值頂天生醃拼盤、正宗韓味烤大腸  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=kwfEPqp4SK4)
 - 發布時間：1 年前；觀看次數：23萬次
@@ -1437,7 +1449,7 @@
 | 富平罐頭市場 | [Naver Map](https://naver.me/GLKAtSu5) | Google Maps 未取得 | 影片描述：很想二刷指數 4/5 | [18:06](https://www.youtube.com/watch?v=kwfEPqp4SK4&t=1086s) | 肥波開吃啦 |
 | 尾浦家 | [Naver Map](https://naver.me/501JhVCf) | Google Maps 未取得 | 影片描述：美女生醃海鮮拼盤76000₩；很想二刷指數 5/5 | [20:57](https://www.youtube.com/watch?v=kwfEPqp4SK4&t=1257s) | 肥波開吃啦 |
 
-## 121. 台中美食北區篇，24小時爽吃特輯四選 !  台中北區一日美食地圖，肥美香菜滷肉飯、激推蒜香牛肉拌麵、香酥油蔥鴨肉飯、極爽炙燒鰈魚飯捲  【 肥波外食記 】
+## 122. 台中美食北區篇，24小時爽吃特輯四選 !  台中北區一日美食地圖，肥美香菜滷肉飯、激推蒜香牛肉拌麵、香酥油蔥鴨肉飯、極爽炙燒鰈魚飯捲  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=M-tX6YEg48w)
 - 發布時間：1 年前；觀看次數：10萬次
@@ -1449,7 +1461,7 @@
 | 東沐。食在 | [Google Maps](https://maps.app.goo.gl/yzt7D6b7iUmmxfw38) | Google Maps 未取得 | 影片描述：古早味油蔥鴨肉飯80$ 紅油蒜味鴨肉乾拌麵80$；很想二刷指數 5/5；浪金生魚片 | [5:43](https://www.youtube.com/watch?v=M-tX6YEg48w&t=343s) | 肥波開吃啦 |
 | 浪金生魚片 | [Google Maps](https://maps.app.goo.gl/9PCUQxfb3Eev9dDV9) | Google Maps 未取得 | 影片描述：綜合生魚片300$ 南方黑鮪魚腹肉300$ 劍齒鰈魚蟹堡300$ 生醃赤蝦100$；很想二刷指數 6/5 | [8:17](https://www.youtube.com/watch?v=M-tX6YEg48w&t=497s) | 肥波開吃啦 |
 
-## 122. 首爾美食弘大篇，24小時爽吃特輯四選 !  弘大一日美食地圖，望遠市場美食開局、香濃羅勒起司披薩、激爽現烤白燒鰻、米其林認證鐵板羊肉  【 肥波外食記 】
+## 123. 首爾美食弘大篇，24小時爽吃特輯四選 !  弘大一日美食地圖，望遠市場美食開局、香濃羅勒起司披薩、激爽現烤白燒鰻、米其林認證鐵板羊肉  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=ZjdxO9GWXjs)
 - 發布時間：1 年前；觀看次數：11萬次
@@ -1461,7 +1473,7 @@
 | 風川鰻魚 | [Naver Map](https://naver.me/5AmfnBTN) | Google Maps 未取得 | 影片描述：白燒鰻魚套餐78000₩；很想二刷指數 5/5；一流羊肉燒烤 | [5:59](https://www.youtube.com/watch?v=ZjdxO9GWXjs&t=359s) | 肥波開吃啦 |
 | 一流羊肉燒烤 | [Naver Map](https://naver.me/FslKhSXB) | Google Maps 未取得 | 影片描述：小羔羊腿37000₩ 特選羊肉片31000₩；很想二刷指數 4.5/5；#首爾美食  #弘大美食 | [8:30](https://www.youtube.com/watch?v=ZjdxO9GWXjs&t=510s) | 肥波開吃啦 |
 
-## 123. 2024首爾米其林，連吃十家必比登推薦美食 ! 10 Bib Gourmand MICHELIN Restaurants in Seoul 미쉐린 가이드 서울 2024 【 肥波外食記 】
+## 124. 2024首爾米其林，連吃十家必比登推薦美食 ! 10 Bib Gourmand MICHELIN Restaurants in Seoul 미쉐린 가이드 서울 2024 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=4-qneWBmcUU)
 - 發布時間：1 年前；觀看次數：12萬次
@@ -1478,16 +1490,16 @@
 | Bongsanok Seocho-dong | [Naver Map](https://naver.me/xlW10bRD) | Google Maps 未取得 | 影片描述：鳳山餃子湯 13000₩ 魷魚血腸 26000₩；很想二刷指數 4.5/5；花蟹堂 | [21:58](https://www.youtube.com/watch?v=4-qneWBmcUU&t=1318s) | 肥波開吃啦 |
 | 花蟹堂 | [Naver Map](https://naver.me/Gz511hHI) | Google Maps 未取得 | 影片描述：醬油螃蟹套餐 47000₩；很想二刷指數 5/5；#首爾美食 | [24:16](https://www.youtube.com/watch?v=4-qneWBmcUU&t=1456s) | 肥波開吃啦 |
 
-## 124. 首爾三大飯店Buffet之一，近期最爽波龍巨塔吃到飽 !  鮮嫩多汁松葉蟹腿、鮭魚卵海膽丼飯無限續、現切帶骨肋眼牛排、生拌牛肉無限吃 !  【 肥波外食記 】
+## 125. 首爾三大飯店Buffet之一，近期最爽波龍巨塔吃到飽 !  鮮嫩多汁松葉蟹腿、鮭魚卵海膽丼飯無限續、現切帶骨肋眼牛排、生拌牛肉無限吃 !  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=d3DS1va2ygg)
-- 發布時間：1 年前；觀看次數：5.2萬次
+- 發布時間：2 年前；觀看次數：5.2萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
 | Aria 아리아 | [Naver Map](https://naver.me/ForRtmAE) | Google Maps 未取得 | 影片描述：週一至周四 晚餐場 (17:30~21:30)；190,000₩/人；#首爾美食 | [YouTube](https://www.youtube.com/watch?v=d3DS1va2ygg) | 肥波開吃啦 |
 
-## 125. 2024釜山米其林，連吃十家必比登推介美食 !  10 Bib Gourmand MICHELIN Restaurants in Busan 미쉐린 가이드 부산 2024  【 肥波外食記 】
+## 126. 2024釜山米其林，連吃十家必比登推介美食 !  10 Bib Gourmand MICHELIN Restaurants in Busan 미쉐린 가이드 부산 2024  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=kZTtWLTTFkU)
 - 發布時間：2 年前；觀看次數：9.2萬次
@@ -1505,7 +1517,7 @@
 | 刈包家 Bao Haus 바오하우스 | [Naver Map](https://naver.me/5dxyugxh) | Google Maps 未取得 | 影片描述：五花刈包5000$ 麻婆豆腐炒飯16900$；很想二刷指數 4/5 | [22:08](https://www.youtube.com/watch?v=kZTtWLTTFkU&t=1328s) | 肥波開吃啦 |
 | 야키토리 온정 溫情 | [Naver Map](https://naver.me/Gd6knBxD) | Google Maps 未取得 | 影片描述：燒鳥套餐27000$；很想二刷指數 5/5；#釜山美食 | [24:29](https://www.youtube.com/watch?v=kZTtWLTTFkU&t=1469s) | 肥波開吃啦 |
 
-## 126. 台中美食西區篇，24小時爽吃特輯四選 ! 台中西區一日美食地圖，鮮味滿滿干貝湯包、第五市場超夯蚵仔粥、激推椒麻蜂蜜炸雞、厚切酥嫩牛舌根 【 肥波外食記 】
+## 127. 台中美食西區篇，24小時爽吃特輯四選 ! 台中西區一日美食地圖，鮮味滿滿干貝湯包、第五市場超夯蚵仔粥、激推椒麻蜂蜜炸雞、厚切酥嫩牛舌根 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=VpPxVauXDN4)
 - 發布時間：2 年前；觀看次數：9萬次
@@ -1517,7 +1529,7 @@
 | 六豊 | [Google Maps](https://maps.app.goo.gl/JEt5sNJevnEfp5FW7) | Google Maps 未取得 | 影片描述：究極蝦蝦麵360$ 椒麻蜂蜜炸雞120$；很想二刷指數 6/5；燒肉本氣；台中市西區華美西街一段32號 (這是新店的地址) | [5:53](https://www.youtube.com/watch?v=VpPxVauXDN4&t=353s) | 肥波開吃啦 |
 | 台中市西區華美西街一段32號 (這是新店的地址) | [Google Maps](https://maps.app.goo.gl/jYUDGYubSoR1MqDu6) | Google Maps 未取得 | 影片描述：很想二刷指數 4.5/5 | [8:41](https://www.youtube.com/watch?v=VpPxVauXDN4&t=521s) | 肥波開吃啦 |
 
-## 127. 美福彩匯自助餐，期間限定炙味火烤季菜色開箱 ! $1900 爽吃三小時，蝦蛄、和牛、胭脂蝦吃到飽，激推酪梨鮭魚散壽司丼，爐烤牛排也超強 ! 【 肥波外食記 】
+## 128. 美福彩匯自助餐，期間限定炙味火烤季菜色開箱 ! $1900 爽吃三小時，蝦蛄、和牛、胭脂蝦吃到飽，激推酪梨鮭魚散壽司丼，爐烤牛排也超強 ! 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=vA3IDHAr-OM)
 - 發布時間：2 年前；觀看次數：8.6萬次
@@ -1526,7 +1538,7 @@
 | --- | --- | --- | --- | --- | --- |
 | palette 彩匯自助餐廳 | [Google Maps](https://maps.app.goo.gl/mgEoH5aFwwAZCuU67) | Google Maps 未取得 | 影片描述欄列為本集店家，未擷取到更細部心得。 | [YouTube](https://www.youtube.com/watch?v=vA3IDHAr-OM) | 肥波開吃啦 |
 
-## 128. 台中美食西屯篇，24小時爽吃特輯四選 ! 西屯一日美食地圖，米其林認證脆皮櫻桃鴨、超夯干貝義大利麵、激推職人燒鳥居酒屋、在地宵夜台味快炒 【 肥波外食記 】
+## 129. 台中美食西屯篇，24小時爽吃特輯四選 ! 西屯一日美食地圖，米其林認證脆皮櫻桃鴨、超夯干貝義大利麵、激推職人燒鳥居酒屋、在地宵夜台味快炒 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=khX7bvMrFls)
 - 發布時間：2 年前；觀看次數：9.6萬次
@@ -1538,7 +1550,7 @@
 | 月酉 炭火串燒·割烹 KUSHIYAKI 居酒屋 | [Google Maps](https://maps.app.goo.gl/gNN4Rtq27DmjGzwt8) | Google Maps 未取得 | 影片描述：厚切和牛牛舌480$ 月見烤肉丸90$ 紋甲烏賊150$ 海膽麵420$ 雞肝70$ 雞頸肉120$；很想二刷指數 5/5；好小子擔仔麵 | [8:15](https://www.youtube.com/watch?v=khX7bvMrFls&t=495s) | 肥波開吃啦 |
 | 好小子擔仔麵 | [Google Maps](https://maps.app.goo.gl/rHekNWYhqD6gvCRc9) | Google Maps 未取得 | 影片描述：擔仔麵35$ 紅燒肉80$ 煎豬肝130$；很想二刷指數 5/5 | [13:13](https://www.youtube.com/watch?v=khX7bvMrFls&t=793s) | 肥波開吃啦 |
 
-## 129. 高雄美食左營篇，24小時爽吃特輯四選 ! 左營一日美食地圖，口感超優羅馬披薩、泰味滿滿酸辣船麵、極濃郁蝦味沾麵、激推港式燒臘拼盤  【 肥波外食記 】 ft.​⁠船井生醫
+## 130. 高雄美食左營篇，24小時爽吃特輯四選 ! 左營一日美食地圖，口感超優羅馬披薩、泰味滿滿酸辣船麵、極濃郁蝦味沾麵、激推港式燒臘拼盤  【 肥波外食記 】 ft.​⁠船井生醫
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=RSRi9yRUgTc)
 - 發布時間：2 年前；觀看次數：6.7萬次
@@ -1550,7 +1562,7 @@
 | Menya kama 麵屋竈 | [Google Maps](https://maps.app.goo.gl/SmGMFDmgbajF7nKG8) | Google Maps 未取得 | 影片描述：濃厚海老沾麵300$；很想二刷指數 4.5/5；尖東林記燒臘 | [12:10](https://www.youtube.com/watch?v=RSRi9yRUgTc&t=730s) | 肥波開吃啦 |
 | 尖東林記燒臘 | [Google Maps](https://maps.app.goo.gl/ZBcV78gm8kuqVkZa7) | Google Maps 未取得 | 影片描述：燒味三拼480$；很想二刷指數 5/5 | [15:07](https://www.youtube.com/watch?v=RSRi9yRUgTc&t=907s) | 肥波開吃啦 |
 
-## 130. 台北美食中山篇，24小時爽吃特輯四選 ! 中山區一日美食地圖推薦，肉感十足涼麵早餐、超夯貝系白松露雞湯拉麵、限量款大腸頭圈、米其林認證牛舌丼飯 【 肥波外食記 】
+## 131. 台北美食中山篇，24小時爽吃特輯四選 ! 中山區一日美食地圖推薦，肉感十足涼麵早餐、超夯貝系白松露雞湯拉麵、限量款大腸頭圈、米其林認證牛舌丼飯 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=CSwHCmFOAUo)
 - 發布時間：2 年前；觀看次數：9.1萬次
@@ -1562,7 +1574,7 @@
 | 巷仔內大腸煎 | [Google Maps](https://maps.app.goo.gl/tWABrqPq8d7UMCj98) | Google Maps 未取得 | 影片描述：大腸頭圈70$ 香菇肉羹50$；很想二刷指數 4.5/5 | [6:25](https://www.youtube.com/watch?v=CSwHCmFOAUo&t=385s) | 肥波開吃啦 |
 | YORUよる_by Dennis Wang | [Google Maps](https://maps.app.goo.gl/GkiAnW7Fhi5hPzKB6) | Google Maps 未取得 | 影片描述：窯燒牛舌定食880$ 窯燒牛肋條300$；很想二刷指數 5/5 | [9:04](https://www.youtube.com/watch?v=CSwHCmFOAUo&t=544s) | 肥波開吃啦 |
 
-## 131. 全台唯一泰式海鮮吃到飽，泰市場2.0爽吃開箱 ! 三大餐區菜色介紹，激爽甜蝦干貝天使蝦、大推現切爐烤牛排、鮮甜松葉蟹腿、各種泰味炸物熟食 【 肥波外食記 】
+## 132. 全台唯一泰式海鮮吃到飽，泰市場2.0爽吃開箱 ! 三大餐區菜色介紹，激爽甜蝦干貝天使蝦、大推現切爐烤牛排、鮮甜松葉蟹腿、各種泰味炸物熟食 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=XRmi-MAmeTA)
 - 發布時間：2 年前；觀看次數：8.5萬次
@@ -1571,7 +1583,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 泰市場 大直英迪格店 | [Google Maps](https://maps.app.goo.gl/Vn45xKAdXDsrBRS66) | Google Maps 未取得 | 影片描述：很想二刷指數 4/5 | [YouTube](https://www.youtube.com/watch?v=XRmi-MAmeTA) | 肥波開吃啦 |
 
-## 132. 台北美食萬華篇，24小時爽吃特輯四選 ! 萬華一日美食地圖，必比登推薦牛肉麵三吃、南機場夜市激爽滷肉飯、超酥脆皮蚵仔煎、西門巷內職人燒鳥 【 肥波外食記 】ft.@@DoubleLife_TW
+## 133. 台北美食萬華篇，24小時爽吃特輯四選 ! 萬華一日美食地圖，必比登推薦牛肉麵三吃、南機場夜市激爽滷肉飯、超酥脆皮蚵仔煎、西門巷內職人燒鳥 【 肥波外食記 】ft.@@DoubleLife_TW
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=3nTm5glUPEU)
 - 發布時間：2 年前；觀看次數：13萬次
@@ -1583,7 +1595,7 @@
 | 廣州街夜市脆皮蚵仔煎 | [Google Maps](https://maps.app.goo.gl/GhxX8B75agQv2PvM8) | Google Maps 未取得 | 影片描述：蚵仔煎80$ 乾蚵150$；很想二刷指數 5/5；隆次郎燒鳥.串燒 | [8:02](https://www.youtube.com/watch?v=3nTm5glUPEU&t=482s) | 肥波開吃啦 |
 | 隆次郎燒鳥.串燒 | [Google Maps](https://maps.app.goo.gl/9hoUZCJEy7E8eFDG8) | Google Maps 未取得 | 影片描述：雞柳80$ 雞肉丸90$ 雞脖子90$ 雞心70$ 雞肝70$ 雞菲力100$ 雞佛110$ 雞生蠔120$；很想二刷指數 5/5 | [10:00](https://www.youtube.com/watch?v=3nTm5glUPEU&t=600s) | 肥波開吃啦 |
 
-## 133. 桃園最貴燒肉放題 !  $2680/120分，激爽A5和牛肋眼、神戶紅酒板腱牛、厚切澳洲牛舌自由、玫瑰龍蝦吃到飽 !【 肥波外食記 】
+## 134. 桃園最貴燒肉放題 !  $2680/120分，激爽A5和牛肋眼、神戶紅酒板腱牛、厚切澳洲牛舌自由、玫瑰龍蝦吃到飽 !【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=jnefLKZd2SY)
 - 發布時間：2 年前；觀看次數：8.6萬次
@@ -1592,7 +1604,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 一生燒肉 | [Google Maps](https://maps.app.goo.gl/ETrCUbpobUpLRNgE8) | Google Maps 未取得 | 影片描述：尊爵方案 2680$/120分 | [YouTube](https://www.youtube.com/watch?v=jnefLKZd2SY) | 肥波開吃啦 |
 
-## 134. 台中美食地圖，神岡區爽吃特輯四選 ! 神岡一日美食地圖推薦，激爽宵夜串燒大餐、肥美綿密腿庫飯、在地超夯越南小吃、啃食超爽燉大骨  【 肥波外食記 】
+## 135. 台中美食地圖，神岡區爽吃特輯四選 ! 神岡一日美食地圖推薦，激爽宵夜串燒大餐、肥美綿密腿庫飯、在地超夯越南小吃、啃食超爽燉大骨  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=qiE_Iy3-O9o)
 - 發布時間：2 年前；觀看次數：4.5萬次
@@ -1604,7 +1616,7 @@
 | Pho Long越南小吃店 | [Google Maps](https://maps.app.goo.gl/b4BbnNdTY5g8DnuF6) | Google Maps 未取得 | 影片描述：什錦牛河粉140$ 烤肉醬45$；很想二刷指數 4.5/5 | [8:25](https://www.youtube.com/watch?v=qiE_Iy3-O9o&t=505s) | 肥波開吃啦 |
 | 風飛沙小吃店 | [Google Maps](https://maps.app.goo.gl/Xa5WA5KW6mAh7Lb18) | Google Maps 未取得 | 影片描述：鹹酥鴨180$ 燉大骨65$ 臭豆腐50$；很想二刷指數 4/5 | [11:06](https://www.youtube.com/watch?v=qiE_Iy3-O9o&t=666s) | 肥波開吃啦 |
 
-## 135. 東京近郊橫濱一日遊，24小時爽吃特輯四選 ! 中華街港點吃到飽、超肥美牡蠣粥、激推熟成黑毛和牛排、CP值頂天海味義式餐酒館  【 肥波外食記 】
+## 136. 東京近郊橫濱一日遊，24小時爽吃特輯四選 ! 中華街港點吃到飽、超肥美牡蠣粥、激推熟成黑毛和牛排、CP值頂天海味義式餐酒館  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=BFYHFHgnNlI)
 - 發布時間：2 年前；觀看次數：5.1萬次
@@ -1616,7 +1628,7 @@
 | 熟成和牛ステーキグリルド エイジング・ビーフ 横浜店 | [Google Maps](https://maps.app.goo.gl/RJNbguHTYQP1KEwd8) | Google Maps 未取得 | 影片描述：Sirloin3267¥ Maki2904¥ Hon-Misuzi3025¥；很想二指數 5/5 | [7:26](https://www.youtube.com/watch?v=BFYHFHgnNlI&t=446s) | 肥波開吃啦 |
 | TRATTORIA DA KENZO | [Google Maps](https://maps.app.goo.gl/3xS5eXDmo6XdZZzr6) | Google Maps 未取得 | 影片描述：主廚套餐9900¥；很想二刷指數 5/5 | [10:20](https://www.youtube.com/watch?v=BFYHFHgnNlI&t=620s) | 肥波開吃啦 |
 
-## 136. 東京近郊茨城縣，72小時爽吃特輯EP.2 ! 超巨大現開生蠔、CP值頂天迴轉壽司、激爽常陸牛拼盤、安康魚火鍋初體驗、外酥內綿炸豬排  【 肥波外食記 】
+## 137. 東京近郊茨城縣，72小時爽吃特輯EP.2 ! 超巨大現開生蠔、CP值頂天迴轉壽司、激爽常陸牛拼盤、安康魚火鍋初體驗、外酥內綿炸豬排  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=JESKzVxsuC0)
 - 發布時間：2 年前；觀看次數：4萬次
@@ -1629,7 +1641,7 @@
 | 元祖あんこう鍋 山翠 | [Google Maps](https://maps.app.goo.gl/ccCb9TEo2fBi58tG7) | Google Maps 未取得 | 影片描述：安康魚火鍋4100¥ 醬漬安康魚肝1800¥ 納豆天婦羅600¥；很想二刷指數 4.5/5 | [8:28](https://www.youtube.com/watch?v=JESKzVxsuC0&t=508s) | 肥波開吃啦 |
 | 箸できれるとんかつのお店みねお | [Google Maps](https://maps.app.goo.gl/uahL46pwXiyGQF5z6) | Google Maps 未取得 | 影片描述：納豆炸豬排定食1550¥ 炸東坡肉1800¥；很想二刷指數 4.5/5 | [11:59](https://www.youtube.com/watch?v=JESKzVxsuC0&t=719s) | 肥波開吃啦 |
 
-## 137. 東京近郊茨城縣，四天三夜自由行攻略 !  茨城必吃能量拉麵、在地特有常陸牛、深山賞櫻必逛景點、礁岩上絕美鳥居  【 肥波外食記 】 ft.@tigerairtaiwan6854
+## 138. 東京近郊茨城縣，四天三夜自由行攻略 !  茨城必吃能量拉麵、在地特有常陸牛、深山賞櫻必逛景點、礁岩上絕美鳥居  【 肥波外食記 】 ft.@tigerairtaiwan6854
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=h41_A2fWRYE)
 - 發布時間：2 年前；觀看次數：4萬次
@@ -1640,7 +1652,7 @@
 | IBARAKI MEAT. | [Google Maps](https://maps.app.goo.gl/MDt4bBGuDhB8jqem7) | Google Maps 未取得 | 影片描述：舒肥常陸牛重 1890¥ 常陸牛雙拼4200¥；很想二刷指數 4.5/5 | [3:57](https://www.youtube.com/watch?v=h41_A2fWRYE&t=237s) | 肥波開吃啦 |
 | 蕎麦処みかわ | [Google Maps](https://maps.app.goo.gl/pzxryacGUvudS3T26) | Google Maps 未取得 | 影片描述：鴨湯蕎麥麵1450¥ かき揚げ丼600¥；很想二刷指數 4/5 | [11:51](https://www.youtube.com/watch?v=h41_A2fWRYE&t=711s) | 肥波開吃啦 |
 
-## 138. 2024東京米其林，八家必比登推介美食 !  8 Bib Gourmand MICHELIN Restaurants in Tokyo
+## 139. 2024東京米其林，八家必比登推介美食 !  8 Bib Gourmand MICHELIN Restaurants in Tokyo
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=bqEStaNHMV8)
 - 發布時間：2 年前；觀看次數：28萬次
@@ -1656,7 +1668,7 @@
 | 銀座かつかみ | [Google Maps](https://maps.app.goo.gl/sMvQZ7A9APdMdmwn8) | Google Maps 未取得 | 影片描述：炸豬排套餐6500¥；很想二刷指數 4/5 | [17:08](https://www.youtube.com/watch?v=bqEStaNHMV8&t=1028s) | 肥波開吃啦 |
 | わたべ | [Google Maps](https://maps.app.goo.gl/u2sXoPSvxm8AtctJ7) | Google Maps 未取得 | 影片描述：雙拼鰻重三吃8250¥ 鰻魚玉子燒1800¥；很想二刷指數 4/5 | [21:11](https://www.youtube.com/watch?v=bqEStaNHMV8&t=1271s) | 肥波開吃啦 |
 
-## 139. 東京美食地圖，中目黑爽吃特輯四選 ! 香濃鵝肝親子丼、激推水潤瑪格莉特、薄皮酥脆屋台餃子、親民和牛燒肉百名店、全球唯六星巴克  【 肥波外食記 】
+## 140. 東京美食地圖，中目黑爽吃特輯四選 ! 香濃鵝肝親子丼、激推水潤瑪格莉特、薄皮酥脆屋台餃子、親民和牛燒肉百名店、全球唯六星巴克  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=UmzMmn1A8uQ)
 - 發布時間：2 年前；觀看次數：8萬次
@@ -1669,7 +1681,7 @@
 | えびすの安兵衛 | [Google Maps](https://maps.app.goo.gl/p4hqbLjrKqMwTUsU7) | Google Maps 未取得 | 影片描述：燒餃子495¥ 水餃子528¥ 叉燒切盤528¥ 竹輪小黃瓜506¥；很想二刷指數 4.5/5 | [8:12](https://www.youtube.com/watch?v=UmzMmn1A8uQ&t=492s) | 肥波開吃啦 |
 | ビーフキッチン 中目黒本店 | [Google Maps](https://maps.app.goo.gl/KknKhfquzDZp8oV46) | Google Maps 未取得 | 影片描述：燒肉套餐6400¥；很想二刷指數 5/5 | [10:59](https://www.youtube.com/watch?v=UmzMmn1A8uQ&t=659s) | 肥波開吃啦 |
 
-## 140. 台北美食地圖，爽吃日料特輯三選 !  一日三餐都吃日本料理，米其林一星和牛燒肉、激推日式精緻鍋物、浮誇系海味居酒屋  【 肥波外食記 】ft.@cathayunitedbank
+## 141. 台北美食地圖，爽吃日料特輯三選 !  一日三餐都吃日本料理，米其林一星和牛燒肉、激推日式精緻鍋物、浮誇系海味居酒屋  【 肥波外食記 】ft.@cathayunitedbank
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=2Zp4LF3HdZQ)
 - 發布時間：2 年前；觀看次數：7.3萬次
@@ -1680,7 +1692,7 @@
 | 二本松涮涮屋 本館 | [Google Maps](https://maps.app.goo.gl/N8CK6BHP2143HJsF6) | Google Maps 未取得 | 影片描述：頂級日式壽喜燒套餐2280$；很想二刷指數 6/5；魚君 さかなくん 總本店 | [6:18](https://www.youtube.com/watch?v=2Zp4LF3HdZQ&t=378s) | 肥波開吃啦 |
 | 魚君 さかなくん 總本店 | [Google Maps](https://maps.app.goo.gl/2mJu23D4Q6zpxiu98) | Google Maps 未取得 | 影片描述：UNIKU丼590$ 炸牛排三明治580$ 帆立貝漢堡290$；很想二刷指數 4/5 | [11:43](https://www.youtube.com/watch?v=2Zp4LF3HdZQ&t=703s) | 肥波開吃啦 |
 
-## 141. 全台最難訂吃到飽，文華cafe周末午間鮮吃吧開箱 ! 等了三個月才吃到的Buffet，米其林一星粵菜吃到飽、超頂奢華海鮮吧、激推火焰蛋糕秀 【 肥波外食記 】
+## 142. 全台最難訂吃到飽，文華cafe周末午間鮮吃吧開箱 ! 等了三個月才吃到的Buffet，米其林一星粵菜吃到飽、超頂奢華海鮮吧、激推火焰蛋糕秀 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=8LlmqBolTEg)
 - 發布時間：2 年前；觀看次數：16萬次
@@ -1689,10 +1701,10 @@
 | --- | --- | --- | --- | --- | --- |
 | 文華 Café | [Google Maps](https://maps.app.goo.gl/Y2AshDk9FnfFvBtg6) | Google Maps 未取得 | 影片描述：訂位在這邊不是業配，要吃海鮮吧的記得要找五六日午餐場 | [YouTube](https://www.youtube.com/watch?v=8LlmqBolTEg) | 肥波開吃啦 |
 
-## 142. 台北美食士林篇，24小時爽吃特輯四選 ! 士林一日美食地圖推薦，激推韓式中華料理、中西融合麵疙瘩、天母義式餐酒館、台味豚骨醬油拉麵  【 肥波外食記 】
+## 143. 台北美食士林篇，24小時爽吃特輯四選 ! 士林一日美食地圖推薦，激推韓式中華料理、中西融合麵疙瘩、天母義式餐酒館、台味豚骨醬油拉麵  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=s5hqKCoj2nw)
-- 發布時間：2 年前；觀看次數：8.5萬次
+- 發布時間：2 年前；觀看次數：8.6萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -1701,7 +1713,7 @@
 | DiVino Enoteca | [Google Maps](https://maps.app.goo.gl/aXjhnxdtR5wNog8S8) | Google Maps 未取得 | 影片描述：炭烤章魚腳580$ 千層麵420$；很想二刷指數 4.5/5 | [5:49](https://www.youtube.com/watch?v=s5hqKCoj2nw&t=349s) | 肥波開吃啦 |
 | CHILL RAMEN | [Google Maps](https://maps.app.goo.gl/3ehuenJyjfgWGiJa6) | Google Maps 未取得 | 影片描述：遠東橋醬油拉麵280$；很想二刷指數 4.5/5 | [8:25](https://www.youtube.com/watch?v=s5hqKCoj2nw&t=505s) | 肥波開吃啦 |
 
-## 143. 桃園美食地圖，24小時爽吃特輯四選 ! 桃園一日美食推薦，滿滿起司松露披薩、桃園肉圓代表、道地越南蝦餅、激推下飯神器咖哩炒蝦 【 肥波外食記 】
+## 144. 桃園美食地圖，24小時爽吃特輯四選 ! 桃園一日美食推薦，滿滿起司松露披薩、桃園肉圓代表、道地越南蝦餅、激推下飯神器咖哩炒蝦 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=x0ftZFpj8Lw)
 - 發布時間：2 年前；觀看次數：10萬次
@@ -1713,7 +1725,7 @@
 | 頭頓煎蝦餅 | [Google Maps](https://maps.app.goo.gl/HBKi9s4EUQRPnMiJ8) | Google Maps 未取得 | 影片描述：煎蝦餅120$；很想二刷指數 4.5/5 | [5:42](https://www.youtube.com/watch?v=x0ftZFpj8Lw&t=342s) | 肥波開吃啦 |
 | 詠順小吃 | [Google Maps](https://maps.app.goo.gl/xQcF9KRwEP76mjQk8) | Google Maps 未取得 | 影片描述：咖哩炒蝦300$ 瀑布牛肉250$；很想二刷指數 4/5 | [8:17](https://www.youtube.com/watch?v=x0ftZFpj8Lw&t=497s) | 肥波開吃啦 |
 
-## 144. 三重美食地圖，24小時爽吃特輯四選 ! 三重一日美食推薦，超夯滷腿庫大王、爆汁餡餅攤車、鮮嫩溫體牛肉鍋、正宗印尼沙嗲  【 肥波外食記 】
+## 145. 三重美食地圖，24小時爽吃特輯四選 ! 三重一日美食推薦，超夯滷腿庫大王、爆汁餡餅攤車、鮮嫩溫體牛肉鍋、正宗印尼沙嗲  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=TUhKnKoiAPQ)
 - 發布時間：2 年前；觀看次數：12萬次
@@ -1725,7 +1737,7 @@
 | 牛鍋涮牛肉 | [Google Maps](https://maps.app.goo.gl/fWFfLZJxTqJMaXWG7) | Google Maps 未取得 | 影片描述：頂級油花牛450$ 牛舌350$；很想二刷指數 3.5/5 | [6:40](https://www.youtube.com/watch?v=TUhKnKoiAPQ&t=400s) | 肥波開吃啦 |
 | SuperSate (超級沙爹） | [Google Maps](https://maps.app.goo.gl/B4tNbPFB7MGZTA3w7) | Google Maps 未取得 | 影片描述：雞肉沙嗲330$ 牛肉沙嗲380$；很想二刷指數 4/5 | [8:47](https://www.youtube.com/watch?v=TUhKnKoiAPQ&t=527s) | 肥波開吃啦 |
 
-## 145. 漢來集團全新吃到飽，島語自助餐廳 ISLAND BUFFET ，八大餐區完整開箱，四小時爽吃攻略，綿密化口炙燒鰭邊、大推焦糖鳳梨、鮮嫩鱈場蟹腿 【 肥波開吃啦 】
+## 146. 漢來集團全新吃到飽，島語自助餐廳 ISLAND BUFFET ，八大餐區完整開箱，四小時爽吃攻略，綿密化口炙燒鰭邊、大推焦糖鳳梨、鮮嫩鱈場蟹腿 【 肥波開吃啦 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=h3Wi3KhD9cQ)
 - 發布時間：2 年前；觀看次數：14萬次
@@ -1734,7 +1746,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 島語自助餐廳 ISLAND BUFFET RESTAURANT | [Google Maps](https://maps.app.goo.gl/K15LEuitNcBegM8g9) | Google Maps 未取得 | 影片描述：平日晚餐 1790$+10% | [YouTube](https://www.youtube.com/watch?v=h3Wi3KhD9cQ) | 肥波開吃啦 |
 
-## 146. 台北美食地圖，信義區爽吃特輯四選 ! 正宗土耳其料理、極濃鴨白湯拉麵、台北雞湯大帝、暖胃聖品厚切麻油腰花  【 肥波開吃啦 】
+## 147. 台北美食地圖，信義區爽吃特輯四選 ! 正宗土耳其料理、極濃鴨白湯拉麵、台北雞湯大帝、暖胃聖品厚切麻油腰花  【 肥波開吃啦 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Fq94jAYfo0U)
 - 發布時間：2 年前；觀看次數：6.4萬次
@@ -1746,7 +1758,7 @@
 | 雞窩餐廳 | [Google Maps](https://maps.app.goo.gl/HMuXzfNoSrcsC16VA) | Google Maps 未取得 | 影片描述：砂鍋土雞湯400$ 京醬牛肉絲200$ 雞汁蔥餅70$；很想二刷指數 4/5 | [6:44](https://www.youtube.com/watch?v=Fq94jAYfo0U&t=404s) | 肥波開吃啦 |
 | 施家麻油腰花 | [Google Maps](https://maps.app.goo.gl/aw737ycURb8DkY2H6) | Google Maps 未取得 | 影片描述：麻油雞湯170$ 麻油腰花湯150$；很想二刷指數 4.5/5 | [9:34](https://www.youtube.com/watch?v=Fq94jAYfo0U&t=574s) | 肥波開吃啦 |
 
-## 147. 中壢美食地圖，24小時爽吃特輯四選 ! 全台最難訂溫體羊肉鍋、龍岡必備眷村米干、超高CP值炸豬排咖哩、巷內激爽海鮮丼  【 肥波外食記 】
+## 148. 中壢美食地圖，24小時爽吃特輯四選 ! 全台最難訂溫體羊肉鍋、龍岡必備眷村米干、超高CP值炸豬排咖哩、巷內激爽海鮮丼  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=a5VppaVR3ko)
 - 發布時間：2 年前；觀看次數：7.9萬次
@@ -1758,7 +1770,7 @@
 | 樹太郎 | [Google Maps](https://maps.app.goo.gl/ntgWz2pZchd2T9BYA) | Google Maps 未取得 | 影片描述：炸豬排咖哩190$ 炸蝦50$；很想二刷指數 4/5；墨sumi 海鮮丼ぶり | [7:22](https://www.youtube.com/watch?v=a5VppaVR3ko&t=442s) | 肥波開吃啦 |
 | 墨sumi 海鮮丼ぶり | [Google Maps](https://maps.app.goo.gl/wskGpwtZh29yvdj59) | Google Maps 未取得 | 影片描述：海膽牛肉丼720$ 奢華的蛋180$；很想二刷指數 4/5 | [9:50](https://www.youtube.com/watch?v=a5VppaVR3ko&t=590s) | 肥波開吃啦 |
 
-## 148. 台北美食地圖，大安區爽吃特輯四選 ! 激爽和牛火鍋吃到飽、口感超強酸種披薩、米其林認證龍蝦牛排館、極度軟嫩舒肥牛  【 肥波外食記 】
+## 149. 台北美食地圖，大安區爽吃特輯四選 ! 激爽和牛火鍋吃到飽、口感超強酸種披薩、米其林認證龍蝦牛排館、極度軟嫩舒肥牛  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=BctNyo3dE6c)
 - 發布時間：2 年前；觀看次數：10萬次
@@ -1770,7 +1782,7 @@
 | Le Blanc | [Google Maps](https://maps.app.goo.gl/bqQs9UVR3ZLuRevGA) | Google Maps 未取得 | 影片描述：特級肋眼牛排15004 半隻波士頓龍蝦850$；很想二刷指數 4.5/5 | [9:50](https://www.youtube.com/watch?v=BctNyo3dE6c&t=590s) | 肥波開吃啦 |
 | Fa Burger | [Google Maps](https://maps.app.goo.gl/PC9vqcRwGBMyMUJX9) | Google Maps 未取得 | 影片描述：帶骨牛小排雙拼600$；很想二刷指數 5/5 | [13:50](https://www.youtube.com/watch?v=BctNyo3dE6c&t=830s) | 肥波開吃啦 |
 
-## 149. 台南美食中西區篇，24小時爽吃特輯五選 ! 國華街超夯乳酪塔、私心最愛肉燥飯、鮮嫩厚切牛肉湯、巷內老屋和牛燒肉、脆Q豬心冬粉宵夜  【 肥波外食記 】
+## 150. 台南美食中西區篇，24小時爽吃特輯五選 ! 國華街超夯乳酪塔、私心最愛肉燥飯、鮮嫩厚切牛肉湯、巷內老屋和牛燒肉、脆Q豬心冬粉宵夜  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=byI0h05HKQ0)
 - 發布時間：2 年前；觀看次數：9.6萬次
@@ -1783,7 +1795,7 @@
 | PANKOKO 和牛熟成會所 | [Google Maps](https://maps.app.goo.gl/FKyLPU694321peG4A) | Google Maps 未取得 | 影片描述：胖哥精選和牛盛合 4080$ 月見和牛油拌飯 100$ 雲丹生牛肉捲 300$ 極上厚切牛舌根；12$/g；很想二刷指數 4.5/5 TIME CODE 9:45；享味豚肉 | [9:45](https://www.youtube.com/watch?v=byI0h05HKQ0&t=585s) | 肥波開吃啦 |
 | 享味豚肉 | [Google Maps](https://maps.app.goo.gl/wLtcFYKNkhMw4JbH7) | Google Maps 未取得 | 影片描述：蒜香豬腳 130$ 豬心冬粉 70$；很想二刷指數 4/5 TIME CODE 14:56 | [14:56](https://www.youtube.com/watch?v=byI0h05HKQ0&t=896s) | 肥波開吃啦 |
 
-## 150. 板橋美食地圖，24小時爽吃特輯四選 ! 板橋一日美食地圖推薦，巷內日式家常菜、顏值頂天牛排漢堡、裕民夜市爆汁湯包、激爽黑金滷肉飯 【 肥波外食記 】
+## 151. 板橋美食地圖，24小時爽吃特輯四選 ! 板橋一日美食地圖推薦，巷內日式家常菜、顏值頂天牛排漢堡、裕民夜市爆汁湯包、激爽黑金滷肉飯 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=O4EPUoNfU74)
 - 發布時間：2 年前；觀看次數：14萬次
@@ -1795,7 +1807,7 @@
 | 巷口湯包 | [Google Maps](https://maps.app.goo.gl/yuVeEaoNmAaqZUux7) | Google Maps 未取得 | 影片描述：小籠湯包80$ 蝦仁燒賣110$；很想二刷指數 4/5；大碗公當歸羊肉 | [5:41](https://www.youtube.com/watch?v=O4EPUoNfU74&t=341s) | 肥波開吃啦 |
 | 大碗公當歸羊肉 | [Google Maps](https://maps.app.goo.gl/R934aGC3SjJrbgvo9) | Google Maps 未取得 | 影片描述：羊腳筋湯160$ 滷肉飯30$；很想二刷指數 5/5 | [7:42](https://www.youtube.com/watch?v=O4EPUoNfU74&t=462s) | 肥波開吃啦 |
 
-## 151. 2023高雄米其林，連吃八家必比登推介美食 !  無菜單台菜初體驗、三民區超夯鴨肉飯、綿密化口冰糖元蹄、滑蛋蝦仁新境界、米其林認證剝皮辣椒雞【 肥波外食記 】
+## 152. 2023高雄米其林，連吃八家必比登推介美食 !  無菜單台菜初體驗、三民區超夯鴨肉飯、綿密化口冰糖元蹄、滑蛋蝦仁新境界、米其林認證剝皮辣椒雞【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=xfyaVcjEwTw)
 - 發布時間：2 年前；觀看次數：18萬次
@@ -1811,7 +1823,7 @@
 | 阿香的廚房 Ibu Kitchen | [Google Maps](https://goo.gl/maps/KW9bnZ9NR5XrrxNP7) | Google Maps 未取得 | 影片描述：梅汁豆腐250$ 櫻花蝦小米粽170$ 梅子雞680$ 野蓮烘蛋200$；很想二刷指數 4/5；雞伯燒酒雞 | [17:31](https://www.youtube.com/watch?v=xfyaVcjEwTw&t=1051s) | 肥波開吃啦 |
 | 雞伯燒酒雞 | [Google Maps](https://maps.app.goo.gl/argjkXJ3dDdDhbcA8) | Google Maps 未取得 | 影片描述：鹽焗雞400$ 剝皮辣椒雞480$；很想二刷指數 4.5/5 | [20:24](https://www.youtube.com/watch?v=xfyaVcjEwTw&t=1224s) | 肥波開吃啦 |
 
-## 152. 新竹美食地圖，48小時爽吃特輯八選 ! 新竹兩天一夜爽吃攻略，激推肉量滿滿咖哩飯、滷味版魷魚蛋、百年炸粿下午茶、大阪濃厚豚骨拉麵 【 肥波外食記 】
+## 153. 新竹美食地圖，48小時爽吃特輯八選 ! 新竹兩天一夜爽吃攻略，激推肉量滿滿咖哩飯、滷味版魷魚蛋、百年炸粿下午茶、大阪濃厚豚骨拉麵 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=yF8OHZ7MtOg)
 - 發布時間：2 年前；觀看次數：20萬次
@@ -1827,7 +1839,7 @@
 | 北門炸粿 | [Google Maps](https://maps.app.goo.gl/fq4yjZaFa5zuPWZA7) | Google Maps 未取得 | 影片描述：菜單通包89$；很想二刷指數 5/5 | [14:36](https://www.youtube.com/watch?v=yF8OHZ7MtOg&t=876s) | 肥波開吃啦 |
 | 金佳脆皮臭豆腐 | [Google Maps](https://maps.app.goo.gl/hrkA1BmFXQouebgp9) | Google Maps 未取得 | 影片描述：脆皮臭豆腐60$；很想二刷指數 4/5 | [16:54](https://www.youtube.com/watch?v=yF8OHZ7MtOg&t=1014s) | 肥波開吃啦 |
 
-## 153. 台中美食北屯篇，24小時爽吃特輯四選 ! 北屯一日美食地圖，秒殺限量鴨腿麵、 湯汁滿滿生煎包、軟嫩舒肥鵝肉大餐、外酥內綿炸東坡肉 【 肥波外食記 】
+## 154. 台中美食北屯篇，24小時爽吃特輯四選 ! 北屯一日美食地圖，秒殺限量鴨腿麵、 湯汁滿滿生煎包、軟嫩舒肥鵝肉大餐、外酥內綿炸東坡肉 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=_b4SZymbU4Q)
 - 發布時間：2 年前；觀看次數：11萬次
@@ -1839,7 +1851,7 @@
 | 鵝庄 | [Google Maps](https://maps.app.goo.gl/PuocYXygQTCenALi7) | Google Maps 未取得 | 影片描述：鵝肉切盤250$ 鵝油拌飯30$ 鵝肝湯65$；很想二刷指數 4.5/5 | [5:40](https://www.youtube.com/watch?v=_b4SZymbU4Q&t=340s) | 肥波開吃啦 |
 | 禾作食堂 | [Google Maps](https://maps.app.goo.gl/jcLAz43zWwKHj7Gh8) | Google Maps 未取得 | 影片描述：招牌酥炸東坡肉套餐290$ 主廚特製魚片175$；很想二刷指數 4.5/5 | [8:16](https://www.youtube.com/watch?v=_b4SZymbU4Q&t=496s) | 肥波開吃啦 |
 
-## 154. 台中美食南屯篇，24小時爽吃特輯四選 ! 南屯一日美食地圖推薦，激推炭燒牛肉爐、正宗新馬海南雞飯、米其林認證上海生煎包、貨櫃屋裡的脆皮烤鴨 【 肥波外食記 】
+## 155. 台中美食南屯篇，24小時爽吃特輯四選 ! 南屯一日美食地圖推薦，激推炭燒牛肉爐、正宗新馬海南雞飯、米其林認證上海生煎包、貨櫃屋裡的脆皮烤鴨 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Emli19cG_J4)
 - 發布時間：2 年前；觀看次數：15萬次
@@ -1851,7 +1863,7 @@
 | 滬舍餘味餐館 | [Google Maps](https://maps.app.goo.gl/UBsCajNm6wUcXKcU6) | Google Maps 未取得 | 影片描述：鮮肉生煎200$ 小籠湯包180$；很想二刷指數 4/5 | [7:14](https://www.youtube.com/watch?v=Emli19cG_J4&t=434s) | 肥波開吃啦 |
 | 荔兹櫻桃鴨 | [Google Maps](https://maps.app.goo.gl/jfffXQDeaSvXTBRq6) | Google Maps 未取得 | 影片描述：頂級櫻桃鴨650$ 炒鴨架100$；很想二刷指數 4/5 | [9:23](https://www.youtube.com/watch?v=Emli19cG_J4&t=563s) | 肥波開吃啦 |
 
-## 155. 新加坡美食地圖，牛車水爽吃特輯五選 !  超夯叉燒雲吞撈麵、極濃郁咖哩雞米粉、鮮美湯汁小籠包、米其林認證煲仔飯 Singapore China Town Food Tour【 肥波外食記 】
+## 156. 新加坡美食地圖，牛車水爽吃特輯五選 !  超夯叉燒雲吞撈麵、極濃郁咖哩雞米粉、鮮美湯汁小籠包、米其林認證煲仔飯 Singapore China Town Food Tour【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=CD368e4wN0A)
 - 發布時間：2 年前；觀看次數：5.5萬次
@@ -1864,7 +1876,7 @@
 | Chew Kee Soy Sauce Chicken | [Google Maps](https://maps.app.goo.gl/stMGy6i9Z3puKPD38) | Google Maps 未取得 | 影片描述：醬油燒雞腿飯7$；很想二刷指數 5/5；聯合本記煲飯 | [7:13](https://www.youtube.com/watch?v=CD368e4wN0A&t=433s) | 肥波開吃啦 |
 | 聯合本記煲飯 | [Google Maps](https://maps.app.goo.gl/eEBwn9PZGhuDRXiz9) | Google Maps 未取得 | 影片描述：什錦煲仔飯10$；很想二刷指數 4/5 | [9:01](https://www.youtube.com/watch?v=CD368e4wN0A&t=541s) | 肥波開吃啦 |
 
-## 156. 新加坡美食小印度篇，24小時爽吃特輯四選 ! 激推印度味早餐Dosai、椰奶感滿滿大蝦咖哩、米其林認證香料飯 Singapore Little India Food Tour 【 肥波外食記 】
+## 157. 新加坡美食小印度篇，24小時爽吃特輯四選 ! 激推印度味早餐Dosai、椰奶感滿滿大蝦咖哩、米其林認證香料飯 Singapore Little India Food Tour 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=03mjZ4qHepw)
 - 發布時間：2 年前；觀看次數：3.4萬次
@@ -1876,7 +1888,7 @@
 | Gandhi Restaurant and Catering | [Google Maps](https://maps.app.goo.gl/AEN4eN1bKqFK7jEq5) | Google Maps 未取得 | 影片描述：Onion Chicken5.5$ Mutton Masala6.5$；很想二刷指數 3/5 | [6:23](https://www.youtube.com/watch?v=03mjZ4qHepw&t=383s) | 肥波開吃啦 |
 | Bismillah Biryani Restaurant | [Google Maps](https://maps.app.goo.gl/UJqo3KmZWFNEuiPN7) | Google Maps 未取得 | 影片描述：Lamb Shank Biryani22.5$ Chicken Haleem10$；很想二刷指數 4/5 | [8:30](https://www.youtube.com/watch?v=03mjZ4qHepw&t=510s) | 肥波開吃啦 |
 
-## 157. 新加坡美食地圖，24小時爽吃特輯六選 ! 純正炭火爐煮叻沙、在地超夯咖哩魚頭、水嫩口感海南雞飯、道地Rojak初體驗 、極酥脆咖椰吐司 【 肥波外食記 】
+## 158. 新加坡美食地圖，24小時爽吃特輯六選 ! 純正炭火爐煮叻沙、在地超夯咖哩魚頭、水嫩口感海南雞飯、道地Rojak初體驗 、極酥脆咖椰吐司 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=vP9Ql0E-wGQ)
 - 發布時間：2 年前；觀看次數：10萬次
@@ -1890,10 +1902,10 @@
 | Rojak · Popiah & Cockle (#01-56) | [Google Maps](https://maps.app.goo.gl/EbNeLStj8UAzeTQk7) | Google Maps 未取得 | 影片描述：唐人街薄餅3.4$ Rojak4$；很想二刷指數 4/5 | [9:08](https://www.youtube.com/watch?v=vP9Ql0E-wGQ&t=548s) | 肥波開吃啦 |
 | 瑞春 | [Google Maps](https://maps.app.goo.gl/21yEBHhW3wr7CLex7) | Google Maps 未取得 | 影片描述：蝦餃3.2$ 荔枝起司蝦球3.6$ 明蝦餃4.8$ 招牌雞汁3$ 招牌麵線粿3.2$；很想二刷指數 4.5/5 | [11:14](https://www.youtube.com/watch?v=vP9Ql0E-wGQ&t=674s) | 肥波開吃啦 |
 
-## 158. 新加坡肉骨茶地圖，五家超夯名店對決！極濃厚胡椒湯底，一次五碗喝起來 !黃亞細肉骨茶、發傳人肉骨茶、松發肉骨茶、歐南園亞華肉骨茶、亞華潮州肉骨茶 【 肥波外食記 】
+## 159. 新加坡肉骨茶地圖，五家超夯名店對決！極濃厚胡椒湯底，一次五碗喝起來 !黃亞細肉骨茶、發傳人肉骨茶、松發肉骨茶、歐南園亞華肉骨茶、亞華潮州肉骨茶 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=vEvnzr91zfs)
-- 發布時間：2 年前；觀看次數：5萬次
+- 發布時間：2 年前；觀看次數：5.1萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -1903,7 +1915,7 @@
 | 歐南園亞華肉骨茶 | [Google Maps](https://maps.app.goo.gl/vMDom6rKNQHEMTY26) | Google Maps 未取得 | 影片描述：特選正排骨湯13$ 生魚片湯9.7$；很想二刷指數 5/5；亞華潮州肉骨茶 | [7:36](https://www.youtube.com/watch?v=vEvnzr91zfs&t=456s) | 肥波開吃啦 |
 | 亞華潮州肉骨茶 | [Google Maps](https://maps.app.goo.gl/4v2rryAtJb2RD1xeA) | Google Maps 未取得 | 影片描述：特級龍骨湯14.8$ 潮州清蒸鯛魚片18.9$；很想二刷指數 3.5/5 | [10:09](https://www.youtube.com/watch?v=vEvnzr91zfs&t=609s) | 肥波開吃啦 |
 
-## 159. 新加坡最貴吃到飽開箱，Estate Buffet 一人要價$4400，辣椒螃蟹吃到飽、肥美鹹蛋蝦蛄、水嫩多汁超肥扇貝、粗長鮮甜大蟹腿  【 肥波外食記 】
+## 160. 新加坡最貴吃到飽開箱，Estate Buffet 一人要價$4400，辣椒螃蟹吃到飽、肥美鹹蛋蝦蛄、水嫩多汁超肥扇貝、粗長鮮甜大蟹腿  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=dgjAj7bAdAE)
 - 發布時間：2 年前；觀看次數：7.4萬次
@@ -1912,7 +1924,7 @@
 | --- | --- | --- | --- | --- | --- |
 | Estate Buffet | [Google Maps](https://maps.app.goo.gl/MGNcd5vwSsB2N1WP6) | Google Maps 未取得 | 影片描述：訂位在這邊 | [YouTube](https://www.youtube.com/watch?v=dgjAj7bAdAE) | 肥波開吃啦 |
 
-## 160. 新加坡爽吃攻略，連吃10家米其林推薦美食 ！ Singapore MICHELIN Food Tour  【 肥波外食記 】
+## 161. 新加坡爽吃攻略，連吃10家米其林推薦美食 ！ Singapore MICHELIN Food Tour  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=VcLp17KbboU)
 - 發布時間：2 年前；觀看次數：16萬次
@@ -1930,7 +1942,7 @@
 | A Noodle Story | [Google Maps](https://maps.app.goo.gl/cRJcFqBnTbupcYS38) | Google Maps 未取得 | 影片描述：新加坡式拉麵12.8$；很想二刷指數 5/5 | [17:59](https://www.youtube.com/watch?v=VcLp17KbboU&t=1079s) | 肥波開吃啦 |
 | Keng Eng Kee Seafood 瓊榮記海鲜 | [Google Maps](https://maps.app.goo.gl/gfjKPagcEebQdVcj7) | Google Maps 未取得 | 影片描述：辣椒螃蟹104$ 鹹蛋蝦仁24.8$；很想二刷指數 4.5/5 | [20:31](https://www.youtube.com/watch?v=VcLp17KbboU&t=1231s) | 肥波開吃啦 |
 
-## 161. 永和美食地圖，24小時爽吃特輯四選 ! 永和一日美食地圖推薦，激爽厚切牛舌燒肉、永和平價鼎泰豐、浮誇海味麵線、永和超夯海鮮丼 【 肥波外食記 】
+## 162. 永和美食地圖，24小時爽吃特輯四選 ! 永和一日美食地圖推薦，激爽厚切牛舌燒肉、永和平價鼎泰豐、浮誇海味麵線、永和超夯海鮮丼 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=va-PrSZT9qo)
 - 發布時間：2 年前；觀看次數：6.6萬次
@@ -1942,7 +1954,7 @@
 | 千幸壽司 | [Google Maps](https://maps.app.goo.gl/h1pCBnpHhNdxq18W8) | Google Maps 未取得 | 影片描述：加料綜合海鮮丼$870；很想二刷指數 4.5/5；老 姐 弟麵線甜不辣專賣店 | [7:35](https://www.youtube.com/watch?v=va-PrSZT9qo&t=455s) | 肥波開吃啦 |
 | 老 姐 弟麵線甜不辣專賣店 | [Google Maps](https://maps.app.goo.gl/da7sUG2dPBvFMBtw8) | Google Maps 未取得 | 影片描述：海底麵線2.0$190；很想二刷指數 4/5 | [10:00](https://www.youtube.com/watch?v=va-PrSZT9qo&t=600s) | 肥波開吃啦 |
 
-## 162. 台中美食地圖，最想二刷的五間店 !  超級鮮嫩溫體牛、激推拿坡里披薩、肉汁瀑布花醬漢堡、療癒系宵夜爌肉、百貨裡的排隊拉麵　【 肥波外食記 】
+## 163. 台中美食地圖，最想二刷的五間店 !  超級鮮嫩溫體牛、激推拿坡里披薩、肉汁瀑布花醬漢堡、療癒系宵夜爌肉、百貨裡的排隊拉麵　【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Tey77Tj3Mog)
 - 發布時間：2 年前；觀看次數：23萬次
@@ -1955,7 +1967,7 @@
 | 山下公園 ラーメン | [Google Maps](https://maps.app.goo.gl/wH9TjZwmZj9xj27f8) | Google Maps 未取得 | 影片描述：玉珧豚骨濃湯拉麵350$；很想二刷指數 5/5；夜間部爌肉飯 | [10:27](https://www.youtube.com/watch?v=Tey77Tj3Mog&t=627s) | 肥波開吃啦 |
 | 夜間部爌肉飯 | [Google Maps](https://maps.app.goo.gl/EmPNKckgYVU9AzYS6) | Google Maps 未取得 | 影片描述：滷肉飯45$ 爌肉55$ 白菜滷35$；很想二刷指數 5/5 | [12:44](https://www.youtube.com/watch?v=Tey77Tj3Mog&t=764s) | 肥波開吃啦 |
 
-## 163. 曼谷美食地圖，最想二刷的10家店 !  TOP 10 Must-Try FOOD in Bangkok
+## 164. 曼谷美食地圖，最想二刷的10家店 !  TOP 10 Must-Try FOOD in Bangkok
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=nxTFmOa_DHQ)
 - 發布時間：2 年前；觀看次數：36萬次
@@ -1973,7 +1985,7 @@
 | 陳瑞興餐室 | [Google Maps](https://maps.app.goo.gl/ub7Y8PPmmtMgwgPR8) | Google Maps 未取得 | 影片描述：陶鍋鴨肉煲200฿ 鴨肉湯麵60฿；很想二刷指數 5/5 | [18:59](https://www.youtube.com/watch?v=nxTFmOa_DHQ&t=1139s) | 肥波開吃啦 |
 | Mr. Jo Crispy Pork | [Google Maps](https://goo.gl/maps/EFgYUcgjDEdJojci9) | Google Maps 未取得 | 影片描述：脆皮燒肉80฿ 豬雜粿汁80฿；很想二刷指數 5/5 | [21:08](https://www.youtube.com/watch?v=nxTFmOa_DHQ&t=1268s) | 肥波開吃啦 |
 
-## 164. 2023台南米其林，連吃十家必比登推介美食 !  今年榜單好料滿滿，神極軟嫩當歸鴨腿、七股超肥美蚵酥、米其林認證溫體牛肉湯、巷內甘甜鍋燒意麵  【 肥波外食記 】
+## 165. 2023台南米其林，連吃十家必比登推介美食 !  今年榜單好料滿滿，神極軟嫩當歸鴨腿、七股超肥美蚵酥、米其林認證溫體牛肉湯、巷內甘甜鍋燒意麵  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=jB1tM5a7yik)
 - 發布時間：2 年前；觀看次數：30萬次
@@ -1991,7 +2003,7 @@
 | 吃麵吧 | [Google Maps](https://maps.app.goo.gl/sQjrvvgZ5jNZ7gKN6) | Google Maps 未取得 | 影片描述：炙燒牛舌松露醬拌麵280$ 蛤蠣白菜湯120$；很想二刷指數 5/5 | [18:07](https://www.youtube.com/watch?v=jB1tM5a7yik&t=1087s) | 肥波開吃啦 |
 | 三好一公道當歸鴨 | [Google Maps](https://maps.app.goo.gl/XA5fFxu2wB8RXnsKA) | Google Maps 未取得 | 影片描述：當歸鴨腿麵線80$ 乾米血35$；很想二刷指數 5/5 | [20:27](https://www.youtube.com/watch?v=jB1tM5a7yik&t=1227s) | 肥波開吃啦 |
 
-## 165. 曼谷爽吃攻略，唐人街美食地圖四選 !  曼谷小吃一級戰區，連吃四家唐人街美食 !  超夯酥肉粿汁湯、爆量蟹膏生醃攤、沒桌子的咖哩飯、連續多年米其林推薦麵攤  【 肥波外食記 】
+## 166. 曼谷爽吃攻略，唐人街美食地圖四選 !  曼谷小吃一級戰區，連吃四家唐人街美食 !  超夯酥肉粿汁湯、爆量蟹膏生醃攤、沒桌子的咖哩飯、連續多年米其林推薦麵攤  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=1ngJKlLIHWk)
 - 發布時間：2 年前；觀看次數：5.1萬次
@@ -2003,7 +2015,7 @@
 | Khao Gaeng Jek Pui | [Google Maps](https://maps.app.goo.gl/UwWM6AXL8UW5Eb2x7) | Google Maps 未取得 | 影片描述：黃咖哩豬肉飯60฿；很想二刷指數 4.5/5 | [4:53](https://www.youtube.com/watch?v=1ngJKlLIHWk&t=293s) | 肥波開吃啦 |
 | Lim Lao Ngow Fishball Noodle | [Google Maps](https://maps.app.goo.gl/vgWroCCv9MMd986HA) | Google Maps 未取得 | 影片描述：魚丸乾麵40฿ 魚丸湯麵40฿；很想二刷指數 3.5/5 | [7:00](https://www.youtube.com/watch?v=1ngJKlLIHWk&t=420s) | 肥波開吃啦 |
 
-## 166. 曼谷喬德夜市2.0美食攻略，JODD FAIRS DanNeramit，連吃10種特色美食 ! 激推爆料章魚燒、濃厚松露醬漢堡、現做手工豬肉丸、火山排骨好吃嗎 ?  【 肥波外食記 】
+## 167. 曼谷喬德夜市2.0美食攻略，JODD FAIRS DanNeramit，連吃10種特色美食 ! 激推爆料章魚燒、濃厚松露醬漢堡、現做手工豬肉丸、火山排骨好吃嗎 ?  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=FG7VFXgiqa0)
 - 發布時間：2 年前；觀看次數：4.7萬次
@@ -2012,7 +2024,7 @@
 | --- | --- | --- | --- | --- | --- |
 | JODD FAIRS DanNeramit | [Google Maps](https://maps.app.goo.gl/EVesZgkxFLeKRDu59) | Google Maps 未取得 | 影片描述欄列為本集店家，未擷取到更細部心得。 | [YouTube](https://www.youtube.com/watch?v=FG7VFXgiqa0) | 肥波開吃啦 |
 
-## 167. 曼谷爽吃特輯，八間在地美食名單推薦 !  鮮嫩多汁鴨肉煲、激推牛雜火鍋、 香辣打拋皮皮蝦、米其林推薦泰式餐酒館  【 肥波外食記 】
+## 168. 曼谷爽吃特輯，八間在地美食名單推薦 !  鮮嫩多汁鴨肉煲、激推牛雜火鍋、 香辣打拋皮皮蝦、米其林推薦泰式餐酒館  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=zoWZuFRv3gk)
 - 發布時間：2 年前；觀看次數：5.3萬次
@@ -2028,7 +2040,7 @@
 | The Local | [Google Maps](https://maps.app.goo.gl/dimja91L2j3L5Xjr5) | Google Maps 未取得 | 影片描述：三味醬炸海鱺680฿ 綜合開胃菜290฿；很想二刷指數 4.5/5 | [12:59](https://www.youtube.com/watch?v=zoWZuFRv3gk&t=779s) | 肥波開吃啦 |
 | Sri Trat Restaurant and Bar | [Google Maps](https://maps.app.goo.gl/uehiAgfTvjaH5CKdA) | Google Maps 未取得 | 影片描述：豬肉鹹魚餅220฿ 慢燉豬肉咖哩250฿；很想二刷指數 4/5 | [15:21](https://www.youtube.com/watch?v=zoWZuFRv3gk&t=921s) | 肥波開吃啦 |
 
-## 168. 基隆美食地圖，安樂區爽吃特輯五選 ! 北海岸必吃美食，水嫩鮮甜萬里蟹、安樂最夯牛肉麵、CP值超高天丼、外酥內軟營養三明治  【 肥波外食記 】
+## 169. 基隆美食地圖，安樂區爽吃特輯五選 ! 北海岸必吃美食，水嫩鮮甜萬里蟹、安樂最夯牛肉麵、CP值超高天丼、外酥內軟營養三明治  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=09vssxhdqUU)
 - 發布時間：2 年前；觀看次數：8.6萬次
@@ -2041,7 +2053,7 @@
 | 佐藤お帰り | [Google Maps](https://maps.app.goo.gl/vXZS5GU3VwqxyL4V6) | Google Maps 未取得 | 影片描述：佐藤隨便丼400$；很想二刷指數 5/5；古月香熬粹牛肉麵 | [10:29](https://www.youtube.com/watch?v=09vssxhdqUU&t=629s) | 肥波開吃啦 |
 | 古月香熬粹牛肉麵 | [Google Maps](https://maps.app.goo.gl/6DFYRpCE4bikurDo6) | Google Maps 未取得 | 影片描述：滿漢大三元210$ 汆香蛋腸50$；很想二刷指數 4/5 | [12:49](https://www.youtube.com/watch?v=09vssxhdqUU&t=769s) | 肥波開吃啦 |
 
-## 170. 曼谷美食地圖，石龍軍路爽吃特輯四選 !  曼谷美食一級戰區，四家優質名單推薦 !  百年燒臘老店、濃醇焦香豬肉粥、鮮嫩多汁海南雞飯、浮誇流心歐姆蛋  【 肥波外食記 】
+## 171. 曼谷美食地圖，石龍軍路爽吃特輯四選 !  曼谷美食一級戰區，四家優質名單推薦 !  百年燒臘老店、濃醇焦香豬肉粥、鮮嫩多汁海南雞飯、浮誇流心歐姆蛋  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=dUl9Jh-eq4I)
 - 發布時間：2 年前；觀看次數：4.3萬次
@@ -2053,7 +2065,7 @@
 | 雲瑞興海南雞飯 | [Google Maps](https://maps.app.goo.gl/MKnDZ9EKwCjVqm3j9) | Google Maps 未取得 | 影片描述：海南雞飯50$ 炸機切盤80$ 清檸燉雞湯60$；很想二刷指數 4/5 | [4:46](https://www.youtube.com/watch?v=dUl9Jh-eq4I&t=286s) | 肥波開吃啦 |
 | Sam Lor | [Google Maps](https://maps.app.goo.gl/CNjonVaoReZmei79A) | Google Maps 未取得 | 影片描述：招牌歐姆蛋380$ 打拋泰國和牛420$；很想二刷指數 5/5 | [7:12](https://www.youtube.com/watch?v=dUl9Jh-eq4I&t=432s) | 肥波開吃啦 |
 
-## 171. 曼谷爽吃海鮮之旅，吞武里市場美食八選 ! 痛風仔vs海鮮市場，巨大起司烤龍蝦、爆量蝦膏大河蝦、醬烤泰國生蠔、激推生醃鮭魚  【 肥波外食記 】
+## 172. 曼谷爽吃海鮮之旅，吞武里市場美食八選 ! 痛風仔vs海鮮市場，巨大起司烤龍蝦、爆量蝦膏大河蝦、醬烤泰國生蠔、激推生醃鮭魚  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=7YBm9vvNgA0)
 - 發布時間：2 年前；觀看次數：6.7萬次
@@ -2062,7 +2074,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 結果拍完沒痛風~ 看來是痊癒了 | [Google Maps](https://maps.app.goo.gl/eYrEjU87bUtiC5jL8) | Google Maps 未取得 | 影片描述欄列為本集店家，未擷取到更細部心得。 | [YouTube](https://www.youtube.com/watch?v=7YBm9vvNgA0) | 肥波開吃啦 |
 
-## 172. 曼谷美食地圖，48小時爽吃特輯八選 !  一次出現兩家6分爽店，激推曼谷豬腳大王、超飽滿蟹膏粉絲煲、泰國和牛初體驗、唐人街必吃蚵仔煎  【 肥波外食記 】
+## 173. 曼谷美食地圖，48小時爽吃特輯八選 !  一次出現兩家6分爽店，激推曼谷豬腳大王、超飽滿蟹膏粉絲煲、泰國和牛初體驗、唐人街必吃蚵仔煎  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=xpENGRgYvW0)
 - 發布時間：2 年前；觀看次數：9.5萬次
@@ -2078,7 +2090,7 @@
 | Somsak Claypot Crab | [Google Maps](https://goo.gl/maps/EhCUgrbicznqbmkk8) | Google Maps 未取得 | 影片描述：螃蟹粉絲煲1000฿；很想二刷指數 6/5；兄旺魚粥 | [13:43](https://www.youtube.com/watch?v=xpENGRgYvW0&t=823s) | 肥波開吃啦 |
 | 兄旺魚粥 | [Google Maps](https://goo.gl/maps/qy5FPfrf5HMUL8oy6) | Google Maps 未取得 | 影片描述：招牌蟹肉粥350฿ 鮮蝦粉絲煲200฿；很想二刷指數 4/5 | [16:34](https://www.youtube.com/watch?v=xpENGRgYvW0&t=994s) | 肥波開吃啦 |
 
-## 173. 曼谷最夯吃到飽，Copper Beyond Buffet ! 連吃兩場完整開箱，激爽起司龍蝦尾、超夯和牛船麵、濃郁醬香生醃蝦、大推松露濃湯可頌  【 肥波外食記 】
+## 174. 曼谷最夯吃到飽，Copper Beyond Buffet ! 連吃兩場完整開箱，激爽起司龍蝦尾、超夯和牛船麵、濃郁醬香生醃蝦、大推松露濃湯可頌  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=dPAjMebcOyU)
 - 發布時間：2 年前；觀看次數：14萬次
@@ -2087,7 +2099,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 我就問誰buffet拍兩輪的XD，而且我第一場的時候把大腳架忘在那邊，店員跑出來拿給我，結果我第二輪又忘在那邊，現在它還在曼谷 ㄏㄏ | [Google Maps](https://goo.gl/maps/EFux3ThintpQs1VC9) | Google Maps 未取得 | 影片描述：我在這邊訂的: https://reurl.cc/L6j7XK | [YouTube](https://www.youtube.com/watch?v=dPAjMebcOyU) | 肥波開吃啦 |
 
-## 175. 曼谷爽吃攻略，連吃10家米其林推薦美食 ！ 浮誇系酸辣媽媽麵、米其林一星蟹肉歐姆蛋、曼谷最強脆皮燒肉、激推醬燒小卷、濃郁椰奶芒果糯米飯  【 肥波外食記 】
+## 176. 曼谷爽吃攻略，連吃10家米其林推薦美食 ！ 浮誇系酸辣媽媽麵、米其林一星蟹肉歐姆蛋、曼谷最強脆皮燒肉、激推醬燒小卷、濃郁椰奶芒果糯米飯  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=mbUpY0Uhp-w)
 - 發布時間：2 年前；觀看次數：23萬次
@@ -2105,7 +2117,7 @@
 | Kor Panit’s Sticky Rice | [Google Maps](https://goo.gl/maps/Qqs1GMPaMBxMhkN66) | Google Maps 未取得 | 影片描述：芒果糯米飯125฿；很想二刷指數 4.5/5 | [17:44](https://www.youtube.com/watch?v=mbUpY0Uhp-w&t=1064s) | 肥波開吃啦 |
 | Mr. Jo Crispy Pork | [Google Maps](https://goo.gl/maps/EFgYUcgjDEdJojci9) | Google Maps 未取得 | 影片描述：脆皮燒肉80฿ 豬雜粿汁80฿；很想二刷指數 5/5 | [19:07](https://www.youtube.com/watch?v=mbUpY0Uhp-w&t=1147s) | 肥波開吃啦 |
 
-## 176. 高雄美食鳳山篇，24小時爽吃特輯四選 ! 鳳山一日美食地圖推薦，虱目魚湯融合豚骨拉麵、超夯台式下午茶、老字號鹹水鵝肉、正宗口味海南雞飯 【 肥波外食記 】
+## 177. 高雄美食鳳山篇，24小時爽吃特輯四選 ! 鳳山一日美食地圖推薦，虱目魚湯融合豚骨拉麵、超夯台式下午茶、老字號鹹水鵝肉、正宗口味海南雞飯 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=6WigUVp5LFE)
 - 發布時間：2 年前；觀看次數：6.6萬次
@@ -2117,7 +2129,7 @@
 | 阿村鵝肉店 | [Google Maps](https://goo.gl/maps/NzcZdXTKxVsaEJB38) | Google Maps 未取得 | 影片描述：鹹水鵝肉切盤400$ 韭菜豆芽拌下水100$；很想二刷指數 3/5；黃記海南雞 | [5:23](https://www.youtube.com/watch?v=6WigUVp5LFE&t=323s) | 肥波開吃啦 |
 | 黃記海南雞 | [Google Maps](https://goo.gl/maps/miJRsEmDaXmt4AnL8) | Google Maps 未取得 | 影片描述：海南雞腿飯75$ 叉燒乾撈麵80$；很想二刷指數 4.5/5 | [7:45](https://www.youtube.com/watch?v=6WigUVp5LFE&t=465s) | 肥波開吃啦 |
 
-## 177. 高雄美食三民篇，24小時爽吃特輯四選 ! 三民一日美食地圖推薦，濃醇油香鴨肉飯、Q彈勁道蒸餃名店、50年老字號意麵、排到歪頭咖哩叉燒飯  【 肥波外食記 】
+## 178. 高雄美食三民篇，24小時爽吃特輯四選 ! 三民一日美食地圖推薦，濃醇油香鴨肉飯、Q彈勁道蒸餃名店、50年老字號意麵、排到歪頭咖哩叉燒飯  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=EZ_mF6N4UEk)
 - 發布時間：2 年前；觀看次數：6.9萬次
@@ -2129,7 +2141,7 @@
 | 阿萬意麵 | [Google Maps](https://goo.gl/maps/FkWC8gDqD8ZqyE617) | Google Maps 未取得 | 影片描述：乾意麵50$ 肉羹湯50$；很想二刷指數 4/5 | [4:40](https://www.youtube.com/watch?v=EZ_mF6N4UEk&t=280s) | 肥波開吃啦 |
 | 吉胤家-橫浜家系ラーメン | [Google Maps](https://goo.gl/maps/gcUcpW2VsNaJ6xz76) | Google Maps 未取得 | 影片描述：特製咖哩飯180$；很想二刷指數 4/5 | [6:48](https://www.youtube.com/watch?v=EZ_mF6N4UEk&t=408s) | 肥波開吃啦 |
 
-## 178. 高雄美食苓雅篇，24小時爽吃特輯四選 ! 苓雅一日美食地圖推薦，高雄最強炸豬排、超濃厚豚骨拉麵、自強夜市必吃爌肉、浮誇肉量燻牛肉三明治  【 肥波外食記 】
+## 179. 高雄美食苓雅篇，24小時爽吃特輯四選 ! 苓雅一日美食地圖推薦，高雄最強炸豬排、超濃厚豚骨拉麵、自強夜市必吃爌肉、浮誇肉量燻牛肉三明治  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=5AdvfeNkOlQ)
 - 發布時間：2 年前；觀看次數：6.7萬次
@@ -2141,7 +2153,7 @@
 | 南豐魯肉飯 | [Google Maps](https://goo.gl/maps/zC2sEGv6AQFHQ4XS7) | Google Maps 未取得 | 影片描述：滷肉飯加兩粒100$ 苦瓜封湯35$；很想二刷指數 5/5 | [4:47](https://www.youtube.com/watch?v=5AdvfeNkOlQ&t=287s) | 肥波開吃啦 |
 | 耶魯小鎮 | [Google Maps](https://goo.gl/maps/HXETYpkMX5dQ8qRs5) | Google Maps 未取得 | 影片描述：普丁薯條180$ 12OZ魯賓三明治620$；很想二刷指數 4.5/5 | [7:01](https://www.youtube.com/watch?v=5AdvfeNkOlQ&t=421s) | 肥波開吃啦 |
 
-## 179. 全台最奢華Buffet ! 海膽、龍蝦、帝王蟹吃到飽，饗 A JOY 八大餐區開箱 ! 86樓美景配美食，鮮甜松葉蟹自由、海膽手卷任你吃、炭烤帝王蟹螯、激推鐵板燒玫瑰龍蝦  【 肥波外食記 】
+## 180. 全台最奢華Buffet ! 海膽、龍蝦、帝王蟹吃到飽，饗 A JOY 八大餐區開箱 ! 86樓美景配美食，鮮甜松葉蟹自由、海膽手卷任你吃、炭烤帝王蟹螯、激推鐵板燒玫瑰龍蝦  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Wl6OJNU9KmU)
 - 發布時間：2 年前；觀看次數：33萬次
@@ -2157,7 +2169,7 @@
 | 戀戀 (鮮果甜品區) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%88%80%E6%88%80%20%28%E9%AE%AE%E6%9E%9C%E7%94%9C%E5%93%81%E5%8D%80%29) | Google Maps 未取得 | 影片描述欄列為本集店家，未擷取到更細部心得。 | [14:33](https://www.youtube.com/watch?v=Wl6OJNU9KmU&t=873s) | 肥波開吃啦 |
 | 漫漫津澤 (飲品酒吧區) | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E6%BC%AB%E6%BC%AB%E6%B4%A5%E6%BE%A4%20%28%E9%A3%B2%E5%93%81%E9%85%92%E5%90%A7%E5%8D%80%29) | Google Maps 未取得 | 影片描述欄列為本集店家，未擷取到更細部心得。 | [15:39](https://www.youtube.com/watch?v=Wl6OJNU9KmU&t=939s) | 肥波開吃啦 |
 
-## 180. 台北美食公館篇，24小時爽吃特輯四選 ! 公館一日美食地圖推薦，迷人油香A5和牛定食、肉量滿滿道地TACOS、貝系醬油拉麵、激推濃醇黑咖哩  【 肥波外食記 】
+## 181. 台北美食公館篇，24小時爽吃特輯四選 ! 公館一日美食地圖推薦，迷人油香A5和牛定食、肉量滿滿道地TACOS、貝系醬油拉麵、激推濃醇黑咖哩  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=OtnPlIlTAUA)
 - 發布時間：2 年前；觀看次數：8萬次
@@ -2169,7 +2181,7 @@
 | 墨洋拉麵 | [Google Maps](https://goo.gl/maps/PuDVBjVTG7ckqGTX7) | Google Maps 未取得 | 影片描述：極上柚香貝貝拉麵 299$ 究極星鰻海陸TKG 139$；很想二刷指數 4/5 | [6:32](https://www.youtube.com/watch?v=OtnPlIlTAUA&t=392s) | 肥波開吃啦 |
 | 稻咖哩 | [Google Maps](https://goo.gl/maps/eAQzLcU2Kx62ZwMD9) | Google Maps 未取得 | 影片描述：極黑咖哩雙拼 280$；很想二刷指數 4.5/5 | [9:03](https://www.youtube.com/watch?v=OtnPlIlTAUA&t=543s) | 肥波開吃啦 |
 
-## 181. 高雄美食美濃篇，24小時爽吃特輯四選 ! 美濃一日美食地圖推薦，濃郁黑松露拌粄條、米其林推薦原住民餐廳、激推道地越南美食、Q彈勁道炒粄條  【 肥波外食記 】
+## 182. 高雄美食美濃篇，24小時爽吃特輯四選 ! 美濃一日美食地圖推薦，濃郁黑松露拌粄條、米其林推薦原住民餐廳、激推道地越南美食、Q彈勁道炒粄條  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=0ccDrb_pmw8)
 - 發布時間：2 年前；觀看次數：4.5萬次
@@ -2181,7 +2193,7 @@
 | 鳳兒越南河粉 | [Google Maps](https://goo.gl/maps/KaWtRfSC1swkNmMp6) | Google Maps 未取得 | 影片描述：海鮮炒河粉110$ 炸春捲90$；很想二刷指數 4.5/5 | [8:21](https://www.youtube.com/watch?v=0ccDrb_pmw8&t=501s) | 肥波開吃啦 |
 | 廟口粄條 | [Google Maps](https://goo.gl/maps/D142nGDxGg7yg8UZA) | Google Maps 未取得 | 影片描述：炒粄條70$ 花生豆腐60$ 炒野蓮110$；很想二刷指數 4/5 | [10:43](https://www.youtube.com/watch?v=0ccDrb_pmw8&t=643s) | 肥波開吃啦 |
 
-## 182. 新竹美食竹北篇，24小時爽吃特輯四選 ! 竹北一日美食推薦，激推新竹滷肉王、濃醇起司大水管麵、來自沖繩正宗拉麵、道地美式煙燻BBQ 【 肥波外食記 】
+## 183. 新竹美食竹北篇，24小時爽吃特輯四選 ! 竹北一日美食推薦，激推新竹滷肉王、濃醇起司大水管麵、來自沖繩正宗拉麵、道地美式煙燻BBQ 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=VzV615Ey0t4)
 - 發布時間：2 年前；觀看次數：8.5萬次
@@ -2193,7 +2205,7 @@
 | 沖繩拉麵 六家 | [Google Maps](https://goo.gl/maps/NSJoidvSKmF12Cau9) | Google Maps 未取得 | 影片描述：沖繩麵 310$ 雞肉燒餃子 190$；很想二刷指數 4.5/5 | [4:56](https://www.youtube.com/watch?v=VzV615Ey0t4&t=296s) | 肥波開吃啦 |
 | 榅燻Comfort Table Smoke BBQ | [Google Maps](https://goo.gl/maps/kws2CQF6Tmg2wKT68) | Google Maps 未取得 | 影片描述：德州牛肋排 952$ 南方風味手撕豬 210$ 煙燻牛胸肉 260$；很想二刷指數 5/5 | [7:36](https://www.youtube.com/watch?v=VzV615Ey0t4&t=456s) | 肥波開吃啦 |
 
-## 183. 高雄美食前金篇，24小時爽吃特輯四選 ! 前金一日美食地圖推薦，米其林推薦魚鬆肉燥飯、激推老屋義式餐酒館、老字號煙燻鴨肉專門店、宵夜場溫體牛肉鍋  【 肥波外食記 】
+## 184. 高雄美食前金篇，24小時爽吃特輯四選 ! 前金一日美食地圖推薦，米其林推薦魚鬆肉燥飯、激推老屋義式餐酒館、老字號煙燻鴨肉專門店、宵夜場溫體牛肉鍋  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=uloniZOxG8A)
 - 發布時間：2 年前；觀看次數：8.7萬次
@@ -2205,7 +2217,7 @@
 | 月娥鴨肉（原老謝鴨肉） | [Google Maps](https://goo.gl/maps/uRaPNdd6pXWLod2g9) | Google Maps 未取得 | 影片描述：鴨肉粄條 65$ 鴨腿切盤 130$ 豆芽韭菜拌鴨腸 55$；很想二刷指數 4.5/5；牛總涮牛肉火鍋 高雄總店 | [5:14](https://www.youtube.com/watch?v=uloniZOxG8A&t=314s) | 肥波開吃啦 |
 | 牛總涮牛肉火鍋 高雄總店 | [Google Maps](https://goo.gl/maps/qX3c7bSzSn3KhPT97) | Google Maps 未取得 | 影片描述：現宰牛肉盤 380$ 牛筋 380$；很想二刷指數 5/5 | [7:35](https://www.youtube.com/watch?v=uloniZOxG8A&t=455s) | 肥波開吃啦 |
 
-## 185. 台北美食萬華篇，24小時爽吃特輯四選 !  萬華一日美食地圖推薦，米其林推薦刈包名店、手作熟成香料咖哩、西門超夯雞白湯拉麵、萬華唯一正宗拿坡里披薩  【 肥波外食記 】
+## 186. 台北美食萬華篇，24小時爽吃特輯四選 !  萬華一日美食地圖推薦，米其林推薦刈包名店、手作熟成香料咖哩、西門超夯雞白湯拉麵、萬華唯一正宗拿坡里披薩  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=ptHShmSW85I)
 - 發布時間：2 年前；觀看次數：6.1萬次
@@ -2217,7 +2229,7 @@
 | 吉天元拉麵 | [Google Maps](https://goo.gl/maps/jzifYjGGi1tjruax8) | Google Maps 未取得 | 影片描述：特盛雞白湯拉麵300$；很想二刷指數 4/5 | [4:49](https://www.youtube.com/watch?v=ptHShmSW85I&t=289s) | 肥波開吃啦 |
 | CURA PIZZA | [Google Maps](https://goo.gl/maps/8t8SFabACMWX8ESg6) | Google Maps 未取得 | 影片描述：漁夫海鮮披薩498$ 窯烤麵包佐生火腿198$；很想二刷指數 5/5 | [7:16](https://www.youtube.com/watch?v=ptHShmSW85I&t=436s) | 肥波開吃啦 |
 
-## 186. 台北美食中山篇，24小時爽吃特輯四選 ! 中山一日美食地圖推薦，台北最強馬鈴薯豬骨湯、中西融合桶仔雞燉飯、外酥內嫩熟成炸豬排、超有fu廣島燒專門店  【 肥波外食記 】
+## 187. 台北美食中山篇，24小時爽吃特輯四選 ! 中山一日美食地圖推薦，台北最強馬鈴薯豬骨湯、中西融合桶仔雞燉飯、外酥內嫩熟成炸豬排、超有fu廣島燒專門店  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=3-3EgHAvxqg)
 - 發布時間：3 年前；觀看次數：11萬次
@@ -2229,7 +2241,7 @@
 | KATSU 鑫豬排蓋飯 | [Google Maps](https://goo.gl/maps/Mqn6wpv1yVb8e66C6) | Google Maps 未取得 | 影片描述：熟成豬排蓋飯 290$；很想二刷指數 5/5；赤鐵廣島燒專賣店 - 民權店 | [5:33](https://www.youtube.com/watch?v=3-3EgHAvxqg&t=333s) | 肥波開吃啦 |
 | 赤鐵廣島燒專賣店 - 民權店 | [Google Maps](https://goo.gl/maps/8dfAUL1f1ESs8xQ39) | Google Maps 未取得 | 影片描述：牡蠣廣島燒 400$；很想二刷指數 4.5/5 | [8:08](https://www.youtube.com/watch?v=3-3EgHAvxqg&t=488s) | 肥波開吃啦 |
 
-## 187. 新店美食地圖，24小時爽吃特輯四選 !  新店區一日美食推薦，在地最夯燒臘名店、台灣少見底特律方形披薩、溫體牛肉漢堡排、新北最強滷肉飯  【 肥波外食記 】
+## 188. 新店美食地圖，24小時爽吃特輯四選 !  新店區一日美食推薦，在地最夯燒臘名店、台灣少見底特律方形披薩、溫體牛肉漢堡排、新北最強滷肉飯  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=WTu55JqHoc0)
 - 發布時間：3 年前；觀看次數：7.6萬次
@@ -2241,7 +2253,7 @@
 | Jimmy on the road 居米先生在路上 | [Google Maps](https://goo.gl/maps/GoPDaos4HUD2iZkf9) | Google Maps 未取得 | 影片描述：溫體牛肉漢堡排450$；很想二刷指數 4/5；賴岡山羊肉 | [5:14](https://www.youtube.com/watch?v=WTu55JqHoc0&t=314s) | 肥波開吃啦 |
 | 賴岡山羊肉 | [Google Maps](https://goo.gl/maps/8WR4Hc6BkSkF9gSt6) | Google Maps 未取得 | 影片描述：小滷加蛋45$ 帶皮羊肉湯150$；很想二刷指數 6/5 | [7:50](https://www.youtube.com/watch?v=WTu55JqHoc0&t=470s) | 肥波開吃啦 |
 
-## 188. 台北美食內湖篇，24小時爽吃特輯四選 !  內湖一日美食地圖推薦，西湖市場最夯拉麵、肉汁滿滿美式漢堡、內湖牛肉麵代表、鮮味衝擊海鮮丼  【 肥波外食記 】
+## 189. 台北美食內湖篇，24小時爽吃特輯四選 !  內湖一日美食地圖推薦，西湖市場最夯拉麵、肉汁滿滿美式漢堡、內湖牛肉麵代表、鮮味衝擊海鮮丼  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=77l-YH-YdLs)
 - 發布時間：3 年前；觀看次數：7.6萬次
@@ -2253,7 +2265,7 @@
 | 牛耳精緻麵館 | [Google Maps](https://goo.gl/maps/C4MXbcYMvkpX4Mx38) | Google Maps 未取得 | 影片描述：滿漢紅燒牛肉麵 280$；很想二刷指數 4/5；五漁村丼飯屋 | [4:47](https://www.youtube.com/watch?v=77l-YH-YdLs&t=287s) | 肥波開吃啦 |
 | 五漁村丼飯屋 | [Google Maps](https://goo.gl/maps/yK1f5jddA8gqSmpx6) | Google Maps 未取得 | 影片描述：極上五漁海景丼 500$；很想二刷指數 4/5 | [6:56](https://www.youtube.com/watch?v=77l-YH-YdLs&t=416s) | 肥波開吃啦 |
 
-## 189. 台北美食大同篇，24小時爽吃特輯四選 !  大同區一日美食地圖推薦，道地泰式街邊小吃、名古屋披薩名店、極度下飯綿密豬腳、巷內70年密醬乾拌麵  【 肥波外食記 】
+## 190. 台北美食大同篇，24小時爽吃特輯四選 !  大同區一日美食地圖推薦，道地泰式街邊小吃、名古屋披薩名店、極度下飯綿密豬腳、巷內70年密醬乾拌麵  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=oV3rUl89LaY)
 - 發布時間：3 年前；觀看次數：6.5萬次
@@ -2265,7 +2277,7 @@
 | 老牌張豬腳飯 | [Google Maps](https://goo.gl/maps/66D9KAPyGxZwU5Yc8) | Google Maps 未取得 | 影片描述：腿庫120$ 腳蹄110$ 中段120$；很想二刷指數 4.5/5；老麵店 | [4:24](https://www.youtube.com/watch?v=oV3rUl89LaY&t=264s) | 肥波開吃啦 |
 | 老麵店 | [Google Maps](https://goo.gl/maps/N7GJPo3kVYX7ZRWWA) | Google Maps 未取得 | 影片描述：乾麵40$ 肉骨湯40$；很想二刷指數 4/5 | [6:43](https://www.youtube.com/watch?v=oV3rUl89LaY&t=403s) | 肥波開吃啦 |
 
-## 190. 台北米其林之旅，連吃四家推薦餐廳 !  紅蝦指南認證松露披薩、厚切脆皮豬肉捲、正宗西班牙餐酒館、軟嫩羊小排咖哩、A5近江牛燒肉  ft. @Channel7eleven ​
+## 191. 台北米其林之旅，連吃四家推薦餐廳 !  紅蝦指南認證松露披薩、厚切脆皮豬肉捲、正宗西班牙餐酒館、軟嫩羊小排咖哩、A5近江牛燒肉  ft. @Channel7eleven ​
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=ruxjEIw_7u8)
 - 發布時間：3 年前；觀看次數：7.7萬次
@@ -2277,7 +2289,7 @@
 | JARANA | [Google Maps](https://goo.gl/maps/h9fNzoaajoSsJZ4d8) | Google Maps 未取得 | 影片描述：橄欖油蒜爆蝦420$ 香煎脆豬耳360$ 慢燉豬頰肉780$；很想二刷指數 5/5；八和和牛燒肉專門店 敦北二號店 | [10:05](https://www.youtube.com/watch?v=ruxjEIw_7u8&t=605s) | 肥波開吃啦 |
 | 八和和牛燒肉專門店 敦北二號店 | [Google Maps](https://goo.gl/maps/DcztmAYq5WrYFRpk8) | Google Maps 未取得 | 影片描述：八和經典雙人套餐6680$；很想二刷指數 5/5 | [12:43](https://www.youtube.com/watch?v=ruxjEIw_7u8&t=763s) | 肥波開吃啦 |
 
-## 192. 台北美食中正篇，24小時爽吃特輯四選 !  中正區一日美食地圖推薦，神級軟嫩脆皮鴨胸、松露風味泡系拉麵、台北麻油雞大帝、爆汁蝦仁燒賣  【 肥波外食記 】
+## 193. 台北美食中正篇，24小時爽吃特輯四選 !  中正區一日美食地圖推薦，神級軟嫩脆皮鴨胸、松露風味泡系拉麵、台北麻油雞大帝、爆汁蝦仁燒賣  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=oiMs4ZotoHo)
 - 發布時間：3 年前；觀看次數：8.2萬次
@@ -2289,7 +2301,7 @@
 | 阿男麻油雞 | [Google Maps](https://goo.gl/maps/VNonYaDWfG45umfu9) | Google Maps 未取得 | 影片描述：麻油雞腿+松阪豬 300$ 雞油拌麵 30$；很想二刷指數 4/5 | [5:51](https://www.youtube.com/watch?v=oiMs4ZotoHo&t=351s) | 肥波開吃啦 |
 | 黄龍莊 | [Google Maps](https://goo.gl/maps/mnZpdQzLN5LwJne77) | Google Maps 未取得 | 影片描述：蝦仁燒賣 300$ 蘇式小湯包 300$；很想二刷指數 4/5 | [8:07](https://www.youtube.com/watch?v=oiMs4ZotoHo&t=487s) | 肥波開吃啦 |
 
-## 194. 台北松山美食地圖，24小時爽吃特輯四選 !  四家必收口袋名單，海陸通包烤肉飯、米其林推薦穴子大餐、巷內排隊蒸餃名店、超道地韓式料理  【 肥波外食記 】
+## 195. 台北松山美食地圖，24小時爽吃特輯四選 !  四家必收口袋名單，海陸通包烤肉飯、米其林推薦穴子大餐、巷內排隊蒸餃名店、超道地韓式料理  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=pt0AG9SwCww)
 - 發布時間：3 年前；觀看次數：7.8萬次
@@ -2301,7 +2313,7 @@
 | 亓家蒸餃 | [Google Maps](https://goo.gl/maps/gjVXD1PpWnUURhdn9) | Google Maps 未取得 | 影片描述：鮮蝦蒸餃135$ 酸辣湯40$ 泰式素雞 40$；很想二刷指數 4.5/5 | [5:16](https://www.youtube.com/watch?v=pt0AG9SwCww&t=316s) | 肥波開吃啦 |
 | 韓食堂한식당 | [Google Maps](https://goo.gl/maps/N5uyHJawkXu6F1hJ9) | Google Maps 未取得 | 影片描述：韓式豬腳800$ 韓式冷拌涼麵200$；很想二刷指數 4/5 | [7:18](https://www.youtube.com/watch?v=pt0AG9SwCww&t=438s) | 肥波開吃啦 |
 
-## 195. 台北美食大安篇，24小時爽吃特輯四選 ! 大安區一日美食地圖推薦，外脆內嫩厚切牛舌、世界披薩大賽冠軍、巷內道地TACO、顏值頂天居酒屋  【 肥波外食記 】
+## 196. 台北美食大安篇，24小時爽吃特輯四選 ! 大安區一日美食地圖推薦，外脆內嫩厚切牛舌、世界披薩大賽冠軍、巷內道地TACO、顏值頂天居酒屋  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=0YOTH-FL1FE)
 - 發布時間：3 年前；觀看次數：7.8萬次
@@ -2313,7 +2325,7 @@
 | MASA 通安店 | [Google Maps](https://goo.gl/maps/79U8v1LUkrtfPrm89) | Google Maps 未取得 | 影片描述：慢燉豬蹄膀 90$ 起司牛頰肉 120$ 香料煎牛排 120$ 墨西哥絞肉 90$ 香酥花椰菜 150$；很想二刷指數 4/5 | [5:41](https://www.youtube.com/watch?v=0YOTH-FL1FE&t=341s) | 肥波開吃啦 |
 | 山男 YAMASAN | [Google Maps](https://goo.gl/maps/imbYxWow98MkGSmF9) | Google Maps 未取得 | 影片描述：豬排三明治 320$ 牛舌天婦羅 390$ 豬五花 180$ 杏鮑菇 160$ 炸節瓜 240$；很想二刷指數 3.5/5 | [8:44](https://www.youtube.com/watch?v=0YOTH-FL1FE&t=524s) | 肥波開吃啦 |
 
-## 196. 台南美食安平篇，24小時爽吃特輯四選 !  安平一日美食地圖推薦，鮮甜Q彈小卷米粉、麻辣溫體牛肉鍋初體驗、80年安平牛肉湯老店、酥脆軟滑蚵仔煎  【 肥波外食記 】 ft.協發行泡菜
+## 197. 台南美食安平篇，24小時爽吃特輯四選 !  安平一日美食地圖推薦，鮮甜Q彈小卷米粉、麻辣溫體牛肉鍋初體驗、80年安平牛肉湯老店、酥脆軟滑蚵仔煎  【 肥波外食記 】 ft.協發行泡菜
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Y1Ql2YDcqA4)
 - 發布時間：3 年前；觀看次數：7.7萬次
@@ -2325,7 +2337,7 @@
 | 助仔牛肉湯 | [Google Maps](https://goo.gl/maps/yAMHsnJHfxEMw2rW7) | Google Maps 未取得 | 影片描述：五花肉湯 220$ 炒牛舌130$；很想二刷指數 4/5 | [9:50](https://www.youtube.com/watch?v=Y1Ql2YDcqA4&t=590s) | 肥波開吃啦 |
 | 養蚵世家 | [Google Maps](https://goo.gl/maps/TsfPZCCRPvmgbmjm9) | Google Maps 未取得 | 影片描述：蚵仔煎70$ 蚵捲70$；很想二刷指數 4/5 | [11:24](https://www.youtube.com/watch?v=Y1Ql2YDcqA4&t=684s) | 肥波開吃啦 |
 
-## 197. 台南美食南區篇，24小時爽吃特輯四選 !  南區一日美食地圖推薦，激推紅油抄手乾拌麵、50年在地牛肉麵老店、排到歪頭酥炸臭豆腐、超高CP值100元鱔魚意麵  【 肥波外食記 】
+## 198. 台南美食南區篇，24小時爽吃特輯四選 !  南區一日美食地圖推薦，激推紅油抄手乾拌麵、50年在地牛肉麵老店、排到歪頭酥炸臭豆腐、超高CP值100元鱔魚意麵  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=YFNE26gFXiQ)
 - 發布時間：3 年前；觀看次數：8.6萬次
@@ -2337,7 +2349,7 @@
 | 夏林臭豆腐 | [Google Maps](https://goo.gl/maps/TMDzyCRbzUCfgEEaA) | Google Maps 未取得 | 影片描述：臭豆腐70$；很想二刷指數 4/5；原眼鏡鱔魚意麵 | [4:44](https://www.youtube.com/watch?v=YFNE26gFXiQ&t=284s) | 肥波開吃啦 |
 | 原眼鏡鱔魚意麵 | [Google Maps](https://goo.gl/maps/4Mfxt9aYRFi6ZdyY8) | Google Maps 未取得 | 影片描述：乾炒鱔魚意麵100$ 乾炒花枝150$；很想二刷指數 4/5 | [6:39](https://www.youtube.com/watch?v=YFNE26gFXiQ&t=399s) | 肥波開吃啦 |
 
-## 198. 宜蘭美食地圖，最想二刷的八家店 !  北起頭城南至蘇澳，精選在精選八間必收口袋名單推薦 !  經典宜蘭味炸醬麵、道地職人大阪燒、礁溪大鍋滷味名店、超濃厚豆腐沙茶炒麵  【 肥波外食記 】
+## 199. 宜蘭美食地圖，最想二刷的八家店 !  北起頭城南至蘇澳，精選在精選八間必收口袋名單推薦 !  經典宜蘭味炸醬麵、道地職人大阪燒、礁溪大鍋滷味名店、超濃厚豆腐沙茶炒麵  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=TDQDCs4H8Gk)
 - 發布時間：3 年前；觀看次數：30萬次
@@ -2353,7 +2365,7 @@
 | 南方澳無名蝦餅蚵嗲蘿蔔糕 | [Google Maps](https://goo.gl/maps/pE94JKdXGs9UsqTy7) | Google Maps 未取得 | 影片描述：蝦餅 35$ 春捲 25$ 蚵嗲 40$；麵魂家 | [13:22](https://www.youtube.com/watch?v=TDQDCs4H8Gk&t=802s) | 肥波開吃啦 |
 | 麵魂家 | [Google Maps](https://goo.gl/maps/JSezD8zUEShSnyML8) | Google Maps 未取得 | 影片描述：特盛叉燒拉麵 240$ | [15:59](https://www.youtube.com/watch?v=TDQDCs4H8Gk&t=959s) | 肥波開吃啦 |
 
-## 199. 蘇澳美食地圖，24小時爽吃特輯四選 !  蘇澳一日美食地圖推薦，各種特色煙燻魚雜、超厚切紅甘鮮魚湯、激推宜蘭味蝦餅、在地米糕老店 【 肥波外食記 】
+## 200. 蘇澳美食地圖，24小時爽吃特輯四選 !  蘇澳一日美食地圖推薦，各種特色煙燻魚雜、超厚切紅甘鮮魚湯、激推宜蘭味蝦餅、在地米糕老店 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=ktlkfx_rkvI)
 - 發布時間：3 年前；觀看次數：6.9萬次
@@ -2365,7 +2377,7 @@
 | 南方澳無名蝦餅蚵嗲蘿蔔糕 | [Google Maps](https://goo.gl/maps/pE94JKdXGs9UsqTy7) | Google Maps 未取得 | 影片描述：蝦餅 35$ 春捲 25$ 蚵嗲 40$；很想二刷指數 5/5 | [4:53](https://www.youtube.com/watch?v=ktlkfx_rkvI&t=293s) | 肥波開吃啦 |
 | 蘇澳港廟口廖榮川米糕 | [Google Maps](https://goo.gl/maps/i7Q1pGvsnW1E7g4T6) | Google Maps 未取得 | 影片描述：米糕飯 40$ 苦瓜排骨湯 60$；很想二刷指數 3/5 | [7:31](https://www.youtube.com/watch?v=ktlkfx_rkvI&t=451s) | 肥波開吃啦 |
 
-## 200. 彰化美食員林篇，24小時爽吃特輯五選 !  員林一日美食地圖推薦，早餐限定爌肉飯、軟嫩甘甜排骨酥麵、冠軍拿坡里披薩、員林肉圓代表、極度粒粒分明米糕  【 肥波外食記 】
+## 201. 彰化美食員林篇，24小時爽吃特輯五選 !  員林一日美食地圖推薦，早餐限定爌肉飯、軟嫩甘甜排骨酥麵、冠軍拿坡里披薩、員林肉圓代表、極度粒粒分明米糕  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=tI5IPqp7D0U)
 - 發布時間：3 年前；觀看次數：6.6萬次
@@ -2378,7 +2390,7 @@
 | 寶斗肉圓 | [Google Maps](https://goo.gl/maps/UgJyASCRRVzZYtq69) | Google Maps 未取得 | 影片描述：肉圓 60$；很想二刷指數 4/5 | [6:54](https://www.youtube.com/watch?v=tI5IPqp7D0U&t=414s) | 肥波開吃啦 |
 | 正老牌謝米糕 | [Google Maps](https://goo.gl/maps/w8uTCeJ1s5xLjGXb7) | Google Maps 未取得 | 影片描述：米糕 40$ 燒肉 65$；很想二刷指數 4.5/5 | [8:23](https://www.youtube.com/watch?v=tI5IPqp7D0U&t=503s) | 肥波開吃啦 |
 
-## 201. 鹿港美食地圖，24小時爽吃特輯五選 !  鹿港一日美食推薦，滑順口感百年麵線糊、特色芋丸湯配肉圓、鹿港肉包代表、下午茶綿密爌肉飯、開店即客滿酥炸臭豆腐  【 肥波外食記 】
+## 202. 鹿港美食地圖，24小時爽吃特輯五選 !  鹿港一日美食推薦，滑順口感百年麵線糊、特色芋丸湯配肉圓、鹿港肉包代表、下午茶綿密爌肉飯、開店即客滿酥炸臭豆腐  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=j7IjaLFws28)
 - 發布時間：3 年前；觀看次數：7.9萬次
@@ -2391,7 +2403,7 @@
 | 黑豬灶爌肉飯 | [Google Maps](https://goo.gl/maps/E5NDAkvDKA9Exqwq6) | Google Maps 未取得 | 影片描述：爌肉飯 50$ 豬腳中段 40$；很想二刷指數 5/5 | [5:34](https://www.youtube.com/watch?v=j7IjaLFws28&t=334s) | 肥波開吃啦 |
 | 我家臭豆腐 | [Google Maps](https://goo.gl/maps/thwRp21zCr25Qwwh8) | Google Maps 未取得 | 影片描述：臭豆腐 65$ 酸菜豬血湯 25$；很想二刷指數 4/5 | [7:36](https://www.youtube.com/watch?v=j7IjaLFws28&t=456s) | 肥波開吃啦 |
 
-## 202. 花蓮美食地圖，48小時爽吃特輯十選 ! 花蓮兩天一夜美食推薦，人氣早餐肉燥炒麵、花蓮扁食老店、清爽型酥炸臭豆腐、正宗日式章魚燒、厚實多汁鹿耳島黑豚炸豬排  【 肥波外食記 】
+## 203. 花蓮美食地圖，48小時爽吃特輯十選 ! 花蓮兩天一夜美食推薦，人氣早餐肉燥炒麵、花蓮扁食老店、清爽型酥炸臭豆腐、正宗日式章魚燒、厚實多汁鹿耳島黑豚炸豬排  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=gHseNtVda-Q)
 - 發布時間：3 年前；觀看次數：7.4萬次
@@ -2404,7 +2416,7 @@
 | 章魚燒日之丸 タコヤキヒノマル | [Google Maps](https://goo.gl/maps/G3EjdnU9V1hhwGW67) | Google Maps 未取得 | 影片描述：日之丸招牌煎章魚燒 80$ 柑橘醬油炸章魚燒 65$；很想二刷指數 5/5 | [5:18](https://www.youtube.com/watch?v=gHseNtVda-Q&t=318s) | 肥波開吃啦 |
 | 花蓮‧季之雲 | [Google Maps](https://goo.gl/maps/FARH4ek3ptiJpisq6) | Google Maps 未取得 | 影片描述：鹿耳島六白黑豚定食 480$ 雲流龍田日式炸雞 200$；很想二刷指數 4.5/5 | [YouTube](https://www.youtube.com/watch?v=gHseNtVda-Q) | 肥波開吃啦 |
 
-## 203. 花蓮美食地圖，48小時爽吃特輯十選 ! 花蓮兩天一夜美食推薦，筋道外皮小肉包、雞湯風味小卷米粉、正宗美式煙燻烤肉、撒滿蒜片沾醬雞排、鮮蚵滷肉飯配炸鴨蛋【 肥波外食記 】
+## 204. 花蓮美食地圖，48小時爽吃特輯十選 ! 花蓮兩天一夜美食推薦，筋道外皮小肉包、雞湯風味小卷米粉、正宗美式煙燻烤肉、撒滿蒜片沾醬雞排、鮮蚵滷肉飯配炸鴨蛋【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=G7wGo82FWiY)
 - 發布時間：3 年前；觀看次數：8.5萬次
@@ -2417,7 +2429,7 @@
 | 國聲沾醬雞排 | [Google Maps](https://goo.gl/maps/EjLRnZBUgkpwEQG27) | Google Maps 未取得 | 影片描述：沾醬雞排加蒜 90$ 牛蒡絲 40$；很想二刷指數 4/5；黑點師魯肉飯 | [6:18](https://www.youtube.com/watch?v=G7wGo82FWiY&t=378s) | 肥波開吃啦 |
 | 黑點師魯肉飯 | [Google Maps](https://goo.gl/maps/GkVCBPap694MhSHv7) | Google Maps 未取得 | 影片描述：鮮蚵滷肉飯加蛋 125$；很想二刷指數 3/5 | [8:08](https://www.youtube.com/watch?v=G7wGo82FWiY&t=488s) | 肥波開吃啦 |
 
-## 204. 台南美食北區篇，24小時爽吃特輯四選 !  北區一日美食地圖推薦，50年老字號汕頭意麵、激推溫體鵝腿切盤、下飯神器炒牛肝、超有fu單人燒肉專門店  【 肥波外食記 】
+## 205. 台南美食北區篇，24小時爽吃特輯四選 !  北區一日美食地圖推薦，50年老字號汕頭意麵、激推溫體鵝腿切盤、下飯神器炒牛肝、超有fu單人燒肉專門店  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Nquqt1M_Ei0)
 - 發布時間：3 年前；觀看次數：8.2萬次
@@ -2429,7 +2441,7 @@
 | 榮吉炒牛肉專賣店 | [Google Maps](https://goo.gl/maps/A6VX19pqPuGAN7rZ6) | Google Maps 未取得 | 影片描述：炒牛肝 110$ 蔥爆牛肉 110$；很想二刷指數 4/5；燒肉難民營 | [4:53](https://www.youtube.com/watch?v=Nquqt1M_Ei0&t=293s) | 肥波開吃啦 |
 | 燒肉難民營 | [Google Maps](https://goo.gl/maps/pDq5betwxizqEaF96) | Google Maps 未取得 | 影片描述：六號難民套餐 560$；很想二刷指數 4/5 | [7:04](https://www.youtube.com/watch?v=Nquqt1M_Ei0&t=424s) | 肥波開吃啦 |
 
-## 205. 宜蘭美食頭城篇，24小時爽吃特輯五選 !  頭城一日美食地圖推薦，宜蘭最夯牛肉麵、爆汁三星蔥肉湯包、滿滿蔥花炸彈蔥油餅、宜蘭名產大全套披薩、4.8顆星發財車燒烤  【 肥波外食記 】
+## 206. 宜蘭美食頭城篇，24小時爽吃特輯五選 !  頭城一日美食地圖推薦，宜蘭最夯牛肉麵、爆汁三星蔥肉湯包、滿滿蔥花炸彈蔥油餅、宜蘭名產大全套披薩、4.8顆星發財車燒烤  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=GiIpG8kbJTY)
 - 發布時間：3 年前；觀看次數：9.7萬次
@@ -2442,7 +2454,7 @@
 | 貝加莫廚房 | [Google Maps](https://goo.gl/maps/LQhi39omPydXLkfN6) | Google Maps 未取得 | 影片描述：貝加莫黃金鴨片披薩 390$；很想二刷指數 5/5 | [5:50](https://www.youtube.com/watch?v=GiIpG8kbJTY&t=350s) | 肥波開吃啦 |
 | 北宜石牌香腸 | [Google Maps](https://goo.gl/maps/PZpiBjVeHavTu5xK6) | Google Maps 未取得 | 影片描述：椒鹽五花肉 150$ 蔥肉捲 40$ 大腸包小腸 65$；很想二刷指數 4/5 | [8:00](https://www.youtube.com/watch?v=GiIpG8kbJTY&t=480s) | 肥波開吃啦 |
 
-## 206. 台南美食新化篇，24小時爽吃特輯四選 !  早餐限量牛肉湯、厚皮軟Q肉圓兩吃、古法秘製羊肉料理、台南最夯中藥炸雞  【肥波外食記】ft.7-ELEVEN賣貨便 @Channel7eleven
+## 207. 台南美食新化篇，24小時爽吃特輯四選 !  早餐限量牛肉湯、厚皮軟Q肉圓兩吃、古法秘製羊肉料理、台南最夯中藥炸雞  【肥波外食記】ft.7-ELEVEN賣貨便 @Channel7eleven
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=wy4ulG1BHVY)
 - 發布時間：3 年前；觀看次數：8.2萬次
@@ -2454,7 +2466,7 @@
 | 一心山羊肉 | [Google Maps](https://goo.gl/maps/gNc1hmT1DjELQ1i58) | Google Maps 未取得 | 影片描述：帶皮三層肉湯 200$ 芥藍羊肉 150$；很想二刷指數 4/5；葉麥克中藥炸雞 | [9:44](https://www.youtube.com/watch?v=wy4ulG1BHVY&t=584s) | 肥波開吃啦 |
 | 葉麥克中藥炸雞 | [Google Maps](https://goo.gl/maps/QH9XkjsXPw8k8weK8) | Google Maps 未取得 | 影片描述：雞腿 45$ 雞塊 35$ 地瓜 30$ 雞排 60$；很想二刷指數 5/5 | [11:34](https://www.youtube.com/watch?v=wy4ulG1BHVY&t=694s) | 肥波開吃啦 |
 
-## 207. 宜蘭美食羅東篇，24小時爽吃特輯五選 ! 羅東一日美食地圖推薦，三星蔥肉湯汁爆擊湯包、老字號肉羹名店、酥炸有機臭豆腐、療癒系美墨小吃、濃厚系豚骨拉麵  【 肥波外食記 】
+## 208. 宜蘭美食羅東篇，24小時爽吃特輯五選 ! 羅東一日美食地圖推薦，三星蔥肉湯汁爆擊湯包、老字號肉羹名店、酥炸有機臭豆腐、療癒系美墨小吃、濃厚系豚骨拉麵  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=p5tU6_hANZk)
 - 發布時間：3 年前；觀看次數：10萬次
@@ -2467,7 +2479,7 @@
 | Soul Food Bistro 壽福美墨小食部 | [Google Maps](https://goo.gl/maps/uEmUbqLXY4q79prs7) | Google Maps 未取得 | 影片描述：手撕豬肉堡 210$；很想二刷指數 3.5/5；麵魂家 | [5:30](https://www.youtube.com/watch?v=p5tU6_hANZk&t=330s) | 肥波開吃啦 |
 | 麵魂家 | [Google Maps](https://goo.gl/maps/JSezD8zUEShSnyML8) | Google Maps 未取得 | 影片描述：特盛叉燒拉麵 240$；很想二刷指數 5/5 | [6:43](https://www.youtube.com/watch?v=p5tU6_hANZk&t=403s) | 肥波開吃啦 |
 
-## 208. 台南美食東區篇，24小時爽吃特輯五選 ! 東區一日美食地圖推薦，超夯北方麵食專門店、限量特選牛肉湯、梅子風味二郎系拉麵、成大附近激爽臭豆腐、在地人的鱔魚意麵  【 肥波外食記 】
+## 209. 台南美食東區篇，24小時爽吃特輯五選 ! 東區一日美食地圖推薦，超夯北方麵食專門店、限量特選牛肉湯、梅子風味二郎系拉麵、成大附近激爽臭豆腐、在地人的鱔魚意麵  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=IjVx4c_DXVc)
 - 發布時間：3 年前；觀看次數：9萬次
@@ -2480,7 +2492,7 @@
 | 鴻達臭豆腐 | [Google Maps](https://goo.gl/maps/sEp3LJh42LYYe34MA) | Google Maps 未取得 | 影片描述：酥炸臭豆腐 70$；很想二刷指數 4.5/5；炒鱔魚專家 | [6:47](https://www.youtube.com/watch?v=IjVx4c_DXVc&t=407s) | 肥波開吃啦 |
 | 炒鱔魚專家 | [Google Maps](https://goo.gl/maps/D7kMm4RaRNHdmt8C7) | Google Maps 未取得 | 影片描述：乾炒鱔魚意麵 200$ 生炒花枝 150$；很想二刷指數 5/5 | [8:27](https://www.youtube.com/watch?v=IjVx4c_DXVc&t=507s) | 肥波開吃啦 |
 
-## 209. 高雄美食地圖，最想二刷的10家店 !  累積一年精選再精選，高雄美食口袋名單 !  米其林推薦溫體牛肉鍋、上癮口感甜烙餅、高雄肉燥飯爭霸冠軍、巷內正宗日式燒肉  【 肥波外食記 】
+## 210. 高雄美食地圖，最想二刷的10家店 !  累積一年精選再精選，高雄美食口袋名單 !  米其林推薦溫體牛肉鍋、上癮口感甜烙餅、高雄肉燥飯爭霸冠軍、巷內正宗日式燒肉  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=JPI8grKNkug)
 - 發布時間：3 年前；觀看次數：51萬次
@@ -2498,7 +2510,7 @@
 | HIRATSUKA 本格燒肉專門店 (要預訂) | [Google Maps](https://goo.gl/maps/kfJVsdjZ4rshapAM7) | Google Maps 未取得 | 影片描述：牛肝 150$ 極厚切舌芯肉 550$ 和牛橫膈膜 480$ A5肋眼上蓋 1080$；很想二刷指數 5/5；老店柏弘肉燥 | [20:48](https://www.youtube.com/watch?v=JPI8grKNkug&t=1248s) | 肥波開吃啦 |
 | 老店柏弘肉燥 | [Google Maps](https://goo.gl/maps/cfbJrYamcLiHKxdN9) | Google Maps 未取得 | 影片描述：腿庫飯 65$；很想二刷指數 5/5 | [24:35](https://www.youtube.com/watch?v=JPI8grKNkug&t=1475s) | 肥波開吃啦 |
 
-## 210. 高雄仁武區一日美食地圖四選 !  24HR爽吃之旅，大火爆炒鴨肉羹、優質口感外省麵、仁武超夯烤鴨名店、平價美味鹹水鵝  【 肥波外食記 】
+## 211. 高雄仁武區一日美食地圖四選 !  24HR爽吃之旅，大火爆炒鴨肉羹、優質口感外省麵、仁武超夯烤鴨名店、平價美味鹹水鵝  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=7AbMFHtKqwM)
 - 發布時間：3 年前；觀看次數：5.1萬次
@@ -2510,7 +2522,7 @@
 | 仁武烤鴨 | [Google Maps](https://goo.gl/maps/LdjDUV9Wa7Gh2jVn8) | Google Maps 未取得 | 影片描述：半鴨附餅 320$；很想二刷指數 5/5；大高雄鵝肉店 | [4:38](https://www.youtube.com/watch?v=7AbMFHtKqwM&t=278s) | 肥波開吃啦 |
 | 大高雄鵝肉店 | [Google Maps](https://goo.gl/maps/LubDKXxFYMLYXM3D9) | Google Maps 未取得 | 影片描述：鹹水鵝 330$ 鵝油飯 15$ 綜合下水 140$；很想二刷指數 3.5/5 | [7:15](https://www.youtube.com/watch?v=7AbMFHtKqwM&t=435s) | 肥波開吃啦 |
 
-## 211. 屏東美食東港篇，24小時爽吃特輯五選 !  東港鎮一日美食地圖推薦，在地超夯肉粿名店、東港特色飯湯小吃、激推北方麵食甜烙餅、巷內70年肉丸老店、華僑市場NO.1黑鮪魚  【 肥波外食記 】
+## 212. 屏東美食東港篇，24小時爽吃特輯五選 !  東港鎮一日美食地圖推薦，在地超夯肉粿名店、東港特色飯湯小吃、激推北方麵食甜烙餅、巷內70年肉丸老店、華僑市場NO.1黑鮪魚  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=jsZj4WJCD8o)
 - 發布時間：3 年前；觀看次數：10萬次
@@ -2523,7 +2535,7 @@
 | 東港正宗肉丸 | [Google Maps](https://goo.gl/maps/LEPp7iGN58VJhrd88) | Google Maps 未取得 | 影片描述：四顆肉丸 48$ 綜合切盤 60$；很想二刷指數 4/5；王匠黑鮪魚生魚片&日本料理《華僑市228攤》 | [6:23](https://www.youtube.com/watch?v=jsZj4WJCD8o&t=383s) | 肥波開吃啦 |
 | 王匠黑鮪魚生魚片&日本料理《華僑市228攤》 | [Google Maps](https://goo.gl/maps/xfNqCdZrXpHWKoY67) | Google Maps 未取得 | 影片描述：黑鮪魚金三角 250$ 黑鮪魚上腹 180$ 四色生魚片 300$ 甜蝦 200$；很想二刷指數 4.5/5 | [8:35](https://www.youtube.com/watch?v=jsZj4WJCD8o&t=515s) | 肥波開吃啦 |
 
-## 212. 東京拉麵圖鑑，各大派系通吃特輯10選 !  TOP 10 Must-Try RAMEN in Tokyo
+## 213. 東京拉麵圖鑑，各大派系通吃特輯10選 !  TOP 10 Must-Try RAMEN in Tokyo
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Ea790lkECag)
 - 發布時間：3 年前；觀看次數：9.9萬次
@@ -2541,7 +2553,7 @@
 | キング製麺 | [Google Maps](https://goo.gl/maps/dqAhMTqEXTMiYb8j9) | Google Maps 未取得 | 影片描述：特製白湯拉麵 1290¥；很想二刷指數 5/5 | [16:13](https://www.youtube.com/watch?v=Ea790lkECag&t=973s) | 肥波開吃啦 |
 | むぎとオリーブ 銀座本店 | [Google Maps](https://goo.gl/maps/4WZzhzzVpgbmAnLv9) | Google Maps 未取得 | 影片描述：特製蛤仔雞湯沾麵 1400¥；很想二刷指數 4.5/5 | [17:58](https://www.youtube.com/watch?v=Ea790lkECag&t=1078s) | 肥波開吃啦 |
 
-## 213. 東京美食地圖，最想二刷的10家店 !  TOP 10 Must-Try FOOD in Tokyo
+## 214. 東京美食地圖，最想二刷的10家店 !  TOP 10 Must-Try FOOD in Tokyo
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=yjFRrLFfEeg)
 - 發布時間：3 年前；觀看次數：71萬次
@@ -2559,7 +2571,7 @@
 | 鮨國 Sushikuni | [Google Maps](https://goo.gl/maps/CBTi2y2avdju9RTE6) | Google Maps 未取得 | 影片描述：元祖海膽滿溢丼 6500¥；很想二刷指數 5/5 | [18:58](https://www.youtube.com/watch?v=yjFRrLFfEeg&t=1138s) | 肥波開吃啦 |
 | BELLA NAPOLI | [Google Maps](https://goo.gl/maps/47TKa7aKk3nBCBWf8) | Google Maps 未取得 | 影片描述：火山生火腿芝麻葉披薩 3850¥；很想二刷指數 5/5 | [20:52](https://www.youtube.com/watch?v=yjFRrLFfEeg&t=1252s) | 肥波開吃啦 |
 
-## 214. 東京美食上野篇，24小時爽吃特輯五選 !  上野一日美食地圖推薦，激推大蔥鴨拉麵、阿美橫丁炸肉餅、紅酒慢燉牛舌、肥美牡蠣蕎麥麵、炸A4和牛霜降  【 肥波外食記 】
+## 215. 東京美食上野篇，24小時爽吃特輯五選 !  上野一日美食地圖推薦，激推大蔥鴨拉麵、阿美橫丁炸肉餅、紅酒慢燉牛舌、肥美牡蠣蕎麥麵、炸A4和牛霜降  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=v2dtMo3i82U)
 - 發布時間：3 年前；觀看次數：13萬次
@@ -2572,7 +2584,7 @@
 | 上野 藪そば | [Google Maps](https://goo.gl/maps/utYuwVTG9ufHwgf97) | Google Maps 未取得 | 影片描述：牡蠣蕎麥麵 1915¥；很想二刷指數 4/5；牛かつ あおな 御徒町本店 | [5:46](https://www.youtube.com/watch?v=v2dtMo3i82U&t=346s) | 肥波開吃啦 |
 | 牛かつ あおな 御徒町本店 | [Google Maps](https://goo.gl/maps/aMidqtPgXCDYcvxF7) | Google Maps 未取得 | 影片描述：炸黑毛和牛霜降 3390¥；很想二刷指數 4.5/5 | [7:45](https://www.youtube.com/watch?v=v2dtMo3i82U&t=465s) | 肥波開吃啦 |
 
-## 215. 東京美食秋葉原篇，24小時爽吃特輯五選 !  秋葉原一日美食地圖推薦，三年米其林推薦拉麵、超夯炸豬排名店、tabelog3.87人氣拉麵、新潟生薑醬油拉麵、東京親子丼冠軍  【 肥波外食記 】
+## 216. 東京美食秋葉原篇，24小時爽吃特輯五選 !  秋葉原一日美食地圖推薦，三年米其林推薦拉麵、超夯炸豬排名店、tabelog3.87人氣拉麵、新潟生薑醬油拉麵、東京親子丼冠軍  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Lo_pjDgnPUc)
 - 發布時間：3 年前；觀看次數：8.5萬次
@@ -2585,7 +2597,7 @@
 | 青島食堂 秋葉原店 | [Google Maps](https://goo.gl/maps/FgKRac5RSxLdptcPA) | Google Maps 未取得 | 影片描述：青島叉燒拉麵 900¥；很想二刷指數 6/5 | [6:19](https://www.youtube.com/watch?v=Lo_pjDgnPUc&t=379s) | 肥波開吃啦 |
 | 鳥つね 自然洞 | [Google Maps](https://goo.gl/maps/zTj8sjvT1AXEEZJ47) | Google Maps 未取得 | 影片描述：招牌親子丼 2200¥；很想二刷指數 5/5 | [8:16](https://www.youtube.com/watch?v=Lo_pjDgnPUc&t=496s) | 肥波開吃啦 |
 
-## 216. 東京美食原宿篇，24小時爽吃特輯五選 !  原宿一日美食地圖推薦，來自澳洲超夯早午餐、米蘭60年老字號披薩、高顏值起司咖哩、TABELOG3.88巴基斯坦風咖哩、特色口味創作烏冬 【 肥波外食記 】
+## 217. 東京美食原宿篇，24小時爽吃特輯五選 !  原宿一日美食地圖推薦，來自澳洲超夯早午餐、米蘭60年老字號披薩、高顏值起司咖哩、TABELOG3.88巴基斯坦風咖哩、特色口味創作烏冬 【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=tH38GCzA7CA)
 - 發布時間：3 年前；觀看次數：5.3萬次
@@ -2598,7 +2610,7 @@
 | ヨゴロウ | [Google Maps](https://goo.gl/maps/Ks1qzArf6PTAtovt6) | Google Maps 未取得 | 影片描述：菠菜烤雞咖哩 1300¥；很想二刷指數 4.5/5 | [5:23](https://www.youtube.com/watch?v=tH38GCzA7CA&t=323s) | 肥波開吃啦 |
 | 麺散 | [Google Maps](https://goo.gl/maps/AFr9HdCiZeyi4VkU7) | Google Maps 未取得 | 影片描述：奶油培根玉子烏冬 900¥ 紅薑天婦羅 150¥；很想二刷指數 4/5 | [7:12](https://www.youtube.com/watch?v=tH38GCzA7CA&t=432s) | 肥波開吃啦 |
 
-## 217. 東京美食表參道篇，24小時爽吃特輯五選 !  表參道一日美食地圖推薦，來自紐約療癒系藍莓鬆餅、表參道炸豬排老店、巷內美式煙燻燒烤、遊客必吃龍蝦堡、激推莫札瑞拉起司和牛漢堡  【 肥波外食記 】
+## 218. 東京美食表參道篇，24小時爽吃特輯五選 !  表參道一日美食地圖推薦，來自紐約療癒系藍莓鬆餅、表參道炸豬排老店、巷內美式煙燻燒烤、遊客必吃龍蝦堡、激推莫札瑞拉起司和牛漢堡  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=z87eU4I9e44)
 - 發布時間：3 年前；觀看次數：6.7萬次
@@ -2611,7 +2623,7 @@
 | LUKE'S LOBSTER 表参道キャットストリート店 | [Google Maps](https://goo.gl/maps/Q44mkYyoqJhxoufCA) | Google Maps 未取得 | 影片描述：蝦仁龍蝦堡 1490¥；很想二刷指數 4/5 | [6:00](https://www.youtube.com/watch?v=z87eU4I9e44&t=360s) | 肥波開吃啦 |
 | The Great Burger | [Google Maps](https://goo.gl/maps/2ZqVnaAhVhxXbta9A) | Google Maps 未取得 | 影片描述：和牛蘑菇莫札瑞拉起司堡 2530¥；很想二刷指數 5/5 | [7:31](https://www.youtube.com/watch?v=z87eU4I9e44&t=451s) | 肥波開吃啦 |
 
-## 218. 東京美食澀谷篇，24小時爽吃特輯五選 !  澀谷一日美食地圖推薦，超夯現烤漢堡排、60年老字號拉麵店、正宗職人燒鳥、限量厚切牛舌、海鮮專精居酒屋  【 肥波外食記 】
+## 219. 東京美食澀谷篇，24小時爽吃特輯五選 !  澀谷一日美食地圖推薦，超夯現烤漢堡排、60年老字號拉麵店、正宗職人燒鳥、限量厚切牛舌、海鮮專精居酒屋  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=qjpcZdJi8cA)
 - 發布時間：3 年前；觀看次數：15萬次
@@ -2624,7 +2636,7 @@
 | 焼肉ホルモン 新井屋 渋谷 | [Google Maps](https://goo.gl/maps/U4UihGWk4y3HNpiEA) | Google Maps 未取得 | 影片描述：鹽味厚切牛舌 4620¥ 特選厚切肝丁 1540¥；很想二刷指數 5/5；魚真 渋谷店 | [7:15](https://www.youtube.com/watch?v=qjpcZdJi8cA&t=435s) | 肥波開吃啦 |
 | 魚真 渋谷店 | [Google Maps](https://goo.gl/maps/M3N4vmAGgrgoUU437) | Google Maps 未取得 | 影片描述：海膽烤飯糰 880¥ 極上軍艦 1980¥ 毛蟹 1480¥；很想二刷指數 3.5/5 | [9:39](https://www.youtube.com/watch?v=qjpcZdJi8cA&t=579s) | 肥波開吃啦 |
 
-## 219. 東京美食新宿篇，24小時爽吃特輯五選 !  東京新宿一日美食地圖推薦，巷內超夯炸豬排、激爽和牛漢堡專門店、新宿榜一濃郁系沾麵、排到歪頭烏冬名店、淡麗系雞白湯拉麵  【 肥波外食記 】
+## 220. 東京美食新宿篇，24小時爽吃特輯五選 !  東京新宿一日美食地圖推薦，巷內超夯炸豬排、激爽和牛漢堡專門店、新宿榜一濃郁系沾麵、排到歪頭烏冬名店、淡麗系雞白湯拉麵  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=QaKGM5k6izs)
 - 發布時間：3 年前；觀看次數：12萬次
@@ -2637,7 +2649,7 @@
 | うどん 慎（しん） | [Google Maps](https://goo.gl/maps/hRrKF9VLSY2Fuzmv7) | Google Maps 未取得 | 影片描述：奶油胡椒玉子溫烏冬佐起司天婦羅 1490¥；很想二刷指數 4.5/5 | [5:17](https://www.youtube.com/watch?v=QaKGM5k6izs&t=317s) | 肥波開吃啦 |
 | 麺屋 翔 本店 | [Google Maps](https://goo.gl/maps/WKczcGn3oWFtjY3j9) | Google Maps 未取得 | 影片描述：軍雞特製鹽味拉麵 1450¥；很想二刷指數 4/5 | [7:35](https://www.youtube.com/watch?v=QaKGM5k6izs&t=455s) | 肥波開吃啦 |
 
-## 220. 東京美食池袋篇，24小時爽吃特輯五選 !  池袋一日美食地圖推，池袋最夯烏冬名店、極度下飯平價洋食、池袋榜一拉麵店、特製味噌系拉麵、迴轉版美登利壽司  【 肥波外食記 】
+## 221. 東京美食池袋篇，24小時爽吃特輯五選 !  池袋一日美食地圖推，池袋最夯烏冬名店、極度下飯平價洋食、池袋榜一拉麵店、特製味噌系拉麵、迴轉版美登利壽司  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=EWSRymVMMuo)
 - 發布時間：3 年前；觀看次數：13萬次
@@ -2650,7 +2662,7 @@
 | 麵處花田 池袋店 | [Google Maps](https://goo.gl/maps/6GY9uhgJCCS2zFXu9) | Google Maps 未取得 | 影片描述：特製味噌拉麵 1140¥；很想二刷指數 4.5/5 | [5:41](https://www.youtube.com/watch?v=EWSRymVMMuo&t=341s) | 肥波開吃啦 |
 | 回し寿司活 西武池袋店 | [Google Maps](https://goo.gl/maps/n5r2PFPa5ZsUT4xc8) | Google Maps 未取得 | 影片描述：我忘記了QQ$；很想二刷指數 4/5 | [7:29](https://www.youtube.com/watch?v=EWSRymVMMuo&t=449s) | 肥波開吃啦 |
 
-## 221. 東京美食築地篇，24小時爽吃特輯五選 !  築地市場一日美食地圖推薦，產地直送究極黑鮪魚丼、巷內老字號握壽司、星鰻海鮮寶盒、激爽元祖海膽丼、厚實綿密鰻魚飯  【 肥波外食記 】
+## 222. 東京美食築地篇，24小時爽吃特輯五選 !  築地市場一日美食地圖推薦，產地直送究極黑鮪魚丼、巷內老字號握壽司、星鰻海鮮寶盒、激爽元祖海膽丼、厚實綿密鰻魚飯  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=slEgGgAKmU0)
 - 發布時間：3 年前；觀看次數：16萬次
@@ -2663,7 +2675,7 @@
 | 鮨國 Sushikuni | [Google Maps](https://goo.gl/maps/CBTi2y2avdju9RTE6) | Google Maps 未取得 | 影片描述：元祖海膽滿溢丼 6500¥；很想二刷指數 5/5；鰻魚老店 つきじ宮川本廛 | [5:50](https://www.youtube.com/watch?v=slEgGgAKmU0&t=350s) | 肥波開吃啦 |
 | 鰻魚老店 つきじ宮川本廛 | [Google Maps](https://goo.gl/maps/4etHrtPkCewnoo1aA) | Google Maps 未取得 | 影片描述：鰻魚丼(二) 4950¥ 鰻肝燒 1100¥；很想二刷指數 5/5 | [7:44](https://www.youtube.com/watch?v=slEgGgAKmU0&t=464s) | 肥波開吃啦 |
 
-## 222. 東京美食淺草篇，24小時爽吃之旅 !  淺草一日美食地圖推薦，巷內江戶前天丼老店、淺草百年蕎麥麵、罕見泥鰍鍋初體驗、油香衝擊和牛壽喜燒、百年關東煮老店 【肥波外食記】ft.Rakuten Travel
+## 223. 東京美食淺草篇，24小時爽吃之旅 !  淺草一日美食地圖推薦，巷內江戶前天丼老店、淺草百年蕎麥麵、罕見泥鰍鍋初體驗、油香衝擊和牛壽喜燒、百年關東煮老店 【肥波外食記】ft.Rakuten Travel
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=maw7VXODp8g)
 - 發布時間：3 年前；觀看次數：15萬次
@@ -2676,7 +2688,7 @@
 | 壽喜燒老店 淺草今半 | [Google Maps](https://goo.gl/maps/CSda82CwH4fFbaG9A) | Google Maps 未取得 | 影片描述：極上霜降和牛御膳 11000¥；很想二刷指數 4.5/5 | [6:48](https://www.youtube.com/watch?v=maw7VXODp8g&t=408s) | 肥波開吃啦 |
 | 淺草關東煮老店 大多福 | [Google Maps](https://goo.gl/maps/ycbsVpFqZj5L5qy57) | Google Maps 未取得 | 影片描述：單人關東煮盛 2750¥ 燉牛筋 1000¥；很想二刷指數 4/5 | [8:36](https://www.youtube.com/watch?v=maw7VXODp8g&t=516s) | 肥波開吃啦 |
 
-## 223. 東京美食銀座篇，24小時爽吃特輯五選 !  銀座一日美食地圖推薦，三連霸冠軍烏冬麵、厚切A5神戶牛定食、蒲燒星鰻兩吃、破萬激爽和牛燒肉、清爽系美味沾麵  【 肥波外食記 】
+## 224. 東京美食銀座篇，24小時爽吃特輯五選 !  銀座一日美食地圖推薦，三連霸冠軍烏冬麵、厚切A5神戶牛定食、蒲燒星鰻兩吃、破萬激爽和牛燒肉、清爽系美味沾麵  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=74Wn2UkOT3o)
 - 發布時間：3 年前；觀看次數：17萬次
@@ -2689,7 +2701,7 @@
 | 焼肉 銀座コバウ 特別室 | [Google Maps](https://goo.gl/maps/U5rCFdw4dbYyqdGK7) | Google Maps 未取得 | 影片描述：銀座店限定菜單 13200¥；很想二刷指數 5/5 | [5:50](https://www.youtube.com/watch?v=74Wn2UkOT3o&t=350s) | 肥波開吃啦 |
 | むぎとオリーブ 銀座本店 | [Google Maps](https://goo.gl/maps/4WZzhzzVpgbmAnLv9) | Google Maps 未取得 | 影片描述：特製蛤仔雞湯沾麵 1400¥；很想二刷指數 4.5/5 | [10:17](https://www.youtube.com/watch?v=74Wn2UkOT3o&t=617s) | 肥波開吃啦 |
 
-## 224. 東京必比登48小時爽吃特輯十選 !  米其林推薦東京美食，激推粉嫩炸豬菲力、火山生火腿披薩、職人提燈燒鳥初體驗、TABELOG3.81拉麵名店  【 肥波外食記 】
+## 225. 東京必比登48小時爽吃特輯十選 !  米其林推薦東京美食，激推粉嫩炸豬菲力、火山生火腿披薩、職人提燈燒鳥初體驗、TABELOG3.81拉麵名店  【 肥波外食記 】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=79-liI53PXE)
 - 發布時間：3 年前；觀看次數：18萬次
@@ -2707,7 +2719,7 @@
 | 白金酉玉本館 | [Google Maps](https://goo.gl/maps/rzY2GFX7FtffYsRM6) | Google Maps 未取得 | 影片描述：12串套組 3850¥ 提燈 385¥；很想二刷指數 4/5 | [14:42](https://www.youtube.com/watch?v=79-liI53PXE&t=882s) | 肥波開吃啦 |
 | 田のじ | [Google Maps](https://goo.gl/maps/jinEFyjhEkrETRc48) | Google Maps 未取得 | 影片描述：關東煮 1330¥ 米茄子田樂 650¥ 蘆筍干貝 950¥；很想二刷指數 3/5 | [18:20](https://www.youtube.com/watch?v=79-liI53PXE&t=1100s) | 肥波開吃啦 |
 
-## 249. 環台拉麵圖鑑，各大派系通吃特輯30選 ! 拉麵控必備寶典，全台各地拉麵名店通包 ! 【 肥波外食記 】 ft.10萬訂閱QA
+## 250. 環台拉麵圖鑑，各大派系通吃特輯30選 ! 拉麵控必備寶典，全台各地拉麵名店通包 ! 【 肥波外食記 】 ft.10萬訂閱QA
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=mkKt-P9GfpI)
 - 發布時間：3 年前；觀看次數：29萬次

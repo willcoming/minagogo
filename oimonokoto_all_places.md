@@ -1,19 +1,19 @@
 # Oimoの休日グルメ旅 全頻道地點清單
 
 - 頻道：[Oimoの休日グルメ旅](https://www.youtube.com/@oimonokoto)
-- 抓取日期：2026-06-25
+- 抓取日期：2026-06-27
 - 整理流程：本輪重新抓取 YouTube 頻道影片清單；舊影片地點沿用既有抽取資料，新增影片解析 YouTube 描述欄/章節。
-- 本檔整理影片：15 部；本輪新增或補抓描述欄：15 部。
+- 本檔整理影片：15 部；本輪新增或補抓描述欄：7 部。
 - 店家/地點總筆數：61 筆；原始 Google/Share 地圖連結 0 筆，搜尋補足 61 筆，Naver Map 0 筆。
 - Google Maps 評分本輪未逐筆重查；既有評分保留，新增列標示未取得。
 - 無店家資料影片清單：見 [oimonokoto_no_places.md](./oimonokoto_no_places.md)。
 
-- 本輪新增/補抓影片 ID：CTDP1JIevH8, -TlQwD3vq88, c7z2OfI1o6M, fuQ5gNTwN30, tejA1iaptLU, 6WcSODTa3YI, 0Z4f1mzjHzc, VwqvZ9wJYuY, dI0tnFV-NR0, jfh2xep4OWY, ghlNBy0SuXQ, oxaUSgz4rSs, a50oFoqGb_4, Vb0FLzMRyys, m5Acq_lywBk
+- 本輪新增/補抓影片 ID：0Z4f1mzjHzc, jfh2xep4OWY, ghlNBy0SuXQ, oxaUSgz4rSs, a50oFoqGb_4, Vb0FLzMRyys, m5Acq_lywBk
 
 ## 1. 【東京銀座スイーツ5選】最新グルメを食べ歩き/2026年最新レポート/話題の人気店からおすすめカフェなど/ginza food tour English subtitles
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=CTDP1JIevH8)
-- 發布時間：4 天前；觀看次數：5985次
+- 發布時間：6 天前；觀看次數：7102次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -24,10 +24,10 @@
 | クニャーネの店 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%8B%E3%83%A3%E3%83%BC%E3%83%8D%E3%81%AE%E5%BA%97%20Ginza%20Tokyo%20Japan) | Google Maps 未取得（以搜尋連結代替） | oimonokoto 在描述欄將「クニャーネの店」列為本集美食、咖啡或甜點停留點；未提供原始地圖連結，改以 Google Maps 搜尋補足。 | [15:53](https://www.youtube.com/watch?v=CTDP1JIevH8&t=953s) | Oimoの休日グルメ旅 |
 | 不二家 | [Google Maps 搜尋](https://www.google.com/maps/search/?api=1&query=%E4%B8%8D%E4%BA%8C%E5%AE%B6%20Ginza%20Tokyo%20Japan) | Google Maps 未取得（以搜尋連結代替） | oimonokoto 在描述欄將「不二家」列為本集美食、咖啡或甜點停留點；未提供原始地圖連結，改以 Google Maps 搜尋補足。 | [18:25](https://www.youtube.com/watch?v=CTDP1JIevH8&t=1105s) | Oimoの休日グルメ旅 |
 
-## 2. 【銀座カフェ5選】喫茶店、話題の人気店など/昭和レトロ/喫茶名店のオムライス/プリン/銀座スイーツ/ginzacafe
+## 2. 【銀座】おすすめカフェ・喫茶店5選！老舗から話題の人気店まで
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=-TlQwD3vq88)
-- 發布時間：11 天前；觀看次數：1670次
+- 發布時間：13 天前；觀看次數：1697次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -40,7 +40,7 @@
 ## 3. 【東京駅】朝ごはん5選🥞2026年最新！今おすすめのモーニング&ブランチ\|高コスパ\|マンダリンオリエンタル\|東京カフェ
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=c7z2OfI1o6M)
-- 發布時間：12 天前；觀看次數：6917次
+- 發布時間：2 週前；觀看次數：7659次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -69,7 +69,7 @@
 ## 5. 【2026年最新版】絶対に外さない東京駅グランスタお土産７選！東京駅限定土産/スイーツ/ベーカリー【保存版】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=tejA1iaptLU)
-- 發布時間：1 個月前；觀看次數：8454次
+- 發布時間：1 個月前；觀看次數：8786次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -84,7 +84,7 @@
 ## 6. 【東京観光】大井町トラックスVlog🍽️カフェ/ベーカリー/スイーツ7選🥐【完全攻略】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=6WcSODTa3YI)
-- 發布時間：1 個月前；觀看次數：1.5萬次
+- 發布時間：1 個月前；觀看次數：1.6萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -100,7 +100,7 @@
 ## 8. 【東京観光】高輪ゲートウェイシティVlog🍽️カフェ/ベーカリー/スイーツ7選🥐【完全攻略】
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=VwqvZ9wJYuY)
-- 發布時間：1 個月前；觀看次數：4.8萬次
+- 發布時間：1 個月前；觀看次數：4.9萬次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -120,7 +120,7 @@
 ## 9. 【東京観光】浅草の食べ歩きグルメ10選！【2026年最新版】正直レビュー、おすすめ土産も！
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=dI0tnFV-NR0)
-- 發布時間：1 個月前；觀看次數：557次
+- 發布時間：1 個月前；觀看次數：577次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |

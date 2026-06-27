@@ -18,11 +18,15 @@ function parseArgs(argv) {
     force: false,
     dryRun: false,
     rebuild: true,
+    inputFile: placesFile,
   };
   for (const arg of argv) {
     if (arg === "--force") args.force = true;
     if (arg === "--dry-run") args.dryRun = true;
     if (arg === "--no-rebuild") args.rebuild = false;
+    if (arg.startsWith("--input=")) {
+      args.inputFile = path.resolve(rootDir, arg.split("=")[1]);
+    }
     if (arg.startsWith("--limit=")) {
       const value = arg.split("=")[1];
       args.limit = value === "all" ? Infinity : Number(value);
@@ -148,8 +152,8 @@ async function resolveMapUrl(url) {
   };
 }
 
-function ensurePlacesData() {
-  if (fs.existsSync(placesFile)) return;
+function ensurePlacesData(inputFile) {
+  if (inputFile !== placesFile || fs.existsSync(placesFile)) return;
   const result = spawnSync(process.execPath, ["scripts/build-places-data.mjs"], {
     cwd: rootDir,
     stdio: "inherit",
@@ -176,9 +180,9 @@ function cacheResultForPlace(records, place, result) {
 
 async function main() {
   const args = parseArgs(process.argv.slice(2));
-  ensurePlacesData();
+  ensurePlacesData(args.inputFile);
 
-  const placesData = readJson(placesFile, { places: [] });
+  const placesData = readJson(args.inputFile, { places: [] });
   const cache = readJson(cacheFile, { generatedAt: "", records: {} });
   const records = cache.records || {};
 

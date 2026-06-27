@@ -1,7 +1,7 @@
 # Unique Japan Travel 未抓到店家/地點資料影片
 
 - 頻道：[Unique Japan Travel](https://www.youtube.com/@UniqueJapanTravel)
-- 抓取日期：2026-06-24
+- 抓取日期：2026-06-27
 - 未抓到店家/地點資料：6 部
 
 | # | 影片標題 | 發布時間 | 觀看次數 | 影片連結 |

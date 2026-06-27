@@ -1,7 +1,7 @@
 # Celia Ting 全頻道地點清單
 
 - 頻道：[Celia Ting](https://www.youtube.com/@cellia1025)
-- 抓取日期：2026-06-24
+- 抓取日期：2026-06-27
 - 整理流程：本輪重新抓取 YouTube 頻道影片清單；舊影片地點沿用既有抽取資料，新增影片解析 YouTube 描述欄/章節。
 - 本檔整理影片：41 部；本輪新增或補抓描述欄：25 部。
 - 店家/地點總筆數：74 筆；原始 Google/Share 地圖連結 0 筆，搜尋補足 74 筆，Naver Map 0 筆。
@@ -13,7 +13,7 @@
 ## 1. 如果 Google Maps 消失了？我在東京試了一天 \| a day in Tokyo without Google Maps ☕️
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=Elnh4ZYpWkU)
-- 發布時間：2 週前；觀看次數：3811次
+- 發布時間：3 週前；觀看次數：3822次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -80,7 +80,7 @@
 ## 15. 台北板南線咖啡廳一日探店｜還有Super Junior銀赫愛去的咖啡店！One day café hopping on MRT Blue Line
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=ENQmUYy-Bsg)
-- 發布時間：8 個月前；觀看次數：9173次
+- 發布時間：8 個月前；觀看次數：9190次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -94,7 +94,7 @@
 ## 16. 你們敲碗的，我來台中了！｜咖啡店＋米其林冰淇淋＋抹茶甜點 ☕️ A Day in Taichung West｜Cafés, Michelin Ice Cream & Matcha Desserts
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=3O442NTN2uo)
-- 發布時間：9 個月前；觀看次數：3773次
+- 發布時間：9 個月前；觀看次數：3777次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
@@ -120,7 +120,7 @@
 ## 18. 最愛的公館老味道 & 校園美食 \| 冰淇淋三明治、燒臘、刈包、雞蛋糕 🧁🍦 NTU Alumni Food Tour
 
 - 影片：[YouTube](https://www.youtube.com/watch?v=lEtq_nfqjgg)
-- 發布時間：11 個月前；觀看次數：6306次
+- 發布時間：11 個月前；觀看次數：6308次
 
 | 店名 | 地圖連結 | Google Maps 評價 | YouTube 評價 | 影片連結 | 頻道名稱 |
 | --- | --- | --- | --- | --- | --- |
