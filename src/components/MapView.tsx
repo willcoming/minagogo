@@ -76,6 +76,10 @@ function reviewsUrl(place: Place): string {
   return place.google?.googleMapsLinks?.reviewsUri || getPlaceMapsUrl(place);
 }
 
+function placeInfoWindowTitle(place: Place): string {
+  return `${place.category.label} ${place.name}`;
+}
+
 function createInfoWindowLink(href: string, label: string): HTMLAnchorElement {
   const link = document.createElement("a");
   link.href = href;
@@ -85,13 +89,16 @@ function createInfoWindowLink(href: string, label: string): HTMLAnchorElement {
   return link;
 }
 
+function createPlaceInfoWindowHeaderContent(place: Place): HTMLElement {
+  const title = document.createElement("h2");
+  title.className = "place-info-title";
+  title.textContent = placeInfoWindowTitle(place);
+  return title;
+}
+
 function createPlaceInfoWindowContent(place: Place): HTMLElement {
   const container = document.createElement("div");
   container.className = "place-info-window";
-
-  const title = document.createElement("h2");
-  title.className = "place-info-title";
-  title.textContent = `${place.category.label} ${place.name}`;
 
   const channel = document.createElement("p");
   channel.className = "place-info-meta";
@@ -105,7 +112,7 @@ function createPlaceInfoWindowContent(place: Place): HTMLElement {
     createInfoWindowLink(reviewsUrl(place), "評論"),
   );
 
-  container.append(title, channel, actions);
+  container.append(channel, actions);
   return container;
 }
 
@@ -240,6 +247,7 @@ export function MapView({
 
     const infoWindow = infoWindowRef.current;
     infoWindowCloseListenerRef.current?.remove();
+    infoWindow.setHeaderContent(createPlaceInfoWindowHeaderContent(selected));
     infoWindow.setContent(createPlaceInfoWindowContent(selected));
 
     const selectedMarker = markerByIdRef.current.get(selected.id);
