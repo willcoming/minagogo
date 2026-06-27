@@ -32,7 +32,6 @@ function parseArgs(argv) {
     rebuild: true,
     delayMs: 120,
     provider: "both",
-    channel: "",
   };
   for (const arg of argv) {
     if (arg === "--force") args.force = true;
@@ -46,7 +45,6 @@ function parseArgs(argv) {
     }
     if (arg.startsWith("--delay-ms=")) args.delayMs = Number(arg.split("=")[1]);
     if (arg.startsWith("--provider=")) args.provider = arg.split("=")[1];
-    if (arg.startsWith("--channel=")) args.channel = arg.split("=")[1];
   }
   return args;
 }
@@ -232,10 +230,9 @@ function regionSearchTerm(regionCode) {
 function queryForPlace(place) {
   const name = cleanQueryPart(place.name);
   const address = cleanQueryPart(place.address);
-  const searchQuery = cleanQueryPart(place.searchQuery);
   if (name && address) return `${name} ${address}`;
-  if (name && searchQuery && searchQuery.length <= 180 && searchQuery !== name) return searchQuery;
   if (name) return `${name} ${regionSearchTerm(inferRegionCode(place))}`;
+  const searchQuery = cleanQueryPart(place.searchQuery);
   if (searchQuery && searchQuery.length <= 180) return searchQuery;
   return searchQuery;
 }
@@ -262,18 +259,6 @@ function shouldSkipPlace(place) {
     return { skip: true, reason: "low_quality_name" };
   }
   return { skip: false, reason: "" };
-}
-
-function placeMatchesChannel(place, channelFilter) {
-  if (!channelFilter) return true;
-  const expected = channelFilter.replace(/^@/, "").toLowerCase();
-  return place.mentions.some((mention) => {
-    const candidates = [
-      mention.channelId,
-      mention.channelName,
-    ].map((value) => String(value || "").replace(/^@/, "").toLowerCase());
-    return candidates.includes(expected);
-  });
 }
 
 function isOverBroadResult(result) {
@@ -528,7 +513,6 @@ async function main() {
 
   const candidates = placesData.places.filter((place) => {
     if (place.location && !args.force) return false;
-    if (!placeMatchesChannel(place, args.channel)) return false;
     const skip = shouldSkipPlace(place);
     if (skip.skip) return false;
     if (args.force) return true;
