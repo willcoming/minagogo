@@ -7,6 +7,7 @@
     "dev": "vite",
     "build:places": "node scripts/build-places-data.mjs",
     "resolve:maps": "node scripts/resolve-map-links.mjs",
+    "resolve:maps:web": "node scripts/resolve-map-web-search.mjs",
     "enrich:places": "node scripts/enrich-places.mjs",
     "update:channels": "python3 skills/youtube-place-extractor/scripts/update_channels.py",
     "typecheck": "tsc --noEmit",

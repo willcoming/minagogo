@@ -10,6 +10,7 @@ const scriptDataDir = path.join(__dirname, "data");
 const defaultOutputFile = path.join(dataDir, "places.json");
 const mapLinkCacheFile = path.join(scriptDataDir, "map-link-cache.json");
 const googlePlaceCacheFile = path.join(scriptDataDir, "google-place-cache.json");
+const placeIgnoreListFile = path.join(scriptDataDir, "place-ignore-list.json");
 const legacyResolvedLinksFile = path.join(scriptDataDir, "legacy-resolved-links.json");
 
 const rawPlaceFilePattern = /_all_places_raw\.json$/;
@@ -267,6 +268,15 @@ function loadCache(filePath) {
   return new Map(Object.entries(cache.records || {}));
 }
 
+function loadIgnoredSourceKeys(filePath) {
+  const ignoreList = readJson(filePath, { records: {} });
+  return new Set(
+    Object.entries(ignoreList.records || {})
+      .filter(([, value]) => value?.status === "ignore")
+      .map(([key]) => key),
+  );
+}
+
 function getRawPlaceEntries(raw, fileName) {
   if (Array.isArray(raw)) {
     return raw.flatMap((video, videoIndex) =>
@@ -485,13 +495,15 @@ function main() {
   const resolved = loadResolvedLinks();
   const mapLinkCache = loadCache(mapLinkCacheFile);
   const googleCache = loadCache(googlePlaceCacheFile);
+  const ignoredSourceKeys = loadIgnoredSourceKeys(placeIgnoreListFile);
   const records = [];
 
   for (const file of files) {
     const raw = readJson(path.join(rootDir, file));
     const entries = getRawPlaceEntries(raw, file);
     for (const entry of entries) {
-      records.push(normalizeMention(entry, resolved));
+      const record = normalizeMention(entry, resolved);
+      if (!ignoredSourceKeys.has(record.sourceKey)) records.push(record);
     }
   }
 
