@@ -67,6 +67,10 @@ code {
   min-height: 100vh;
 }
 
+.mobile-tools-toggle {
+  display: none;
+}
+
 .loading-shell {
   display: grid;
   min-height: 100vh;
@@ -619,6 +623,17 @@ h1 {
     min-height: 100vh;
   }
 
+  .app-shell.mobile-tools-hidden {
+    grid-template-rows: minmax(0, 1fr);
+    height: 100vh;
+    min-height: 100vh;
+    overflow: hidden;
+  }
+
+  .app-shell.mobile-tools-hidden .sidebar {
+    display: none;
+  }
+
   .sidebar {
     grid-row: 2;
     height: auto;
@@ -631,6 +646,49 @@ h1 {
   .map-fallback {
     grid-row: 1;
     min-height: 520px;
+  }
+
+  .app-shell.mobile-tools-hidden .map-region,
+  .app-shell.mobile-tools-hidden .map-fallback {
+    min-height: 100vh;
+  }
+
+  .mobile-tools-toggle {
+    position: fixed;
+    right: 12px;
+    bottom: 12px;
+    z-index: 5;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    min-height: 36px;
+    padding: 0 11px;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.96);
+    box-shadow: var(--shadow);
+    color: var(--text);
+    cursor: pointer;
+    font-size: 0.82rem;
+    font-weight: 800;
+  }
+
+  .mobile-tools-toggle:hover {
+    border-color: var(--accent);
+    color: var(--accent-dark);
+  }
+
+  @supports (height: 100dvh) {
+    .app-shell.mobile-tools-hidden {
+      height: 100dvh;
+      min-height: 100dvh;
+    }
+
+    .app-shell.mobile-tools-hidden .map-region,
+    .app-shell.mobile-tools-hidden .map-fallback {
+      min-height: 100dvh;
+    }
   }
 }
 

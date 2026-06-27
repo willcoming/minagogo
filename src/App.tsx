@@ -1,5 +1,10 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
-import { AlertTriangle, MapPin } from "lucide-react";
+import {
+  AlertTriangle,
+  MapPin,
+  PanelBottomClose,
+  PanelBottomOpen,
+} from "lucide-react";
 import { loadPlacesData, placeInBounds } from "./data";
 import { MapView } from "./components/MapView";
 import { Sidebar } from "./components/Sidebar";
@@ -54,6 +59,7 @@ export function App() {
   const [selectedCategories, setSelectedCategories] = useState<Set<string>>(new Set());
   const [bounds, setBounds] = useState<BoundsLiteral | null>(null);
   const [selectedPlaceId, setSelectedPlaceId] = useState<string | null>(null);
+  const [mobileToolsHidden, setMobileToolsHidden] = useState(false);
 
   useEffect(() => {
     enforceExternalLinks(document);
@@ -163,7 +169,7 @@ export function App() {
   }
 
   return (
-    <main className="app-shell">
+    <main className={`app-shell ${mobileToolsHidden ? "mobile-tools-hidden" : ""}`}>
       <Sidebar
         data={data}
         places={locatedPlaces}
@@ -186,6 +192,22 @@ export function App() {
         onSelectPlace={setSelectedPlaceId}
         onClearSelection={clearSelectedPlace}
       />
+      <button
+        type="button"
+        className="mobile-tools-toggle"
+        onClick={() => setMobileToolsHidden((value) => !value)}
+        aria-controls="mobile-tools-panel"
+        aria-expanded={!mobileToolsHidden}
+        aria-label={mobileToolsHidden ? "顯示功能區塊" : "隱藏功能區塊"}
+        title={mobileToolsHidden ? "顯示功能區塊" : "隱藏功能區塊"}
+      >
+        {mobileToolsHidden ? (
+          <PanelBottomOpen size={16} />
+        ) : (
+          <PanelBottomClose size={16} />
+        )}
+        <span>{mobileToolsHidden ? "顯示功能" : "隱藏功能"}</span>
+      </button>
     </main>
   );
 }

@@ -83,7 +83,7 @@ export function Sidebar({
   );
 
   return (
-    <aside className="sidebar">
+    <aside id="mobile-tools-panel" className="sidebar">
       <header className="app-header">
         <div>
           <p className="eyebrow">YouTube Places</p>
