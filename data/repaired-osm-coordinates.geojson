@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "license": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "attribution": "© OpenStreetMap contributors; Minagogo selected and converted these POIs.",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "p_5252563bb6009377",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5062993,
+          25.04257
+        ]
+      },
+      "properties": {
+        "name": "1. 南美咖啡",
+        "sourceUrl": "https://www.openstreetmap.org/node/5208155826",
+        "checkedAt": "2026-10-27",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_71cbf4635ba9457c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5107812,
+          25.0427287
+        ]
+      },
+      "properties": {
+        "name": "7. 上上咖啡",
+        "sourceUrl": "https://www.openstreetmap.org/node/9054267421",
+        "checkedAt": "2026-10-27",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_e982ab64b8279e35",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1245749,
+          51.5006944
+        ]
+      },
+      "properties": {
+        "name": "大笨鐘",
+        "sourceUrl": "https://www.openstreetmap.org/way/123557148",
+        "checkedAt": "2026-10-27",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_1882070001b409c6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8876266,
+          33.6752833
+        ]
+      },
+      "properties": {
+        "name": "Nachi Falls (Hiro Shrine)",
+        "sourceUrl": "https://www.openstreetmap.org/node/975026052",
+        "checkedAt": "2026-10-27",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_9417e1017a9a9c0a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.745536,
+          35.6584491
+        ]
+      },
+      "properties": {
+        "name": "Tokyo Tower",
+        "sourceUrl": "https://www.openstreetmap.org/relation/4247312",
+        "checkedAt": "2026-10-27",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_38275aaa723fc04d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7704732,
+          35.6653884
+        ]
+      },
+      "properties": {
+        "name": "Tsukiji Outer Market",
+        "sourceUrl": "https://www.openstreetmap.org/way/606978548",
+        "checkedAt": "2026-10-27",
+        "license": "ODbL-1.0",
+        "attribution": "© OpenStreetMap contributors"
+      }
+    }
+  ]
+}
