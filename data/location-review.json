@@ -5,18 +5,17 @@
     "requested2Channels": "2026-10-27"
   },
   "summary": {
-    "mapPlaces": 6857,
+    "mapPlaces": 6858,
     "channels": 13,
     "newChannelVideos": 87,
-    "newLocatedPlaces": 922,
+    "newLocatedPlaces": 923,
     "previousPendingRepaired": 321,
     "excludedNonPlaces": 5,
-    "pendingPlaces": 139,
+    "pendingPlaces": 138,
     "unidentifiedSegments": 11,
-    "allPendingRows": 150,
+    "allPendingRows": 149,
     "savedTranscripts": 185,
     "reasonCounts": {
-      "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。": 5,
       "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。": 39,
       "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。": 18,
       "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。": 8,
@@ -24,6 +23,7 @@
       "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。 Google Search複查仍對應2025展期；未將異地復刻或後續活動當作原展館現況。": 6,
       "已辨認大埔遊園車活動；原片未給7-ELEVEN分店名及固定站牌，不以便利商店泛稱或鄉鎮中心代替定位。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。": 1,
       "影片地址已確認為雲南南路89號舊址；2026官方已公布遷往山西南路，現址完整門牌及WGS84位置待確認。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。": 1,
+      "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。": 4,
       "已確認大澳登船區域，但原片未給唯一營運商及實際上船碼頭；不以橋或村落中心代替業者定位。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。": 1,
       "影片原附幸町1-3與公開地圖／巴士業者所列元町2-1-3不一致；仍須影片建物畫面確認同一個小江戶橫丁。 Google Search複查尚未取得足以消除原先疑點的新證據。": 1,
       "已確認橫濱日本大通街景路線，影片未指定街道的單一停靠點，不以道路中心代替。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。": 1,
@@ -77,9 +77,9 @@
     },
     "currentReviewTarget": 721,
     "currentReviewChecked": 721,
-    "currentReviewMapped": 582,
-    "currentReviewAddressVerified": 625,
-    "currentReviewPending": 139
+    "currentReviewMapped": 583,
+    "currentReviewAddressVerified": 626,
+    "currentReviewPending": 138
   },
   "newChannels": [
     {
@@ -93,8 +93,8 @@
       "id": "yangyangislife",
       "videos": 52,
       "places": 565,
-      "locatedPlaces": 489,
-      "pendingPlaces": 76
+      "locatedPlaces": 490,
+      "pendingPlaces": 75
     }
   ],
   "notes": [
@@ -105,41 +105,6 @@
     "先前觸發流量限制的座標服務已停止；本輪使用快取、官方來源與公開地點卡片。"
   ],
   "records": [
-    {
-      "id": "p_a38def9e24f65f77",
-      "name": "七里ヶ浜",
-      "address": "",
-      "kind": "地點待定位",
-      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
-      "method": "原片《東京近郊最讓人放慢腳步的海邊小鎮：鎌倉一日怎麼玩｜江之電海景・富士山夕陽・人氣咖哩飯・抹茶體驗・秘境Cafe・虎河豚料理｜Japan VLOG｜yang and yang》以七里ヶ浜作區域／路線介紹，未提供可確認的單一店家、建物或停靠點。",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%B8%83%E9%87%8C%E3%83%B6%E6%B5%9C",
-      "videoUrls": [
-        "https://www.youtube.com/watch?v=lS-aSHu0uo8"
-      ],
-      "captionEvidenceUrls": [],
-      "channels": [
-        "yang and yang | 楊先生與楊小姐"
-      ],
-      "sourceChecks": [
-        "https://www.youtube.com/watch?v=lS-aSHu0uo8",
-        "https://www.google.com/search?hl=zh-TW&q=%E4%B8%83%E9%87%8C%E3%83%B6%E6%B5%9C%20%E9%8E%8C%E5%80%89%E5%B8%82%E4%B8%83%E9%87%8C%E3%83%B6%E6%B5%9C"
-      ],
-      "originalAddress": "",
-      "verifiedAddress": "",
-      "videoCity": "鎌倉市七里ヶ浜",
-      "checkedAt": "2026-10-27",
-      "sourceFindings": [
-        {
-          "url": "https://www.youtube.com/watch?v=lS-aSHu0uo8",
-          "finding": "原片區域或行程線索；無單一定位依據"
-        },
-        {
-          "url": "https://www.google.com/search?hl=zh-TW&q=%E4%B8%83%E9%87%8C%E3%83%B6%E6%B5%9C%20%E9%8E%8C%E5%80%89%E5%B8%82%E4%B8%83%E9%87%8C%E3%83%B6%E6%B5%9C",
-          "result": "Google Search已複查；區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
-          "checkedAt": "2026-10-27"
-        }
-      ]
-    },
     {
       "id": "p_afe34fcc9f36b0d0",
       "name": "三好市",

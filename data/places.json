@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T14:12:10.028Z",
+  "generatedAt": "2026-10-27T14:32:33.589Z",
   "sourceFiles": [
     "cellia1025_all_places_raw.json",
     "feipo1998_all_places_raw.json",
@@ -16,11 +16,11 @@
     "yangyangislife_all_places_raw.json"
   ],
   "stats": {
-    "rawMentions": 8182,
-    "places": 6857,
+    "rawMentions": 8183,
+    "places": 6858,
     "totalPlaces": 6996,
-    "locatedPlaces": 6857,
-    "unresolvedPlaces": 139,
+    "locatedPlaces": 6858,
+    "unresolvedPlaces": 138,
     "channels": 13
   },
   "channels": [
@@ -94,7 +94,7 @@
       "id": "yangyangislife",
       "name": "yang and yang | 楊先生與楊小姐",
       "url": "https://www.youtube.com/@yangyangislife",
-      "mentions": 493
+      "mentions": 494
     },
     {
       "id": "hurleygourmet",
@@ -7154,6 +7154,53 @@
           "youtubeReview": "描述欄章節將「Arrival at Shichirigahama」列為本集日本旅行路線中的停留點；未提供原始地圖連結，改以 Google Maps 搜尋連結補足。"
         }
       ]
+    },
+    {
+      "id": "p_a38def9e24f65f77",
+      "name": "七里ヶ浜",
+      "normalizedName": "七里ヶ浜",
+      "address": "神奈川県鎌倉市七里ガ浜東2-1（七里ヶ浜海岸）",
+      "mapUrl": "https://www.google.com/maps/place/Shichirigahama/@35.303717,139.5072489,17z/data=!4m9!1m2!2m1!1z5LiD6YeM44O25rWc!3m5!1s0x60184f411ab568c3:0xb115c09fb766bf57!8m2!3d35.3047816!4d139.5107434!16s%2Fg%2F11hdz9y0rf!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "searchQuery": "七里ヶ浜",
+      "sourceKeys": [
+        "src_5c860f8d695f32b28c"
+      ],
+      "location": {
+        "lat": 35.3047816,
+        "lng": 139.5107434
+      },
+      "google": null,
+      "category": {
+        "key": "other",
+        "label": "其他",
+        "source": "heuristic"
+      },
+      "mentions": [
+        {
+          "id": "yangyangislife:lS-aSHu0uo8:8",
+          "sourceKey": "src_5c860f8d695f32b28c",
+          "channelId": "yangyangislife",
+          "channelName": "yang and yang | 楊先生與楊小姐",
+          "videoId": "lS-aSHu0uo8",
+          "videoTitle": "東京近郊最讓人放慢腳步的海邊小鎮：鎌倉一日怎麼玩｜江之電海景・富士山夕陽・人氣咖哩飯・抹茶體驗・秘境Cafe・虎河豚料理｜Japan VLOG｜yang and yang",
+          "videoUrl": "https://www.youtube.com/watch?v=lS-aSHu0uo8",
+          "published": "9 個月前",
+          "views": "觀看次數：1.2萬次",
+          "time": "",
+          "seconds": null,
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%B8%83%E9%87%8C%E3%83%B6%E6%B5%9C",
+          "sourceReview": "📍七里ヶ浜",
+          "youtubeReview": "原影片行程清單列出此地點；附原片地址或地圖連結供核對。"
+        }
+      ],
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/Shichirigahama/@35.303717,139.5072489,17z/data=!4m9!1m2!2m1!1z5LiD6YeM44O25rWc!3m5!1s0x60184f411ab568c3:0xb115c09fb766bf57!8m2!3d35.3047816!4d139.5107434!16s%2Fg%2F11hdz9y0rf!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "依使用者提供的Google地點卡標示七里ヶ浜海岸代表位置，不代表影片精確拍攝點。已核對鎌倉市與神奈川縣觀光協會同名景點及地址。",
+        "shopUrl": "https://www.trip-kamakura.com/facility/detail.php?id=77"
+      }
     },
     {
       "id": "p_c945b21c2fc425d9",

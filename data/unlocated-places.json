@@ -1,56 +1,7 @@
 {
-  "generatedAt": "2026-10-27T14:12:10.028Z",
-  "count": 139,
+  "generatedAt": "2026-10-27T14:32:33.589Z",
+  "count": 138,
   "places": [
-    {
-      "id": "p_a38def9e24f65f77",
-      "name": "七里ヶ浜",
-      "normalizedName": "七里ヶ浜",
-      "address": "",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%B8%83%E9%87%8C%E3%83%B6%E6%B5%9C",
-      "searchQuery": "七里ヶ浜",
-      "sourceKeys": [
-        "src_5c860f8d695f32b28c"
-      ],
-      "location": null,
-      "google": null,
-      "category": {
-        "key": "other",
-        "label": "其他",
-        "source": "heuristic"
-      },
-      "mentions": [
-        {
-          "id": "yangyangislife:lS-aSHu0uo8:8",
-          "sourceKey": "src_5c860f8d695f32b28c",
-          "channelId": "yangyangislife",
-          "channelName": "yang and yang | 楊先生與楊小姐",
-          "videoId": "lS-aSHu0uo8",
-          "videoTitle": "東京近郊最讓人放慢腳步的海邊小鎮：鎌倉一日怎麼玩｜江之電海景・富士山夕陽・人氣咖哩飯・抹茶體驗・秘境Cafe・虎河豚料理｜Japan VLOG｜yang and yang",
-          "videoUrl": "https://www.youtube.com/watch?v=lS-aSHu0uo8",
-          "published": "9 個月前",
-          "views": "觀看次數：1.2萬次",
-          "time": "",
-          "seconds": null,
-          "mapUrl": "https://www.google.com/maps/search/?api=1&query=%E4%B8%83%E9%87%8C%E3%83%B6%E6%B5%9C",
-          "sourceReview": "📍七里ヶ浜",
-          "youtubeReview": "原影片行程清單列出此地點；附原片地址或地圖連結供核對。"
-        }
-      ],
-      "review": {
-        "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
-        "method": "原片《東京近郊最讓人放慢腳步的海邊小鎮：鎌倉一日怎麼玩｜江之電海景・富士山夕陽・人氣咖哩飯・抹茶體驗・秘境Cafe・虎河豚料理｜Japan VLOG｜yang and yang》以七里ヶ浜作區域／路線介紹，未提供可確認的單一店家、建物或停靠點。",
-        "sourceChecks": [
-          "https://www.youtube.com/watch?v=lS-aSHu0uo8",
-          "https://www.google.com/search?hl=zh-TW&q=%E4%B8%83%E9%87%8C%E3%83%B6%E6%B5%9C%20%E9%8E%8C%E5%80%89%E5%B8%82%E4%B8%83%E9%87%8C%E3%83%B6%E6%B5%9C"
-        ],
-        "captionEvidenceUrls": [],
-        "originalAddress": "",
-        "verifiedAddress": "",
-        "videoCity": "鎌倉市七里ヶ浜",
-        "checkedAt": "2026-10-27"
-      }
-    },
     {
       "id": "p_afe34fcc9f36b0d0",
       "name": "三好市",

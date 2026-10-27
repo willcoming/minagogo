@@ -2,10 +2,10 @@
   "checkedDate": "2026-10-27",
   "baselinePlaces": 721,
   "summary": {
-    "located": 582,
+    "located": 583,
     "business_status_unconfirmed": 5,
     "conflicting_sources": 3,
-    "area_or_route": 59,
+    "area_or_route": 58,
     "relocation_uncertain": 1,
     "address_verified_point_pending": 43,
     "address_conflict": 1,
@@ -12411,21 +12411,25 @@
       "id": "p_a38def9e24f65f77",
       "name": "七里ヶ浜",
       "originalAddress": "",
-      "verifiedAddress": "",
-      "videoCity": "鎌倉市七里ヶ浜",
-      "status": "area_or_route",
-      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
-      "videoEvidence": "原片《東京近郊最讓人放慢腳步的海邊小鎮：鎌倉一日怎麼玩｜江之電海景・富士山夕陽・人氣咖哩飯・抹茶體驗・秘境Cafe・虎河豚料理｜Japan VLOG｜yang and yang》以七里ヶ浜作區域／路線介紹，未提供可確認的單一店家、建物或停靠點。",
+      "verifiedAddress": "神奈川県鎌倉市七里ガ浜東2-1（七里ヶ浜海岸）",
+      "videoCity": "神奈川県鎌倉市七里ヶ浜",
+      "status": "located",
+      "reason": "已核實位置，原片與店址來源可回查",
+      "videoEvidence": "原片說明明列最後在七里濱欣賞富士山日落。使用者本次明確提供Shichirigahama具名海岸地點卡；現場卡片地址七里ガ浜東2-1與神奈川縣觀光協會同名海岸地址一致，鎌倉市觀光協會亦介紹同一海岸。依使用者指定點補作海岸代表位置，不宣稱是影片精確拍攝點。",
       "videoUrls": [
         "https://www.youtube.com/watch?v=lS-aSHu0uo8"
       ],
       "sourceChecks": [
-        "https://www.youtube.com/watch?v=lS-aSHu0uo8",
-        "https://www.google.com/search?hl=zh-TW&q=%E4%B8%83%E9%87%8C%E3%83%B6%E6%B5%9C%20%E9%8E%8C%E5%80%89%E5%B8%82%E4%B8%83%E9%87%8C%E3%83%B6%E6%B5%9C"
+        "https://www.trip-kamakura.com/facility/detail.php?id=77",
+        "https://www.kanagawa-kankou.or.jp/spot/2043",
+        "https://www.google.com/maps/place/Shichirigahama/@35.303717,139.5072489,17z/data=!4m9!1m2!2m1!1z5LiD6YeM44O25rWc!3m5!1s0x60184f411ab568c3:0xb115c09fb766bf57!8m2!3d35.3047816!4d139.5107434!16s%2Fg%2F11hdz9y0rf!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
       ],
       "checkedAt": "2026-10-27",
-      "precision": "",
-      "location": null
+      "precision": "place",
+      "location": {
+        "lat": 35.3047816,
+        "lng": 139.5107434
+      }
     },
     {
       "id": "p_e11bcea14eb02226",

@@ -4,8 +4,9 @@
   "googleResultsRead": 40,
   "verificationPages": 2,
   "incompletePages": 6,
-  "newMapPoints": 18,
+  "newMapPoints": 19,
   "note": "Google Search部分查詢觸發流量驗證後已停止新增查詢。使用者選擇先繼續核對已取得結果；未取得的結果不視為已複查。13筆韓國店家另核對既有原片Naver來源、道路名與地番及Google公開地點卡的完整Plus Code。",
+  "userProvidedFollowupPoints": 1,
   "records": [
     {
       "id": "p_90c66184f5fd2bf1",
@@ -92,12 +93,13 @@
       "checkedAt": "2026-10-27",
       "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E4%B8%83%E9%87%8C%E3%83%B6%E6%B5%9C%20%E9%8E%8C%E5%80%89%E5%B8%82%E4%B8%83%E9%87%8C%E3%83%B6%E6%B5%9C",
       "searchStatus": "search_results",
-      "result": "retained",
-      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
-      "newMapPoint": false,
+      "result": "location_verified_by_user_link",
+      "reason": "依使用者提供的Google地點卡標示七里ヶ浜海岸代表位置，不代表影片精確拍攝點。已核對鎌倉市與神奈川縣觀光協會同名景點及地址。",
+      "newMapPoint": true,
       "sourceChecks": [
-        "https://www.youtube.com/watch?v=lS-aSHu0uo8",
-        "https://www.google.com/search?hl=zh-TW&q=%E4%B8%83%E9%87%8C%E3%83%B6%E6%B5%9C%20%E9%8E%8C%E5%80%89%E5%B8%82%E4%B8%83%E9%87%8C%E3%83%B6%E6%B5%9C"
+        "https://www.trip-kamakura.com/facility/detail.php?id=77",
+        "https://www.kanagawa-kankou.or.jp/spot/2043",
+        "https://www.google.com/maps/place/Shichirigahama/@35.303717,139.5072489,17z/data=!4m9!1m2!2m1!1z5LiD6YeM44O25rWc!3m5!1s0x60184f411ab568c3:0xb115c09fb766bf57!8m2!3d35.3047816!4d139.5107434!16s%2Fg%2F11hdz9y0rf!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
       ]
     },
     {
