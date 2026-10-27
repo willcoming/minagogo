@@ -5,37 +5,39 @@
     "requested2Channels": "2026-10-27"
   },
   "summary": {
-    "mapPlaces": 6839,
+    "mapPlaces": 6857,
     "channels": 13,
     "newChannelVideos": 87,
-    "newLocatedPlaces": 904,
-    "previousPendingRepaired": 303,
+    "newLocatedPlaces": 922,
+    "previousPendingRepaired": 321,
     "excludedNonPlaces": 5,
-    "pendingPlaces": 157,
+    "pendingPlaces": 139,
     "unidentifiedSegments": 11,
-    "allPendingRows": 168,
+    "allPendingRows": 150,
     "savedTranscripts": 185,
     "reasonCounts": {
-      "原片目前不公開，無法重新核對影片分店；未僅憑連鎖店名補座標。": 5,
-      "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。": 44,
-      "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。": 21,
-      "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。": 12,
-      "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。": 11,
-      "已辨認大埔遊園車活動；原片未給7-ELEVEN分店名及固定站牌，不以便利商店泛稱或鄉鎮中心代替定位。": 1,
-      "影片地址已確認為雲南南路89號舊址；2026官方已公布遷往山西南路，現址完整門牌及WGS84位置待確認。": 1,
-      "已確認大澳登船區域，但原片未給唯一營運商及實際上船碼頭；不以橋或村落中心代替業者定位。": 1,
-      "影片原附幸町1-3與公開地圖／巴士業者所列元町2-1-3不一致；仍須影片建物畫面確認同一個小江戶橫丁。": 1,
-      "已確認橫濱日本大通街景路線，影片未指定街道的單一停靠點，不以道路中心代替。": 1,
-      "已確認仙跡岩步道區；官方列多個登山入口，尚未確認影片實際入口／拍攝點，不以管理單位或泛稱山區中心作停靠點。": 1,
-      "海灘區域已辨認，原片未指定單一入口或設施；暫保留為區域路線。": 1,
-      "確認為羽田販售的叶匠壽庵羽雲；食べログ有第1航廈叶匠壽庵，也有第2航廈SMILE TOKYO販售羽雲的紀錄，尚未確認片中櫃位，不套用滋賀本店或任一機場櫃位。": 1,
-      "已核對上海原片場景、分店與地址，尚待可交叉驗證的WGS84精確點位。": 3,
-      "原片為亞士厘道20A號，地圖簡列20號；OpenRice同分店標示已結業，尚待官方交叉確認。": 1,
-      "食べログ13298112同址西池袋1-21-2掲載保留，店家PR欄列2025年4月末閉店；目前沒有官方再開／遷址證據。": 1,
-      "已確認橫濱汽車道步行路線，尚無明確單一橋端或入口，不以路線中心代替。": 1,
-      "已依原片城市與Naver店家頁核對分店及完整地址；尚未取得可交叉核實的精確點位，公開地圖搜尋結果的視窗中心不作店址座標。": 13,
-      "已確認神戶南京町街區；此項為散步範圍，不能把商店街事務所、任一中華門或街區中心當作影片中的單一店家。": 1,
-      "已辨認神農街街區，未指定唯一店家、建物或街道入口，暫保留為路線資料。": 1,
+      "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。": 5,
+      "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。": 39,
+      "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。": 18,
+      "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。": 8,
+      "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。": 5,
+      "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。 Google Search複查仍對應2025展期；未將異地復刻或後續活動當作原展館現況。": 6,
+      "已辨認大埔遊園車活動；原片未給7-ELEVEN分店名及固定站牌，不以便利商店泛稱或鄉鎮中心代替定位。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。": 1,
+      "影片地址已確認為雲南南路89號舊址；2026官方已公布遷往山西南路，現址完整門牌及WGS84位置待確認。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。": 1,
+      "已確認大澳登船區域，但原片未給唯一營運商及實際上船碼頭；不以橋或村落中心代替業者定位。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。": 1,
+      "影片原附幸町1-3與公開地圖／巴士業者所列元町2-1-3不一致；仍須影片建物畫面確認同一個小江戶橫丁。 Google Search複查尚未取得足以消除原先疑點的新證據。": 1,
+      "已確認橫濱日本大通街景路線，影片未指定街道的單一停靠點，不以道路中心代替。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。": 1,
+      "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。": 3,
+      "已確認仙跡岩步道區；官方列多個登山入口，尚未確認影片實際入口／拍攝點，不以管理單位或泛稱山區中心作停靠點。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。": 1,
+      "海灘區域已辨認，原片未指定單一入口或設施；暫保留為區域路線。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。": 1,
+      "確認為羽田販售的叶匠壽庵羽雲；食べログ有第1航廈叶匠壽庵，也有第2航廈SMILE TOKYO販售羽雲的紀錄，尚未確認片中櫃位，不套用滋賀本店或任一機場櫃位。 Google Search複查尚未取得足以消除原先疑點的新證據。": 1,
+      "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。": 4,
+      "已核對上海原片場景、分店與地址，尚待可交叉驗證的WGS84精確點位。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。": 1,
+      "Google Search商家欄標示原址永久歇業；店家官方Facebook搜尋摘要提及2026年3月31日結束亞士厘道原址營業，與OpenRice結業資料相符。官方貼文原頁未成功取得，後續搬遷或再開資訊仍待確認，不作現營店定位。": 1,
+      "Google Search同名同址商家欄標示永久歇業；食べログ同址資料仍保留，尚無已查得的官方再開／搬遷新址證據，不作現營店定位。": 1,
+      "已確認橫濱汽車道步行路線，尚無明確單一橋端或入口，不以路線中心代替。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。": 1,
+      "已確認神戶南京町街區；此項為散步範圍，不能把商店街事務所、任一中華門或街區中心當作影片中的單一店家。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。": 1,
+      "已辨認神農街街區，未指定唯一店家、建物或街道入口，暫保留為路線資料。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。": 1,
       "已確認京都淀水路賞櫻走廊，原片未指定單一入口、橋梁或設施，保留路線而不以水路中心代替影片停靠位置。": 1,
       "原片所附道頓堀1-7-21的食べログ頁為掲載保留；公開地圖與SONS-DOHTONBORI官方店頁為1-8-26，尚未確認影片實際分店。": 1,
       "同一筆涵蓋兩座公園與橋的步行路線，無法用單一設施座標代表；保留原片路線。": 1,
@@ -54,6 +56,7 @@
       "確認實際春日野道高架下，排除神戶車站餐廳；尚未從影片或來源取得店名、門牌，搜尋ひかりや只因同區高架下不能確認同店，保留待確認。": 1,
       "已核對愚園路旁體育弄街區；原片未指定單一住宅或入口，且未有已核實WGS84點位，不以街區中心定位。": 1,
       "店名與上海分店地址已交叉確認；座標仍需核對WGS84基準，未直接把可能偏移的公開地圖數值放入底圖。": 3,
+      "已核對上海原片場景、分店與地址，尚待可交叉驗證的WGS84精確點位。": 2,
       "品牌已確認，但影片861-4、官方舊前台2 waters外金久986-1及2025/6起總前台里50-2是不同用途地址；尚未確認影片別墅的獨立門牌，不以餐廳或報到櫃台代替住宿建物。": 1,
       "食べログ13142899標示閉店；另查官方現況未取得可確認公告，暫不作現營店定位。": 1,
       "店家身分及影片舊址已辨認；食べログ13169644標示閉店，官方現況尚無法交叉確認，暫不作現營店定位。": 1,
@@ -74,9 +77,9 @@
     },
     "currentReviewTarget": 721,
     "currentReviewChecked": 721,
-    "currentReviewMapped": 564,
-    "currentReviewAddressVerified": 620,
-    "currentReviewPending": 157
+    "currentReviewMapped": 582,
+    "currentReviewAddressVerified": 625,
+    "currentReviewPending": 139
   },
   "providers": {
     "original-map-link": 434,
@@ -86,7 +89,7 @@
     "existing-place-address": 3,
     "openstreetmap-exact-address": 219,
     "official-map-link": 1,
-    "video-context-and-venue-source": 564
+    "video-context-and-venue-source": 582
   },
   "notes": [
     "座標與營業狀態分開查核；影片為到訪當時記錄。",
@@ -522,6 +525,22 @@
       }
     },
     {
+      "id": "p_ba9f526c6ec9df76",
+      "name": "一品麻辣湯 銀座店",
+      "location": {
+        "lat": 35.6735967,
+        "lng": 139.7695559
+      },
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E4%B8%80%E5%93%81%E9%BA%BB%E8%BE%A3%E6%B9%AF%E9%8A%80%E5%BA%A7%E5%BA%97%EF%BC%88%E3%82%A4%E3%83%83%E3%83%94%E3%83%B3%E3%83%9E%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%BF%E3%83%B3%EF%BC%89/@35.6735967,139.7695559,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b41832b2307:0x7ce4e78c1149dc8a!8m2!3d35.6735967!4d139.7695559!16s%2Fg%2F11j0qgs9m6?authuser=0&hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "本次確認店家分店及門牌；原片目前不公開，影片關聯沿用已保存擷取紀錄，未新增影片心得或宣稱已重看。",
+        "shopUrl": "https://tabelog.com/tokyo/A1301/A130101/13312375/"
+      }
+    },
+    {
       "id": "p_9a142c29ce5924ac",
       "name": "一票人票畫空間",
       "location": {
@@ -569,6 +588,22 @@
         "note": "原片完整地址與 OpenStreetMap 道路、門牌、縣市及行政區相符的地址代表點；非實測店家入口，不代表目前營業狀態。",
         "licenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
         "attribution": "© OpenStreetMap contributors, ODbL 1.0"
+      }
+    },
+    {
+      "id": "p_4258a4d3abb88f9c",
+      "name": "七宝麻辣湯 新橋店",
+      "location": {
+        "lat": 35.6683385,
+        "lng": 139.7567484
+      },
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E4%B8%83%E5%AE%9D%E9%BA%BB%E8%BE%A3%E6%B9%AF+%E6%96%B0%E6%A9%8B%E5%BA%97/@35.6683385,139.7567484,17z/data=!3m1!4b1!4m6!3m5!1s0x60188beec067e87f:0x259ff15e8eba7f20!8m2!3d35.6683385!4d139.7567484!16s%2Fg%2F11z7fxh4_p?hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "本次確認店家分店及門牌；原片目前不公開，影片關聯沿用已保存擷取紀錄，未新增影片心得或宣稱已重看。",
+        "shopUrl": "https://maratan.com/%E4%B8%83%E5%AE%9D%E9%BA%BB%E8%BE%A3%E6%B9%AF%E3%80%80%E6%96%B0%E6%A9%8B%E5%BA%97"
       }
     },
     {
@@ -4861,6 +4896,22 @@
       }
     },
     {
+      "id": "p_5b82582e56c8be13",
+      "name": "金豬食堂",
+      "location": {
+        "lat": 37.5570875,
+        "lng": 127.011671875
+      },
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E9%87%91%E8%B1%AC%E9%A3%9F%E5%A0%82/data=!3m1!4b1!4m4!3m3!1s0x357ca3110d881915:0x66c78cca87fb7bda!16s%2Fg%2F11c0r5qrxn!20s8Q99H246%2BRMM?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Google英文道路名／門牌與Naver韓文道路名、門牌相符。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/GLKAKFYY"
+      }
+    },
+    {
       "id": "p_898747c15c23cfc9",
       "name": "阿江鱔魚意麵",
       "location": {
@@ -5731,6 +5782,22 @@
       }
     },
     {
+      "id": "p_a5bb8390884d727a",
+      "name": "風川鰻魚",
+      "location": {
+        "lat": 37.5595375,
+        "lng": 126.921546875
+      },
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E9%A2%A8%E5%B7%9D%E9%B0%BB%E9%AD%9A+%E5%BB%B6%E5%8D%97%E5%BA%97/data=!3m1!4b1!4m4!3m3!1s0x357c98e7fc2dda11:0x737785dc9d59336d!16s%2Fg%2F11c54nbjwj!20s8Q98HW5C%2BRJ7?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Google英文道路名／門牌與Naver韓文道路名、門牌相符。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/5AmfnBTN"
+      }
+    },
+    {
       "id": "p_0aa3c559b3120bd6",
       "name": "食堂たたら",
       "location": {
@@ -6237,6 +6304,22 @@
         "precision": "place",
         "note": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。",
         "shopUrl": "https://sanctuaryoftruthmuseum.com/visit-us/"
+      }
+    },
+    {
+      "id": "p_af2fceb85a50fb29",
+      "name": "祖傳三代馬鈴薯排骨湯",
+      "location": {
+        "lat": 37.5428125,
+        "lng": 127.054359375
+      },
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E7%A5%96%E5%82%B3%E4%B8%89%E4%BB%A3%E9%A6%AC%E9%88%B4%E8%96%AF%E6%8E%92%E9%AA%A8%E6%B9%AF/data=!3m1!4b1!4m4!3m3!1s0x357ca4913140fbb5:0x7897953e193bd3f9!16s%2Fg%2F1th0w95x!20s8Q99G3V3%2B4PH?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Google英文道路名／門牌與Naver韓文道路名、門牌相符。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/GnGCvn5l"
       }
     },
     {
@@ -8161,6 +8244,22 @@
       }
     },
     {
+      "id": "p_90c66184f5fd2bf1",
+      "name": "楊國福 麻辣燙 銀座店",
+      "location": {
+        "lat": 35.6695844,
+        "lng": 139.765587
+      },
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E6%97%A5%E6%9C%AC%E3%80%81%E3%80%92104-0061+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A7%EF%BC%95%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%91%E2%88%92%EF%BC%91%EF%BC%93/@35.6695844,139.765587,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be702338ac9:0xdee17c2b712bb402!8m2!3d35.6695844!4d139.765587!16s%2Fg%2F11yf58j6q1?hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "address",
+        "note": "此點為已查證建築物的地址代表座標；店內櫃位未單獨定位。本次確認店家分店及門牌；原片目前不公開，影片關聯沿用已保存擷取紀錄，未新增影片心得或宣稱已重看。",
+        "shopUrl": "https://tabelog.com/tokyo/A1301/A130101/13295001/"
+      }
+    },
+    {
       "id": "p_786720847fb5f6ac",
       "name": "極味や 東京駅店",
       "location": {
@@ -8432,6 +8531,22 @@
         "checkedAt": "2026-10-27",
         "precision": "place",
         "note": "原影片指定地圖連結的地點座標；不代表目前營業狀態。"
+      }
+    },
+    {
+      "id": "p_56642c92694e5392",
+      "name": "夢炭",
+      "location": {
+        "lat": 37.5360125,
+        "lng": 126.972328125
+      },
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E5%A4%A2%E7%82%AD/data=!3m1!4b1!4m4!3m3!1s0x357ca3dea456ce3b:0x229049cf34438e54!16s%2Fg%2F11gy3hnpqh!20s8Q98GXPC%2BCW4?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Google英文道路名／門牌與Naver韓文道路名、門牌相符。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/5eGT08VK"
       }
     },
     {
@@ -8971,6 +9086,22 @@
         "precision": "place",
         "note": "已依原片城市、行程線索與店址來源核對分店；座標取自對應公開地點卡片，不代表即時營業狀態。",
         "shopUrl": "https://www.youtube.com/watch?v=4E33HSRvUJg&t=162s"
+      }
+    },
+    {
+      "id": "p_5692235e057de0b4",
+      "name": "銀座 麻辣湯 本店",
+      "location": {
+        "lat": 35.6724337,
+        "lng": 139.7609542
+      },
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E9%8A%80%E5%BA%A7+%E9%BA%BB%E8%BE%A3%E6%B9%AF/@35.6724337,139.7609542,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b0025d28b25:0x724f7c7e73445476!8m2!3d35.6724337!4d139.7609542!16s%2Fg%2F11x05zd2hz?hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "本次確認店家分店及門牌；原片目前不公開，影片關聯沿用已保存擷取紀錄，未新增影片心得或宣稱已重看。 官方使用銀座5-1-先，Google同名店列銀座5-1-1；兩者均明列銀座ファイブ地下1F，依同一館內同名店核對。",
+        "shopUrl": "https://maratang.jp/"
       }
     },
     {
@@ -13624,6 +13755,22 @@
       }
     },
     {
+      "id": "p_6e845fe22ccc798a",
+      "name": "Jungdon",
+      "location": {
+        "lat": 37.5817625,
+        "lng": 127.001078125
+      },
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E6%AD%A3%E8%B1%9A+%E5%A4%A7%E5%AD%B8%E8%B7%AF%E6%9C%AC%E5%BA%97/data=!3m1!4b1!4m4!3m3!1s0x357ca32be825f7d5:0xd3f96288baf4f121!16s%2Fg%2F11cjnkqlkh!20s8Q99H2J2%2BPC4?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。新地點卡明列大學路本店及12Daehak-ro9-gil，排除先前不同地址的候選。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/FxLX5c7S"
+      }
+    },
+    {
       "id": "p_8597fa6e0a9cafe8",
       "name": "JUNIBUN BAKERY CAFE",
       "location": {
@@ -14475,6 +14622,22 @@
       }
     },
     {
+      "id": "p_13c57f73a742aada",
+      "name": "Manimal Smokehouse",
+      "location": {
+        "lat": 37.5345125,
+        "lng": 126.988453125
+      },
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/Manimal+Smokehouse/data=!3m1!4b1!4m4!3m3!1s0x357ca237d0f57f61:0x69663775f75445fe!16s%2Fg%2F11bc7141zw!20s8Q98GXMQ%2BR94?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Google英文道路名／門牌與Naver韓文道路名、門牌相符。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/F6mxlYHX"
+      }
+    },
+    {
       "id": "p_3f9cc41e4c83b0e5",
       "name": "Maple Pizza",
       "location": {
@@ -15083,6 +15246,22 @@
         "checkedAt": "2026-10-27",
         "precision": "place",
         "note": "原影片指定地圖連結的地點座標；不代表目前營業狀態。"
+      }
+    },
+    {
+      "id": "p_4d7337664adce3af",
+      "name": "MUTAN",
+      "location": {
+        "lat": 37.5273375,
+        "lng": 127.030265625
+      },
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/MUTAN+%E7%8B%8E%E9%B7%97%E4%BA%AD%E6%9C%AC%E5%BA%97/data=!3m1!4b1!4m4!3m3!1s0x357ca33bf6a8bba1:0x415e0a06bb422e9b!16s%2Fg%2F11hfvvmjvn!20s8Q99G2GJ%2BW4J?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Google英文道路名／門牌與Naver韓文道路名、門牌相符。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/FgivzDWH"
       }
     },
     {
@@ -20073,6 +20252,22 @@
       }
     },
     {
+      "id": "p_654785f48dba463d",
+      "name": "TOKYO PAO × 台北麻辣湯 有楽町",
+      "location": {
+        "lat": 35.6741234,
+        "lng": 139.7637045
+      },
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/TOKYO+PAO+%C3%97+%E5%8F%B0%E5%8C%97%E9%BA%BB%E8%BE%A3%E6%B9%AF/@35.6741234,139.7637045,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b8f71aa020f:0x2a0c7f9612f1390d!8m2!3d35.6741234!4d139.7637045!16s%2Fg%2F11rmnb1ft3?hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "本次確認店家分店及門牌；原片目前不公開，影片關聯沿用已保存擷取紀錄，未新增影片心得或宣稱已重看。",
+        "shopUrl": "https://online.tokyopao.jp/pages/taipei-maratan"
+      }
+    },
+    {
       "id": "p_3355734117e3b307",
       "name": "Tokyo Photographic Art Museum",
       "location": {
@@ -21663,6 +21858,102 @@
         "note": "完整門牌匹配的地址代表點，非實測店家入口；不代表目前仍在營業。",
         "licenseUrl": "https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html",
         "attribution": "出典：国土地理院ウェブサイト。Minagogo 依來源門牌選取並轉換格式。"
+      }
+    },
+    {
+      "id": "p_25df44ed84e17565",
+      "name": "대원가 大元家",
+      "location": {
+        "lat": 33.4915125,
+        "lng": 126.527046875
+      },
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E5%A4%A7%E5%85%83%E5%AE%B6/data=!3m1!4b1!4m4!3m3!1s0x350cfca17536516f:0x844bdc7df7e17863!16s%2Fg%2F1v82zvt6!20s8Q58FGRG%2BJR3?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Naver展開地址確認道路名도남로16길15與地番도남동62-1同址，且商家交通說明亦明列62-1。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/GG7tsYMV"
+      }
+    },
+    {
+      "id": "p_22bec764f9957b78",
+      "name": "바다술상 大海酒桌",
+      "location": {
+        "lat": 33.4403375,
+        "lng": 126.276421875
+      },
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/Bada+Sulsang/data=!3m1!4b1!4m4!3m3!1s0x350cf5005c5a9eaf:0xfdbf900b49f5248d!16s%2Fg%2F11zhwyc8tx!20s8Q58C7RG%2B4HM?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Naver展開地址確認한림해안로582與地番귀덕리4169-3同址。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/Gplx7amj"
+      }
+    },
+    {
+      "id": "p_d6f93a28e2560a3c",
+      "name": "봉주르마담 Bonjour Madam",
+      "location": {
+        "lat": 33.2525875,
+        "lng": 126.503359375
+      },
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/Bonjour+Madame/data=!3m1!4b1!4m4!3m3!1s0x350c55240b715937:0xea1c7a2797cee734!16s%2Fg%2F11fd67y7jp!20s8Q587G33%2B28Q?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Google英文道路名／門牌與Naver韓文道路名、門牌相符。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/xcnaFMth"
+      }
+    },
+    {
+      "id": "p_a9656fdeb9466caa",
+      "name": "우동카덴 UDON Caden",
+      "location": {
+        "lat": 33.4355875,
+        "lng": 126.679640625
+      },
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/Udon+Kaden/data=!3m1!4b1!4m4!3m3!1s0x350d0370d0d41b0b:0xdc48ab9e1ad04e1f!16s%2Fg%2F11ry7gwh7n!20s8Q58CMPH%2B6VJ?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Naver展開地址確認교래3길23與地番교래리550-1同址。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/xSFaZe8U"
+      }
+    },
+    {
+      "id": "p_c1beeb1427e57099",
+      "name": "이세계",
+      "location": {
+        "lat": 35.1581125,
+        "lng": 129.060890625
+      },
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E7%95%B0%E4%B8%96%E9%9B%9E%E7%87%92%E7%83%A4/data=!3m1!4b1!4m4!3m3!1s0x3568ebfe04bc27dd:0xb2b7e3d0272f094d!16s%2Fg%2F11kprjyxdf!20s8Q7F5356%2B69R?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Naver展開地址確認동천로107번길25與地番부전동142-9同址。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/xnh0ug8T"
+      }
+    },
+    {
+      "id": "p_4417e4fb73c14122",
+      "name": "크라운돼지 CROWN PIG",
+      "location": {
+        "lat": 33.3938875,
+        "lng": 126.383328125
+      },
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/Crown+Pig/data=!3m1!4b1!4m4!3m3!1s0x350c592d1c08ddcb:0x42b2756ca3d872e1!16s%2Fg%2F11np2g43cj!20s8Q5899VM%2BH84?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Google英文道路名／門牌與Naver韓文道路名、門牌相符。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/Grmaw6AR"
       }
     },
     {

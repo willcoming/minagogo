@@ -1,0 +1,2107 @@
+{
+  "checkedAt": "2026-10-27",
+  "originalPending": 157,
+  "googleResultsRead": 40,
+  "verificationPages": 2,
+  "incompletePages": 6,
+  "newMapPoints": 18,
+  "note": "Google Search部分查詢觸發流量驗證後已停止新增查詢。使用者選擇先繼續核對已取得結果；未取得的結果不視為已複查。13筆韓國店家另核對既有原片Naver來源、道路名與地番及Google公開地點卡的完整Plus Code。",
+  "records": [
+    {
+      "id": "p_90c66184f5fd2bf1",
+      "name": "1. 楊国福麻辣湯 銀座店",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E6%A5%8A%E5%9B%BD%E7%A6%8F%E9%BA%BB%E8%BE%A3%E6%B9%AF%20%E9%8A%80%E5%BA%A7%E5%BA%97",
+      "searchStatus": "search_results",
+      "result": "new_location_verified",
+      "reason": "分店與完整地址經官方／食べログ或原片所附Naver核對，公開地點卡已核實；依可用座標或完整Plus Code定位。",
+      "newMapPoint": true,
+      "sourceChecks": [
+        "https://tabelog.com/tokyo/A1301/A130101/13295001/",
+        "https://www.google.com/search?hl=zh-TW&q=%E6%A5%8A%E5%9B%BD%E7%A6%8F%E9%BA%BB%E8%BE%A3%E6%B9%AF%20%E9%8A%80%E5%BA%A7%E5%BA%97",
+        "https://www.google.com/maps/place/%E6%97%A5%E6%9C%AC%E3%80%81%E3%80%92104-0061+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A7%EF%BC%95%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%91%E2%88%92%EF%BC%91%EF%BC%93/@35.6695844,139.765587,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be702338ac9:0xdee17c2b712bb402!8m2!3d35.6695844!4d139.765587!16s%2Fg%2F11yf58j6q1?hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      ]
+    },
+    {
+      "id": "p_654785f48dba463d",
+      "name": "2.TOKYO PAO × 台北麻辣湯 有楽町",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=TOKYO%20PAO%20%E5%8F%B0%E5%8C%97%E9%BA%BB%E8%BE%A3%E6%B9%AF%20%E6%9C%89%E6%A5%BD%E7%94%BA",
+      "searchStatus": "search_results",
+      "result": "new_location_verified",
+      "reason": "分店與完整地址經官方／食べログ或原片所附Naver核對，公開地點卡已核實；依可用座標或完整Plus Code定位。",
+      "newMapPoint": true,
+      "sourceChecks": [
+        "https://online.tokyopao.jp/pages/taipei-maratan",
+        "https://tabelog.com/tokyo/A1301/A130102/13308455/",
+        "https://www.google.com/search?hl=zh-TW&q=TOKYO%20PAO%20%E5%8F%B0%E5%8C%97%E9%BA%BB%E8%BE%A3%E6%B9%AF%20%E6%9C%89%E6%A5%BD%E7%94%BA",
+        "https://www.google.com/maps/place/TOKYO+PAO+%C3%97+%E5%8F%B0%E5%8C%97%E9%BA%BB%E8%BE%A3%E6%B9%AF/@35.6741234,139.7637045,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b8f71aa020f:0x2a0c7f9612f1390d!8m2!3d35.6741234!4d139.7637045!16s%2Fg%2F11rmnb1ft3?hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      ]
+    },
+    {
+      "id": "p_5692235e057de0b4",
+      "name": "3.銀座麻辣湯",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E9%8A%80%E5%BA%A7%E9%BA%BB%E8%BE%A3%E6%B9%AF",
+      "searchStatus": "search_results",
+      "result": "new_location_verified",
+      "reason": "分店與完整地址經官方／食べログ或原片所附Naver核對，公開地點卡已核實；依可用座標或完整Plus Code定位。",
+      "newMapPoint": true,
+      "sourceChecks": [
+        "https://maratang.jp/",
+        "https://tabelog.com/tokyo/A1301/A130101/13306096/",
+        "https://www.google.com/search?hl=zh-TW&q=%E9%8A%80%E5%BA%A7%E9%BA%BB%E8%BE%A3%E6%B9%AF",
+        "https://www.google.com/maps/place/%E9%8A%80%E5%BA%A7+%E9%BA%BB%E8%BE%A3%E6%B9%AF/@35.6724337,139.7609542,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b0025d28b25:0x724f7c7e73445476!8m2!3d35.6724337!4d139.7609542!16s%2Fg%2F11x05zd2hz?hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      ]
+    },
+    {
+      "id": "p_4258a4d3abb88f9c",
+      "name": "4.七宝 新橋",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E4%B8%83%E5%AE%9D%20%E6%96%B0%E6%A9%8B%20%E6%9D%B1%E4%BA%AC%E9%83%BD",
+      "searchStatus": "search_results",
+      "result": "new_location_verified",
+      "reason": "分店與完整地址經官方／食べログ或原片所附Naver核對，公開地點卡已核實；依可用座標或完整Plus Code定位。",
+      "newMapPoint": true,
+      "sourceChecks": [
+        "https://maratan.com/%E4%B8%83%E5%AE%9D%E9%BA%BB%E8%BE%A3%E6%B9%AF%E3%80%80%E6%96%B0%E6%A9%8B%E5%BA%97",
+        "https://tabelog.com/tokyo/A1301/A130103/13321488/",
+        "https://www.google.com/search?hl=zh-TW&q=%E4%B8%83%E5%AE%9D%20%E6%96%B0%E6%A9%8B%20%E6%9D%B1%E4%BA%AC%E9%83%BD",
+        "https://www.google.com/maps/place/%E4%B8%83%E5%AE%9D%E9%BA%BB%E8%BE%A3%E6%B9%AF+%E6%96%B0%E6%A9%8B%E5%BA%97/@35.6683385,139.7567484,17z/data=!3m1!4b1!4m6!3m5!1s0x60188beec067e87f:0x259ff15e8eba7f20!8m2!3d35.6683385!4d139.7567484!16s%2Fg%2F11z7fxh4_p?hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      ]
+    },
+    {
+      "id": "p_ba9f526c6ec9df76",
+      "name": "5.一品麻辣湯 銀座",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E4%B8%80%E5%93%81%E9%BA%BB%E8%BE%A3%E6%B9%AF%20%E9%8A%80%E5%BA%A7%20%E6%9D%B1%E4%BA%AC%E9%83%BD",
+      "searchStatus": "search_results",
+      "result": "new_location_verified",
+      "reason": "分店與完整地址經官方／食べログ或原片所附Naver核對，公開地點卡已核實；依可用座標或完整Plus Code定位。",
+      "newMapPoint": true,
+      "sourceChecks": [
+        "https://tabelog.com/tokyo/A1301/A130101/13312375/",
+        "https://www.instagram.com/yipinmalatang_official/",
+        "https://www.google.com/search?hl=zh-TW&q=%E4%B8%80%E5%93%81%E9%BA%BB%E8%BE%A3%E6%B9%AF%20%E9%8A%80%E5%BA%A7%20%E6%9D%B1%E4%BA%AC%E9%83%BD",
+        "https://www.google.com/maps/place/%E4%B8%80%E5%93%81%E9%BA%BB%E8%BE%A3%E6%B9%AF%E9%8A%80%E5%BA%A7%E5%BA%97%EF%BC%88%E3%82%A4%E3%83%83%E3%83%94%E3%83%B3%E3%83%9E%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%BF%E3%83%B3%EF%BC%89/@35.6735967,139.7695559,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b41832b2307:0x7ce4e78c1149dc8a!8m2!3d35.6735967!4d139.7695559!16s%2Fg%2F11j0qgs9m6?authuser=0&hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      ]
+    },
+    {
+      "id": "p_a38def9e24f65f77",
+      "name": "七里ヶ浜",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E4%B8%83%E9%87%8C%E3%83%B6%E6%B5%9C%20%E9%8E%8C%E5%80%89%E5%B8%82%E4%B8%83%E9%87%8C%E3%83%B6%E6%B5%9C",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=lS-aSHu0uo8",
+        "https://www.google.com/search?hl=zh-TW&q=%E4%B8%83%E9%87%8C%E3%83%B6%E6%B5%9C%20%E9%8E%8C%E5%80%89%E5%B8%82%E4%B8%83%E9%87%8C%E3%83%B6%E6%B5%9C"
+      ]
+    },
+    {
+      "id": "p_afe34fcc9f36b0d0",
+      "name": "三好市",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E4%B8%89%E5%A5%BD%E5%B8%82%20%E5%BE%B3%E5%B3%B6%E7%9C%8C%E4%B8%89%E5%A5%BD%E5%B8%82",
+      "searchStatus": "incomplete_page",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=YOHzKUEpRz4&t=76s"
+      ]
+    },
+    {
+      "id": "p_447b85c7caf7edd4",
+      "name": "上海久事美術館",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E4%B8%8A%E6%B5%B7%E4%B9%85%E4%BA%8B%E7%BE%8E%E8%A1%93%E9%A4%A8%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E4%B8%AD%E5%B1%B1%E6%9D%B1%E4%B8%80%E8%B7%AF1%E8%99%9F",
+      "searchStatus": "incomplete_page",
+      "result": "retained",
+      "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://whlyj.sh.gov.cn/gqfc/20260708/324e7cdae66b442080179a255c5a7fd2.html"
+      ]
+    },
+    {
+      "id": "p_16fdab79edce80d7",
+      "name": "上海自然博物館",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E4%B8%8A%E6%B5%B7%E8%87%AA%E7%84%B6%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%9D%9C%E5%AE%89%E5%8D%80%E5%8C%97%E4%BA%AC%E8%A5%BF%E8%B7%AF510%E8%99%9F%EF%BC%88%E9%9D%9C%E5%AE%89%E9%9B%95%E5%A1%91%E5%85%AC%E5%9C%92%E5%85%A7%EF%BC%89",
+      "searchStatus": "incomplete_page",
+      "result": "retained",
+      "reason": "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.snhm.org.cn/cgfw/cgzx.htm"
+      ]
+    },
+    {
+      "id": "p_3b5b3e37bcab757e",
+      "name": "上海郵政博物館",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E4%B8%8A%E6%B5%B7%E9%83%B5%E6%94%BF%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E8%99%B9%E5%8F%A3%E5%8D%80%E5%A4%A9%E6%BD%BC%E8%B7%AF395%E8%99%9F2%E6%A8%93",
+      "searchStatus": "incomplete_page",
+      "result": "retained",
+      "reason": "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://whlyj.sh.gov.cn/gqfc/20241218/b7a180236c7d47cba6b939a6092ae6c1.html"
+      ]
+    },
+    {
+      "id": "p_b9f87d42d90c59c2",
+      "name": "久光百貨",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E4%B9%85%E5%85%89%E7%99%BE%E8%B2%A8%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%9D%9C%E5%AE%89%E5%8D%80%E5%8D%97%E4%BA%AC%E8%A5%BF%E8%B7%AF1618%E8%99%9F",
+      "searchStatus": "incomplete_page",
+      "result": "retained",
+      "reason": "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://cn.maxandco.com/store/4401035"
+      ]
+    },
+    {
+      "id": "p_b240fadc0c9d7f7b",
+      "name": "大阪健康照護展館",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E5%A4%A7%E9%98%AA%E5%81%A5%E5%BA%B7%E7%85%A7%E8%AD%B7%E5%B1%95%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2",
+      "searchStatus": "incomplete_page",
+      "result": "retained",
+      "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.expo2025.or.jp/news/daily/"
+      ]
+    },
+    {
+      "id": "p_7db86644747417ce",
+      "name": "大屋根 無人機表演",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E5%A4%A7%E5%B1%8B%E6%A0%B9%20%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A1%A8%E6%BC%94%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。 Google Search複查仍對應2025展期；未將異地復刻或後續活動當作原展館現況。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.expo2025.or.jp/news/daily/",
+        "https://www.google.com/search?hl=zh-TW&q=%E5%A4%A7%E5%B1%8B%E6%A0%B9%20%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A1%A8%E6%BC%94%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2"
+      ]
+    },
+    {
+      "id": "p_d9de19fc4148ed2f",
+      "name": "大埔遊園車",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E5%A4%A7%E5%9F%94%E9%81%8A%E5%9C%92%E8%BB%8A%20%E5%98%89%E7%BE%A9%E7%B8%A3%E5%A4%A7%E5%9F%94%E9%84%89",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "已辨認大埔遊園車活動；原片未給7-ELEVEN分店名及固定站牌，不以便利商店泛稱或鄉鎮中心代替定位。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.google.com/search?hl=zh-TW&q=%E5%A4%A7%E5%9F%94%E9%81%8A%E5%9C%92%E8%BB%8A%20%E5%98%89%E7%BE%A9%E7%B8%A3%E5%A4%A7%E5%9F%94%E9%84%89"
+      ]
+    },
+    {
+      "id": "p_0aec1c66d4dca029",
+      "name": "大壺春",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E5%A4%A7%E5%A3%BA%E6%98%A5%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E9%9B%B2%E5%8D%97%E5%8D%97%E8%B7%AF89%E8%99%9F%EF%BC%88%E5%BD%B1%E7%89%87%E8%88%8A%E5%9D%80%EF%BC%89",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "影片地址已確認為雲南南路89號舊址；2026官方已公布遷往山西南路，現址完整門牌及WGS84位置待確認。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://tw.trip.com/restaurant/china/shanghai/detail/dahuchun-11150880/",
+        "https://paper.xinmin.cn/html/xmwb/2026-01-09/4/228967.html",
+        "https://mzj.sh.gov.cn/lnb-xw/20260113/492b829efb374c35953724c97036d5b4.html",
+        "https://www.google.com/search?hl=zh-TW&q=%E5%A4%A7%E5%A3%BA%E6%98%A5%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E9%9B%B2%E5%8D%97%E5%8D%97%E8%B7%AF89%E8%99%9F%EF%BC%88%E5%BD%B1%E7%89%87%E8%88%8A%E5%9D%80%EF%BC%89"
+      ]
+    },
+    {
+      "id": "p_1efb711bfc8f48e7",
+      "name": "大澳",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E5%A4%A7%E6%BE%B3%20%E9%A6%99%E6%B8%AF%E5%A4%A7%E6%BE%B3",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=ecMeLtBPfoM&t=321s",
+        "https://www.google.com/search?hl=zh-TW&q=%E5%A4%A7%E6%BE%B3%20%E9%A6%99%E6%B8%AF%E5%A4%A7%E6%BE%B3"
+      ]
+    },
+    {
+      "id": "p_f357b288fc485a69",
+      "name": "大澳觀光小艇遊船",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E5%A4%A7%E6%BE%B3%E8%A7%80%E5%85%89%E5%B0%8F%E8%89%87%E9%81%8A%E8%88%B9%20%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%A4%A7%E6%BE%B3%E6%B0%B8%E5%AE%89%E8%A1%9720%E8%99%9F%E8%A1%8C%E4%BA%BA%E6%A9%8B%E6%97%81%E6%98%94%E6%97%A5%E6%A9%AB%E6%B0%B4%E6%B8%A1%E4%BD%8D%E7%BD%AE%E5%A4%A7%E6%B6%8C",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "已確認大澳登船區域，但原片未給唯一營運商及實際上船碼頭；不以橋或村落中心代替業者定位。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.google.com/search?hl=zh-TW&q=%E5%A4%A7%E6%BE%B3%E8%A7%80%E5%85%89%E5%B0%8F%E8%89%87%E9%81%8A%E8%88%B9%20%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%A4%A7%E6%BE%B3%E6%B0%B8%E5%AE%89%E8%A1%9720%E8%99%9F%E8%A1%8C%E4%BA%BA%E6%A9%8B%E6%97%81%E6%98%94%E6%97%A5%E6%A9%AB%E6%B0%B4%E6%B8%A1%E4%BD%8D%E7%BD%AE%E5%A4%A7%E6%B6%8C"
+      ]
+    },
+    {
+      "id": "p_07b0d4e1d081ac9f",
+      "name": "小江戶橫丁",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E5%B0%8F%E6%B1%9F%E6%88%B6%E6%A9%AB%E4%B8%81%20%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E8%B6%8A%E5%B8%82%E5%B9%B8%E7%94%BA1-3",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "影片原附幸町1-3與公開地圖／巴士業者所列元町2-1-3不一致；仍須影片建物畫面確認同一個小江戶橫丁。 Google Search複查尚未取得足以消除原先疑點的新證據。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://eaglebus.group/co-edo/2026/03/23/ncct/",
+        "https://www.google.com/search?hl=zh-TW&q=%E5%B0%8F%E6%B1%9F%E6%88%B6%E6%A9%AB%E4%B8%81%20%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E8%B6%8A%E5%B8%82%E5%B9%B8%E7%94%BA1-3"
+      ]
+    },
+    {
+      "id": "p_3c7b9e07f9af8e19",
+      "name": "日本 大通り",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E6%97%A5%E6%9C%AC%20%E5%A4%A7%E9%80%9A%E3%82%8A%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "已確認橫濱日本大通街景路線，影片未指定街道的單一停靠點，不以道路中心代替。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.google.com/search?hl=zh-TW&q=%E6%97%A5%E6%9C%AC%20%E5%A4%A7%E9%80%9A%E3%82%8A%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82"
+      ]
+    },
+    {
+      "id": "p_1391081b714866e9",
+      "name": "日本館",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E6%97%A5%E6%9C%AC%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。 Google Search複查仍對應2025展期；未將異地復刻或後續活動當作原展館現況。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.expo2025.or.jp/news/daily/",
+        "https://www.google.com/search?hl=zh-TW&q=%E6%97%A5%E6%9C%AC%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2"
+      ]
+    },
+    {
+      "id": "p_cb5edb89e83072f5",
+      "name": "比利時館",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E6%AF%94%E5%88%A9%E6%99%82%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。 Google Search複查仍對應2025展期；未將異地復刻或後續活動當作原展館現況。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.expo2025.or.jp/news/daily/",
+        "https://www.google.com/search?hl=zh-TW&q=%E6%AF%94%E5%88%A9%E6%99%82%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2"
+      ]
+    },
+    {
+      "id": "p_19fdfed95d2e321e",
+      "name": "乍浦路橋",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E4%B9%8D%E6%B5%A6%E8%B7%AF%E6%A9%8B%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E8%99%B9%E5%8F%A3%E5%8D%80%E3%83%BB%E9%BB%83%E6%B5%A6%E5%8D%80%E8%98%87%E5%B7%9E%E6%B2%B3%EF%BC%88%E5%8C%97%E6%8E%A5%E4%B9%8D%E6%B5%A6%E8%B7%AF%E3%80%81%E5%8D%97%E6%8E%A5%E8%99%8E%E4%B8%98%E8%B7%AF%EF%BC%89",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.shhk.gov.cn/zjhk/001003/001003002/20140902/531261f0-e8d2-4737-84c4-4a7b7fff147f.html",
+        "https://www.google.com/search?hl=zh-TW&q=%E4%B9%8D%E6%B5%A6%E8%B7%AF%E6%A9%8B%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E8%99%B9%E5%8F%A3%E5%8D%80%E3%83%BB%E9%BB%83%E6%B5%A6%E5%8D%80%E8%98%87%E5%B7%9E%E6%B2%B3%EF%BC%88%E5%8C%97%E6%8E%A5%E4%B9%8D%E6%B5%A6%E8%B7%AF%E3%80%81%E5%8D%97%E6%8E%A5%E8%99%8E%E4%B8%98%E8%B7%AF%EF%BC%89"
+      ]
+    },
+    {
+      "id": "p_7697df0d48f639b5",
+      "name": "仙跡岩",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E4%BB%99%E8%B7%A1%E5%B2%A9%20%E8%87%BA%E5%8C%97%E5%B8%82%E6%96%87%E5%B1%B1%E5%8D%80",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "已確認仙跡岩步道區；官方列多個登山入口，尚未確認影片實際入口／拍攝點，不以管理單位或泛稱山區中心作停靠點。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://travel.taipei/zh-tw/news/details/68227",
+        "https://www.google.com/search?hl=zh-TW&q=%E4%BB%99%E8%B7%A1%E5%B2%A9%20%E8%87%BA%E5%8C%97%E5%B8%82%E6%96%87%E5%B1%B1%E5%8D%80"
+      ]
+    },
+    {
+      "id": "p_b88e9a20faa7b639",
+      "name": "北芭堤雅海灘",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E5%8C%97%E8%8A%AD%E5%A0%A4%E9%9B%85%E6%B5%B7%E7%81%98%20%E6%B3%B0%E5%9C%8B%E8%8A%AD%E9%81%94%E9%9B%85",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "海灘區域已辨認，原片未指定單一入口或設施；暫保留為區域路線。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.google.com/search?hl=zh-TW&q=%E5%8C%97%E8%8A%AD%E5%A0%A4%E9%9B%85%E6%B5%B7%E7%81%98%20%E6%B3%B0%E5%9C%8B%E8%8A%AD%E9%81%94%E9%9B%85"
+      ]
+    },
+    {
+      "id": "p_5237f77a86b671fc",
+      "name": "卡達館",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E5%8D%A1%E9%81%94%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。 Google Search複查仍對應2025展期；未將異地復刻或後續活動當作原展館現況。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.expo2025.or.jp/news/daily/",
+        "https://www.google.com/search?hl=zh-TW&q=%E5%8D%A1%E9%81%94%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2"
+      ]
+    },
+    {
+      "id": "p_205fb64986a0dcd7",
+      "name": "叶匠壽庵",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E5%8F%B6%E5%8C%A0%E5%A3%BD%E5%BA%B5%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%BE%BD%E7%94%B0%E7%A9%BA%E6%B8%AF",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "確認為羽田販售的叶匠壽庵羽雲；食べログ有第1航廈叶匠壽庵，也有第2航廈SMILE TOKYO販售羽雲的紀錄，尚未確認片中櫃位，不套用滋賀本店或任一機場櫃位。 Google Search複查尚未取得足以消除原先疑點的新證據。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://tabelog.com/tokyo/P017334/premiseLst/",
+        "https://tabelog.com/tokyo/A1315/A131504/13138626/dtlrvwlst/B513158843/",
+        "https://www.google.com/search?hl=zh-TW&q=%E5%8F%B6%E5%8C%A0%E5%A3%BD%E5%BA%B5%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%BE%BD%E7%94%B0%E7%A9%BA%E6%B8%AF"
+      ]
+    },
+    {
+      "id": "p_4fa27571a3b272b2",
+      "name": "外白渡橋",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E5%A4%96%E7%99%BD%E6%B8%A1%E6%A9%8B%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E3%83%BB%E8%99%B9%E5%8F%A3%E5%8D%80%E8%98%87%E5%B7%9E%E6%B2%B3%E5%8F%A3%EF%BC%88%E5%8D%97%E6%8E%A5%E4%B8%AD%E5%B1%B1%E6%9D%B1%E4%B8%80%E8%B7%AF%E3%80%81%E5%8C%97%E9%80%9A%E5%A4%A7%E5%90%8D%E8%B7%AF%EF%BC%89",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.shhk.gov.cn/zjhk/001003/001003002/20140902/a423fff6-23fd-48a8-bf5d-ba5bf6a06a0e.html",
+        "https://www.google.com/search?hl=zh-TW&q=%E5%A4%96%E7%99%BD%E6%B8%A1%E6%A9%8B%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E3%83%BB%E8%99%B9%E5%8F%A3%E5%8D%80%E8%98%87%E5%B7%9E%E6%B2%B3%E5%8F%A3%EF%BC%88%E5%8D%97%E6%8E%A5%E4%B8%AD%E5%B1%B1%E6%9D%B1%E4%B8%80%E8%B7%AF%E3%80%81%E5%8C%97%E9%80%9A%E5%A4%A7%E5%90%8D%E8%B7%AF%EF%BC%89"
+      ]
+    },
+    {
+      "id": "p_79e2907aebcf8390",
+      "name": "外灘 12 號",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E5%A4%96%E7%81%98%2012%20%E8%99%9F%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E4%B8%AD%E5%B1%B1%E6%9D%B1%E4%B8%80%E8%B7%AF12%E8%99%9F",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://you.ctrip.com/sight/shanghai2/5013406.html",
+        "https://www.google.com/search?hl=zh-TW&q=%E5%A4%96%E7%81%98%2012%20%E8%99%9F%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E4%B8%AD%E5%B1%B1%E6%9D%B1%E4%B8%80%E8%B7%AF12%E8%99%9F"
+      ]
+    },
+    {
+      "id": "p_ad84df5266a97a34",
+      "name": "未来都市",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E6%9C%AA%E6%9D%A5%E9%83%BD%E5%B8%82%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。 Google Search複查仍對應2025展期；未將異地復刻或後續活動當作原展館現況。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.expo2025.or.jp/news/daily/",
+        "https://www.google.com/search?hl=zh-TW&q=%E6%9C%AA%E6%9D%A5%E9%83%BD%E5%B8%82%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2"
+      ]
+    },
+    {
+      "id": "p_00f3e186949bc35e",
+      "name": "永豐麵館",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E6%B0%B8%E8%B1%90%E9%BA%B5%E9%A4%A8%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E6%BC%A2%E5%8F%A3%E8%B7%AF320%E8%99%9F",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "已核對上海原片場景、分店與地址，尚待可交叉驗證的WGS84精確點位。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://gs.ctrip.com/html5/you/foods/fooddetail/2/136442516.html",
+        "https://www.google.com/search?hl=zh-TW&q=%E6%B0%B8%E8%B1%90%E9%BA%B5%E9%A4%A8%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E6%BC%A2%E5%8F%A3%E8%B7%AF320%E8%99%9F"
+      ]
+    },
+    {
+      "id": "p_9a9e3d407d795d50",
+      "name": "尖沙咀保頓冰室",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E5%B0%96%E6%B2%99%E5%92%80%E4%BF%9D%E9%A0%93%E5%86%B0%E5%AE%A4%20%E9%A6%99%E6%B8%AF%E5%B0%96%E6%B2%99%E5%92%80%E4%BA%9E%E5%A3%AB%E5%8E%98%E9%81%9320A%E8%99%9F%E5%9C%B0%E8%88%96",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "Google Search商家欄標示原址永久歇業；店家官方Facebook搜尋摘要提及2026年3月31日結束亞士厘道原址營業，與OpenRice結業資料相符。官方貼文原頁未成功取得，後續搬遷或再開資訊仍待確認，不作現營店定位。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.openrice.com/en/hongkong/r-bolton-cafe-tsim-sha-tsui-hong-kong-style-r865291",
+        "https://www.google.com/search?hl=zh-TW&q=%E5%B0%96%E6%B2%99%E5%92%80%E4%BF%9D%E9%A0%93%E5%86%B0%E5%AE%A4%20%E9%A6%99%E6%B8%AF%E5%B0%96%E6%B2%99%E5%92%80%E4%BA%9E%E5%A3%AB%E5%8E%98%E9%81%9320A%E8%99%9F%E5%9C%B0%E8%88%96"
+      ]
+    },
+    {
+      "id": "p_001c82479cd10079",
+      "name": "江南",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E6%B1%9F%E5%8D%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E8%A5%BF%E6%B1%A0%E8%A2%8B",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "Google Search同名同址商家欄標示永久歇業；食べログ同址資料仍保留，尚無已查得的官方再開／搬遷新址證據，不作現營店定位。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://tabelog.com/tokyo/A1305/A130501/13298112/",
+        "https://www.google.com/search?hl=zh-TW&q=%E6%B1%9F%E5%8D%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E8%A5%BF%E6%B1%A0%E8%A2%8B"
+      ]
+    },
+    {
+      "id": "p_542358e2b5f72446",
+      "name": "江ノ島電鉄",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E6%B1%9F%E3%83%8E%E5%B3%B6%E9%9B%BB%E9%89%84%20%E9%8E%8C%E5%80%89%E5%B8%82%E3%83%BB%E8%97%A4%E6%B2%A2%E5%B8%82%E6%B1%9F%E3%83%8E%E9%9B%BB%E6%B2%BF%E7%B7%9A",
+      "searchStatus": "verification_required",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=lS-aSHu0uo8&t=590s"
+      ]
+    },
+    {
+      "id": "p_54abc250297e0afe",
+      "name": "老市府",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E8%80%81%E5%B8%82%E5%BA%9C%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E6%B1%9F%E8%A5%BF%E4%B8%AD%E8%B7%AF215%E8%99%9F",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://m.thepaper.cn/newsDetail_forward_31939180",
+        "https://www.google.com/search?hl=zh-TW&q=%E8%80%81%E5%B8%82%E5%BA%9C%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E6%B1%9F%E8%A5%BF%E4%B8%AD%E8%B7%AF215%E8%99%9F"
+      ]
+    },
+    {
+      "id": "p_17ff149842fe61fc",
+      "name": "何東舊居",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E4%BD%95%E6%9D%B1%E8%88%8A%E5%B1%85%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%9D%9C%E5%AE%89%E5%8D%80%E9%99%9D%E8%A5%BF%E5%8C%97%E8%B7%AF457%E5%BC%84",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://you.ctrip.com/sight/shanghai2/144227.html",
+        "https://www.google.com/search?hl=zh-TW&q=%E4%BD%95%E6%9D%B1%E8%88%8A%E5%B1%85%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%9D%9C%E5%AE%89%E5%8D%80%E9%99%9D%E8%A5%BF%E5%8C%97%E8%B7%AF457%E5%BC%84"
+      ]
+    },
+    {
+      "id": "p_8a15905199dbefd2",
+      "name": "汽車道",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E6%B1%BD%E8%BB%8A%E9%81%93%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "已確認橫濱汽車道步行路線，尚無明確單一橋端或入口，不以路線中心代替。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.google.com/search?hl=zh-TW&q=%E6%B1%BD%E8%BB%8A%E9%81%93%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82"
+      ]
+    },
+    {
+      "id": "p_b32da31a3b512b80",
+      "name": "那霸國際通夜晚",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E9%82%A3%E9%9C%B8%E5%9C%8B%E9%9A%9B%E9%80%9A%E5%A4%9C%E6%99%9A%20%E6%B2%96%E7%B8%84%E7%9C%8C%E9%82%A3%E8%A6%87%E5%B8%82%E5%9B%BD%E9%9A%9B%E9%80%9A",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=BTF7tHPSFxY&t=785s",
+        "https://www.google.com/search?hl=zh-TW&q=%E9%82%A3%E9%9C%B8%E5%9C%8B%E9%9A%9B%E9%80%9A%E5%A4%9C%E6%99%9A%20%E6%B2%96%E7%B8%84%E7%9C%8C%E9%82%A3%E8%A6%87%E5%B8%82%E5%9B%BD%E9%9A%9B%E9%80%9A"
+      ]
+    },
+    {
+      "id": "p_9119915df0fd2c0c",
+      "name": "武康大樓",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E6%AD%A6%E5%BA%B7%E5%A4%A7%E6%A8%93%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%BE%90%E5%8C%AF%E5%8D%80%E6%B7%AE%E6%B5%B7%E4%B8%AD%E8%B7%AF1850%E8%99%9F",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://jpg.zfcg.sh.gov.cn/sh-gov-open-doc/1108QZ/4e86a949-6629-4329-874c-f0e216a23b3f.pdf",
+        "https://www.google.com/search?hl=zh-TW&q=%E6%AD%A6%E5%BA%B7%E5%A4%A7%E6%A8%93%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%BE%90%E5%8C%AF%E5%8D%80%E6%B7%AE%E6%B5%B7%E4%B8%AD%E8%B7%AF1850%E8%99%9F"
+      ]
+    },
+    {
+      "id": "p_efabffb882c27167",
+      "name": "花见小路",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E8%8A%B1%E8%A7%81%E5%B0%8F%E8%B7%AF%20%E4%BA%AC%E9%83%BD%E5%B8%82%E8%8A%B1%E8%A6%8B%E5%B0%8F%E8%B7%AF",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=ZcWYjKF2CpU&t=295s",
+        "https://www.google.com/search?hl=zh-TW&q=%E8%8A%B1%E8%A7%81%E5%B0%8F%E8%B7%AF%20%E4%BA%AC%E9%83%BD%E5%B8%82%E8%8A%B1%E8%A6%8B%E5%B0%8F%E8%B7%AF"
+      ]
+    },
+    {
+      "id": "p_5b82582e56c8be13",
+      "name": "金豬食堂",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E9%87%91%E8%B1%AC%E9%A3%9F%E5%A0%82%20%E5%8D%97%E9%9F%93%20%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EB%8B%A4%EC%82%B0%EB%A1%9C%20149%201%EC%B8%B5",
+      "searchStatus": "search_results",
+      "result": "new_location_verified",
+      "reason": "分店與完整地址經官方／食べログ或原片所附Naver核對，公開地點卡已核實；依可用座標或完整Plus Code定位。",
+      "newMapPoint": true,
+      "sourceChecks": [
+        "https://naver.me/GLKAKFYY",
+        "https://big5chinese.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=191568",
+        "https://www.google.com/search?hl=zh-TW&q=%E9%87%91%E8%B1%AC%E9%A3%9F%E5%A0%82%20%E5%8D%97%E9%9F%93%20%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EB%8B%A4%EC%82%B0%EB%A1%9C%20149%201%EC%B8%B5",
+        "https://www.google.com/maps/place/%E9%87%91%E8%B1%AC%E9%A3%9F%E5%A0%82/data=!3m1!4b1!4m4!3m3!1s0x357ca3110d881915:0x66c78cca87fb7bda!16s%2Fg%2F11c0r5qrxn!20s8Q99H246%2BRMM?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      ]
+    },
+    {
+      "id": "p_b07671288f74f636",
+      "name": "阿拉伯聯合大公國館",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E9%98%BF%E6%8B%89%E4%BC%AF%E8%81%AF%E5%90%88%E5%A4%A7%E5%85%AC%E5%9C%8B%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。 Google Search複查仍對應2025展期；未將異地復刻或後續活動當作原展館現況。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.expo2025.or.jp/news/daily/",
+        "https://www.google.com/search?hl=zh-TW&q=%E9%98%BF%E6%8B%89%E4%BC%AF%E8%81%AF%E5%90%88%E5%A4%A7%E5%85%AC%E5%9C%8B%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2"
+      ]
+    },
+    {
+      "id": "p_1334fa1e07158e26",
+      "name": "南京町",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E5%8D%97%E4%BA%AC%E7%94%BA%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "已確認神戶南京町街區；此項為散步範圍，不能把商店街事務所、任一中華門或街區中心當作影片中的單一店家。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=a8acCXqRnig&t=499s",
+        "https://www.google.com/search?hl=zh-TW&q=%E5%8D%97%E4%BA%AC%E7%94%BA%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA"
+      ]
+    },
+    {
+      "id": "p_eb2c944fda3c744b",
+      "name": "屋有鮮",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E5%B1%8B%E6%9C%89%E9%AE%AE%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E8%8C%82%E5%90%8D%E5%8D%97%E8%B7%AF7%E8%99%9F1-103%E5%AE%A4",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://guide.michelin.com/sg/en/shanghai-municipality/shanghai/restaurant/wu-you-xian",
+        "https://www.google.com/search?hl=zh-TW&q=%E5%B1%8B%E6%9C%89%E9%AE%AE%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E8%8C%82%E5%90%8D%E5%8D%97%E8%B7%AF7%E8%99%9F1-103%E5%AE%A4"
+      ]
+    },
+    {
+      "id": "p_e6d5689a53b417f0",
+      "name": "紅盔甲小龍蝦",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E7%B4%85%E7%9B%94%E7%94%B2%E5%B0%8F%E9%BE%8D%E8%9D%A6%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E9%87%91%E9%99%B5%E6%9D%B1%E8%B7%AF500%E8%99%9F%20%E4%BA%9E%E9%BE%8D%E5%9C%8B%E9%9A%9B%E5%BB%A3%E5%A0%B42%E6%A8%93",
+      "searchStatus": "verification_required",
+      "result": "retained",
+      "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://ditu.amap.com/place/B0FFGP1BQM"
+      ]
+    },
+    {
+      "id": "p_2aa6ecae70e7d70a",
+      "name": "美馬市",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E7%BE%8E%E9%A6%AC%E5%B8%82%20%E5%BE%B3%E5%B3%B6%E7%9C%8C%E7%BE%8E%E9%A6%AC%E5%B8%82",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=YOHzKUEpRz4&t=139s",
+        "https://www.google.com/search?hl=zh-TW&q=%E7%BE%8E%E9%A6%AC%E5%B8%82%20%E5%BE%B3%E5%B3%B6%E7%9C%8C%E7%BE%8E%E9%A6%AC%E5%B8%82"
+      ]
+    },
+    {
+      "id": "p_a5bb8390884d727a",
+      "name": "風川鰻魚",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E9%A2%A8%E5%B7%9D%E9%B0%BB%E9%AD%9A%20%E5%8D%97%E9%9F%93%20%EC%84%9C%EC%9A%B8%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%EB%8F%99%EA%B5%90%EB%A1%9C27%EA%B8%B8%2039%201%EC%B8%B5",
+      "searchStatus": "search_results",
+      "result": "new_location_verified",
+      "reason": "分店與完整地址經官方／食べログ或原片所附Naver核對，公開地點卡已核實；依可用座標或完整Plus Code定位。",
+      "newMapPoint": true,
+      "sourceChecks": [
+        "https://naver.me/5AmfnBTN",
+        "https://www.google.com/search?hl=zh-TW&q=%E9%A2%A8%E5%B7%9D%E9%B0%BB%E9%AD%9A%20%E5%8D%97%E9%9F%93%20%EC%84%9C%EC%9A%B8%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%EB%8F%99%EA%B5%90%EB%A1%9C27%EA%B8%B8%2039%201%EC%B8%B5",
+        "https://www.google.com/maps/place/%E9%A2%A8%E5%B7%9D%E9%B0%BB%E9%AD%9A+%E5%BB%B6%E5%8D%97%E5%BA%97/data=!3m1!4b1!4m4!3m3!1s0x357c98e7fc2dda11:0x737785dc9d59336d!16s%2Fg%2F11c54nbjwj!20s8Q98HW5C%2BRJ7?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      ]
+    },
+    {
+      "id": "p_af2fceb85a50fb29",
+      "name": "祖傳三代馬鈴薯排骨湯",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E7%A5%96%E5%82%B3%E4%B8%89%E4%BB%A3%E9%A6%AC%E9%88%B4%E8%96%AF%E6%8E%92%E9%AA%A8%E6%B9%AF%20%E5%8D%97%E9%9F%93%20%EC%84%9C%EC%9A%B8%20%EC%84%B1%EB%8F%99%EA%B5%AC%20%EC%97%B0%EB%AC%B4%EC%9E%A5%EA%B8%B8%2045",
+      "searchStatus": "search_results",
+      "result": "new_location_verified",
+      "reason": "分店與完整地址經官方／食べログ或原片所附Naver核對，公開地點卡已核實；依可用座標或完整Plus Code定位。",
+      "newMapPoint": true,
+      "sourceChecks": [
+        "https://naver.me/GnGCvn5l",
+        "https://www.google.com/search?hl=zh-TW&q=%E7%A5%96%E5%82%B3%E4%B8%89%E4%BB%A3%E9%A6%AC%E9%88%B4%E8%96%AF%E6%8E%92%E9%AA%A8%E6%B9%AF%20%E5%8D%97%E9%9F%93%20%EC%84%9C%EC%9A%B8%20%EC%84%B1%EB%8F%99%EA%B5%AC%20%EC%97%B0%EB%AC%B4%EC%9E%A5%EA%B8%B8%2045",
+        "https://www.google.com/maps/place/%E7%A5%96%E5%82%B3%E4%B8%89%E4%BB%A3%E9%A6%AC%E9%88%B4%E8%96%AF%E6%8E%92%E9%AA%A8%E6%B9%AF/data=!3m1!4b1!4m4!3m3!1s0x357ca4913140fbb5:0x7897953e193bd3f9!16s%2Fg%2F1th0w95x!20s8Q99G3V3%2B4PH?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      ]
+    },
+    {
+      "id": "p_507cf194f4c5fbd9",
+      "name": "神農街",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E7%A5%9E%E8%BE%B2%E8%A1%97%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80%E7%A5%9E%E8%BE%B2%E8%A1%97",
+      "searchStatus": "search_results",
+      "result": "retained",
+      "reason": "已辨認神農街街區，未指定唯一店家、建物或街道入口，暫保留為路線資料。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.google.com/search?hl=zh-TW&q=%E7%A5%9E%E8%BE%B2%E8%A1%97%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80%E7%A5%9E%E8%BE%B2%E8%A1%97"
+      ]
+    },
+    {
+      "id": "p_b23a603f4b2d3f22",
+      "name": "秘魯館",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E7%A7%98%E9%AD%AF%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.expo2025.or.jp/news/daily/"
+      ]
+    },
+    {
+      "id": "p_52e08a840cacadf9",
+      "name": "草津",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E8%8D%89%E6%B4%A5%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%E8%8D%89%E6%B4%A5%E7%94%BA",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=WQ2rMP0R084&t=1197s"
+      ]
+    },
+    {
+      "id": "p_bd95acb370113a82",
+      "name": "高崎",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E9%AB%98%E5%B4%8E%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%E9%AB%98%E5%B4%8E%E5%B8%82",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=WQ2rMP0R084&t=52s"
+      ]
+    },
+    {
+      "id": "p_e042affbbfdb6fcf",
+      "name": "鸭川",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E9%B8%AD%E5%B7%9D%20%E4%BA%AC%E9%83%BD%E5%B8%82%E9%B4%A8%E5%B7%9D",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=ZcWYjKF2CpU&t=591s"
+      ]
+    },
+    {
+      "id": "p_81bc03b0f6d84afa",
+      "name": "淀水路",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E6%B7%80%E6%B0%B4%E8%B7%AF%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E6%B7%80",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "已確認京都淀水路賞櫻走廊，原片未指定單一入口、橋梁或設施，保留路線而不以水路中心代替影片停靠位置。",
+      "newMapPoint": false,
+      "sourceChecks": []
+    },
+    {
+      "id": "p_6c271530e602176b",
+      "name": "覓尚 Prada 榮宅",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E8%A6%93%E5%B0%9A%20Prada%20%E6%A6%AE%E5%AE%85%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%9D%9C%E5%AE%89%E5%8D%80%E9%99%9D%E8%A5%BF%E5%8C%97%E8%B7%AF186%E8%99%9F%20%E6%A6%AE%E5%AE%852%E6%A8%93",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://guide.michelin.com/sg/zh_CN/shanghai-municipality/shanghai/restaurant/mi-shang"
+      ]
+    },
+    {
+      "id": "p_3529027b30a7f0bb",
+      "name": "章魚燒 十八番",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E7%AB%A0%E9%AD%9A%E7%87%92%20%E5%8D%81%E5%85%AB%E7%95%AA%20%E6%97%A5%E6%9C%AC%E3%80%92542-0071%20Osaka%2C%20Chuo%20Ward%2C%20Dotonbori%2C%201%20Chome%E2%88%927%E2%88%9221%20%E4%B8%AD%E5%BA%A7%E3%81%8F%E3%81%84%E3%81%A0%E3%81%8A%E3%82%8C%E3%83%93%E3%83%AB%201F",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "原片所附道頓堀1-7-21的食べログ頁為掲載保留；公開地圖與SONS-DOHTONBORI官方店頁為1-8-26，尚未確認影片實際分店。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://tabelog.com/osaka/A2701/A270202/27053018/",
+        "https://d-sons18.co.jp/free/shop_sonsdohtonbori"
+      ]
+    },
+    {
+      "id": "p_737355cd55cd1c8a",
+      "name": "陽光運動公園＋陽光橋＋小碧潭公園",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E9%99%BD%E5%85%89%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92%EF%BC%8B%E9%99%BD%E5%85%89%E6%A9%8B%EF%BC%8B%E5%B0%8F%E7%A2%A7%E6%BD%AD%E5%85%AC%E5%9C%92%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%96%B0%E5%BA%97%E5%8D%80%E5%AE%89%E6%A5%AD%E8%A1%9747%E5%B7%B7",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "同一筆涵蓋兩座公園與橋的步行路線，無法用單一設施座標代表；保留原片路線。",
+      "newMapPoint": false,
+      "sourceChecks": []
+    },
+    {
+      "id": "p_ffb0ab5696d85d6c",
+      "name": "新宿",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E6%96%B0%E5%AE%BF%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=JaRlwGzJS-g&t=180s"
+      ]
+    },
+    {
+      "id": "p_dd05c28e90fa0065",
+      "name": "極生ぷりん専門店 にこ田",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E6%A5%B5%E7%94%9F%E3%81%B7%E3%82%8A%E3%82%93%E5%B0%82%E9%96%80%E5%BA%97%20%E3%81%AB%E3%81%93%E7%94%B0%20%E3%80%92350-0062%20%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E8%B6%8A%E5%B8%82%E5%85%83%E7%94%BA2-7-1",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "食べログ仍列影片的元町2-7-1，地圖改列連雀町9-1；尚缺可確認的官方搬遷公告，未直接改指新址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://tabelog.com/saitama/A1103/A110303/11064597/",
+        "https://gokunamapudding.hp.peraichi.com/nikota"
+      ]
+    },
+    {
+      "id": "p_83c8932a1813efdd",
+      "name": "義大利館",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.expo2025.or.jp/news/daily/"
+      ]
+    },
+    {
+      "id": "p_2d7a28a012e1bf06",
+      "name": "聖三一堂",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E8%81%96%E4%B8%89%E4%B8%80%E5%A0%82%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E4%B9%9D%E6%B1%9F%E8%B7%AF219%E8%99%9F",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://ccctspm.org/church"
+      ]
+    },
+    {
+      "id": "p_f6e1643f4cfd31ea",
+      "name": "裕和堂",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E8%A3%95%E5%92%8C%E5%A0%82%20%E4%B8%8A%E6%B5%B7%E5%B8%82",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "品牌官方在上海有9家直營門店；室內療程場景不足以辨識分店，不能選搜尋出現的上海中心旗艦店或梅花店，且中國地圖WGS84點位亦待驗證。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.yuhetangtcm.com/"
+      ]
+    },
+    {
+      "id": "p_9a5686f72c97327f",
+      "name": "豊福",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E8%B1%8A%E7%A6%8F%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%B5%85%E8%8D%89",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "食べログ13163383同店列掲載保留；公開搜尋仍未取得足以確認當前營業或遷址的官方證據，保留狀態待確認。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://tabelog.com/tokyo/A1311/A131102/13163383/"
+      ]
+    },
+    {
+      "id": "p_2f38346c760b4e17",
+      "name": "運河區",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E9%81%8B%E6%B2%B3%E5%8D%80%20Amsterdam%E9%81%8B%E6%B2%B3%E5%8D%80",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=71R51jXpPK4&t=40s"
+      ]
+    },
+    {
+      "id": "p_56642c92694e5392",
+      "name": "夢炭",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E5%A4%A2%E7%82%AD%20%E5%8D%97%E9%9F%93%20%EC%84%9C%EC%9A%B8%20%EC%9A%A9%EC%82%B0%EA%B5%AC%20%EB%B0%B1%EB%B2%94%EB%A1%9C99%EA%B8%B8%2050",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "new_location_verified",
+      "reason": "分店與完整地址經官方／食べログ或原片所附Naver核對，公開地點卡已核實；依可用座標或完整Plus Code定位。",
+      "newMapPoint": true,
+      "sourceChecks": [
+        "https://naver.me/5eGT08VK",
+        "https://www.google.com/maps/place/%E5%A4%A2%E7%82%AD/data=!3m1!4b1!4m4!3m3!1s0x357ca3dea456ce3b:0x229049cf34438e54!16s%2Fg%2F11gy3hnpqh!20s8Q98GXPC%2BCW4?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      ]
+    },
+    {
+      "id": "p_099d336b8295cbb4",
+      "name": "漁光島",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E6%BC%81%E5%85%89%E5%B3%B6%20%E5%8F%B0%E5%8D%97%E5%B8%82%E5%AE%89%E5%B9%B3%E5%8D%80%E6%BC%81%E5%85%89%E8%B7%AF",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "島嶼範圍已確認，但原片未指定單一海灘入口或設施；不以島中心替代影片停靠位置。",
+      "newMapPoint": false,
+      "sourceChecks": []
+    },
+    {
+      "id": "p_80a5cd18fcb2d3a5",
+      "name": "瑰麗山海號",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E7%91%B0%E9%BA%97%E5%B1%B1%E6%B5%B7%E8%99%9F%20%E6%97%A5%E6%9C%AC%E5%AF%8C%E5%B1%B1%E7%9C%8C",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "已確認瑰麗山海號是移動中的觀光列車體驗，非單一固定建物；原項未指定唯一上車站或月台，暫不以整條鐵路或沿線城市中心定位。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=_MIBvm14oBA"
+      ]
+    },
+    {
+      "id": "p_b46301c241b1d2c4",
+      "name": "碳烤土司攤",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E7%A2%B3%E7%83%A4%E5%9C%9F%E5%8F%B8%E6%94%A4%20Bangkok%E3%83%BBTalat%20Noi",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "原片尚無可核對的正式店名或門牌；同巷具名地圖候選沒有獨立來源能確認是同攤，不將泛稱土司攤直接匹配。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=4wuUDNi2sZA&t=542s"
+      ]
+    },
+    {
+      "id": "p_b33ffbfb98f0a6dd",
+      "name": "維多莉亞港",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E7%B6%AD%E5%A4%9A%E8%8E%89%E4%BA%9E%E6%B8%AF%20%E9%A6%99%E6%B8%AF%E7%B6%AD%E5%A4%9A%E5%88%A9%E4%BA%9E%E6%B8%AF",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=bKy8AoRs7UE&t=580s"
+      ]
+    },
+    {
+      "id": "p_f0d19a217e9beba3",
+      "name": "蒙馬特",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E8%92%99%E9%A6%AC%E7%89%B9%20Paris%20Montmartre",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=Ij71KPO7j7o&t=1665s"
+      ]
+    },
+    {
+      "id": "p_048fe3282331519e",
+      "name": "輕井澤",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E8%BC%95%E4%BA%95%E6%BE%A4%20%E9%95%B7%E9%87%8E%E7%9C%8C%E8%BB%BD%E4%BA%95%E6%B2%A2%E7%94%BA",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=WQ2rMP0R084&t=100s"
+      ]
+    },
+    {
+      "id": "p_5c878d31847800f8",
+      "name": "銀座",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E9%8A%80%E5%BA%A7%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E9%8A%80%E5%BA%A7",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=lbM2ubjWzr0&t=562s"
+      ]
+    },
+    {
+      "id": "p_088c02f70ef2de16",
+      "name": "横浜バニラ",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E6%A8%AA%E6%B5%9C%E3%83%90%E3%83%8B%E3%83%A9%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%BE%BD%E7%94%B0%E7%A9%BA%E6%B8%AF3-3-2%20%E7%AC%AC1%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB2F%20%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%20%E7%BE%BD%E7%94%B0%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%84%EF%BC%88%E5%BD%B1%E7%89%87%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E6%AB%83%E4%BD%8D%EF%BC%89",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "影片期間限定櫃位已確認，官方出店期間為2026/7/8–10/7，現已結束；不將公司辦公室或其他機場櫃位當作目前店家。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://tokyo-haneda.com/campaign/detail_00022.html?timestamp=1751986812613"
+      ]
+    },
+    {
+      "id": "p_52c94aa475c6d269",
+      "name": "墨田區",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E5%A2%A8%E7%94%B0%E5%8D%80%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A2%A8%E7%94%B0%E5%8C%BA",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=KXvLiBfyQgY&t=39s"
+      ]
+    },
+    {
+      "id": "p_39fdd9c90d291201",
+      "name": "橫濱",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E6%A9%AB%E6%BF%B1%20%E6%A8%AA%E6%B5%9C%E5%B8%82",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=MluzdR_J4y0&t=165s"
+      ]
+    },
+    {
+      "id": "p_e8702c927b1cc7ed",
+      "name": "靜安寺",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E9%9D%9C%E5%AE%89%E5%AF%BA%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%9D%9C%E5%AE%89%E5%8D%80%E5%8D%97%E4%BA%AC%E8%A5%BF%E8%B7%AF1686%E8%99%9F",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://ditu.amap.com/place/B00154BDE9"
+      ]
+    },
+    {
+      "id": "p_81698bb4e2a07570",
+      "name": "戲館巷",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E6%88%B2%E9%A4%A8%E5%B7%B7%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%96%B0%E8%8E%8A%E5%8D%80%E6%96%B0%E8%8E%8A%E8%B7%AF359%E5%B7%B7",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "街巷已辨認，未指定單一店家或入口；保留路線項目，暫不使用巷道中心座標。",
+      "newMapPoint": false,
+      "sourceChecks": []
+    },
+    {
+      "id": "p_444e07826438424c",
+      "name": "臨空城",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E8%87%A8%E7%A9%BA%E5%9F%8E%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E6%B3%89%E4%BD%90%E9%87%8E%E5%B8%82%E3%82%8A%E3%82%93%E3%81%8F%E3%81%86%E5%BE%80%E6%9D%A5%E5%8D%973-28",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "原片介紹臨空城商圈與海邊路線；所附3-28為Premium Outlets地址，尚不足以確認單一店家／停靠點，未以地址標記代替整段路線。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.premiumoutlets.co.jp/rinku/"
+      ]
+    },
+    {
+      "id": "p_3b501f56459908a5",
+      "name": "鮮得來",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E9%AE%AE%E5%BE%97%E4%BE%86%20%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "雲南南路舊店涉及2026舊改搬遷；現有來源分別提福建中路過渡門店與寧海東路290-292等分店，尚未確認片中是哪家，不將現行某一家當作原訪問分店。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.shanghai.gov.cn/nw4411/20260110/95991622159b4f28a35790929f09e08f.html",
+        "https://www.thepaper.cn/newsDetail_forward_32403655"
+      ]
+    },
+    {
+      "id": "p_5ed6ccf90d927439",
+      "name": "鎌倉",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E9%8E%8C%E5%80%89%20%E9%8E%8C%E5%80%89%E5%B8%82",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=p_v_Dt9pEtA&t=230s"
+      ]
+    },
+    {
+      "id": "p_84e1751d036883c1",
+      "name": "鎌倉-江之島",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E9%8E%8C%E5%80%89-%E6%B1%9F%E4%B9%8B%E5%B3%B6%20%E9%8E%8C%E5%80%89%E5%B8%82%E3%83%BB%E8%97%A4%E6%B2%A2%E5%B8%82",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=-F-Q8ROf5rU&t=224s"
+      ]
+    },
+    {
+      "id": "p_a0e6a5ed233c921a",
+      "name": "鎌倉五郎本店",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E9%8E%8C%E5%80%89%E4%BA%94%E9%83%8E%E6%9C%AC%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%BE%BD%E7%94%B0%E7%A9%BA%E6%B8%AF",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "已確認品牌與商品，官方只將羽田列交通機關販售通路，未提供能對上影片的唯一櫃位；不能因店名含本店就套用鎌倉小町2-9-2或大丸東京。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.kamakuragoro.co.jp/shop.html"
+      ]
+    },
+    {
+      "id": "p_3d2ac7e261cb62ec",
+      "name": "藝倉美術館",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E8%97%9D%E5%80%89%E7%BE%8E%E8%A1%93%E9%A4%A8%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E6%B5%A6%E6%9D%B1%E6%96%B0%E5%8D%80%E6%BF%B1%E6%B1%9F%E5%A4%A7%E9%81%934777%E8%99%9F",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.mamsh.org/vistn/"
+      ]
+    },
+    {
+      "id": "p_540c2059c78e3ce7",
+      "name": "蟹上黃",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E8%9F%B9%E4%B8%8A%E9%BB%83%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%9D%9C%E5%AE%89%E5%8D%80%E8%90%AC%E8%88%AA%E6%B8%A1%E8%B7%AF121%E8%99%9F",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "影片門牌與店家地址已確認；中國地圖座標尚未獲獨立WGS84資料交叉驗證。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.trip.com/restaurant/china/shanghai/detail/restaurant-144908588/"
+      ]
+    },
+    {
+      "id": "p_ee455d2810a44772",
+      "name": "鐵路下的大阪燒",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E9%90%B5%E8%B7%AF%E4%B8%8B%E7%9A%84%E5%A4%A7%E9%98%AA%E7%87%92%20%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%98%A5%E6%97%A5%E9%87%8E%E9%81%93",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "確認實際春日野道高架下，排除神戶車站餐廳；尚未從影片或來源取得店名、門牌，搜尋ひかりや只因同區高架下不能確認同店，保留待確認。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://maps.app.goo.gl/aDVY6riGimfXyKdB8",
+        "https://map.yahoo.co.jp/v3/place/n2pRbQxYEa-"
+      ]
+    },
+    {
+      "id": "p_32cad6cf7b0723bc",
+      "name": "體育弄",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E9%AB%94%E8%82%B2%E5%BC%84%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%9D%9C%E5%AE%89%E5%8D%80",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "已核對愚園路旁體育弄街區；原片未指定單一住宅或入口，且未有已核實WGS84點位，不以街區中心定位。",
+      "newMapPoint": false,
+      "sourceChecks": []
+    },
+    {
+      "id": "p_41c820b1a9052534",
+      "name": "觀夏閒庭",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E8%A7%80%E5%A4%8F%E9%96%92%E5%BA%AD%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%BE%90%E5%8C%AF%E5%8D%80%E6%B9%96%E5%8D%97%E8%B7%AF111%E8%99%9F",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.amap.com/place/B0I6BSOOFO"
+      ]
+    },
+    {
+      "id": "p_d456bd75ef014c9e",
+      "name": "APOLI ITABAKERY",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=APOLI%20ITABAKERY%20%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%95%BF%E5%AE%81%E5%8C%BA%E5%85%B4%E5%9B%BD%E8%B7%AF380%E5%8F%B7",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "店名與上海分店地址已交叉確認；座標仍需核對WGS84基準，未直接把可能偏移的公開地圖數值放入底圖。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.timeoutshanghai.cn/features/7442.html"
+      ]
+    },
+    {
+      "id": "p_49a949c5b66209b9",
+      "name": "Apple 靜安店",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Apple%20%E9%9D%9C%E5%AE%89%E5%BA%97%20%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%9D%99%E5%AE%89%E5%8C%BA%E5%8D%97%E4%BA%AC%E8%A5%BF%E8%B7%AF1699%E5%8F%B7",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "店名與上海分店地址已交叉確認；座標仍需核對WGS84基準，未直接把可能偏移的公開地圖數值放入底圖。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.apple.com.cn/retail/jingan/"
+      ]
+    },
+    {
+      "id": "p_860386814d29f467",
+      "name": "Are Lobby Coffee",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Are%20Lobby%20Coffee%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%9D%9C%E5%AE%89%E5%8D%80%E8%A5%84%E9%99%BD%E5%8C%97%E8%B7%AF44%E5%BC%843%E8%99%9F",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.sohu.com/a/1006904495_113612"
+      ]
+    },
+    {
+      "id": "p_456dc6e27d193eca",
+      "name": "Basdban",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Basdban%20%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%9D%99%E5%AE%89%E5%8C%BA%E6%84%9A%E5%9B%AD%E8%B7%AF546%E5%8F%B78%E5%B9%A2101%E5%AE%A4",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "店名與上海分店地址已交叉確認；座標仍需核對WGS84基準，未直接把可能偏移的公開地圖數值放入底圖。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.amap.com/place/B0GRDSEWLZ"
+      ]
+    },
+    {
+      "id": "p_7d89899002d0c4f6",
+      "name": "BOTTEGA",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=BOTTEGA%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%9D%9C%E5%AE%89%E5%8D%80%E9%99%9D%E8%A5%BF%E5%8C%97%E8%B7%AF457%E8%99%9F1%E5%B9%A21%E5%B1%A4",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "已核對上海原片場景、分店與地址，尚待可交叉驗證的WGS84精確點位。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://bfbrestaurants.com/brand/bottega/"
+      ]
+    },
+    {
+      "id": "p_a9217b541c9ac8fe",
+      "name": "Captain George",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Captain%20George%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%BE%90%E5%8C%AF%E5%8D%80%E5%A4%AA%E5%8E%9F%E8%B7%AF236%E8%99%9F",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://post.m.smzdm.com/zz/p/a64v7pm0/"
+      ]
+    },
+    {
+      "id": "p_24f069d6f0a81ceb",
+      "name": "Daikanyama",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Daikanyama%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%BB%A3%E5%AE%98%E5%B1%B1",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=-iodvyH_GRE&t=959s"
+      ]
+    },
+    {
+      "id": "p_8d4a03d8b94a83bb",
+      "name": "Daikanyama",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Daikanyama%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%BB%A3%E5%AE%98%E5%B1%B1",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=fVIwSECYBgk&t=686s"
+      ]
+    },
+    {
+      "id": "p_411da35fffa65f23",
+      "name": "Denpaku The Beachfront MIJORA861-4 Kasaricho Oaza Sotoganeku, Amami, Kagoshima",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Denpaku%20The%20Beachfront%20MIJORA861-4%20Kasaricho%20Oaza%20Sotoganeku%2C%20Amami%2C%20Kagoshima%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E5%A5%84%E7%BE%8E%E5%B8%82%E7%AC%A0%E5%88%A9%E7%94%BA",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "品牌已確認，但影片861-4、官方舊前台2 waters外金久986-1及2025/6起總前台里50-2是不同用途地址；尚未確認影片別墅的獨立門牌，不以餐廳或報到櫃台代替住宿建物。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://den-paku.com/information/20250417"
+      ]
+    },
+    {
+      "id": "p_bd52663da6ebfdcf",
+      "name": "EXPO展演廳",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=EXPO%E5%B1%95%E6%BC%94%E5%BB%B3%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.expo2025.or.jp/news/daily/"
+      ]
+    },
+    {
+      "id": "p_bd05984bd042cb5a",
+      "name": "For Long",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=For%20Long%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%BE%90%E5%8C%AF%E5%8D%80%E5%A4%AA%E5%8E%9F%E8%B7%AF232%E8%99%9F",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.thepaper.cn/newsDetail_forward_32856870"
+      ]
+    },
+    {
+      "id": "p_d8cc9cf30622852f",
+      "name": "FUTAKO-TAMAGAWA",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=FUTAKO-TAMAGAWA%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=kOlkaHbBZMY&t=1218s"
+      ]
+    },
+    {
+      "id": "p_39916686fd818a3f",
+      "name": "GETABAKI",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=GETABAKI%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E7%A5%9E%E7%94%B0",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "食べログ13142899標示閉店；另查官方現況未取得可確認公告，暫不作現營店定位。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://tabelog.com/tokyo/A1310/A131002/13142899/dtlrvwlst/"
+      ]
+    },
+    {
+      "id": "p_bdddc59a2a66b56c",
+      "name": "Hana",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Hana%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E4%BA%BA%E5%BD%A2%E7%94%BA",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "店家身分及影片舊址已辨認；食べログ13169644標示閉店，官方現況尚無法交叉確認，暫不作現營店定位。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://tabelog.com/tokyo/A1302/A130204/13169644/"
+      ]
+    },
+    {
+      "id": "p_29a8f9e4e80ee366",
+      "name": "Hidden Fishing Port",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Hidden%20Fishing%20Port%20%E4%B8%89%E9%87%8D%E7%9C%8C%E7%86%8A%E9%87%8E%E5%B8%82%E5%A4%A7%E6%B3%8A",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "已核對熊野大泊沿海場景，原片此項未寫漁港專名；需讀取清楚港名或招牌後才能確認精確港口，暫不套用同區港口座標。",
+      "newMapPoint": false,
+      "sourceChecks": []
+    },
+    {
+      "id": "p_edc3d1a4d6531672",
+      "name": "House of Innovation",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=House%20of%20Innovation%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF829%E8%99%9F",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.nike.com/gb/retail/s/%E8%80%90%E5%85%8B%E4%B8%8A%E6%B5%B7001"
+      ]
+    },
+    {
+      "id": "p_de4ce5c9919d4157",
+      "name": "Ito Onsen",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Ito%20Onsen%20%E9%9D%99%E5%B2%A1%E7%9C%8C%E4%BC%8A%E6%9D%B1%E5%B8%82",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=AyeoImlzudk&t=422s"
+      ]
+    },
+    {
+      "id": "p_74b9cfc82ea2c5e3",
+      "name": "jaja in the moment",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=jaja%20in%20the%20moment%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%9D%9C%E5%AE%89%E5%8D%80%E9%99%9D%E8%A5%BF%E5%8C%97%E8%B7%AF457%E8%99%9F%E4%BD%95%E6%9D%B1%E8%88%8A%E5%B1%8511%E5%B9%A2",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.sina.cn/news/detail/5148003532277458.html"
+      ]
+    },
+    {
+      "id": "p_962fc6ee91512408",
+      "name": "Jimbo-cho",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Jimbo-cho%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%A5%9E%E4%BF%9D%E7%94%BA",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=ygpWOK9PjVE&t=1861s"
+      ]
+    },
+    {
+      "id": "p_f4583394bd01af96",
+      "name": "Jimbocho",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Jimbocho%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%A5%9E%E4%BF%9D%E7%94%BA",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=eC7COrg5KgE"
+      ]
+    },
+    {
+      "id": "p_288d299893f22bcd",
+      "name": "Jiyugaoka",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Jiyugaoka%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=fVIwSECYBgk&t=1626s"
+      ]
+    },
+    {
+      "id": "p_ef2c15d59833f411",
+      "name": "Jiyugaoka",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Jiyugaoka%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%87%AA%E7%94%B1%E3%81%8C%E4%B8%98",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=a-bPndpKXiA&t=1836s"
+      ]
+    },
+    {
+      "id": "p_6e845fe22ccc798a",
+      "name": "Jungdon",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Jungdon%20%E5%8D%97%E9%9F%93%20%EC%84%9C%EC%9A%B8%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EB%8C%80%ED%95%99%EB%A1%9C9%EA%B8%B8%2012%20%EC%A7%80%EC%B8%B5",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "new_location_verified",
+      "reason": "分店與完整地址經官方／食べログ或原片所附Naver核對，公開地點卡已核實；依可用座標或完整Plus Code定位。",
+      "newMapPoint": true,
+      "sourceChecks": [
+        "https://naver.me/FxLX5c7S",
+        "https://www.google.com/maps/place/%E6%AD%A3%E8%B1%9A+%E5%A4%A7%E5%AD%B8%E8%B7%AF%E6%9C%AC%E5%BA%97/data=!3m1!4b1!4m4!3m3!1s0x357ca32be825f7d5:0xd3f96288baf4f121!16s%2Fg%2F11cjnkqlkh!20s8Q99H2J2%2BPC4?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      ]
+    },
+    {
+      "id": "p_f26abe0112e50b01",
+      "name": "Kabukicho",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Kabukicho%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=O4cv7FBaR_0"
+      ]
+    },
+    {
+      "id": "p_d1d51ca3b4bf83ad",
+      "name": "Komachi, Kamakura City, Kanagawa",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Komachi%2C%20Kamakura%20City%2C%20Kanagawa%20%E9%8E%8C%E5%80%89%E5%B8%82%E5%B0%8F%E7%94%BA",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=H37BTHmfYXc"
+      ]
+    },
+    {
+      "id": "p_09bb45262a97725a",
+      "name": "Komachi, Kamakura City, Kanagawa",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Komachi%2C%20Kamakura%20City%2C%20Kanagawa%20%E9%8E%8C%E5%80%89%E5%B8%82%E5%B0%8F%E7%94%BA",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=cd9plh515Yw"
+      ]
+    },
+    {
+      "id": "p_8627657e210600ab",
+      "name": "Kusatsu, Agatsuma District, Gunma",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Kusatsu%2C%20Agatsuma%20District%2C%20Gunma%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%E8%8D%89%E6%B4%A5%E7%94%BA",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=OhgWMGAZi8Y"
+      ]
+    },
+    {
+      "id": "p_7b5f3f89171b8365",
+      "name": "Lavazza",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Lavazza%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E6%B1%9F%E8%A5%BF%E4%B8%AD%E8%B7%AF215%E8%99%9F1%E6%A8%93",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "已核對上海原片場景、分店與地址，尚待可交叉驗證的WGS84精確點位。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.sina.cn/media/7570747524"
+      ]
+    },
+    {
+      "id": "p_c8a60e3713dde9eb",
+      "name": "Longchamp",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Longchamp%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%BE%90%E5%8C%AF%E5%8D%80%E6%AD%A6%E5%BA%B7%E8%B7%AF12%E8%99%9F",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.longchamp.com/cn/zh/shops/cn057"
+      ]
+    },
+    {
+      "id": "p_e2a9ad718d51d0c0",
+      "name": "M&M’s 巧克力世界",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=M%26M%E2%80%99s%20%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%96%E7%95%8C%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF829%E8%99%9F%20%E4%B8%96%E8%8C%82%E5%BB%A3%E5%A0%B4G%E5%B1%A4",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.mms.com/en-us/explore/mms-stores/shanghai"
+      ]
+    },
+    {
+      "id": "p_13c57f73a742aada",
+      "name": "Manimal Smokehouse",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Manimal%20Smokehouse%20%E5%8D%97%E9%9F%93%20%EC%84%9C%EC%9A%B8%20%EC%9A%A9%EC%82%B0%EA%B5%AC%20%EB%85%B9%EC%82%AC%ED%8F%89%EB%8C%80%EB%A1%9C40%EA%B8%B8%2047%202%EC%B8%B5",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "new_location_verified",
+      "reason": "分店與完整地址經官方／食べログ或原片所附Naver核對，公開地點卡已核實；依可用座標或完整Plus Code定位。",
+      "newMapPoint": true,
+      "sourceChecks": [
+        "https://naver.me/F6mxlYHX",
+        "https://www.google.com/maps/place/Manimal+Smokehouse/data=!3m1!4b1!4m4!3m3!1s0x357ca237d0f57f61:0x69663775f75445fe!16s%2Fg%2F11bc7141zw!20s8Q98GXMQ%2BR94?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      ]
+    },
+    {
+      "id": "p_ee8a9586045a35fb",
+      "name": "Manner Coffee 國客濱江店",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Manner%20Coffee%20%E5%9C%8B%E5%AE%A2%E6%BF%B1%E6%B1%9F%E5%BA%97%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E8%99%B9%E5%8F%A3%E5%8D%80%E5%8C%97%E5%A4%96%E7%81%98%E5%9C%8B%E5%AE%A2%E4%B8%AD%E5%BF%83%E7%A2%BC%E9%A0%AD%EF%BC%88%E8%BF%91%E6%9D%B1%E5%A4%A7%E5%90%8D%E8%B7%AF%E5%A4%AA%E5%B9%B3%E8%B7%AF%EF%BC%89",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.shhk.gov.cn/xwzx/002003/20260817/73fbdcf0-8925-4a98-894c-48a3d66bb4e0.html"
+      ]
+    },
+    {
+      "id": "p_7805d01d0dd3bcef",
+      "name": "MEKONG",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=MEKONG%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E6%B1%A0%E8%A2%8B",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "影片舊址池袋2-24-11已移轉至西池袋3-30-10；後者食べログ13314043又標示2026-04-10閉店。尚無官方證據確認再開，不以新舊址當作目前可營業店家。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://tabelog.com/tokyo/A1322/A132202/13292114/",
+        "https://tabelog.com/tokyo/A1305/A130501/13314043/",
+        "https://ikebukuro-times.com/archives/mekong-close202604.html"
+      ]
+    },
+    {
+      "id": "p_fe1f70876f7af4e2",
+      "name": "Melt Season",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Melt%20Season%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%BE%90%E5%8C%AF%E5%8D%80%E5%A4%AA%E5%8E%9F%E8%B7%AF45%E5%BC%841%E8%99%9F%EF%BC%88%E9%84%AD%E5%BF%B5%E6%95%85%E5%B1%85%EF%BC%89",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.weibo.com/7895083389/PmaBwdGXZ"
+      ]
+    },
+    {
+      "id": "p_b8a8a8faca4c7d3f",
+      "name": "MINISO Gallery",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=MINISO%20Gallery%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "已確認上海同一畫廊，但外部資料分別列江西中路187號與老市府215號，官方品牌頁未給獨立門牌，需再確認畫廊入口與WGS84點位。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.miniso.com/brand/news_193.html"
+      ]
+    },
+    {
+      "id": "p_4d7337664adce3af",
+      "name": "MUTAN",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=MUTAN%20%E5%8D%97%E9%9F%93%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EB%85%BC%ED%98%84%EB%A1%9C176%EA%B8%B8%2022%201%EC%B8%B5",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "new_location_verified",
+      "reason": "分店與完整地址經官方／食べログ或原片所附Naver核對，公開地點卡已核實；依可用座標或完整Plus Code定位。",
+      "newMapPoint": true,
+      "sourceChecks": [
+        "https://naver.me/FgivzDWH",
+        "https://www.google.com/maps/place/MUTAN+%E7%8B%8E%E9%B7%97%E4%BA%AD%E6%9C%AC%E5%BA%97/data=!3m1!4b1!4m4!3m3!1s0x357ca33bf6a8bba1:0x415e0a06bb422e9b!16s%2Fg%2F11hfvvmjvn!20s8Q99G2GJ%2BW4J?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      ]
+    },
+    {
+      "id": "p_452e9463cf7f5501",
+      "name": "N.Y.C.SAND",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=N.Y.C.SAND%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%BE%BD%E7%94%B0%E7%A9%BA%E6%B8%AF3-4-2%20%E7%AC%AC2%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB2F%EF%BC%88%E8%B2%A9%E5%94%AE%E6%AB%83%E4%BD%8D%E5%BE%85%E7%A2%BA%E8%AA%8D%EF%BC%89",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "影片確認第2航廈2F，但影片時計台1番前與品牌現行時計台3番前／SMILE TOKYO記載不同；同航廈確切櫃位待確認。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.nycsand.site/shop"
+      ]
+    },
+    {
+      "id": "p_9e01d1beabd88ca6",
+      "name": "Nishiki Market, Nakagyo-ku, Kyoto",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Nishiki%20Market%2C%20Nakagyo-ku%2C%20Kyoto%20%E4%BA%AC%E9%83%BD%E5%B8%82%E9%8C%A6%E5%B8%82%E5%A0%B4",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=6-t-19xIZOA"
+      ]
+    },
+    {
+      "id": "p_ddba593be645d331",
+      "name": "OLD",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=OLD%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E5%8D%97%E6%B1%A0%E8%A2%8B",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "食べログ同址OLD列掲載保留；2026-05-06地方報導已有閉店現場紀錄，尚未取得店家官方再開／遷址證據。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://tabelog.com/tokyo/A1305/A130501/13292687/",
+        "https://ikebukuro-times.com/archives/old-donuts-close.html"
+      ]
+    },
+    {
+      "id": "p_3d35072669a05554",
+      "name": "PASONA NATUREVERSE展館",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=PASONA%20NATUREVERSE%E5%B1%95%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.expo2025.or.jp/news/daily/"
+      ]
+    },
+    {
+      "id": "p_4261d1f454cd167a",
+      "name": "Prada 榮宅",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Prada%20%E6%A6%AE%E5%AE%85%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%9D%9C%E5%AE%89%E5%8D%80%E9%99%9D%E8%A5%BF%E5%8C%97%E8%B7%AF186%E8%99%9F",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.prada.com/content/dam/pradanux/pradasphere/2025/special-projects/03/Mi_Shang/Menu/Coffee_Menu_Rong_Zhai.pdf"
+      ]
+    },
+    {
+      "id": "p_cb4bd2a3750fbea4",
+      "name": "RACBAR",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=RACBAR%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%BE%90%E5%8C%AF%E5%8D%80%E5%AE%89%E7%A6%8F%E8%B7%AF322%E8%99%9F",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://post.smzdm.com/p/an3gddg0/"
+      ]
+    },
+    {
+      "id": "p_ab031e5dab221486",
+      "name": "SANU 2nd Home508-180 Hirano, Yamanakako, Minamitsuru District, Yamanashi",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=SANU%202nd%20Home508-180%20Hirano%2C%20Yamanakako%2C%20Minamitsuru%20District%2C%20Yamanashi%20%E9%95%B7%E9%87%8E%E7%9C%8C%E7%99%BD%E6%A8%BA%E6%B9%96",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "原片字幕場景與說明地址衝突；白樺湖另有1st與2nd兩處，未確認實際入住哪處，不將山中湖或白樺湖其中一處直接套用。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.shirakabako.com/experience/sanu/",
+        "https://www.sa-nu.com/magazine/guide-stay/welcome"
+      ]
+    },
+    {
+      "id": "p_9dcc38d79bc0043b",
+      "name": "Shibu Onsen",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Shibu%20Onsen%20%E9%95%B7%E9%87%8E%E7%9C%8C%E6%B8%8B%E6%B8%A9%E6%B3%89",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=jPCq3tnTeFc&t=225s"
+      ]
+    },
+    {
+      "id": "p_4fabba7e6ab6b8ee",
+      "name": "Shibuya Area",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Shibuya%20Area%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=1z9yNq9QZVc&t=1294s"
+      ]
+    },
+    {
+      "id": "p_b72b77c8f2990674",
+      "name": "SHIMMER",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=SHIMMER%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%BE%90%E5%8C%AF%E5%8D%80%E7%83%8F%E9%AD%AF%E6%9C%A8%E9%BD%8A%E4%B8%AD%E8%B7%AF146%E8%99%9F",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://finance.sina.com.cn/roll/2026-06-11/doc-iniazyep0708441.shtml",
+        "https://m.thepaper.cn/newsDetail_forward_26300082"
+      ]
+    },
+    {
+      "id": "p_735cf13cc2550671",
+      "name": "Shimokitazawa",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Shimokitazawa%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%8B%E5%8C%97%E6%B2%A2",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=eC7COrg5KgE"
+      ]
+    },
+    {
+      "id": "p_7182d3f90b0b78be",
+      "name": "Shimokitazawa",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Shimokitazawa%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%8B%E5%8C%97%E6%B2%A2",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=a-bPndpKXiA&t=354s"
+      ]
+    },
+    {
+      "id": "p_0dfc9224a9785667",
+      "name": "Shimokitazawa",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Shimokitazawa%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%8B%E5%8C%97%E6%B2%A2",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=j3kYZFftxio"
+      ]
+    },
+    {
+      "id": "p_e1fb4cf9fac101f7",
+      "name": "Shimokitazawa",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Shimokitazawa%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%8B%E5%8C%97%E6%B2%A2",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=Lkh3av87amM&t=3272s"
+      ]
+    },
+    {
+      "id": "p_2c73b2a36de1ea0a",
+      "name": "Shinmbashi",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Shinmbashi%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E6%A9%8B",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=oy5aabAdQ58"
+      ]
+    },
+    {
+      "id": "p_3376f0571048ac0b",
+      "name": "Spot Table",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Spot%20Table%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%9D%9C%E5%AE%89%E5%8D%80%E9%99%9D%E8%A5%BF%E5%8C%97%E8%B7%AF457%E8%99%9F10%E8%99%9F%E6%A8%93104%E5%AE%A4",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.citynewsservice.cn/articles/cns/fb/hai-lights-a-taste-of-home-a-world-away-discovering-shanghais-coffee-culture-yn6o7gbn"
+      ]
+    },
+    {
+      "id": "p_7cdfa7c4643b4aea",
+      "name": "Sueyoshicho, Higashiyama Ward, Kyoto",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Sueyoshicho%2C%20Higashiyama%20Ward%2C%20Kyoto%20%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E6%9C%AB%E5%90%89%E7%94%BA",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=MqjDjnqt9IQ"
+      ]
+    },
+    {
+      "id": "p_f0b7a22fd994ff25",
+      "name": "TAMBURINS",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=TAMBURINS%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%9D%9C%E5%AE%89%E5%8D%80%E9%99%9D%E8%A5%BF%E5%8C%97%E8%B7%AF407%E8%99%9F",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.tamburins.com/cn/store/china/"
+      ]
+    },
+    {
+      "id": "p_7a1010e0c20d401c",
+      "name": "THE PRESS",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=THE%20PRESS%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E6%BC%A2%E5%8F%A3%E8%B7%AF309%E8%99%9F%20%E7%94%B3%E5%A0%B1%E9%A4%A8%E5%A4%A7%E6%A8%931F%20A1-03",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://thepressshanghai.com/"
+      ]
+    },
+    {
+      "id": "p_32b35201468258df",
+      "name": "Tokyo, Chuo City, Ginza, 4 Chome−1 2F",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Tokyo%2C%20Chuo%20City%2C%20Ginza%2C%204%20Chome%E2%88%921%202F%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A7",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "地址對應兩個原片店家，未有可唯一辨識的店名或時間；待確認原資料屬雛鮨或Sanrio，暫不擇一定位。",
+      "newMapPoint": false,
+      "sourceChecks": []
+    },
+    {
+      "id": "p_c879e1ed9ab226f1",
+      "name": "TOR外灘一號",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=TOR%E5%A4%96%E7%81%98%E4%B8%80%E8%99%9F%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E4%B8%AD%E5%B1%B1%E6%9D%B1%E4%B8%80%E8%B7%AF1%E8%99%9F9%E6%A8%931%E5%AE%A4",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://shanghaibang.com/ho/2026/09/26/1512739/"
+      ]
+    },
+    {
+      "id": "p_d6d608a1aa0acd5a",
+      "name": "Tsukiji",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Tsukiji%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AF%89%E5%9C%B0",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=Lkh3av87amM&t=1850s"
+      ]
+    },
+    {
+      "id": "p_d429c567410ed293",
+      "name": "Umineko 啤酒選物小店",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Umineko%20%E5%95%A4%E9%85%92%E9%81%B8%E7%89%A9%E5%B0%8F%E5%BA%97%202%20Chome-2-11%20Shinsaibashisuji%2C%20Chuo%20Ward%2C%20Osaka%2C%20542-0085%E6%97%A5%E6%9C%AC",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "食べログ的心齋橋同址店家頁為掲載保留，地圖仍有同名標記；營業現況尚未確認。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://tabelog.com/osaka/A2701/A270202/27106487/"
+      ]
+    },
+    {
+      "id": "p_e84e122268da41b5",
+      "name": "Wild Solid Sourdough",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Wild%20Solid%20Sourdough%20No.%2071%E8%99%9F%2C%20Jiannan%20Rd%2C%20Guangzhou%20Village%2C%20South%20District%2C%20Tainan%20City%2C%20702",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "社群鏡像9月16日公告舊店1.0最後營業9月20日，新店試營運與正式開幕另公告；尚未取得官方原帖或可確認的新址，保留影片舊址並待確認，暫不把舊點當現營門市。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.findglocal.com/TW/Tainan/114557087908608/Wild-Solid-Sourdough-Bakery--%E6%99%82%E5%AF%A6%E5%85%A8%E9%85%B8%E7%A8%AE%E9%BA%B5%E5%8C%85%E5%BA%97"
+      ]
+    },
+    {
+      "id": "p_f42563428873dc5b",
+      "name": "Yanaka area",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Yanaka%20area%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B0%B7%E4%B8%AD",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=0w_VfGbXCp8&t=97s"
+      ]
+    },
+    {
+      "id": "p_5f512b4a33e8c8e1",
+      "name": "Yudanaka Onsen",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=Yudanaka%20Onsen%20%E9%95%B7%E9%87%8E%E7%9C%8C%E6%B9%AF%E7%94%B0%E4%B8%AD%E6%B8%A9%E6%B3%89",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://www.youtube.com/watch?v=jPCq3tnTeFc&t=148s"
+      ]
+    },
+    {
+      "id": "p_25df44ed84e17565",
+      "name": "대원가 大元家",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%EB%8C%80%EC%9B%90%EA%B0%80%20%E5%A4%A7%E5%85%83%E5%AE%B6%20%E5%8D%97%E9%9F%93%20%EC%A0%9C%EC%A3%BC%20%EC%A0%9C%EC%A3%BC%EC%8B%9C%20%EB%8F%84%EB%82%A8%EB%A1%9C16%EA%B8%B8%2015",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "new_location_verified",
+      "reason": "分店與完整地址經官方／食べログ或原片所附Naver核對，公開地點卡已核實；依可用座標或完整Plus Code定位。",
+      "newMapPoint": true,
+      "sourceChecks": [
+        "https://naver.me/GG7tsYMV",
+        "https://www.google.com/maps/place/%E5%A4%A7%E5%85%83%E5%AE%B6/data=!3m1!4b1!4m4!3m3!1s0x350cfca17536516f:0x844bdc7df7e17863!16s%2Fg%2F1v82zvt6!20s8Q58FGRG%2BJR3?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      ]
+    },
+    {
+      "id": "p_22bec764f9957b78",
+      "name": "바다술상 大海酒桌",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%EB%B0%94%EB%8B%A4%EC%88%A0%EC%83%81%20%E5%A4%A7%E6%B5%B7%E9%85%92%E6%A1%8C%20%E5%8D%97%E9%9F%93%20%EC%A0%9C%EC%A3%BC%20%EC%A0%9C%EC%A3%BC%EC%8B%9C%20%ED%95%9C%EB%A6%BC%EC%9D%8D%20%ED%95%9C%EB%A6%BC%ED%95%B4%EC%95%88%EB%A1%9C%20582%201%2C%202%EC%B8%B5",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "new_location_verified",
+      "reason": "分店與完整地址經官方／食べログ或原片所附Naver核對，公開地點卡已核實；依可用座標或完整Plus Code定位。",
+      "newMapPoint": true,
+      "sourceChecks": [
+        "https://naver.me/Gplx7amj",
+        "https://www.google.com/maps/place/Bada+Sulsang/data=!3m1!4b1!4m4!3m3!1s0x350cf5005c5a9eaf:0xfdbf900b49f5248d!16s%2Fg%2F11zhwyc8tx!20s8Q58C7RG%2B4HM?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      ]
+    },
+    {
+      "id": "p_d6f93a28e2560a3c",
+      "name": "봉주르마담 Bonjour Madam",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%EB%B4%89%EC%A3%BC%EB%A5%B4%EB%A7%88%EB%8B%B4%20Bonjour%20Madam%20%E5%8D%97%E9%9F%93%20%EC%A0%9C%EC%A3%BC%20%EC%84%9C%EA%B7%80%ED%8F%AC%EC%8B%9C%20%EB%8C%80%EC%B2%AD%EB%A1%9C%2033%20%EC%98%A4%EB%A6%84%EB%B9%8C%EB%94%A91%EC%B0%A8%20103%ED%98%B8",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "new_location_verified",
+      "reason": "分店與完整地址經官方／食べログ或原片所附Naver核對，公開地點卡已核實；依可用座標或完整Plus Code定位。",
+      "newMapPoint": true,
+      "sourceChecks": [
+        "https://naver.me/xcnaFMth",
+        "https://www.google.com/maps/place/Bonjour+Madame/data=!3m1!4b1!4m4!3m3!1s0x350c55240b715937:0xea1c7a2797cee734!16s%2Fg%2F11fd67y7jp!20s8Q587G33%2B28Q?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      ]
+    },
+    {
+      "id": "p_a9656fdeb9466caa",
+      "name": "우동카덴 UDON Caden",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%EC%9A%B0%EB%8F%99%EC%B9%B4%EB%8D%B4%20UDON%20Caden%20%E5%8D%97%E9%9F%93%20%EC%A0%9C%EC%A3%BC%20%EC%A0%9C%EC%A3%BC%EC%8B%9C%20%EC%A1%B0%EC%B2%9C%EC%9D%8D%20%EA%B5%90%EB%9E%983%EA%B8%B8%2023",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "new_location_verified",
+      "reason": "分店與完整地址經官方／食べログ或原片所附Naver核對，公開地點卡已核實；依可用座標或完整Plus Code定位。",
+      "newMapPoint": true,
+      "sourceChecks": [
+        "https://naver.me/xSFaZe8U",
+        "https://www.google.com/maps/place/Udon+Kaden/data=!3m1!4b1!4m4!3m3!1s0x350d0370d0d41b0b:0xdc48ab9e1ad04e1f!16s%2Fg%2F11ry7gwh7n!20s8Q58CMPH%2B6VJ?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      ]
+    },
+    {
+      "id": "p_c1beeb1427e57099",
+      "name": "이세계",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%EC%9D%B4%EC%84%B8%EA%B3%84%20%E5%8D%97%E9%9F%93%20%EB%B6%80%EC%82%B0%20%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC%20%EB%8F%99%EC%B2%9C%EB%A1%9C107%EB%B2%88%EA%B8%B8%2025%201%EC%B8%B5",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "new_location_verified",
+      "reason": "分店與完整地址經官方／食べログ或原片所附Naver核對，公開地點卡已核實；依可用座標或完整Plus Code定位。",
+      "newMapPoint": true,
+      "sourceChecks": [
+        "https://naver.me/xnh0ug8T",
+        "https://www.google.com/maps/place/%E7%95%B0%E4%B8%96%E9%9B%9E%E7%87%92%E7%83%A4/data=!3m1!4b1!4m4!3m3!1s0x3568ebfe04bc27dd:0xb2b7e3d0272f094d!16s%2Fg%2F11kprjyxdf!20s8Q7F5356%2B69R?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      ]
+    },
+    {
+      "id": "p_4417e4fb73c14122",
+      "name": "크라운돼지 CROWN PIG",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%ED%81%AC%EB%9D%BC%EC%9A%B4%EB%8F%BC%EC%A7%80%20CROWN%20PIG%20%E5%8D%97%E9%9F%93%20%EC%A0%9C%EC%A3%BC%20%EC%A0%9C%EC%A3%BC%EC%8B%9C%20%EC%95%A0%EC%9B%94%EC%9D%8D%20%EC%83%81%EA%B0%80%EB%AA%A9%EC%9E%A5%EA%B8%B8%2084",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "new_location_verified",
+      "reason": "分店與完整地址經官方／食べログ或原片所附Naver核對，公開地點卡已核實；依可用座標或完整Plus Code定位。",
+      "newMapPoint": true,
+      "sourceChecks": [
+        "https://naver.me/Grmaw6AR",
+        "https://www.google.com/maps/place/Crown+Pig/data=!3m1!4b1!4m4!3m3!1s0x350c592d1c08ddcb:0x42b2756ca3d872e1!16s%2Fg%2F11np2g43cj!20s8Q5899VM%2BH84?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+      ]
+    },
+    {
+      "id": "p_13ddbdc0c9c05265",
+      "name": "クリスマス亭",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E4%BA%AD%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%AA%BF%E5%B8%83%E5%B8%82%E4%B8%8A%E7%9F%B3%E5%8E%9F1-32-6",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "食べログ的同址店家頁標示閉店；仍待官方資料核對後續現況，未作現有店家定位。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://tabelog.com/tokyo/A1326/A132601/13010172/"
+      ]
+    },
+    {
+      "id": "p_aea31eeffe68ccd5",
+      "name": "サマーバード オーガニック",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E3%82%B5%E3%83%9E%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89%20%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8B%E3%83%83%E3%82%AF%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E5%8D%97%E9%9D%92%E5%B1%B15-5-20",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "食べログ同址店家頁標示閉店，公開地圖仍可找到同名舊標記；營業現況待官方交叉確認。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://tabelog.com/tokyo/A1306/A130602/13192331/"
+      ]
+    },
+    {
+      "id": "p_c8bd4948461eca9b",
+      "name": "ラデュレ 青山店",
+      "checkedAt": "2026-10-27",
+      "googleSearchUrl": "https://www.google.com/search?hl=zh-TW&q=%E3%83%A9%E3%83%87%E3%83%A5%E3%83%AC%20%E9%9D%92%E5%B1%B1%E5%BA%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E5%8D%97%E9%9D%92%E5%B1%B15-9-15%20OHMOTO%E3%83%93%E3%83%AB%201F",
+      "searchStatus": "not_requested_after_verification_gate",
+      "result": "retained",
+      "reason": "食べログ的青山分店頁標示閉店；不以其他仍營業分店代替影片舊址。",
+      "newMapPoint": false,
+      "sourceChecks": [
+        "https://tabelog.com/tokyo/A1306/A130602/13219687/"
+      ]
+    }
+  ]
+}

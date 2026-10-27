@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T08:26:09.662Z",
+  "generatedAt": "2026-10-27T14:12:10.028Z",
   "sourceFiles": [
     "cellia1025_all_places_raw.json",
     "feipo1998_all_places_raw.json",
@@ -16,11 +16,11 @@
     "yangyangislife_all_places_raw.json"
   ],
   "stats": {
-    "rawMentions": 8162,
-    "places": 6839,
+    "rawMentions": 8182,
+    "places": 6857,
     "totalPlaces": 6996,
-    "locatedPlaces": 6839,
-    "unresolvedPlaces": 157,
+    "locatedPlaces": 6857,
+    "unresolvedPlaces": 139,
     "channels": 13
   },
   "channels": [
@@ -34,7 +34,7 @@
       "id": "feipo1998",
       "name": "肥波開吃啦",
       "url": "https://www.youtube.com/@feipo1998",
-      "mentions": 1131
+      "mentions": 1146
     },
     {
       "id": "kobe-shuang",
@@ -70,7 +70,7 @@
       "id": "oimonokoto",
       "name": "Oimoの休日グルメ旅",
       "url": "https://www.youtube.com/@oimonokoto",
-      "mentions": 147
+      "mentions": 152
     },
     {
       "id": "solointokyolife",
@@ -5932,6 +5932,53 @@
       ]
     },
     {
+      "id": "p_ba9f526c6ec9df76",
+      "name": "一品麻辣湯 銀座店",
+      "normalizedName": "5.一品麻辣湯 銀座",
+      "address": "東京都中央区銀座1-13-6 Daiwaプレイス銀座Ⅳ 1F",
+      "mapUrl": "https://www.google.com/maps/place/%E4%B8%80%E5%93%81%E9%BA%BB%E8%BE%A3%E6%B9%AF%E9%8A%80%E5%BA%A7%E5%BA%97%EF%BC%88%E3%82%A4%E3%83%83%E3%83%94%E3%83%B3%E3%83%9E%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%BF%E3%83%B3%EF%BC%89/@35.6735967,139.7695559,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b41832b2307:0x7ce4e78c1149dc8a!8m2!3d35.6735967!4d139.7695559!16s%2Fg%2F11j0qgs9m6?authuser=0&hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "searchQuery": "一品麻辣湯 銀座店 東京都中央区銀座1-13-6 Daiwaプレイス銀座Ⅳ 1F",
+      "sourceKeys": [
+        "src_a62dc34be73f83bb1a"
+      ],
+      "location": {
+        "lat": 35.6735967,
+        "lng": 139.7695559
+      },
+      "google": null,
+      "category": {
+        "key": "other",
+        "label": "其他",
+        "source": "heuristic"
+      },
+      "mentions": [
+        {
+          "id": "oimonokoto:Ds1ZfSgrjBU:95",
+          "sourceKey": "src_a62dc34be73f83bb1a",
+          "channelId": "oimonokoto",
+          "channelName": "Oimoの休日グルメ旅",
+          "videoId": "Ds1ZfSgrjBU",
+          "videoTitle": "【銀座・麻辣湯5選】東京の麻辣湯人気店を食べ比べ！楊国福麻辣湯など",
+          "videoUrl": "https://www.youtube.com/watch?v=Ds1ZfSgrjBU&t=1174s",
+          "published": "3 個月前",
+          "views": "觀看次數：313次",
+          "time": "19:34",
+          "seconds": 1174,
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=5.%E4%B8%80%E5%93%81%E9%BA%BB%E8%BE%A3%E6%B9%AF+%E9%8A%80%E5%BA%A7+Ginza+Tokyo+Japan",
+          "sourceReview": "描述欄列出「5.一品麻辣湯 銀座」時間戳 19:34。",
+          "youtubeReview": "oimonokoto 在描述欄將「5.一品麻辣湯 銀座」列為本集美食、咖啡或甜點停留點；未提供原始地圖連結，改以 Google Maps 搜尋補足。"
+        }
+      ],
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E4%B8%80%E5%93%81%E9%BA%BB%E8%BE%A3%E6%B9%AF%E9%8A%80%E5%BA%A7%E5%BA%97%EF%BC%88%E3%82%A4%E3%83%83%E3%83%94%E3%83%B3%E3%83%9E%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%BF%E3%83%B3%EF%BC%89/@35.6735967,139.7695559,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b41832b2307:0x7ce4e78c1149dc8a!8m2!3d35.6735967!4d139.7695559!16s%2Fg%2F11j0qgs9m6?authuser=0&hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "本次確認店家分店及門牌；原片目前不公開，影片關聯沿用已保存擷取紀錄，未新增影片心得或宣稱已重看。",
+        "shopUrl": "https://tabelog.com/tokyo/A1301/A130101/13312375/"
+      }
+    },
+    {
       "id": "p_beecd651f2d86792",
       "name": "一流",
       "normalizedName": "一流羊肉燒烤",
@@ -7212,6 +7259,53 @@
           "youtubeReview": "描述欄將「七宝麻辣湯 池袋東口店」列為本集介紹店家；未提供 Google Maps 直連，改以店名搜尋地圖。"
         }
       ]
+    },
+    {
+      "id": "p_4258a4d3abb88f9c",
+      "name": "七宝麻辣湯 新橋店",
+      "normalizedName": "4.七宝 新橋",
+      "address": "東京都港区新橋1-16-10 浅川ビル 1F",
+      "mapUrl": "https://www.google.com/maps/place/%E4%B8%83%E5%AE%9D%E9%BA%BB%E8%BE%A3%E6%B9%AF+%E6%96%B0%E6%A9%8B%E5%BA%97/@35.6683385,139.7567484,17z/data=!3m1!4b1!4m6!3m5!1s0x60188beec067e87f:0x259ff15e8eba7f20!8m2!3d35.6683385!4d139.7567484!16s%2Fg%2F11z7fxh4_p?hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "searchQuery": "七宝麻辣湯 新橋店 東京都港区新橋1-16-10 浅川ビル 1F",
+      "sourceKeys": [
+        "src_97b292056e3c35c79a"
+      ],
+      "location": {
+        "lat": 35.6683385,
+        "lng": 139.7567484
+      },
+      "google": null,
+      "category": {
+        "key": "other",
+        "label": "其他",
+        "source": "heuristic"
+      },
+      "mentions": [
+        {
+          "id": "oimonokoto:Ds1ZfSgrjBU:94",
+          "sourceKey": "src_97b292056e3c35c79a",
+          "channelId": "oimonokoto",
+          "channelName": "Oimoの休日グルメ旅",
+          "videoId": "Ds1ZfSgrjBU",
+          "videoTitle": "【銀座・麻辣湯5選】東京の麻辣湯人気店を食べ比べ！楊国福麻辣湯など",
+          "videoUrl": "https://www.youtube.com/watch?v=Ds1ZfSgrjBU&t=897s",
+          "published": "3 個月前",
+          "views": "觀看次數：313次",
+          "time": "14:57",
+          "seconds": 897,
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=4.%E4%B8%83%E5%AE%9D+%E6%96%B0%E6%A9%8B+Ginza+Tokyo+Japan",
+          "sourceReview": "描述欄列出「4.七宝 新橋」時間戳 14:57。",
+          "youtubeReview": "oimonokoto 在描述欄將「4.七宝 新橋」列為本集美食、咖啡或甜點停留點；未提供原始地圖連結，改以 Google Maps 搜尋補足。"
+        }
+      ],
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E4%B8%83%E5%AE%9D%E9%BA%BB%E8%BE%A3%E6%B9%AF+%E6%96%B0%E6%A9%8B%E5%BA%97/@35.6683385,139.7567484,17z/data=!3m1!4b1!4m6!3m5!1s0x60188beec067e87f:0x259ff15e8eba7f20!8m2!3d35.6683385!4d139.7567484!16s%2Fg%2F11z7fxh4_p?hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "本次確認店家分店及門牌；原片目前不公開，影片關聯沿用已保存擷取紀錄，未新增影片心得或宣稱已重看。",
+        "shopUrl": "https://maratan.com/%E4%B8%83%E5%AE%9D%E9%BA%BB%E8%BE%A3%E6%B9%AF%E3%80%80%E6%96%B0%E6%A9%8B%E5%BA%97"
+      }
     },
     {
       "id": "p_510e9d5fd15cb8c9",
@@ -83890,6 +83984,53 @@
       }
     },
     {
+      "id": "p_5b82582e56c8be13",
+      "name": "金豬食堂",
+      "normalizedName": "金豬食堂",
+      "address": "南韓 서울 중구 다산로 149 1층",
+      "mapUrl": "https://www.google.com/maps/place/%E9%87%91%E8%B1%AC%E9%A3%9F%E5%A0%82/data=!3m1!4b1!4m4!3m3!1s0x357ca3110d881915:0x66c78cca87fb7bda!16s%2Fg%2F11c0r5qrxn!20s8Q99H246%2BRMM?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "searchQuery": "金豬食堂 Japan",
+      "sourceKeys": [
+        "src_ffe83d2de483ace9b9"
+      ],
+      "location": {
+        "lat": 37.5570875,
+        "lng": 127.011671875
+      },
+      "google": null,
+      "category": {
+        "key": "food",
+        "label": "餐廳",
+        "source": "heuristic"
+      },
+      "mentions": [
+        {
+          "id": "feipo1998:4-qneWBmcUU:3",
+          "sourceKey": "src_ffe83d2de483ace9b9",
+          "channelId": "feipo1998",
+          "channelName": "肥波開吃啦",
+          "videoId": "4-qneWBmcUU",
+          "videoTitle": "2024首爾米其林，連吃十家必比登推薦美食 ! 10 Bib Gourmand MICHELIN Restaurants in Seoul 미쉐린 가이드 서울 2024 【 肥波外食記 】",
+          "videoUrl": "https://www.youtube.com/watch?v=4-qneWBmcUU&t=501s",
+          "published": "2 年前",
+          "views": "觀看次數：13萬次",
+          "time": "8:21",
+          "seconds": 501,
+          "mapUrl": "https://naver.me/GLKAKFYY",
+          "sourceReview": "",
+          "youtubeReview": "影片描述：單人套餐 40000₩ 烤豬皮 14000₩；很想二刷指數 4/5"
+        }
+      ],
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E9%87%91%E8%B1%AC%E9%A3%9F%E5%A0%82/data=!3m1!4b1!4m4!3m3!1s0x357ca3110d881915:0x66c78cca87fb7bda!16s%2Fg%2F11c0r5qrxn!20s8Q99H246%2BRMM?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Google英文道路名／門牌與Naver韓文道路名、門牌相符。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/GLKAKFYY"
+      }
+    },
+    {
       "id": "p_7b5292b42690c347",
       "name": "金澤",
       "normalizedName": "arrival at kanazawa station",
@@ -97242,6 +97383,69 @@
       }
     },
     {
+      "id": "p_a5bb8390884d727a",
+      "name": "風川鰻魚",
+      "normalizedName": "風川鰻魚",
+      "address": "南韓 서울 마포구 동교로27길 39 1층",
+      "mapUrl": "https://www.google.com/maps/place/%E9%A2%A8%E5%B7%9D%E9%B0%BB%E9%AD%9A+%E5%BB%B6%E5%8D%97%E5%BA%97/data=!3m1!4b1!4m4!3m3!1s0x357c98e7fc2dda11:0x737785dc9d59336d!16s%2Fg%2F11c54nbjwj!20s8Q98HW5C%2BRJ7?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "searchQuery": "風川鰻魚 Japan",
+      "sourceKeys": [
+        "src_307188b6a5e88f5d36"
+      ],
+      "location": {
+        "lat": 37.5595375,
+        "lng": 126.921546875
+      },
+      "google": null,
+      "category": {
+        "key": "other",
+        "label": "其他",
+        "source": "heuristic"
+      },
+      "mentions": [
+        {
+          "id": "feipo1998:ZjdxO9GWXjs:2",
+          "sourceKey": "src_307188b6a5e88f5d36",
+          "channelId": "feipo1998",
+          "channelName": "肥波開吃啦",
+          "videoId": "ZjdxO9GWXjs",
+          "videoTitle": "首爾美食弘大篇，24小時爽吃特輯四選 ! 弘大一日美食地圖，望遠市場美食開局、香濃羅勒起司披薩、激爽現烤白燒鰻、米其林認證鐵板羊肉 【 肥波外食記 】",
+          "videoUrl": "https://www.youtube.com/watch?v=ZjdxO9GWXjs&t=359s",
+          "published": "2 年前",
+          "views": "觀看次數：11萬次",
+          "time": "5:59",
+          "seconds": 359,
+          "mapUrl": "https://naver.me/5AmfnBTN",
+          "sourceReview": "",
+          "youtubeReview": "影片描述：白燒鰻魚套餐78000₩；很想二刷指數 5/5；一流羊肉燒烤"
+        },
+        {
+          "id": "feipo1998:0ycWDjHeFwU:8",
+          "sourceKey": "src_307188b6a5e88f5d36",
+          "channelId": "feipo1998",
+          "channelName": "肥波開吃啦",
+          "videoId": "0ycWDjHeFwU",
+          "videoTitle": "首爾美食地圖，最想二刷的10家店！TOP 10 Must-Try FOOD in Seoul 【 肥波外食記 】",
+          "videoUrl": "https://www.youtube.com/watch?v=0ycWDjHeFwU&t=1349s",
+          "published": "10 個月前",
+          "views": "觀看次數：15萬次",
+          "time": "22:29",
+          "seconds": 1349,
+          "mapUrl": "https://naver.me/5AmfnBTN",
+          "sourceReview": "",
+          "youtubeReview": "影片描述：白燒鰻魚套餐78000₩；很想二刷指數 5/5"
+        }
+      ],
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E9%A2%A8%E5%B7%9D%E9%B0%BB%E9%AD%9A+%E5%BB%B6%E5%8D%97%E5%BA%97/data=!3m1!4b1!4m4!3m3!1s0x357c98e7fc2dda11:0x737785dc9d59336d!16s%2Fg%2F11c54nbjwj!20s8Q98HW5C%2BRJ7?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Google英文道路名／門牌與Naver韓文道路名、門牌相符。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/5AmfnBTN"
+      }
+    },
+    {
       "id": "p_2c68c6f15acd6ef6",
       "name": "風飛沙小吃店",
       "normalizedName": "風飛沙小吃店",
@@ -105182,6 +105386,53 @@
           "youtubeReview": "影片介紹本集路線時提到：「掐指一算至今往返日本數十來趟 卻從來沒有踏進過像這樣的一個地方 這次受邀來到」此處依描述欄列為出場地點。"
         }
       ]
+    },
+    {
+      "id": "p_af2fceb85a50fb29",
+      "name": "祖傳三代馬鈴薯排骨湯",
+      "normalizedName": "祖傳三代馬鈴薯排骨湯",
+      "address": "南韓 서울 성동구 연무장길 45",
+      "mapUrl": "https://www.google.com/maps/place/%E7%A5%96%E5%82%B3%E4%B8%89%E4%BB%A3%E9%A6%AC%E9%88%B4%E8%96%AF%E6%8E%92%E9%AA%A8%E6%B9%AF/data=!3m1!4b1!4m4!3m3!1s0x357ca4913140fbb5:0x7897953e193bd3f9!16s%2Fg%2F1th0w95x!20s8Q99G3V3%2B4PH?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "searchQuery": "祖傳三代馬鈴薯排骨湯 Japan",
+      "sourceKeys": [
+        "src_494a3704270343d130"
+      ],
+      "location": {
+        "lat": 37.5428125,
+        "lng": 127.054359375
+      },
+      "google": null,
+      "category": {
+        "key": "other",
+        "label": "其他",
+        "source": "heuristic"
+      },
+      "mentions": [
+        {
+          "id": "feipo1998:bAja3N9rrMw:5",
+          "sourceKey": "src_494a3704270343d130",
+          "channelId": "feipo1998",
+          "channelName": "肥波開吃啦",
+          "videoId": "bAja3N9rrMw",
+          "videoTitle": "首爾美食地圖，72小時爽吃特輯八選 ! 首爾三天兩夜爽吃攻略，超夯倫敦貝果早餐、浮誇松露牛排炸醬麵、水嫩多汁炸豬菲力、梨泰院超爽美式燒烤、真的必吃馬鈴薯排骨湯 【 肥波外食記 】",
+          "videoUrl": "https://www.youtube.com/watch?v=bAja3N9rrMw&t=827s",
+          "published": "2 年前",
+          "views": "觀看次數：20萬次",
+          "time": "13:47",
+          "seconds": 827,
+          "mapUrl": "https://naver.me/GnGCvn5l",
+          "sourceReview": "",
+          "youtubeReview": "影片描述：馬鈴薯排骨湯29000₩；很想二刷指數 6/5"
+        }
+      ],
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E7%A5%96%E5%82%B3%E4%B8%89%E4%BB%A3%E9%A6%AC%E9%88%B4%E8%96%AF%E6%8E%92%E9%AA%A8%E6%B9%AF/data=!3m1!4b1!4m4!3m3!1s0x357ca4913140fbb5:0x7897953e193bd3f9!16s%2Fg%2F1th0w95x!20s8Q99G3V3%2B4PH?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Google英文道路名／門牌與Naver韓文道路名、門牌相符。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/GnGCvn5l"
+      }
     },
     {
       "id": "p_d60fc823d1bce523",
@@ -136230,6 +136481,53 @@
       }
     },
     {
+      "id": "p_90c66184f5fd2bf1",
+      "name": "楊國福 麻辣燙 銀座店",
+      "normalizedName": "1. 楊国福麻辣湯 銀座店",
+      "address": "東京都中央区銀座5-11-13 幸田ビル B1F・1F",
+      "mapUrl": "https://www.google.com/maps/place/%E6%97%A5%E6%9C%AC%E3%80%81%E3%80%92104-0061+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A7%EF%BC%95%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%91%E2%88%92%EF%BC%91%EF%BC%93/@35.6695844,139.765587,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be702338ac9:0xdee17c2b712bb402!8m2!3d35.6695844!4d139.765587!16s%2Fg%2F11yf58j6q1?hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "searchQuery": "楊國福 麻辣燙 銀座店 東京都中央区銀座5-11-13 幸田ビル B1F・1F",
+      "sourceKeys": [
+        "src_2f21916ff100bee9f7"
+      ],
+      "location": {
+        "lat": 35.6695844,
+        "lng": 139.765587
+      },
+      "google": null,
+      "category": {
+        "key": "shopping",
+        "label": "購物",
+        "source": "heuristic"
+      },
+      "mentions": [
+        {
+          "id": "oimonokoto:Ds1ZfSgrjBU:91",
+          "sourceKey": "src_2f21916ff100bee9f7",
+          "channelId": "oimonokoto",
+          "channelName": "Oimoの休日グルメ旅",
+          "videoId": "Ds1ZfSgrjBU",
+          "videoTitle": "【銀座・麻辣湯5選】東京の麻辣湯人気店を食べ比べ！楊国福麻辣湯など",
+          "videoUrl": "https://www.youtube.com/watch?v=Ds1ZfSgrjBU&t=37s",
+          "published": "3 個月前",
+          "views": "觀看次數：313次",
+          "time": "00:37",
+          "seconds": 37,
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=1.+%E6%A5%8A%E5%9B%BD%E7%A6%8F%E9%BA%BB%E8%BE%A3%E6%B9%AF+%E9%8A%80%E5%BA%A7%E5%BA%97+Ginza+Tokyo+Japan",
+          "sourceReview": "描述欄列出「1. 楊国福麻辣湯 銀座店」時間戳 00:37。",
+          "youtubeReview": "oimonokoto 在描述欄將「1. 楊国福麻辣湯 銀座店」列為本集美食、咖啡或甜點停留點；未提供原始地圖連結，改以 Google Maps 搜尋補足。"
+        }
+      ],
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E6%97%A5%E6%9C%AC%E3%80%81%E3%80%92104-0061+%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8A%80%E5%BA%A7%EF%BC%95%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%91%E2%88%92%EF%BC%91%EF%BC%93/@35.6695844,139.765587,17z/data=!3m1!4b1!4m6!3m5!1s0x60188be702338ac9:0xdee17c2b712bb402!8m2!3d35.6695844!4d139.765587!16s%2Fg%2F11yf58j6q1?hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "address",
+        "note": "此點為已查證建築物的地址代表座標；店內櫃位未單獨定位。本次確認店家分店及門牌；原片目前不公開，影片關聯沿用已保存擷取紀錄，未新增影片心得或宣稱已重看。",
+        "shopUrl": "https://tabelog.com/tokyo/A1301/A130101/13295001/"
+      }
+    },
+    {
       "id": "p_177223338bfb2717",
       "name": "楓糖男孩 The Maple mania GRANATA東京店",
       "normalizedName": "メープルプロシュート",
@@ -141958,6 +142256,69 @@
       ]
     },
     {
+      "id": "p_56642c92694e5392",
+      "name": "夢炭",
+      "normalizedName": "夢炭",
+      "address": "南韓 서울 용산구 백범로99길 50",
+      "mapUrl": "https://www.google.com/maps/place/%E5%A4%A2%E7%82%AD/data=!3m1!4b1!4m4!3m3!1s0x357ca3dea456ce3b:0x229049cf34438e54!16s%2Fg%2F11gy3hnpqh!20s8Q98GXPC%2BCW4?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "searchQuery": "夢炭 Japan",
+      "sourceKeys": [
+        "src_ff6c7ce1945ec6a61e"
+      ],
+      "location": {
+        "lat": 37.5360125,
+        "lng": 126.972328125
+      },
+      "google": null,
+      "category": {
+        "key": "other",
+        "label": "其他",
+        "source": "heuristic"
+      },
+      "mentions": [
+        {
+          "id": "feipo1998:bAja3N9rrMw:6",
+          "sourceKey": "src_ff6c7ce1945ec6a61e",
+          "channelId": "feipo1998",
+          "channelName": "肥波開吃啦",
+          "videoId": "bAja3N9rrMw",
+          "videoTitle": "首爾美食地圖，72小時爽吃特輯八選 ! 首爾三天兩夜爽吃攻略，超夯倫敦貝果早餐、浮誇松露牛排炸醬麵、水嫩多汁炸豬菲力、梨泰院超爽美式燒烤、真的必吃馬鈴薯排骨湯 【 肥波外食記 】",
+          "videoUrl": "https://www.youtube.com/watch?v=bAja3N9rrMw&t=986s",
+          "published": "2 年前",
+          "views": "觀看次數：20萬次",
+          "time": "16:26",
+          "seconds": 986,
+          "mapUrl": "https://naver.me/5eGT08VK",
+          "sourceReview": "",
+          "youtubeReview": "影片描述：稻燒牛肋64000₩ 稻燒松阪17000₩ 泡菜炒飯5000₩；很想二刷指數 6/5"
+        },
+        {
+          "id": "feipo1998:0ycWDjHeFwU:4",
+          "sourceKey": "src_ff6c7ce1945ec6a61e",
+          "channelId": "feipo1998",
+          "channelName": "肥波開吃啦",
+          "videoId": "0ycWDjHeFwU",
+          "videoTitle": "首爾美食地圖，最想二刷的10家店！TOP 10 Must-Try FOOD in Seoul 【 肥波外食記 】",
+          "videoUrl": "https://www.youtube.com/watch?v=0ycWDjHeFwU&t=629s",
+          "published": "10 個月前",
+          "views": "觀看次數：15萬次",
+          "time": "10:29",
+          "seconds": 629,
+          "mapUrl": "https://naver.me/5eGT08VK",
+          "sourceReview": "",
+          "youtubeReview": "影片描述：稻燒牛肋64000₩ 稻燒松阪17000₩ 泡菜炒飯5000₩；很想二刷指數 6/5"
+        }
+      ],
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E5%A4%A2%E7%82%AD/data=!3m1!4b1!4m4!3m3!1s0x357ca3dea456ce3b:0x229049cf34438e54!16s%2Fg%2F11gy3hnpqh!20s8Q98GXPC%2BCW4?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Google英文道路名／門牌與Naver韓文道路名、門牌相符。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/5eGT08VK"
+      }
+    },
+    {
       "id": "p_7cd34dc4093fca76",
       "name": "察爾斯廚房 華山餐廳",
       "normalizedName": "察爾斯廚房 charles' kitchen｜華山餐廳",
@@ -146928,6 +147289,53 @@
           "youtubeReview": "日式點心【銀座鹿乃子】；是「鹿乃子」（用寒天凝固豆子的點心）和 「餡蜜」的專賣店；這些全部都是「鹿乃子」；內含豆沙餡的「鬆軟燒饅」。"
         }
       ]
+    },
+    {
+      "id": "p_5692235e057de0b4",
+      "name": "銀座 麻辣湯 本店",
+      "normalizedName": "3.銀座麻辣湯",
+      "address": "東京都中央区銀座5-1-先 銀座ファイブ 地下1F",
+      "mapUrl": "https://www.google.com/maps/place/%E9%8A%80%E5%BA%A7+%E9%BA%BB%E8%BE%A3%E6%B9%AF/@35.6724337,139.7609542,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b0025d28b25:0x724f7c7e73445476!8m2!3d35.6724337!4d139.7609542!16s%2Fg%2F11x05zd2hz?hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "searchQuery": "銀座 麻辣湯 本店 東京都中央区銀座5-1-先 銀座ファイブ 地下1F",
+      "sourceKeys": [
+        "src_39302a409bd4335370"
+      ],
+      "location": {
+        "lat": 35.6724337,
+        "lng": 139.7609542
+      },
+      "google": null,
+      "category": {
+        "key": "other",
+        "label": "其他",
+        "source": "heuristic"
+      },
+      "mentions": [
+        {
+          "id": "oimonokoto:Ds1ZfSgrjBU:93",
+          "sourceKey": "src_39302a409bd4335370",
+          "channelId": "oimonokoto",
+          "channelName": "Oimoの休日グルメ旅",
+          "videoId": "Ds1ZfSgrjBU",
+          "videoTitle": "【銀座・麻辣湯5選】東京の麻辣湯人気店を食べ比べ！楊国福麻辣湯など",
+          "videoUrl": "https://www.youtube.com/watch?v=Ds1ZfSgrjBU&t=596s",
+          "published": "3 個月前",
+          "views": "觀看次數：313次",
+          "time": "09:56",
+          "seconds": 596,
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=3.%E9%8A%80%E5%BA%A7%E9%BA%BB%E8%BE%A3%E6%B9%AF+Ginza+Tokyo+Japan",
+          "sourceReview": "描述欄列出「3.銀座麻辣湯」時間戳 09:56。",
+          "youtubeReview": "oimonokoto 在描述欄將「3.銀座麻辣湯」列為本集美食、咖啡或甜點停留點；未提供原始地圖連結，改以 Google Maps 搜尋補足。"
+        }
+      ],
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E9%8A%80%E5%BA%A7+%E9%BA%BB%E8%BE%A3%E6%B9%AF/@35.6724337,139.7609542,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b0025d28b25:0x724f7c7e73445476!8m2!3d35.6724337!4d139.7609542!16s%2Fg%2F11x05zd2hz?hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "本次確認店家分店及門牌；原片目前不公開，影片關聯沿用已保存擷取紀錄，未新增影片心得或宣稱已重看。 官方使用銀座5-1-先，Google同名店列銀座5-1-1；兩者均明列銀座ファイブ地下1F，依同一館內同名店核對。",
+        "shopUrl": "https://maratang.jp/"
+      }
     },
     {
       "id": "p_e3adc93665c9c291",
@@ -251308,6 +251716,53 @@
       ]
     },
     {
+      "id": "p_6e845fe22ccc798a",
+      "name": "Jungdon",
+      "normalizedName": "jungdon",
+      "address": "南韓 서울 종로구 대학로9길 12 지층",
+      "mapUrl": "https://www.google.com/maps/place/%E6%AD%A3%E8%B1%9A+%E5%A4%A7%E5%AD%B8%E8%B7%AF%E6%9C%AC%E5%BA%97/data=!3m1!4b1!4m4!3m3!1s0x357ca32be825f7d5:0xd3f96288baf4f121!16s%2Fg%2F11cjnkqlkh!20s8Q99H2J2%2BPC4?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "searchQuery": "Jungdon Japan",
+      "sourceKeys": [
+        "src_9a6daf68e64297fee0"
+      ],
+      "location": {
+        "lat": 37.5817625,
+        "lng": 127.001078125
+      },
+      "google": null,
+      "category": {
+        "key": "other",
+        "label": "其他",
+        "source": "heuristic"
+      },
+      "mentions": [
+        {
+          "id": "feipo1998:bAja3N9rrMw:4",
+          "sourceKey": "src_9a6daf68e64297fee0",
+          "channelId": "feipo1998",
+          "channelName": "肥波開吃啦",
+          "videoId": "bAja3N9rrMw",
+          "videoTitle": "首爾美食地圖，72小時爽吃特輯八選 ! 首爾三天兩夜爽吃攻略，超夯倫敦貝果早餐、浮誇松露牛排炸醬麵、水嫩多汁炸豬菲力、梨泰院超爽美式燒烤、真的必吃馬鈴薯排骨湯 【 肥波外食記 】",
+          "videoUrl": "https://www.youtube.com/watch?v=bAja3N9rrMw&t=670s",
+          "published": "2 年前",
+          "views": "觀看次數：20萬次",
+          "time": "11:10",
+          "seconds": 670,
+          "mapUrl": "https://naver.me/FxLX5c7S",
+          "sourceReview": "",
+          "youtubeReview": "影片描述：炸豬菲力定食17000₩ 起司豬排4000₩；很想二刷指數 5/5；祖傳三代馬鈴薯排骨湯"
+        }
+      ],
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E6%AD%A3%E8%B1%9A+%E5%A4%A7%E5%AD%B8%E8%B7%AF%E6%9C%AC%E5%BA%97/data=!3m1!4b1!4m4!3m3!1s0x357ca32be825f7d5:0xd3f96288baf4f121!16s%2Fg%2F11cjnkqlkh!20s8Q99H2J2%2BPC4?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。新地點卡明列大學路本店及12Daehak-ro9-gil，排除先前不同地址的候選。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/FxLX5c7S"
+      }
+    },
+    {
       "id": "p_8597fa6e0a9cafe8",
       "name": "JUNIBUN BAKERY CAFE",
       "normalizedName": "junibun bakery cafe",
@@ -274047,6 +274502,53 @@
       ]
     },
     {
+      "id": "p_13c57f73a742aada",
+      "name": "Manimal Smokehouse",
+      "normalizedName": "manimal smokehouse",
+      "address": "南韓 서울 용산구 녹사평대로40길 47 2층",
+      "mapUrl": "https://www.google.com/maps/place/Manimal+Smokehouse/data=!3m1!4b1!4m4!3m3!1s0x357ca237d0f57f61:0x69663775f75445fe!16s%2Fg%2F11bc7141zw!20s8Q98GXMQ%2BR94?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "searchQuery": "Manimal Smokehouse Japan",
+      "sourceKeys": [
+        "src_c97f3e8fec2f56cfdb"
+      ],
+      "location": {
+        "lat": 37.5345125,
+        "lng": 126.988453125
+      },
+      "google": null,
+      "category": {
+        "key": "other",
+        "label": "其他",
+        "source": "heuristic"
+      },
+      "mentions": [
+        {
+          "id": "feipo1998:bAja3N9rrMw:7",
+          "sourceKey": "src_c97f3e8fec2f56cfdb",
+          "channelId": "feipo1998",
+          "channelName": "肥波開吃啦",
+          "videoId": "bAja3N9rrMw",
+          "videoTitle": "首爾美食地圖，72小時爽吃特輯八選 ! 首爾三天兩夜爽吃攻略，超夯倫敦貝果早餐、浮誇松露牛排炸醬麵、水嫩多汁炸豬菲力、梨泰院超爽美式燒烤、真的必吃馬鈴薯排骨湯 【 肥波外食記 】",
+          "videoUrl": "https://www.youtube.com/watch?v=bAja3N9rrMw&t=1205s",
+          "published": "2 年前",
+          "views": "觀看次數：20萬次",
+          "time": "20:05",
+          "seconds": 1205,
+          "mapUrl": "https://naver.me/F6mxlYHX",
+          "sourceReview": "",
+          "youtubeReview": "影片描述：煙燻烤肉拼盤59000₩；很想二刷指數 6/5"
+        }
+      ],
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/Manimal+Smokehouse/data=!3m1!4b1!4m4!3m3!1s0x357ca237d0f57f61:0x69663775f75445fe!16s%2Fg%2F11bc7141zw!20s8Q98GXMQ%2BR94?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Google英文道路名／門牌與Naver韓文道路名、門牌相符。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/F6mxlYHX"
+      }
+    },
+    {
       "id": "p_df6870e539564cb6",
       "name": "Manuel Marunouchi",
       "normalizedName": "マヌエル タスカ ド ターリョ 丸の内店（一休）",
@@ -285472,6 +285974,53 @@
           "youtubeReview": "深入東京歷史核心日本橋，發掘將傳統江戶風情與現代都市完美融合的極致午餐名店。 描述欄將「Omusubi To Sekai No Gohan」列為本集出現的店家或地點。"
         }
       ]
+    },
+    {
+      "id": "p_4d7337664adce3af",
+      "name": "MUTAN",
+      "normalizedName": "mutan",
+      "address": "南韓 서울 강남구 논현로176길 22 1층",
+      "mapUrl": "https://www.google.com/maps/place/MUTAN+%E7%8B%8E%E9%B7%97%E4%BA%AD%E6%9C%AC%E5%BA%97/data=!3m1!4b1!4m4!3m3!1s0x357ca33bf6a8bba1:0x415e0a06bb422e9b!16s%2Fg%2F11hfvvmjvn!20s8Q99G2GJ%2BW4J?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "searchQuery": "MUTAN Japan",
+      "sourceKeys": [
+        "src_02cdc82b883140b0cf"
+      ],
+      "location": {
+        "lat": 37.5273375,
+        "lng": 127.030265625
+      },
+      "google": null,
+      "category": {
+        "key": "other",
+        "label": "其他",
+        "source": "heuristic"
+      },
+      "mentions": [
+        {
+          "id": "feipo1998:bAja3N9rrMw:1",
+          "sourceKey": "src_02cdc82b883140b0cf",
+          "channelId": "feipo1998",
+          "channelName": "肥波開吃啦",
+          "videoId": "bAja3N9rrMw",
+          "videoTitle": "首爾美食地圖，72小時爽吃特輯八選 ! 首爾三天兩夜爽吃攻略，超夯倫敦貝果早餐、浮誇松露牛排炸醬麵、水嫩多汁炸豬菲力、梨泰院超爽美式燒烤、真的必吃馬鈴薯排骨湯 【 肥波外食記 】",
+          "videoUrl": "https://www.youtube.com/watch?v=bAja3N9rrMw&t=192s",
+          "published": "2 年前",
+          "views": "觀看次數：20萬次",
+          "time": "3:12",
+          "seconds": 192,
+          "mapUrl": "https://naver.me/FgivzDWH",
+          "sourceReview": "",
+          "youtubeReview": "影片描述：松露牛排炸醬麵33000₩ 馬卡龍蝦餅27000₩；很想二刷指數 4.5/5；大瓦房醬蟹"
+        }
+      ],
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/MUTAN+%E7%8B%8E%E9%B7%97%E4%BA%AD%E6%9C%AC%E5%BA%97/data=!3m1!4b1!4m4!3m3!1s0x357ca33bf6a8bba1:0x415e0a06bb422e9b!16s%2Fg%2F11hfvvmjvn!20s8Q99G2GJ%2BW4J?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Google英文道路名／門牌與Naver韓文道路名、門牌相符。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/FgivzDWH"
+      }
     },
     {
       "id": "p_a068edafbe81d439",
@@ -346460,6 +347009,53 @@
       ]
     },
     {
+      "id": "p_654785f48dba463d",
+      "name": "TOKYO PAO × 台北麻辣湯 有楽町",
+      "normalizedName": "2.tokyo pao × 台北麻辣湯 有楽町",
+      "address": "東京都千代田区有楽町2-7-1 有楽町イトシア B1F TOKYO PAO",
+      "mapUrl": "https://www.google.com/maps/place/TOKYO+PAO+%C3%97+%E5%8F%B0%E5%8C%97%E9%BA%BB%E8%BE%A3%E6%B9%AF/@35.6741234,139.7637045,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b8f71aa020f:0x2a0c7f9612f1390d!8m2!3d35.6741234!4d139.7637045!16s%2Fg%2F11rmnb1ft3?hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "searchQuery": "TOKYO PAO × 台北麻辣湯 有楽町 東京都千代田区有楽町2-7-1 有楽町イトシア B1F TOKYO PAO",
+      "sourceKeys": [
+        "src_7854c3d6c139486922"
+      ],
+      "location": {
+        "lat": 35.6741234,
+        "lng": 139.7637045
+      },
+      "google": null,
+      "category": {
+        "key": "other",
+        "label": "其他",
+        "source": "heuristic"
+      },
+      "mentions": [
+        {
+          "id": "oimonokoto:Ds1ZfSgrjBU:92",
+          "sourceKey": "src_7854c3d6c139486922",
+          "channelId": "oimonokoto",
+          "channelName": "Oimoの休日グルメ旅",
+          "videoId": "Ds1ZfSgrjBU",
+          "videoTitle": "【銀座・麻辣湯5選】東京の麻辣湯人気店を食べ比べ！楊国福麻辣湯など",
+          "videoUrl": "https://www.youtube.com/watch?v=Ds1ZfSgrjBU&t=317s",
+          "published": "3 個月前",
+          "views": "觀看次數：313次",
+          "time": "05:17",
+          "seconds": 317,
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=2.TOKYO+PAO+%C3%97+%E5%8F%B0%E5%8C%97%E9%BA%BB%E8%BE%A3%E6%B9%AF+%E6%9C%89%E6%A5%BD%E7%94%BA+Ginza+Tokyo+Japan",
+          "sourceReview": "描述欄列出「2.TOKYO PAO × 台北麻辣湯 有楽町」時間戳 05:17。",
+          "youtubeReview": "oimonokoto 在描述欄將「2.TOKYO PAO × 台北麻辣湯 有楽町」列為本集美食、咖啡或甜點停留點；未提供原始地圖連結，改以 Google Maps 搜尋補足。"
+        }
+      ],
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/TOKYO+PAO+%C3%97+%E5%8F%B0%E5%8C%97%E9%BA%BB%E8%BE%A3%E6%B9%AF/@35.6741234,139.7637045,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b8f71aa020f:0x2a0c7f9612f1390d!8m2!3d35.6741234!4d139.7637045!16s%2Fg%2F11rmnb1ft3?hl=ja&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "本次確認店家分店及門牌；原片目前不公開，影片關聯沿用已保存擷取紀錄，未新增影片心得或宣稱已重看。",
+        "shopUrl": "https://online.tokyopao.jp/pages/taipei-maratan"
+      }
+    },
+    {
       "id": "p_3355734117e3b307",
       "name": "Tokyo Photographic Art Museum",
       "normalizedName": "tokyo photographic art museum",
@@ -366891,6 +367487,53 @@
       ]
     },
     {
+      "id": "p_25df44ed84e17565",
+      "name": "대원가 大元家",
+      "normalizedName": "대원가 大元家",
+      "address": "南韓 제주 제주시 도남로16길 15",
+      "mapUrl": "https://www.google.com/maps/place/%E5%A4%A7%E5%85%83%E5%AE%B6/data=!3m1!4b1!4m4!3m3!1s0x350cfca17536516f:0x844bdc7df7e17863!16s%2Fg%2F1v82zvt6!20s8Q58FGRG%2BJR3?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "searchQuery": "대원가 大元家 Japan",
+      "sourceKeys": [
+        "src_94ad1508ad81476b98"
+      ],
+      "location": {
+        "lat": 33.4915125,
+        "lng": 126.527046875
+      },
+      "google": null,
+      "category": {
+        "key": "other",
+        "label": "其他",
+        "source": "heuristic"
+      },
+      "mentions": [
+        {
+          "id": "feipo1998:GaiHr7M2osk:0",
+          "sourceKey": "src_94ad1508ad81476b98",
+          "channelId": "feipo1998",
+          "channelName": "肥波開吃啦",
+          "videoId": "GaiHr7M2osk",
+          "videoTitle": "濟州島美食地圖，72小時爽吃特輯！EP.1 浮誇鮑魚海鮮鍋、連續十連藍絲帶認證可頌、黑白大廚熟成黑豬、濟州銀帶魚天婦羅、姨母海味下酒菜大餐 【 肥波外食記 】",
+          "videoUrl": "https://www.youtube.com/watch?v=GaiHr7M2osk&t=25s",
+          "published": "2 天前",
+          "views": "觀看次數：5.5萬次",
+          "time": "0:25",
+          "seconds": 25,
+          "mapUrl": "https://naver.me/GG7tsYMV",
+          "sourceReview": "活鮑魚海鮮鍋₩58000 很想二刷指數 5/5 TIME CODE 0:25",
+          "youtubeReview": "品嚐了 活鮑魚海鮮鍋₩58000，很想二刷指數為 5/5。"
+        }
+      ],
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E5%A4%A7%E5%85%83%E5%AE%B6/data=!3m1!4b1!4m4!3m3!1s0x350cfca17536516f:0x844bdc7df7e17863!16s%2Fg%2F1v82zvt6!20s8Q58FGRG%2BJR3?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Naver展開地址確認道路名도남로16길15與地番도남동62-1同址，且商家交通說明亦明列62-1。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/GG7tsYMV"
+      }
+    },
+    {
       "id": "p_53e5cf33dcb4f4f5",
       "name": "멕시카고 타코23",
       "normalizedName": "멕시카고타코23",
@@ -367018,6 +367661,53 @@
       ]
     },
     {
+      "id": "p_22bec764f9957b78",
+      "name": "바다술상 大海酒桌",
+      "normalizedName": "바다술상 大海酒桌",
+      "address": "南韓 제주 제주시 한림읍 한림해안로 582 1, 2층",
+      "mapUrl": "https://www.google.com/maps/place/Bada+Sulsang/data=!3m1!4b1!4m4!3m3!1s0x350cf5005c5a9eaf:0xfdbf900b49f5248d!16s%2Fg%2F11zhwyc8tx!20s8Q58C7RG%2B4HM?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "searchQuery": "바다술상 大海酒桌 Japan",
+      "sourceKeys": [
+        "src_5519ae5cedca749d08"
+      ],
+      "location": {
+        "lat": 33.4403375,
+        "lng": 126.276421875
+      },
+      "google": null,
+      "category": {
+        "key": "other",
+        "label": "其他",
+        "source": "heuristic"
+      },
+      "mentions": [
+        {
+          "id": "feipo1998:GaiHr7M2osk:4",
+          "sourceKey": "src_5519ae5cedca749d08",
+          "channelId": "feipo1998",
+          "channelName": "肥波開吃啦",
+          "videoId": "GaiHr7M2osk",
+          "videoTitle": "濟州島美食地圖，72小時爽吃特輯！EP.1 浮誇鮑魚海鮮鍋、連續十連藍絲帶認證可頌、黑白大廚熟成黑豬、濟州銀帶魚天婦羅、姨母海味下酒菜大餐 【 肥波外食記 】",
+          "videoUrl": "https://www.youtube.com/watch?v=GaiHr7M2osk&t=684s",
+          "published": "2 天前",
+          "views": "觀看次數：5.5萬次",
+          "time": "11:24",
+          "seconds": 684,
+          "mapUrl": "https://naver.me/Gplx7amj",
+          "sourceReview": "姨母無菜單海鮮下酒菜套餐₩99000 很想二刷指數 5/5 TIME CODE 11:24",
+          "youtubeReview": "品嚐了 姨母無菜單海鮮下酒菜套餐₩99000，很想二刷指數為 5/5。"
+        }
+      ],
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/Bada+Sulsang/data=!3m1!4b1!4m4!3m3!1s0x350cf5005c5a9eaf:0xfdbf900b49f5248d!16s%2Fg%2F11zhwyc8tx!20s8Q58C7RG%2B4HM?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Naver展開地址確認한림해안로582與地番귀덕리4169-3同址。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/Gplx7amj"
+      }
+    },
+    {
       "id": "p_92d170293ea83690",
       "name": "봉산옥 서초동본점",
       "normalizedName": "bongsanok seocho-dong",
@@ -367080,6 +367770,53 @@
           "youtubeReview": "影片描述：鳳山餃子湯 13000₩ 魷魚血腸 26000₩；很想二刷指數 4.5/5；花蟹堂"
         }
       ]
+    },
+    {
+      "id": "p_d6f93a28e2560a3c",
+      "name": "봉주르마담 Bonjour Madam",
+      "normalizedName": "봉주르마담 bonjour madam",
+      "address": "南韓 제주 서귀포시 대청로 33 오름빌딩1차 103호",
+      "mapUrl": "https://www.google.com/maps/place/Bonjour+Madame/data=!3m1!4b1!4m4!3m3!1s0x350c55240b715937:0xea1c7a2797cee734!16s%2Fg%2F11fd67y7jp!20s8Q587G33%2B28Q?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "searchQuery": "봉주르마담 Bonjour Madam Japan",
+      "sourceKeys": [
+        "src_49e847cddb2195f12d"
+      ],
+      "location": {
+        "lat": 33.2525875,
+        "lng": 126.503359375
+      },
+      "google": null,
+      "category": {
+        "key": "other",
+        "label": "其他",
+        "source": "heuristic"
+      },
+      "mentions": [
+        {
+          "id": "feipo1998:GaiHr7M2osk:2",
+          "sourceKey": "src_49e847cddb2195f12d",
+          "channelId": "feipo1998",
+          "channelName": "肥波開吃啦",
+          "videoId": "GaiHr7M2osk",
+          "videoTitle": "濟州島美食地圖，72小時爽吃特輯！EP.1 浮誇鮑魚海鮮鍋、連續十連藍絲帶認證可頌、黑白大廚熟成黑豬、濟州銀帶魚天婦羅、姨母海味下酒菜大餐 【 肥波外食記 】",
+          "videoUrl": "https://www.youtube.com/watch?v=GaiHr7M2osk&t=359s",
+          "published": "2 天前",
+          "views": "觀看次數：5.5萬次",
+          "time": "5:59",
+          "seconds": 359,
+          "mapUrl": "https://naver.me/xcnaFMth",
+          "sourceReview": "奶油瑞士捲₩5500+青蔥奶油₩4800+巧克力可頌₩4500+香腸麵包₩4500 很想二刷指數 5/5 TIME CODE 5:59",
+          "youtubeReview": "品嚐了 奶油瑞士捲₩5500+青蔥奶油₩4800+巧克力可頌₩4500+香腸麵包₩4500，很想二刷指數為 5/5。"
+        }
+      ],
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/Bonjour+Madame/data=!3m1!4b1!4m4!3m3!1s0x350c55240b715937:0xea1c7a2797cee734!16s%2Fg%2F11fd67y7jp!20s8Q587G33%2B28Q?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Google英文道路名／門牌與Naver韓文道路名、門牌相符。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/xcnaFMth"
+      }
     },
     {
       "id": "p_97005088c4aa2996",
@@ -367482,6 +368219,53 @@
       ]
     },
     {
+      "id": "p_a9656fdeb9466caa",
+      "name": "우동카덴 UDON Caden",
+      "normalizedName": "우동카덴 udon caden",
+      "address": "南韓 제주 제주시 조천읍 교래3길 23",
+      "mapUrl": "https://www.google.com/maps/place/Udon+Kaden/data=!3m1!4b1!4m4!3m3!1s0x350d0370d0d41b0b:0xdc48ab9e1ad04e1f!16s%2Fg%2F11ry7gwh7n!20s8Q58CMPH%2B6VJ?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "searchQuery": "우동카덴 UDON Caden Japan",
+      "sourceKeys": [
+        "src_087b1e57c848a77d25"
+      ],
+      "location": {
+        "lat": 33.4355875,
+        "lng": 126.679640625
+      },
+      "google": null,
+      "category": {
+        "key": "other",
+        "label": "其他",
+        "source": "heuristic"
+      },
+      "mentions": [
+        {
+          "id": "feipo1998:GaiHr7M2osk:1",
+          "sourceKey": "src_087b1e57c848a77d25",
+          "channelId": "feipo1998",
+          "channelName": "肥波開吃啦",
+          "videoId": "GaiHr7M2osk",
+          "videoTitle": "濟州島美食地圖，72小時爽吃特輯！EP.1 浮誇鮑魚海鮮鍋、連續十連藍絲帶認證可頌、黑白大廚熟成黑豬、濟州銀帶魚天婦羅、姨母海味下酒菜大餐 【 肥波外食記 】",
+          "videoUrl": "https://www.youtube.com/watch?v=GaiHr7M2osk&t=181s",
+          "published": "2 天前",
+          "views": "觀看次數：5.5萬次",
+          "time": "3:01",
+          "seconds": 181,
+          "mapUrl": "https://naver.me/xSFaZe8U",
+          "sourceReview": "山藥玉子烏冬₩15000+銀帶魚天婦羅₩34000 很想二刷指數 4.5/5 TIME CODE 3:01",
+          "youtubeReview": "品嚐了 山藥玉子烏冬₩15000+銀帶魚天婦羅₩34000，很想二刷指數為 4.5/5。"
+        }
+      ],
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/Udon+Kaden/data=!3m1!4b1!4m4!3m3!1s0x350d0370d0d41b0b:0xdc48ab9e1ad04e1f!16s%2Fg%2F11ry7gwh7n!20s8Q58CMPH%2B6VJ?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Naver展開地址確認교래3길23與地番교래리550-1同址。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/xSFaZe8U"
+      }
+    },
+    {
       "id": "p_6a8f60592c0ee565",
       "name": "원조꼬리곰집",
       "normalizedName": "원조꼬리곰집",
@@ -367609,6 +368393,53 @@
           "youtubeReview": "影片描述：雙層Almighty Burger$21500 奶油火腿三明治$12500；很想二刷指數 5\\5"
         }
       ]
+    },
+    {
+      "id": "p_c1beeb1427e57099",
+      "name": "이세계",
+      "normalizedName": "이세계",
+      "address": "南韓 부산 부산진구 동천로107번길 25 1층",
+      "mapUrl": "https://www.google.com/maps/place/%E7%95%B0%E4%B8%96%E9%9B%9E%E7%87%92%E7%83%A4/data=!3m1!4b1!4m4!3m3!1s0x3568ebfe04bc27dd:0xb2b7e3d0272f094d!16s%2Fg%2F11kprjyxdf!20s8Q7F5356%2B69R?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "searchQuery": "이세계 Japan",
+      "sourceKeys": [
+        "src_29b883f5b4d6c04a5f"
+      ],
+      "location": {
+        "lat": 35.1581125,
+        "lng": 129.060890625
+      },
+      "google": null,
+      "category": {
+        "key": "other",
+        "label": "其他",
+        "source": "heuristic"
+      },
+      "mentions": [
+        {
+          "id": "feipo1998:aZyad-kMOag:3",
+          "sourceKey": "src_29b883f5b4d6c04a5f",
+          "channelId": "feipo1998",
+          "channelName": "肥波開吃啦",
+          "videoId": "aZyad-kMOag",
+          "videoTitle": "釜山美食西面篇，24小時爽吃特輯四選！西面站一日美食地圖，水芹松阪豬肉捲、韓系海味生鮭魚麵、蜜汁牛尾初體驗、激推烤雞料理專精 【 肥波外食記 】",
+          "videoUrl": "https://www.youtube.com/watch?v=aZyad-kMOag&t=442s",
+          "published": "1 年前",
+          "views": "觀看次數：4.8萬次",
+          "time": "7:22",
+          "seconds": 442,
+          "mapUrl": "https://naver.me/xnh0ug8T",
+          "sourceReview": "",
+          "youtubeReview": "影片描述：招牌綜合拼盤$33000 烤飯糰$3500；很想二刷指數 6\\5"
+        }
+      ],
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/%E7%95%B0%E4%B8%96%E9%9B%9E%E7%87%92%E7%83%A4/data=!3m1!4b1!4m4!3m3!1s0x3568ebfe04bc27dd:0xb2b7e3d0272f094d!16s%2Fg%2F11kprjyxdf!20s8Q7F5356%2B69R?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Naver展開地址確認동천로107번길25與地番부전동142-9同址。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/xnh0ug8T"
+      }
     },
     {
       "id": "p_394238b2b8a29030",
@@ -367950,6 +368781,53 @@
           "youtubeReview": "影片描述：綜合炸豬排定食$18800 加點豬菲力$3900；很想二刷指數 5\\5"
         }
       ]
+    },
+    {
+      "id": "p_4417e4fb73c14122",
+      "name": "크라운돼지 CROWN PIG",
+      "normalizedName": "크라운돼지 crown pig",
+      "address": "南韓 제주 제주시 애월읍 상가목장길 84",
+      "mapUrl": "https://www.google.com/maps/place/Crown+Pig/data=!3m1!4b1!4m4!3m3!1s0x350c592d1c08ddcb:0x42b2756ca3d872e1!16s%2Fg%2F11np2g43cj!20s8Q5899VM%2BH84?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "searchQuery": "크라운돼지 CROWN PIG Japan",
+      "sourceKeys": [
+        "src_ddc7303b8be3c6c776"
+      ],
+      "location": {
+        "lat": 33.3938875,
+        "lng": 126.383328125
+      },
+      "google": null,
+      "category": {
+        "key": "other",
+        "label": "其他",
+        "source": "heuristic"
+      },
+      "mentions": [
+        {
+          "id": "feipo1998:GaiHr7M2osk:3",
+          "sourceKey": "src_ddc7303b8be3c6c776",
+          "channelId": "feipo1998",
+          "channelName": "肥波開吃啦",
+          "videoId": "GaiHr7M2osk",
+          "videoTitle": "濟州島美食地圖，72小時爽吃特輯！EP.1 浮誇鮑魚海鮮鍋、連續十連藍絲帶認證可頌、黑白大廚熟成黑豬、濟州銀帶魚天婦羅、姨母海味下酒菜大餐 【 肥波外食記 】",
+          "videoUrl": "https://www.youtube.com/watch?v=GaiHr7M2osk&t=520s",
+          "published": "2 天前",
+          "views": "觀看次數：5.5萬次",
+          "time": "8:40",
+          "seconds": 520,
+          "mapUrl": "https://naver.me/Grmaw6AR",
+          "sourceReview": "戰斧豬排₩34000+熟成五花₩20000+熟成豬頸₩20000 很想二刷指數 4.5/5 TIME CODE 8:40",
+          "youtubeReview": "品嚐了 戰斧豬排₩34000+熟成五花₩20000+熟成豬頸₩20000，很想二刷指數為 4.5/5。"
+        }
+      ],
+      "locationSource": {
+        "provider": "video-context-and-venue-source",
+        "url": "https://www.google.com/maps/place/Crown+Pig/data=!3m1!4b1!4m4!3m3!1s0x350c592d1c08ddcb:0x42b2756ca3d872e1!16s%2Fg%2F11np2g43cj!20s8Q5899VM%2BH84?hl=zh-TW&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+        "checkedAt": "2026-10-27",
+        "precision": "place",
+        "note": "原片所附Naver同名分店已核對完整地址；Google具名地點卡門牌一致。Google英文道路名／門牌與Naver韓文道路名、門牌相符。完整Plus Code取自同一公開地點卡網址，不使用視窗中心座標。 不代表即時營業狀態。 座標由同一公開地點卡的完整Plus Code按WGS84規格解碼，採約3公尺編碼格的中心。",
+        "shopUrl": "https://naver.me/Grmaw6AR"
+      }
     },
     {
       "id": "p_6c995b455948efc2",

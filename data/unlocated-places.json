@@ -1,247 +1,7 @@
 {
-  "generatedAt": "2026-10-27T08:26:09.662Z",
-  "count": 157,
+  "generatedAt": "2026-10-27T14:12:10.028Z",
+  "count": 139,
   "places": [
-    {
-      "id": "p_90c66184f5fd2bf1",
-      "name": "1. 楊国福麻辣湯 銀座店",
-      "normalizedName": "1. 楊国福麻辣湯 銀座店",
-      "address": "",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=1.+%E6%A5%8A%E5%9B%BD%E7%A6%8F%E9%BA%BB%E8%BE%A3%E6%B9%AF+%E9%8A%80%E5%BA%A7%E5%BA%97+Ginza+Tokyo+Japan",
-      "searchQuery": "1. 楊国福麻辣湯 銀座店 Ginza Tokyo Japan",
-      "sourceKeys": [
-        "src_2f21916ff100bee9f7"
-      ],
-      "location": null,
-      "google": null,
-      "category": {
-        "key": "shopping",
-        "label": "購物",
-        "source": "heuristic"
-      },
-      "mentions": [
-        {
-          "id": "oimonokoto:Ds1ZfSgrjBU:91",
-          "sourceKey": "src_2f21916ff100bee9f7",
-          "channelId": "oimonokoto",
-          "channelName": "Oimoの休日グルメ旅",
-          "videoId": "Ds1ZfSgrjBU",
-          "videoTitle": "【銀座・麻辣湯5選】東京の麻辣湯人気店を食べ比べ！楊国福麻辣湯など",
-          "videoUrl": "https://www.youtube.com/watch?v=Ds1ZfSgrjBU&t=37s",
-          "published": "3 個月前",
-          "views": "觀看次數：313次",
-          "time": "00:37",
-          "seconds": 37,
-          "mapUrl": "https://www.google.com/maps/search/?api=1&query=1.+%E6%A5%8A%E5%9B%BD%E7%A6%8F%E9%BA%BB%E8%BE%A3%E6%B9%AF+%E9%8A%80%E5%BA%A7%E5%BA%97+Ginza+Tokyo+Japan",
-          "sourceReview": "描述欄列出「1. 楊国福麻辣湯 銀座店」時間戳 00:37。",
-          "youtubeReview": "oimonokoto 在描述欄將「1. 楊国福麻辣湯 銀座店」列為本集美食、咖啡或甜點停留點；未提供原始地圖連結，改以 Google Maps 搜尋補足。"
-        }
-      ],
-      "review": {
-        "reason": "原片目前不公開，無法重新核對影片分店；未僅憑連鎖店名補座標。",
-        "method": "原片目前無法公開取得；僅有先前抽取的店名，無法重新比對影像或分店。",
-        "sourceChecks": [
-          "https://www.youtube.com/watch?v=Ds1ZfSgrjBU&t=37s"
-        ],
-        "captionEvidenceUrls": [],
-        "originalAddress": "",
-        "verifiedAddress": "",
-        "videoCity": "東京都（僅舊抽取店名線索）",
-        "checkedAt": "2026-10-27"
-      }
-    },
-    {
-      "id": "p_654785f48dba463d",
-      "name": "2.TOKYO PAO × 台北麻辣湯 有楽町",
-      "normalizedName": "2.tokyo pao × 台北麻辣湯 有楽町",
-      "address": "",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=2.TOKYO+PAO+%C3%97+%E5%8F%B0%E5%8C%97%E9%BA%BB%E8%BE%A3%E6%B9%AF+%E6%9C%89%E6%A5%BD%E7%94%BA+Ginza+Tokyo+Japan",
-      "searchQuery": "2.TOKYO PAO × 台北麻辣湯 有楽町 Ginza Tokyo Japan",
-      "sourceKeys": [
-        "src_7854c3d6c139486922"
-      ],
-      "location": null,
-      "google": null,
-      "category": {
-        "key": "other",
-        "label": "其他",
-        "source": "heuristic"
-      },
-      "mentions": [
-        {
-          "id": "oimonokoto:Ds1ZfSgrjBU:92",
-          "sourceKey": "src_7854c3d6c139486922",
-          "channelId": "oimonokoto",
-          "channelName": "Oimoの休日グルメ旅",
-          "videoId": "Ds1ZfSgrjBU",
-          "videoTitle": "【銀座・麻辣湯5選】東京の麻辣湯人気店を食べ比べ！楊国福麻辣湯など",
-          "videoUrl": "https://www.youtube.com/watch?v=Ds1ZfSgrjBU&t=317s",
-          "published": "3 個月前",
-          "views": "觀看次數：313次",
-          "time": "05:17",
-          "seconds": 317,
-          "mapUrl": "https://www.google.com/maps/search/?api=1&query=2.TOKYO+PAO+%C3%97+%E5%8F%B0%E5%8C%97%E9%BA%BB%E8%BE%A3%E6%B9%AF+%E6%9C%89%E6%A5%BD%E7%94%BA+Ginza+Tokyo+Japan",
-          "sourceReview": "描述欄列出「2.TOKYO PAO × 台北麻辣湯 有楽町」時間戳 05:17。",
-          "youtubeReview": "oimonokoto 在描述欄將「2.TOKYO PAO × 台北麻辣湯 有楽町」列為本集美食、咖啡或甜點停留點；未提供原始地圖連結，改以 Google Maps 搜尋補足。"
-        }
-      ],
-      "review": {
-        "reason": "原片目前不公開，無法重新核對影片分店；未僅憑連鎖店名補座標。",
-        "method": "原片目前無法公開取得；僅有先前抽取的店名，無法重新比對影像或分店。",
-        "sourceChecks": [
-          "https://www.youtube.com/watch?v=Ds1ZfSgrjBU&t=317s"
-        ],
-        "captionEvidenceUrls": [],
-        "originalAddress": "",
-        "verifiedAddress": "",
-        "videoCity": "東京都（僅舊抽取店名線索）",
-        "checkedAt": "2026-10-27"
-      }
-    },
-    {
-      "id": "p_5692235e057de0b4",
-      "name": "3.銀座麻辣湯",
-      "normalizedName": "3.銀座麻辣湯",
-      "address": "",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=3.%E9%8A%80%E5%BA%A7%E9%BA%BB%E8%BE%A3%E6%B9%AF+Ginza+Tokyo+Japan",
-      "searchQuery": "3.銀座麻辣湯 Ginza Tokyo Japan",
-      "sourceKeys": [
-        "src_39302a409bd4335370"
-      ],
-      "location": null,
-      "google": null,
-      "category": {
-        "key": "other",
-        "label": "其他",
-        "source": "heuristic"
-      },
-      "mentions": [
-        {
-          "id": "oimonokoto:Ds1ZfSgrjBU:93",
-          "sourceKey": "src_39302a409bd4335370",
-          "channelId": "oimonokoto",
-          "channelName": "Oimoの休日グルメ旅",
-          "videoId": "Ds1ZfSgrjBU",
-          "videoTitle": "【銀座・麻辣湯5選】東京の麻辣湯人気店を食べ比べ！楊国福麻辣湯など",
-          "videoUrl": "https://www.youtube.com/watch?v=Ds1ZfSgrjBU&t=596s",
-          "published": "3 個月前",
-          "views": "觀看次數：313次",
-          "time": "09:56",
-          "seconds": 596,
-          "mapUrl": "https://www.google.com/maps/search/?api=1&query=3.%E9%8A%80%E5%BA%A7%E9%BA%BB%E8%BE%A3%E6%B9%AF+Ginza+Tokyo+Japan",
-          "sourceReview": "描述欄列出「3.銀座麻辣湯」時間戳 09:56。",
-          "youtubeReview": "oimonokoto 在描述欄將「3.銀座麻辣湯」列為本集美食、咖啡或甜點停留點；未提供原始地圖連結，改以 Google Maps 搜尋補足。"
-        }
-      ],
-      "review": {
-        "reason": "原片目前不公開，無法重新核對影片分店；未僅憑連鎖店名補座標。",
-        "method": "原片目前無法公開取得；僅有先前抽取的店名，無法重新比對影像或分店。",
-        "sourceChecks": [
-          "https://www.youtube.com/watch?v=Ds1ZfSgrjBU&t=596s"
-        ],
-        "captionEvidenceUrls": [],
-        "originalAddress": "",
-        "verifiedAddress": "",
-        "videoCity": "東京都（僅舊抽取店名線索）",
-        "checkedAt": "2026-10-27"
-      }
-    },
-    {
-      "id": "p_4258a4d3abb88f9c",
-      "name": "4.七宝 新橋",
-      "normalizedName": "4.七宝 新橋",
-      "address": "",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=4.%E4%B8%83%E5%AE%9D+%E6%96%B0%E6%A9%8B+Ginza+Tokyo+Japan",
-      "searchQuery": "4.七宝 新橋 Ginza Tokyo Japan",
-      "sourceKeys": [
-        "src_97b292056e3c35c79a"
-      ],
-      "location": null,
-      "google": null,
-      "category": {
-        "key": "other",
-        "label": "其他",
-        "source": "heuristic"
-      },
-      "mentions": [
-        {
-          "id": "oimonokoto:Ds1ZfSgrjBU:94",
-          "sourceKey": "src_97b292056e3c35c79a",
-          "channelId": "oimonokoto",
-          "channelName": "Oimoの休日グルメ旅",
-          "videoId": "Ds1ZfSgrjBU",
-          "videoTitle": "【銀座・麻辣湯5選】東京の麻辣湯人気店を食べ比べ！楊国福麻辣湯など",
-          "videoUrl": "https://www.youtube.com/watch?v=Ds1ZfSgrjBU&t=897s",
-          "published": "3 個月前",
-          "views": "觀看次數：313次",
-          "time": "14:57",
-          "seconds": 897,
-          "mapUrl": "https://www.google.com/maps/search/?api=1&query=4.%E4%B8%83%E5%AE%9D+%E6%96%B0%E6%A9%8B+Ginza+Tokyo+Japan",
-          "sourceReview": "描述欄列出「4.七宝 新橋」時間戳 14:57。",
-          "youtubeReview": "oimonokoto 在描述欄將「4.七宝 新橋」列為本集美食、咖啡或甜點停留點；未提供原始地圖連結，改以 Google Maps 搜尋補足。"
-        }
-      ],
-      "review": {
-        "reason": "原片目前不公開，無法重新核對影片分店；未僅憑連鎖店名補座標。",
-        "method": "原片目前無法公開取得；僅有先前抽取的店名，無法重新比對影像或分店。",
-        "sourceChecks": [
-          "https://www.youtube.com/watch?v=Ds1ZfSgrjBU&t=897s"
-        ],
-        "captionEvidenceUrls": [],
-        "originalAddress": "",
-        "verifiedAddress": "",
-        "videoCity": "東京都（僅舊抽取店名線索）",
-        "checkedAt": "2026-10-27"
-      }
-    },
-    {
-      "id": "p_ba9f526c6ec9df76",
-      "name": "5.一品麻辣湯 銀座",
-      "normalizedName": "5.一品麻辣湯 銀座",
-      "address": "",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=5.%E4%B8%80%E5%93%81%E9%BA%BB%E8%BE%A3%E6%B9%AF+%E9%8A%80%E5%BA%A7+Ginza+Tokyo+Japan",
-      "searchQuery": "5.一品麻辣湯 銀座 Ginza Tokyo Japan",
-      "sourceKeys": [
-        "src_a62dc34be73f83bb1a"
-      ],
-      "location": null,
-      "google": null,
-      "category": {
-        "key": "other",
-        "label": "其他",
-        "source": "heuristic"
-      },
-      "mentions": [
-        {
-          "id": "oimonokoto:Ds1ZfSgrjBU:95",
-          "sourceKey": "src_a62dc34be73f83bb1a",
-          "channelId": "oimonokoto",
-          "channelName": "Oimoの休日グルメ旅",
-          "videoId": "Ds1ZfSgrjBU",
-          "videoTitle": "【銀座・麻辣湯5選】東京の麻辣湯人気店を食べ比べ！楊国福麻辣湯など",
-          "videoUrl": "https://www.youtube.com/watch?v=Ds1ZfSgrjBU&t=1174s",
-          "published": "3 個月前",
-          "views": "觀看次數：313次",
-          "time": "19:34",
-          "seconds": 1174,
-          "mapUrl": "https://www.google.com/maps/search/?api=1&query=5.%E4%B8%80%E5%93%81%E9%BA%BB%E8%BE%A3%E6%B9%AF+%E9%8A%80%E5%BA%A7+Ginza+Tokyo+Japan",
-          "sourceReview": "描述欄列出「5.一品麻辣湯 銀座」時間戳 19:34。",
-          "youtubeReview": "oimonokoto 在描述欄將「5.一品麻辣湯 銀座」列為本集美食、咖啡或甜點停留點；未提供原始地圖連結，改以 Google Maps 搜尋補足。"
-        }
-      ],
-      "review": {
-        "reason": "原片目前不公開，無法重新核對影片分店；未僅憑連鎖店名補座標。",
-        "method": "原片目前無法公開取得；僅有先前抽取的店名，無法重新比對影像或分店。",
-        "sourceChecks": [
-          "https://www.youtube.com/watch?v=Ds1ZfSgrjBU&t=1174s"
-        ],
-        "captionEvidenceUrls": [],
-        "originalAddress": "",
-        "verifiedAddress": "",
-        "videoCity": "東京都（僅舊抽取店名線索）",
-        "checkedAt": "2026-10-27"
-      }
-    },
     {
       "id": "p_a38def9e24f65f77",
       "name": "七里ヶ浜",
@@ -278,10 +38,11 @@
         }
       ],
       "review": {
-        "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+        "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
         "method": "原片《東京近郊最讓人放慢腳步的海邊小鎮：鎌倉一日怎麼玩｜江之電海景・富士山夕陽・人氣咖哩飯・抹茶體驗・秘境Cafe・虎河豚料理｜Japan VLOG｜yang and yang》以七里ヶ浜作區域／路線介紹，未提供可確認的單一店家、建物或停靠點。",
         "sourceChecks": [
-          "https://www.youtube.com/watch?v=lS-aSHu0uo8"
+          "https://www.youtube.com/watch?v=lS-aSHu0uo8",
+          "https://www.google.com/search?hl=zh-TW&q=%E4%B8%83%E9%87%8C%E3%83%B6%E6%B5%9C%20%E9%8E%8C%E5%80%89%E5%B8%82%E4%B8%83%E9%87%8C%E3%83%B6%E6%B5%9C"
         ],
         "captionEvidenceUrls": [],
         "originalAddress": "",
@@ -627,10 +388,11 @@
         }
       ],
       "review": {
-        "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。",
+        "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。 Google Search複查仍對應2025展期；未將異地復刻或後續活動當作原展館現況。",
         "method": "原片《一次逛10個館❤比遊樂園還好逛的大阪世博｜日本館太震撼！PASONA自然宇宙、Shining Hat直接尖叫、義大利館藝術感爆棚｜OSAKA 2025｜yang and yang #osaka #萬博》介紹2025大阪世博會期展館大屋根 無人機表演。",
         "sourceChecks": [
-          "https://www.expo2025.or.jp/news/daily/"
+          "https://www.expo2025.or.jp/news/daily/",
+          "https://www.google.com/search?hl=zh-TW&q=%E5%A4%A7%E5%B1%8B%E6%A0%B9%20%E7%84%A1%E4%BA%BA%E6%A9%9F%E8%A1%A8%E6%BC%94%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2"
         ],
         "captionEvidenceUrls": [],
         "originalAddress": "",
@@ -675,9 +437,11 @@
         }
       ],
       "review": {
-        "reason": "已辨認大埔遊園車活動；原片未給7-ELEVEN分店名及固定站牌，不以便利商店泛稱或鄉鎮中心代替定位。",
+        "reason": "已辨認大埔遊園車活動；原片未給7-ELEVEN分店名及固定站牌，不以便利商店泛稱或鄉鎮中心代替定位。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
         "method": "原片說明大埔遊園車從大埔7-ELEVEN出發，沿途可隨招隨停，為巡遊路線。",
-        "sourceChecks": [],
+        "sourceChecks": [
+          "https://www.google.com/search?hl=zh-TW&q=%E5%A4%A7%E5%9F%94%E9%81%8A%E5%9C%92%E8%BB%8A%20%E5%98%89%E7%BE%A9%E7%B8%A3%E5%A4%A7%E5%9F%94%E9%84%89"
+        ],
         "captionEvidenceUrls": [],
         "originalAddress": "",
         "verifiedAddress": "",
@@ -721,12 +485,13 @@
         }
       ],
       "review": {
-        "reason": "影片地址已確認為雲南南路89號舊址；2026官方已公布遷往山西南路，現址完整門牌及WGS84位置待確認。",
+        "reason": "影片地址已確認為雲南南路89號舊址；2026官方已公布遷往山西南路，現址完整門牌及WGS84位置待確認。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。",
         "method": "原片《夏日上海是滿眼的綠意🌿｜上海不只有外灘！七天六夜走了45個景點，逛梧桐樹下的老洋房、喝世界沖煮冠軍咖啡、吃全上海最好吃的可頌、本地人推薦小龍蝦｜DJI Pocket 4 × Shanghai VLOG》：原片附近字幕提到大壺春；依上海市場景／行程核對大壺春 雲南南路店（影片舊址）與完整店址。原片37:06店面畫面明列上海市黃浦區雲南南路89號，存tOv1HXCBO5U-dahuchun-storefront.png。2026/01新民晚報及上海市民政局公布雲南路老字號過渡遷往山西南路；故此為影片歷史舊址，不當作目前仍營業，現址門牌待確認。",
         "sourceChecks": [
           "https://tw.trip.com/restaurant/china/shanghai/detail/dahuchun-11150880/",
           "https://paper.xinmin.cn/html/xmwb/2026-01-09/4/228967.html",
-          "https://mzj.sh.gov.cn/lnb-xw/20260113/492b829efb374c35953724c97036d5b4.html"
+          "https://mzj.sh.gov.cn/lnb-xw/20260113/492b829efb374c35953724c97036d5b4.html",
+          "https://www.google.com/search?hl=zh-TW&q=%E5%A4%A7%E5%A3%BA%E6%98%A5%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E9%9B%B2%E5%8D%97%E5%8D%97%E8%B7%AF89%E8%99%9F%EF%BC%88%E5%BD%B1%E7%89%87%E8%88%8A%E5%9D%80%EF%BC%89"
         ],
         "captionEvidenceUrls": [
           "https://www.youtube.com/watch?v=tOv1HXCBO5U&t=2236s",
@@ -775,10 +540,11 @@
         }
       ],
       "review": {
-        "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+        "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
         "method": "原片《一日體驗香港最在地的愜意✨ 棚屋邊吃豆腐花・外脆內嫩沙翁太幸福・快艇近看港珠澳大橋・大澳漁村慢生活・灣仔超好吃義大利麵｜2025 Hong Kong｜yang and yang #大澳 #香港》以大澳作區域／路線介紹，未提供可確認的單一店家、建物或停靠點。",
         "sourceChecks": [
-          "https://www.youtube.com/watch?v=ecMeLtBPfoM&t=321s"
+          "https://www.youtube.com/watch?v=ecMeLtBPfoM&t=321s",
+          "https://www.google.com/search?hl=zh-TW&q=%E5%A4%A7%E6%BE%B3%20%E9%A6%99%E6%B8%AF%E5%A4%A7%E6%BE%B3"
         ],
         "captionEvidenceUrls": [],
         "originalAddress": "",
@@ -823,9 +589,11 @@
         }
       ],
       "review": {
-        "reason": "已確認大澳登船區域，但原片未給唯一營運商及實際上船碼頭；不以橋或村落中心代替業者定位。",
+        "reason": "已確認大澳登船區域，但原片未給唯一營運商及實際上船碼頭；不以橋或村落中心代替業者定位。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
         "method": "原片大澳行程說明為永安街20號行人橋旁、昔日橫水渡位置大涌登船；介紹的是小艇遊船活動。",
-        "sourceChecks": [],
+        "sourceChecks": [
+          "https://www.google.com/search?hl=zh-TW&q=%E5%A4%A7%E6%BE%B3%E8%A7%80%E5%85%89%E5%B0%8F%E8%89%87%E9%81%8A%E8%88%B9%20%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%B6%BC%E5%B1%B1%E5%A4%A7%E6%BE%B3%E6%B0%B8%E5%AE%89%E8%A1%9720%E8%99%9F%E8%A1%8C%E4%BA%BA%E6%A9%8B%E6%97%81%E6%98%94%E6%97%A5%E6%A9%AB%E6%B0%B4%E6%B8%A1%E4%BD%8D%E7%BD%AE%E5%A4%A7%E6%B6%8C"
+        ],
         "captionEvidenceUrls": [],
         "originalAddress": "香港大嶼山大澳永安街20號行人橋旁昔日橫水渡位置大涌",
         "verifiedAddress": "",
@@ -869,10 +637,11 @@
         }
       ],
       "review": {
-        "reason": "影片原附幸町1-3與公開地圖／巴士業者所列元町2-1-3不一致；仍須影片建物畫面確認同一個小江戶橫丁。",
+        "reason": "影片原附幸町1-3與公開地圖／巴士業者所列元町2-1-3不一致；仍須影片建物畫面確認同一個小江戶橫丁。 Google Search複查尚未取得足以消除原先疑點的新證據。",
         "method": "原片《比想像中更好玩🇯🇵川越小江戶散策 ✨隨意走進巷弄都是驚喜 ｜百年鰻魚飯、超強蒸蛋布丁、冰川神社、400年老街舊日常｜Japan VLOG｜yang and yang》及原附店址埼玉県川越市幸町1-3已複查，保留來源差異。",
         "sourceChecks": [
-          "https://eaglebus.group/co-edo/2026/03/23/ncct/"
+          "https://eaglebus.group/co-edo/2026/03/23/ncct/",
+          "https://www.google.com/search?hl=zh-TW&q=%E5%B0%8F%E6%B1%9F%E6%88%B6%E6%A9%AB%E4%B8%81%20%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E8%B6%8A%E5%B8%82%E5%B9%B8%E7%94%BA1-3"
         ],
         "captionEvidenceUrls": [],
         "originalAddress": "埼玉県川越市幸町1-3",
@@ -917,9 +686,11 @@
         }
       ],
       "review": {
-        "reason": "已確認橫濱日本大通街景路線，影片未指定街道的單一停靠點，不以道路中心代替。",
+        "reason": "已確認橫濱日本大通街景路線，影片未指定街道的單一停靠點，不以道路中心代替。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
         "method": "實際字幕191至209秒說日本第一條西式道路、銀杏與西式建築，後接Gooz銀杏並木通店，確認横浜日本大通り街道。",
-        "sourceChecks": [],
+        "sourceChecks": [
+          "https://www.google.com/search?hl=zh-TW&q=%E6%97%A5%E6%9C%AC%20%E5%A4%A7%E9%80%9A%E3%82%8A%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82"
+        ],
         "captionEvidenceUrls": [],
         "originalAddress": "",
         "verifiedAddress": "",
@@ -963,10 +734,11 @@
         }
       ],
       "review": {
-        "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。",
+        "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。 Google Search複查仍對應2025展期；未將異地復刻或後續活動當作原展館現況。",
         "method": "原片《一次逛10個館❤比遊樂園還好逛的大阪世博｜日本館太震撼！PASONA自然宇宙、Shining Hat直接尖叫、義大利館藝術感爆棚｜OSAKA 2025｜yang and yang #osaka #萬博》介紹2025大阪世博會期展館日本館。",
         "sourceChecks": [
-          "https://www.expo2025.or.jp/news/daily/"
+          "https://www.expo2025.or.jp/news/daily/",
+          "https://www.google.com/search?hl=zh-TW&q=%E6%97%A5%E6%9C%AC%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2"
         ],
         "captionEvidenceUrls": [],
         "originalAddress": "",
@@ -1011,10 +783,11 @@
         }
       ],
       "review": {
-        "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。",
+        "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。 Google Search複查仍對應2025展期；未將異地復刻或後續活動當作原展館現況。",
         "method": "原片《一次逛10個館❤比遊樂園還好逛的大阪世博｜日本館太震撼！PASONA自然宇宙、Shining Hat直接尖叫、義大利館藝術感爆棚｜OSAKA 2025｜yang and yang #osaka #萬博》介紹2025大阪世博會期展館比利時館。",
         "sourceChecks": [
-          "https://www.expo2025.or.jp/news/daily/"
+          "https://www.expo2025.or.jp/news/daily/",
+          "https://www.google.com/search?hl=zh-TW&q=%E6%AF%94%E5%88%A9%E6%99%82%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2"
         ],
         "captionEvidenceUrls": [],
         "originalAddress": "",
@@ -1059,10 +832,11 @@
         }
       ],
       "review": {
-        "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。",
+        "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。",
         "method": "原片《夏日上海是滿眼的綠意🌿｜上海不只有外灘！七天六夜走了45個景點，逛梧桐樹下的老洋房、喝世界沖煮冠軍咖啡、吃全上海最好吃的可頌、本地人推薦小龍蝦｜DJI Pocket 4 × Shanghai VLOG》：原片附近字幕提到乍浦路橋；依中國上海市場景／行程核對乍浦路橋與完整店址。影片郵政博物館後2684秒明言乍浦路橋拍三件套，與官方橋梁路段一致。",
         "sourceChecks": [
-          "https://www.shhk.gov.cn/zjhk/001003/001003002/20140902/531261f0-e8d2-4737-84c4-4a7b7fff147f.html"
+          "https://www.shhk.gov.cn/zjhk/001003/001003002/20140902/531261f0-e8d2-4737-84c4-4a7b7fff147f.html",
+          "https://www.google.com/search?hl=zh-TW&q=%E4%B9%8D%E6%B5%A6%E8%B7%AF%E6%A9%8B%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E8%99%B9%E5%8F%A3%E5%8D%80%E3%83%BB%E9%BB%83%E6%B5%A6%E5%8D%80%E8%98%87%E5%B7%9E%E6%B2%B3%EF%BC%88%E5%8C%97%E6%8E%A5%E4%B9%8D%E6%B5%A6%E8%B7%AF%E3%80%81%E5%8D%97%E6%8E%A5%E8%99%8E%E4%B8%98%E8%B7%AF%EF%BC%89"
         ],
         "captionEvidenceUrls": [
           "https://www.youtube.com/watch?v=tOv1HXCBO5U&t=2684s"
@@ -1109,10 +883,11 @@
         }
       ],
       "review": {
-        "reason": "已確認仙跡岩步道區；官方列多個登山入口，尚未確認影片實際入口／拍攝點，不以管理單位或泛稱山區中心作停靠點。",
+        "reason": "已確認仙跡岩步道區；官方列多個登山入口，尚未確認影片實際入口／拍攝點，不以管理單位或泛稱山區中心作停靠點。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
         "method": "原片13:21為仙跡岩健行段落，前段填平咖啡在景華街，原片未明列唯一登山口或山頂門牌。",
         "sourceChecks": [
-          "https://travel.taipei/zh-tw/news/details/68227"
+          "https://travel.taipei/zh-tw/news/details/68227",
+          "https://www.google.com/search?hl=zh-TW&q=%E4%BB%99%E8%B7%A1%E5%B2%A9%20%E8%87%BA%E5%8C%97%E5%B8%82%E6%96%87%E5%B1%B1%E5%8D%80"
         ],
         "captionEvidenceUrls": [],
         "originalAddress": "",
@@ -1157,9 +932,11 @@
         }
       ],
       "review": {
-        "reason": "海灘區域已辨認，原片未指定單一入口或設施；暫保留為區域路線。",
+        "reason": "海灘區域已辨認，原片未指定單一入口或設施；暫保留為區域路線。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
         "method": "原片芭達雅3天2夜行程列北芭堤雅海灘，為海灘散步場景。",
-        "sourceChecks": [],
+        "sourceChecks": [
+          "https://www.google.com/search?hl=zh-TW&q=%E5%8C%97%E8%8A%AD%E5%A0%A4%E9%9B%85%E6%B5%B7%E7%81%98%20%E6%B3%B0%E5%9C%8B%E8%8A%AD%E9%81%94%E9%9B%85"
+        ],
         "captionEvidenceUrls": [],
         "originalAddress": "",
         "verifiedAddress": "",
@@ -1203,10 +980,11 @@
         }
       ],
       "review": {
-        "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。",
+        "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。 Google Search複查仍對應2025展期；未將異地復刻或後續活動當作原展館現況。",
         "method": "原片《一次逛10個館❤比遊樂園還好逛的大阪世博｜日本館太震撼！PASONA自然宇宙、Shining Hat直接尖叫、義大利館藝術感爆棚｜OSAKA 2025｜yang and yang #osaka #萬博》介紹2025大阪世博會期展館卡達館。",
         "sourceChecks": [
-          "https://www.expo2025.or.jp/news/daily/"
+          "https://www.expo2025.or.jp/news/daily/",
+          "https://www.google.com/search?hl=zh-TW&q=%E5%8D%A1%E9%81%94%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2"
         ],
         "captionEvidenceUrls": [],
         "originalAddress": "",
@@ -1251,11 +1029,12 @@
         }
       ],
       "review": {
-        "reason": "確認為羽田販售的叶匠壽庵羽雲；食べログ有第1航廈叶匠壽庵，也有第2航廈SMILE TOKYO販售羽雲的紀錄，尚未確認片中櫃位，不套用滋賀本店或任一機場櫃位。",
+        "reason": "確認為羽田販售的叶匠壽庵羽雲；食べログ有第1航廈叶匠壽庵，也有第2航廈SMILE TOKYO販售羽雲的紀錄，尚未確認片中櫃位，不套用滋賀本店或任一機場櫃位。 Google Search複查尚未取得足以消除原先疑點的新證據。",
         "method": "原片訪問日2026/7/12，03:49列叶匠壽庵羽雲，實際已核對羽雲產品及機場專題。",
         "sourceChecks": [
           "https://tabelog.com/tokyo/P017334/premiseLst/",
-          "https://tabelog.com/tokyo/A1315/A131504/13138626/dtlrvwlst/B513158843/"
+          "https://tabelog.com/tokyo/A1315/A131504/13138626/dtlrvwlst/B513158843/",
+          "https://www.google.com/search?hl=zh-TW&q=%E5%8F%B6%E5%8C%A0%E5%A3%BD%E5%BA%B5%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%BE%BD%E7%94%B0%E7%A9%BA%E6%B8%AF"
         ],
         "captionEvidenceUrls": [],
         "originalAddress": "",
@@ -1300,10 +1079,11 @@
         }
       ],
       "review": {
-        "reason": "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。",
+        "reason": "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。",
         "method": "原片《夏日上海是滿眼的綠意🌿｜上海不只有外灘！七天六夜走了45個景點，逛梧桐樹下的老洋房、喝世界沖煮冠軍咖啡、吃全上海最好吃的可頌、本地人推薦小龍蝦｜DJI Pocket 4 × Shanghai VLOG》：原片附近字幕提到外白渡橋；依中國上海市場景／行程核對外白渡橋與完整店址。橋梁身分與官方兩端路名核對，尚無可靠WGS84橋位，未用附近陸地點代替。",
         "sourceChecks": [
-          "https://www.shhk.gov.cn/zjhk/001003/001003002/20140902/a423fff6-23fd-48a8-bf5d-ba5bf6a06a0e.html"
+          "https://www.shhk.gov.cn/zjhk/001003/001003002/20140902/a423fff6-23fd-48a8-bf5d-ba5bf6a06a0e.html",
+          "https://www.google.com/search?hl=zh-TW&q=%E5%A4%96%E7%99%BD%E6%B8%A1%E6%A9%8B%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E3%83%BB%E8%99%B9%E5%8F%A3%E5%8D%80%E8%98%87%E5%B7%9E%E6%B2%B3%E5%8F%A3%EF%BC%88%E5%8D%97%E6%8E%A5%E4%B8%AD%E5%B1%B1%E6%9D%B1%E4%B8%80%E8%B7%AF%E3%80%81%E5%8C%97%E9%80%9A%E5%A4%A7%E5%90%8D%E8%B7%AF%EF%BC%89"
         ],
         "captionEvidenceUrls": [
           "https://www.youtube.com/watch?v=tOv1HXCBO5U&t=3751s"
@@ -1350,10 +1130,11 @@
         }
       ],
       "review": {
-        "reason": "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。",
+        "reason": "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。",
         "method": "原片《夏日上海是滿眼的綠意🌿｜上海不只有外灘！七天六夜走了45個景點，逛梧桐樹下的老洋房、喝世界沖煮冠軍咖啡、吃全上海最好吃的可頌、本地人推薦小龍蝦｜DJI Pocket 4 × Shanghai VLOG》：原片附近字幕提到外灘 12 號；依中國上海市黃浦區場景／行程核對外灘12號（原滙豐銀行大樓）與完整店址。原片3644至3671秒明言外灘12號、現浦發銀行、原滙豐銀行；不採已終止的中山東一路6號滙豐支行。",
         "sourceChecks": [
-          "https://you.ctrip.com/sight/shanghai2/5013406.html"
+          "https://you.ctrip.com/sight/shanghai2/5013406.html",
+          "https://www.google.com/search?hl=zh-TW&q=%E5%A4%96%E7%81%98%2012%20%E8%99%9F%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E4%B8%AD%E5%B1%B1%E6%9D%B1%E4%B8%80%E8%B7%AF12%E8%99%9F"
         ],
         "captionEvidenceUrls": [
           "https://www.youtube.com/watch?v=tOv1HXCBO5U&t=3644s",
@@ -1401,10 +1182,11 @@
         }
       ],
       "review": {
-        "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。",
+        "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。 Google Search複查仍對應2025展期；未將異地復刻或後續活動當作原展館現況。",
         "method": "原片《一次逛10個館❤比遊樂園還好逛的大阪世博｜日本館太震撼！PASONA自然宇宙、Shining Hat直接尖叫、義大利館藝術感爆棚｜OSAKA 2025｜yang and yang #osaka #萬博》介紹2025大阪世博會期展館未来都市。",
         "sourceChecks": [
-          "https://www.expo2025.or.jp/news/daily/"
+          "https://www.expo2025.or.jp/news/daily/",
+          "https://www.google.com/search?hl=zh-TW&q=%E6%9C%AA%E6%9D%A5%E9%83%BD%E5%B8%82%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2"
         ],
         "captionEvidenceUrls": [],
         "originalAddress": "",
@@ -1449,10 +1231,11 @@
         }
       ],
       "review": {
-        "reason": "已核對上海原片場景、分店與地址，尚待可交叉驗證的WGS84精確點位。",
+        "reason": "已核對上海原片場景、分店與地址，尚待可交叉驗證的WGS84精確點位。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。",
         "method": "原片《夏日上海是滿眼的綠意🌿｜上海不只有外灘！七天六夜走了45個景點，逛梧桐樹下的老洋房、喝世界沖煮冠軍咖啡、吃全上海最好吃的可頌、本地人推薦小龍蝦｜DJI Pocket 4 × Shanghai VLOG》：原片附近字幕提到永豐麵館；依中國上海市黃浦區場景／行程核對永豐麵館 漢口路店與完整店址。原片聖三一堂後一個路口、其後漢口路309號THE PRESS，核對漢口路320店，排除黃陂北路另一門店。",
         "sourceChecks": [
-          "https://gs.ctrip.com/html5/you/foods/fooddetail/2/136442516.html"
+          "https://gs.ctrip.com/html5/you/foods/fooddetail/2/136442516.html",
+          "https://www.google.com/search?hl=zh-TW&q=%E6%B0%B8%E8%B1%90%E9%BA%B5%E9%A4%A8%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E6%BC%A2%E5%8F%A3%E8%B7%AF320%E8%99%9F"
         ],
         "captionEvidenceUrls": [
           "https://www.youtube.com/watch?v=tOv1HXCBO5U&t=2404s",
@@ -1501,10 +1284,11 @@
         }
       ],
       "review": {
-        "reason": "原片為亞士厘道20A號，地圖簡列20號；OpenRice同分店標示已結業，尚待官方交叉確認。",
+        "reason": "Google Search商家欄標示原址永久歇業；店家官方Facebook搜尋摘要提及2026年3月31日結束亞士厘道原址營業，與OpenRice結業資料相符。官方貼文原頁未成功取得，後續搬遷或再開資訊仍待確認，不作現營店定位。",
         "method": "原片《深水埗→旺角→尖沙咀✨九龍實在好精彩！復古港味冰室・米其林雲吞點心・M+香港最潮藝術地標｜老上海街×維港夜景一次逛遍｜2025 Hong Kong｜yang and yang #香港》及原附店址香港尖沙咀亞士厘道20A號地舖已複查，保留來源差異。",
         "sourceChecks": [
-          "https://www.openrice.com/en/hongkong/r-bolton-cafe-tsim-sha-tsui-hong-kong-style-r865291"
+          "https://www.openrice.com/en/hongkong/r-bolton-cafe-tsim-sha-tsui-hong-kong-style-r865291",
+          "https://www.google.com/search?hl=zh-TW&q=%E5%B0%96%E6%B2%99%E5%92%80%E4%BF%9D%E9%A0%93%E5%86%B0%E5%AE%A4%20%E9%A6%99%E6%B8%AF%E5%B0%96%E6%B2%99%E5%92%80%E4%BA%9E%E5%A3%AB%E5%8E%98%E9%81%9320A%E8%99%9F%E5%9C%B0%E8%88%96"
         ],
         "captionEvidenceUrls": [],
         "originalAddress": "香港尖沙咀亞士厘道20A號地舖",
@@ -1549,10 +1333,11 @@
         }
       ],
       "review": {
-        "reason": "食べログ13298112同址西池袋1-21-2掲載保留，店家PR欄列2025年4月末閉店；目前沒有官方再開／遷址證據。",
+        "reason": "Google Search同名同址商家欄標示永久歇業；食べログ同址資料仍保留，尚無已查得的官方再開／搬遷新址證據，不作現營店定位。",
         "method": "原片為池袋2024上半年新店巡訪，介紹江南炒飯與小籠包，核對同品類池袋店，非名古屋等同名江南。",
         "sourceChecks": [
-          "https://tabelog.com/tokyo/A1305/A130501/13298112/"
+          "https://tabelog.com/tokyo/A1305/A130501/13298112/",
+          "https://www.google.com/search?hl=zh-TW&q=%E6%B1%9F%E5%8D%97%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E8%A5%BF%E6%B1%A0%E8%A2%8B"
         ],
         "captionEvidenceUrls": [
           "https://www.youtube.com/watch?v=57qkBa1qV8Q&t=1840s"
@@ -1647,10 +1432,11 @@
         }
       ],
       "review": {
-        "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。",
+        "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。",
         "method": "原片《夏日上海是滿眼的綠意🌿｜上海不只有外灘！七天六夜走了45個景點，逛梧桐樹下的老洋房、喝世界沖煮冠軍咖啡、吃全上海最好吃的可頌、本地人推薦小龍蝦｜DJI Pocket 4 × Shanghai VLOG》：原片附近字幕提到老市府；依中國上海市黃浦區場景／行程核對上海老市府大樓與完整店址。實際字幕1846至1877秒江西中路、1922年大樓、修復後對外開放，與舊市府建築一致。",
         "sourceChecks": [
-          "https://m.thepaper.cn/newsDetail_forward_31939180"
+          "https://m.thepaper.cn/newsDetail_forward_31939180",
+          "https://www.google.com/search?hl=zh-TW&q=%E8%80%81%E5%B8%82%E5%BA%9C%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E6%B1%9F%E8%A5%BF%E4%B8%AD%E8%B7%AF215%E8%99%9F"
         ],
         "captionEvidenceUrls": [
           "https://www.youtube.com/watch?v=tOv1HXCBO5U&t=1846s",
@@ -1699,10 +1485,11 @@
         }
       ],
       "review": {
-        "reason": "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。",
+        "reason": "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。",
         "method": "原片《夏日上海是滿眼的綠意🌿｜上海不只有外灘！七天六夜走了45個景點，逛梧桐樹下的老洋房、喝世界沖煮冠軍咖啡、吃全上海最好吃的可頌、本地人推薦小龍蝦｜DJI Pocket 4 × Shanghai VLOG》：原片附近字幕提到何東舊居；依中國上海市靜安區場景／行程核對何東舊居與完整店址。原片3314至3400秒自Prada沿陝西北路到何東故居，1928年、鄔達克、TAMBURINS相鄰，排除香港何東建物。",
         "sourceChecks": [
-          "https://you.ctrip.com/sight/shanghai2/144227.html"
+          "https://you.ctrip.com/sight/shanghai2/144227.html",
+          "https://www.google.com/search?hl=zh-TW&q=%E4%BD%95%E6%9D%B1%E8%88%8A%E5%B1%85%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%9D%9C%E5%AE%89%E5%8D%80%E9%99%9D%E8%A5%BF%E5%8C%97%E8%B7%AF457%E5%BC%84"
         ],
         "captionEvidenceUrls": [
           "https://www.youtube.com/watch?v=tOv1HXCBO5U&t=3321s"
@@ -1749,9 +1536,11 @@
         }
       ],
       "review": {
-        "reason": "已確認橫濱汽車道步行路線，尚無明確單一橋端或入口，不以路線中心代替。",
+        "reason": "已確認橫濱汽車道步行路線，尚無明確單一橋端或入口，不以路線中心代替。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
         "method": "字幕1036至1045秒明示橫濱汽車道海上散步道路及鋼桁架橋，連接紅磚倉庫與港未來。",
-        "sourceChecks": [],
+        "sourceChecks": [
+          "https://www.google.com/search?hl=zh-TW&q=%E6%B1%BD%E8%BB%8A%E9%81%93%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82"
+        ],
         "captionEvidenceUrls": [],
         "originalAddress": "",
         "verifiedAddress": "",
@@ -1795,10 +1584,11 @@
         }
       ],
       "review": {
-        "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+        "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
         "method": "原片《【沖繩旅行（上）】SKY天馬航空初體驗｜名護鳳梨園｜美麗海水族館｜絕景古宇利跨海大橋｜手舞足蹈的國際通夜晚｜日本旅遊vlog》以那霸國際通夜晚作區域／路線介紹，未提供可確認的單一店家、建物或停靠點。",
         "sourceChecks": [
-          "https://www.youtube.com/watch?v=BTF7tHPSFxY&t=785s"
+          "https://www.youtube.com/watch?v=BTF7tHPSFxY&t=785s",
+          "https://www.google.com/search?hl=zh-TW&q=%E9%82%A3%E9%9C%B8%E5%9C%8B%E9%9A%9B%E9%80%9A%E5%A4%9C%E6%99%9A%20%E6%B2%96%E7%B8%84%E7%9C%8C%E9%82%A3%E8%A6%87%E5%B8%82%E5%9B%BD%E9%9A%9B%E9%80%9A"
         ],
         "captionEvidenceUrls": [],
         "originalAddress": "",
@@ -1843,10 +1633,11 @@
         }
       ],
       "review": {
-        "reason": "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。",
+        "reason": "店家／景點身分及地址已按上海原片場景核對；目前未取得可交叉驗證的WGS84精確點位，暫不將座標系未確認的地圖點直接上圖。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。",
         "method": "原片《夏日上海是滿眼的綠意🌿｜上海不只有外灘！七天六夜走了45個景點，逛梧桐樹下的老洋房、喝世界沖煮冠軍咖啡、吃全上海最好吃的可頌、本地人推薦小龍蝦｜DJI Pocket 4 × Shanghai VLOG》：原片附近字幕提到武康大樓；依中國上海市徐匯區場景／行程核對武康大樓與完整店址。",
         "sourceChecks": [
-          "https://jpg.zfcg.sh.gov.cn/sh-gov-open-doc/1108QZ/4e86a949-6629-4329-874c-f0e216a23b3f.pdf"
+          "https://jpg.zfcg.sh.gov.cn/sh-gov-open-doc/1108QZ/4e86a949-6629-4329-874c-f0e216a23b3f.pdf",
+          "https://www.google.com/search?hl=zh-TW&q=%E6%AD%A6%E5%BA%B7%E5%A4%A7%E6%A8%93%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%BE%90%E5%8C%AF%E5%8D%80%E6%B7%AE%E6%B5%B7%E4%B8%AD%E8%B7%AF1850%E8%99%9F"
         ],
         "captionEvidenceUrls": [
           "https://www.youtube.com/watch?v=tOv1HXCBO5U&t=1169s",
@@ -1895,63 +1686,16 @@
         }
       ],
       "review": {
-        "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+        "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
         "method": "原片《京都慢遊Vlog【上】｜第三次來才發現，不按攻略的京都更好玩》以花见小路作區域／路線介紹，未提供可確認的單一店家、建物或停靠點。",
         "sourceChecks": [
-          "https://www.youtube.com/watch?v=ZcWYjKF2CpU&t=295s"
+          "https://www.youtube.com/watch?v=ZcWYjKF2CpU&t=295s",
+          "https://www.google.com/search?hl=zh-TW&q=%E8%8A%B1%E8%A7%81%E5%B0%8F%E8%B7%AF%20%E4%BA%AC%E9%83%BD%E5%B8%82%E8%8A%B1%E8%A6%8B%E5%B0%8F%E8%B7%AF"
         ],
         "captionEvidenceUrls": [],
         "originalAddress": "",
         "verifiedAddress": "",
         "videoCity": "京都市花見小路",
-        "checkedAt": "2026-10-27"
-      }
-    },
-    {
-      "id": "p_5b82582e56c8be13",
-      "name": "金豬食堂",
-      "normalizedName": "金豬食堂",
-      "address": "",
-      "mapUrl": "https://naver.me/GLKAKFYY",
-      "searchQuery": "金豬食堂 Japan",
-      "sourceKeys": [
-        "src_ffe83d2de483ace9b9"
-      ],
-      "location": null,
-      "google": null,
-      "category": {
-        "key": "food",
-        "label": "餐廳",
-        "source": "heuristic"
-      },
-      "mentions": [
-        {
-          "id": "feipo1998:4-qneWBmcUU:3",
-          "sourceKey": "src_ffe83d2de483ace9b9",
-          "channelId": "feipo1998",
-          "channelName": "肥波開吃啦",
-          "videoId": "4-qneWBmcUU",
-          "videoTitle": "2024首爾米其林，連吃十家必比登推薦美食 ! 10 Bib Gourmand MICHELIN Restaurants in Seoul 미쉐린 가이드 서울 2024 【 肥波外食記 】",
-          "videoUrl": "https://www.youtube.com/watch?v=4-qneWBmcUU&t=501s",
-          "published": "2 年前",
-          "views": "觀看次數：13萬次",
-          "time": "8:21",
-          "seconds": 501,
-          "mapUrl": "https://naver.me/GLKAKFYY",
-          "sourceReview": "",
-          "youtubeReview": "影片描述：單人套餐 40000₩ 烤豬皮 14000₩；很想二刷指數 4/5"
-        }
-      ],
-      "review": {
-        "reason": "已依原片城市與Naver店家頁核對分店及完整地址；尚未取得可交叉核實的精確點位，公開地圖搜尋結果的視窗中心不作店址座標。",
-        "method": "原片《2024首爾米其林，連吃十家必比登推薦美食 ! 10 Bib Gourmand MICHELIN Restaurants in Seoul 미쉐린 가이드 서울 2024 【 肥波外食記 】》：原片說明列出金豬食堂；依南韓首爾場景／行程核對금돼지식당（金豬食堂）與完整店址。直接讀取原片8:21所附Naver店卡。",
-        "sourceChecks": [
-          "https://naver.me/GLKAKFYY"
-        ],
-        "captionEvidenceUrls": [],
-        "originalAddress": "",
-        "verifiedAddress": "南韓 서울 중구 다산로 149 1층",
-        "videoCity": "南韓首爾",
         "checkedAt": "2026-10-27"
       }
     },
@@ -1991,10 +1735,11 @@
         }
       ],
       "review": {
-        "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。",
+        "reason": "2025世博已於2025-10-13閉幕；展館舊址的精確位置及後續遷移／開放狀態尚待確認。 Google Search複查仍對應2025展期；未將異地復刻或後續活動當作原展館現況。",
         "method": "原片《一次逛10個館❤比遊樂園還好逛的大阪世博｜日本館太震撼！PASONA自然宇宙、Shining Hat直接尖叫、義大利館藝術感爆棚｜OSAKA 2025｜yang and yang #osaka #萬博》介紹2025大阪世博會期展館阿拉伯聯合大公國館。",
         "sourceChecks": [
-          "https://www.expo2025.or.jp/news/daily/"
+          "https://www.expo2025.or.jp/news/daily/",
+          "https://www.google.com/search?hl=zh-TW&q=%E9%98%BF%E6%8B%89%E4%BC%AF%E8%81%AF%E5%90%88%E5%A4%A7%E5%85%AC%E5%9C%8B%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A2%E6%B4%B2"
         ],
         "captionEvidenceUrls": [],
         "originalAddress": "",
@@ -2055,10 +1800,11 @@
         }
       ],
       "review": {
-        "reason": "已確認神戶南京町街區；此項為散步範圍，不能把商店街事務所、任一中華門或街區中心當作影片中的單一店家。",
+        "reason": "已確認神戶南京町街區；此項為散步範圍，不能把商店街事務所、任一中華門或街區中心當作影片中的單一店家。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
         "method": "兩支原片章節及字幕均為南京町中華街邊走邊吃的街區段落，提到扭蛋與麵食，未指定同一店家或唯一入口。",
         "sourceChecks": [
-          "https://www.youtube.com/watch?v=a8acCXqRnig&t=499s"
+          "https://www.youtube.com/watch?v=a8acCXqRnig&t=499s",
+          "https://www.google.com/search?hl=zh-TW&q=%E5%8D%97%E4%BA%AC%E7%94%BA%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA"
         ],
         "captionEvidenceUrls": [
           "https://www.youtube.com/watch?v=_GKbSRM5I0c&t=431s",
@@ -2108,10 +1854,11 @@
         }
       ],
       "review": {
-        "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。",
+        "reason": "身分與上海影片場景及地址已核對；尚無已交叉驗證的WGS84精確點位，暫不直接使用座標系未確認的地圖點。 Google Search再次找到同名／同址結果，但尚無獨立證據解決原先座標或櫃位疑點。",
         "method": "原片《夏日上海是滿眼的綠意🌿｜上海不只有外灘！七天六夜走了45個景點，逛梧桐樹下的老洋房、喝世界沖煮冠軍咖啡、吃全上海最好吃的可頌、本地人推薦小龍蝦｜DJI Pocket 4 × Shanghai VLOG》：原片附近字幕提到屋有鮮；依中國上海市黃浦區場景／行程核對屋有鮮與完整店址。原片湯包專門店及米其林一星冰箱貼，官方指南確認同名蟹小籠店現址。",
         "sourceChecks": [
-          "https://guide.michelin.com/sg/en/shanghai-municipality/shanghai/restaurant/wu-you-xian"
+          "https://guide.michelin.com/sg/en/shanghai-municipality/shanghai/restaurant/wu-you-xian",
+          "https://www.google.com/search?hl=zh-TW&q=%E5%B1%8B%E6%9C%89%E9%AE%AE%20%E4%B8%AD%E5%9C%8B%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%BB%83%E6%B5%A6%E5%8D%80%E8%8C%82%E5%90%8D%E5%8D%97%E8%B7%AF7%E8%99%9F1-103%E5%AE%A4"
         ],
         "captionEvidenceUrls": [
           "https://www.youtube.com/watch?v=tOv1HXCBO5U&t=2930s"
@@ -2208,10 +1955,11 @@
         }
       ],
       "review": {
-        "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。",
+        "reason": "區域或路線已複查；原片未指定單一停靠點，保留影片連結，暫不以區域中心代替店址。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
         "method": "原片《🇯🇵超深度公路之旅！我最難忘的四國德島縣三好市｜老辣妹》以美馬市作區域／路線介紹，未提供可確認的單一店家、建物或停靠點。",
         "sourceChecks": [
-          "https://www.youtube.com/watch?v=YOHzKUEpRz4&t=139s"
+          "https://www.youtube.com/watch?v=YOHzKUEpRz4&t=139s",
+          "https://www.google.com/search?hl=zh-TW&q=%E7%BE%8E%E9%A6%AC%E5%B8%82%20%E5%BE%B3%E5%B3%B6%E7%9C%8C%E7%BE%8E%E9%A6%AC%E5%B8%82"
         ],
         "captionEvidenceUrls": [
           "https://www.youtube.com/watch?v=YOHzKUEpRz4&t=883s"
@@ -2219,118 +1967,6 @@
         "originalAddress": "",
         "verifiedAddress": "",
         "videoCity": "徳島県美馬市",
-        "checkedAt": "2026-10-27"
-      }
-    },
-    {
-      "id": "p_a5bb8390884d727a",
-      "name": "風川鰻魚",
-      "normalizedName": "風川鰻魚",
-      "address": "",
-      "mapUrl": "https://naver.me/5AmfnBTN",
-      "searchQuery": "風川鰻魚 Japan",
-      "sourceKeys": [
-        "src_307188b6a5e88f5d36"
-      ],
-      "location": null,
-      "google": null,
-      "category": {
-        "key": "other",
-        "label": "其他",
-        "source": "heuristic"
-      },
-      "mentions": [
-        {
-          "id": "feipo1998:ZjdxO9GWXjs:2",
-          "sourceKey": "src_307188b6a5e88f5d36",
-          "channelId": "feipo1998",
-          "channelName": "肥波開吃啦",
-          "videoId": "ZjdxO9GWXjs",
-          "videoTitle": "首爾美食弘大篇，24小時爽吃特輯四選 ! 弘大一日美食地圖，望遠市場美食開局、香濃羅勒起司披薩、激爽現烤白燒鰻、米其林認證鐵板羊肉 【 肥波外食記 】",
-          "videoUrl": "https://www.youtube.com/watch?v=ZjdxO9GWXjs&t=359s",
-          "published": "2 年前",
-          "views": "觀看次數：11萬次",
-          "time": "5:59",
-          "seconds": 359,
-          "mapUrl": "https://naver.me/5AmfnBTN",
-          "sourceReview": "",
-          "youtubeReview": "影片描述：白燒鰻魚套餐78000₩；很想二刷指數 5/5；一流羊肉燒烤"
-        },
-        {
-          "id": "feipo1998:0ycWDjHeFwU:8",
-          "sourceKey": "src_307188b6a5e88f5d36",
-          "channelId": "feipo1998",
-          "channelName": "肥波開吃啦",
-          "videoId": "0ycWDjHeFwU",
-          "videoTitle": "首爾美食地圖，最想二刷的10家店！TOP 10 Must-Try FOOD in Seoul 【 肥波外食記 】",
-          "videoUrl": "https://www.youtube.com/watch?v=0ycWDjHeFwU&t=1349s",
-          "published": "10 個月前",
-          "views": "觀看次數：15萬次",
-          "time": "22:29",
-          "seconds": 1349,
-          "mapUrl": "https://naver.me/5AmfnBTN",
-          "sourceReview": "",
-          "youtubeReview": "影片描述：白燒鰻魚套餐78000₩；很想二刷指數 5/5"
-        }
-      ],
-      "review": {
-        "reason": "已依原片城市與Naver店家頁核對分店及完整地址；尚未取得可交叉核實的精確點位，公開地圖搜尋結果的視窗中心不作店址座標。",
-        "method": "原片《首爾美食弘大篇，24小時爽吃特輯四選 !  弘大一日美食地圖，望遠市場美食開局、香濃羅勒起司披薩、激爽現烤白燒鰻、米其林認證鐵板羊肉  【 肥波外食記 】》：原片說明列出風川鰻魚；依南韓首爾場景／行程核對풍천장어 연남점（風川鰻魚 延南店）與完整店址。原片弘大美食5:59附的Naver實際指向延南分店，排除同名其他風川鰻魚。",
-        "sourceChecks": [
-          "https://naver.me/5AmfnBTN"
-        ],
-        "captionEvidenceUrls": [],
-        "originalAddress": "",
-        "verifiedAddress": "南韓 서울 마포구 동교로27길 39 1층",
-        "videoCity": "南韓首爾",
-        "checkedAt": "2026-10-27"
-      }
-    },
-    {
-      "id": "p_af2fceb85a50fb29",
-      "name": "祖傳三代馬鈴薯排骨湯",
-      "normalizedName": "祖傳三代馬鈴薯排骨湯",
-      "address": "",
-      "mapUrl": "https://naver.me/GnGCvn5l",
-      "searchQuery": "祖傳三代馬鈴薯排骨湯 Japan",
-      "sourceKeys": [
-        "src_494a3704270343d130"
-      ],
-      "location": null,
-      "google": null,
-      "category": {
-        "key": "other",
-        "label": "其他",
-        "source": "heuristic"
-      },
-      "mentions": [
-        {
-          "id": "feipo1998:bAja3N9rrMw:5",
-          "sourceKey": "src_494a3704270343d130",
-          "channelId": "feipo1998",
-          "channelName": "肥波開吃啦",
-          "videoId": "bAja3N9rrMw",
-          "videoTitle": "首爾美食地圖，72小時爽吃特輯八選 ! 首爾三天兩夜爽吃攻略，超夯倫敦貝果早餐、浮誇松露牛排炸醬麵、水嫩多汁炸豬菲力、梨泰院超爽美式燒烤、真的必吃馬鈴薯排骨湯 【 肥波外食記 】",
-          "videoUrl": "https://www.youtube.com/watch?v=bAja3N9rrMw&t=827s",
-          "published": "2 年前",
-          "views": "觀看次數：20萬次",
-          "time": "13:47",
-          "seconds": 827,
-          "mapUrl": "https://naver.me/GnGCvn5l",
-          "sourceReview": "",
-          "youtubeReview": "影片描述：馬鈴薯排骨湯29000₩；很想二刷指數 6/5"
-        }
-      ],
-      "review": {
-        "reason": "已依原片城市與Naver店家頁核對分店及完整地址；尚未取得可交叉核實的精確點位，公開地圖搜尋結果的視窗中心不作店址座標。",
-        "method": "原片《首爾美食地圖，72小時爽吃特輯八選 ! 首爾三天兩夜爽吃攻略，超夯倫敦貝果早餐、浮誇松露牛排炸醬麵、水嫩多汁炸豬菲力、梨泰院超爽美式燒烤、真的必吃馬鈴薯排骨湯 【 肥波外食記 】》：原片說明列出祖傳三代馬鈴薯排骨湯；依南韓首爾場景／行程核對소문난성수감자탕（聖水馬鈴薯排骨湯）與完整店址。原片13:47祖傳三代馬鈴薯排骨湯所附Naver連結，實際指向소문난성수감자탕，非一般三代連鎖店名推測。",
-        "sourceChecks": [
-          "https://naver.me/GnGCvn5l"
-        ],
-        "captionEvidenceUrls": [],
-        "originalAddress": "",
-        "verifiedAddress": "南韓 서울 성동구 연무장길 45",
-        "videoCity": "南韓首爾",
         "checkedAt": "2026-10-27"
       }
     },
@@ -2370,9 +2006,11 @@
         }
       ],
       "review": {
-        "reason": "已辨認神農街街區，未指定唯一店家、建物或街道入口，暫保留為路線資料。",
+        "reason": "已辨認神農街街區，未指定唯一店家、建物或街道入口，暫保留為路線資料。 Google Search複查仍對應同一街區或路線，未取得足以指定原片單一停靠點的新線索。",
         "method": "原片台南23站行程列神農街，原地址僅街名。",
-        "sourceChecks": [],
+        "sourceChecks": [
+          "https://www.google.com/search?hl=zh-TW&q=%E7%A5%9E%E8%BE%B2%E8%A1%97%20%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80%E7%A5%9E%E8%BE%B2%E8%A1%97"
+        ],
         "captionEvidenceUrls": [],
         "originalAddress": "台南市中西區神農街",
         "verifiedAddress": "",
@@ -3116,70 +2754,6 @@
         "originalAddress": "",
         "verifiedAddress": "",
         "videoCity": "Amsterdam運河區",
-        "checkedAt": "2026-10-27"
-      }
-    },
-    {
-      "id": "p_56642c92694e5392",
-      "name": "夢炭",
-      "normalizedName": "夢炭",
-      "address": "",
-      "mapUrl": "https://naver.me/5eGT08VK",
-      "searchQuery": "夢炭 Japan",
-      "sourceKeys": [
-        "src_ff6c7ce1945ec6a61e"
-      ],
-      "location": null,
-      "google": null,
-      "category": {
-        "key": "other",
-        "label": "其他",
-        "source": "heuristic"
-      },
-      "mentions": [
-        {
-          "id": "feipo1998:bAja3N9rrMw:6",
-          "sourceKey": "src_ff6c7ce1945ec6a61e",
-          "channelId": "feipo1998",
-          "channelName": "肥波開吃啦",
-          "videoId": "bAja3N9rrMw",
-          "videoTitle": "首爾美食地圖，72小時爽吃特輯八選 ! 首爾三天兩夜爽吃攻略，超夯倫敦貝果早餐、浮誇松露牛排炸醬麵、水嫩多汁炸豬菲力、梨泰院超爽美式燒烤、真的必吃馬鈴薯排骨湯 【 肥波外食記 】",
-          "videoUrl": "https://www.youtube.com/watch?v=bAja3N9rrMw&t=986s",
-          "published": "2 年前",
-          "views": "觀看次數：20萬次",
-          "time": "16:26",
-          "seconds": 986,
-          "mapUrl": "https://naver.me/5eGT08VK",
-          "sourceReview": "",
-          "youtubeReview": "影片描述：稻燒牛肋64000₩ 稻燒松阪17000₩ 泡菜炒飯5000₩；很想二刷指數 6/5"
-        },
-        {
-          "id": "feipo1998:0ycWDjHeFwU:4",
-          "sourceKey": "src_ff6c7ce1945ec6a61e",
-          "channelId": "feipo1998",
-          "channelName": "肥波開吃啦",
-          "videoId": "0ycWDjHeFwU",
-          "videoTitle": "首爾美食地圖，最想二刷的10家店！TOP 10 Must-Try FOOD in Seoul 【 肥波外食記 】",
-          "videoUrl": "https://www.youtube.com/watch?v=0ycWDjHeFwU&t=629s",
-          "published": "10 個月前",
-          "views": "觀看次數：15萬次",
-          "time": "10:29",
-          "seconds": 629,
-          "mapUrl": "https://naver.me/5eGT08VK",
-          "sourceReview": "",
-          "youtubeReview": "影片描述：稻燒牛肋64000₩ 稻燒松阪17000₩ 泡菜炒飯5000₩；很想二刷指數 6/5"
-        }
-      ],
-      "review": {
-        "reason": "已依原片城市與Naver店家頁核對分店及完整地址；尚未取得可交叉核實的精確點位，公開地圖搜尋結果的視窗中心不作店址座標。",
-        "method": "原片《首爾美食地圖，72小時爽吃特輯八選 ! 首爾三天兩夜爽吃攻略，超夯倫敦貝果早餐、浮誇松露牛排炸醬麵、水嫩多汁炸豬菲力、梨泰院超爽美式燒烤、真的必吃馬鈴薯排骨湯 【 肥波外食記 】》：已按原片場景線索核對；依南韓首爾場景／行程核對몽탄（夢炭）與完整店址。直接讀取原片16:26所附Naver店卡。",
-        "sourceChecks": [
-          "https://naver.me/5eGT08VK"
-        ],
-        "captionEvidenceUrls": [],
-        "originalAddress": "",
-        "verifiedAddress": "南韓 서울 용산구 백범로99길 50",
-        "videoCity": "南韓首爾",
         "checkedAt": "2026-10-27"
       }
     },
@@ -5360,54 +4934,6 @@
       }
     },
     {
-      "id": "p_6e845fe22ccc798a",
-      "name": "Jungdon",
-      "normalizedName": "jungdon",
-      "address": "",
-      "mapUrl": "https://naver.me/FxLX5c7S",
-      "searchQuery": "Jungdon Japan",
-      "sourceKeys": [
-        "src_9a6daf68e64297fee0"
-      ],
-      "location": null,
-      "google": null,
-      "category": {
-        "key": "other",
-        "label": "其他",
-        "source": "heuristic"
-      },
-      "mentions": [
-        {
-          "id": "feipo1998:bAja3N9rrMw:4",
-          "sourceKey": "src_9a6daf68e64297fee0",
-          "channelId": "feipo1998",
-          "channelName": "肥波開吃啦",
-          "videoId": "bAja3N9rrMw",
-          "videoTitle": "首爾美食地圖，72小時爽吃特輯八選 ! 首爾三天兩夜爽吃攻略，超夯倫敦貝果早餐、浮誇松露牛排炸醬麵、水嫩多汁炸豬菲力、梨泰院超爽美式燒烤、真的必吃馬鈴薯排骨湯 【 肥波外食記 】",
-          "videoUrl": "https://www.youtube.com/watch?v=bAja3N9rrMw&t=670s",
-          "published": "2 年前",
-          "views": "觀看次數：20萬次",
-          "time": "11:10",
-          "seconds": 670,
-          "mapUrl": "https://naver.me/FxLX5c7S",
-          "sourceReview": "",
-          "youtubeReview": "影片描述：炸豬菲力定食17000₩ 起司豬排4000₩；很想二刷指數 5/5；祖傳三代馬鈴薯排骨湯"
-        }
-      ],
-      "review": {
-        "reason": "已依原片城市與Naver店家頁核對分店及完整地址；尚未取得可交叉核實的精確點位，公開地圖搜尋結果的視窗中心不作店址座標。",
-        "method": "原片《首爾美食地圖，72小時爽吃特輯八選 ! 首爾三天兩夜爽吃攻略，超夯倫敦貝果早餐、浮誇松露牛排炸醬麵、水嫩多汁炸豬菲力、梨泰院超爽美式燒烤、真的必吃馬鈴薯排骨湯 【 肥波外食記 】》：原片說明列出Jungdon；依南韓首爾場景／行程核對정돈 대학로본점（Jungdon 大學路本店）與完整店址。直接開啟原片11:10 Jungdon附的Naver連結，實際店卡確認大學路本店及地下店址。",
-        "sourceChecks": [
-          "https://naver.me/FxLX5c7S"
-        ],
-        "captionEvidenceUrls": [],
-        "originalAddress": "",
-        "verifiedAddress": "南韓 서울 종로구 대학로9길 12 지층",
-        "videoCity": "南韓首爾",
-        "checkedAt": "2026-10-27"
-      }
-    },
-    {
       "id": "p_f26abe0112e50b01",
       "name": "Kabukicho",
       "normalizedName": "kabukicho",
@@ -5750,54 +5276,6 @@
       }
     },
     {
-      "id": "p_13c57f73a742aada",
-      "name": "Manimal Smokehouse",
-      "normalizedName": "manimal smokehouse",
-      "address": "",
-      "mapUrl": "https://naver.me/F6mxlYHX",
-      "searchQuery": "Manimal Smokehouse Japan",
-      "sourceKeys": [
-        "src_c97f3e8fec2f56cfdb"
-      ],
-      "location": null,
-      "google": null,
-      "category": {
-        "key": "other",
-        "label": "其他",
-        "source": "heuristic"
-      },
-      "mentions": [
-        {
-          "id": "feipo1998:bAja3N9rrMw:7",
-          "sourceKey": "src_c97f3e8fec2f56cfdb",
-          "channelId": "feipo1998",
-          "channelName": "肥波開吃啦",
-          "videoId": "bAja3N9rrMw",
-          "videoTitle": "首爾美食地圖，72小時爽吃特輯八選 ! 首爾三天兩夜爽吃攻略，超夯倫敦貝果早餐、浮誇松露牛排炸醬麵、水嫩多汁炸豬菲力、梨泰院超爽美式燒烤、真的必吃馬鈴薯排骨湯 【 肥波外食記 】",
-          "videoUrl": "https://www.youtube.com/watch?v=bAja3N9rrMw&t=1205s",
-          "published": "2 年前",
-          "views": "觀看次數：20萬次",
-          "time": "20:05",
-          "seconds": 1205,
-          "mapUrl": "https://naver.me/F6mxlYHX",
-          "sourceReview": "",
-          "youtubeReview": "影片描述：煙燻烤肉拼盤59000₩；很想二刷指數 6/5"
-        }
-      ],
-      "review": {
-        "reason": "已依原片城市與Naver店家頁核對分店及完整地址；尚未取得可交叉核實的精確點位，公開地圖搜尋結果的視窗中心不作店址座標。",
-        "method": "原片《首爾美食地圖，72小時爽吃特輯八選 ! 首爾三天兩夜爽吃攻略，超夯倫敦貝果早餐、浮誇松露牛排炸醬麵、水嫩多汁炸豬菲力、梨泰院超爽美式燒烤、真的必吃馬鈴薯排骨湯 【 肥波外食記 】》：原片說明列出Manimal Smokehouse；依南韓首爾場景／行程核對매니멀 스모크하우스（Manimal Smokehouse）與完整店址。直接讀取原片20:05所附Naver店卡。",
-        "sourceChecks": [
-          "https://naver.me/F6mxlYHX"
-        ],
-        "captionEvidenceUrls": [],
-        "originalAddress": "",
-        "verifiedAddress": "南韓 서울 용산구 녹사평대로40길 47 2층",
-        "videoCity": "南韓首爾",
-        "checkedAt": "2026-10-27"
-      }
-    },
-    {
       "id": "p_ee8a9586045a35fb",
       "name": "Manner Coffee 國客濱江店",
       "normalizedName": "manner coffee 國客濱江店",
@@ -5997,54 +5475,6 @@
         "originalAddress": "",
         "verifiedAddress": "",
         "videoCity": "中國上海市黃浦區",
-        "checkedAt": "2026-10-27"
-      }
-    },
-    {
-      "id": "p_4d7337664adce3af",
-      "name": "MUTAN",
-      "normalizedName": "mutan",
-      "address": "",
-      "mapUrl": "https://naver.me/FgivzDWH",
-      "searchQuery": "MUTAN Japan",
-      "sourceKeys": [
-        "src_02cdc82b883140b0cf"
-      ],
-      "location": null,
-      "google": null,
-      "category": {
-        "key": "other",
-        "label": "其他",
-        "source": "heuristic"
-      },
-      "mentions": [
-        {
-          "id": "feipo1998:bAja3N9rrMw:1",
-          "sourceKey": "src_02cdc82b883140b0cf",
-          "channelId": "feipo1998",
-          "channelName": "肥波開吃啦",
-          "videoId": "bAja3N9rrMw",
-          "videoTitle": "首爾美食地圖，72小時爽吃特輯八選 ! 首爾三天兩夜爽吃攻略，超夯倫敦貝果早餐、浮誇松露牛排炸醬麵、水嫩多汁炸豬菲力、梨泰院超爽美式燒烤、真的必吃馬鈴薯排骨湯 【 肥波外食記 】",
-          "videoUrl": "https://www.youtube.com/watch?v=bAja3N9rrMw&t=192s",
-          "published": "2 年前",
-          "views": "觀看次數：20萬次",
-          "time": "3:12",
-          "seconds": 192,
-          "mapUrl": "https://naver.me/FgivzDWH",
-          "sourceReview": "",
-          "youtubeReview": "影片描述：松露牛排炸醬麵33000₩ 馬卡龍蝦餅27000₩；很想二刷指數 4.5/5；大瓦房醬蟹"
-        }
-      ],
-      "review": {
-        "reason": "已依原片城市與Naver店家頁核對分店及完整地址；尚未取得可交叉核實的精確點位，公開地圖搜尋結果的視窗中心不作店址座標。",
-        "method": "原片《首爾美食地圖，72小時爽吃特輯八選 ! 首爾三天兩夜爽吃攻略，超夯倫敦貝果早餐、浮誇松露牛排炸醬麵、水嫩多汁炸豬菲力、梨泰院超爽美式燒烤、真的必吃馬鈴薯排骨湯 【 肥波外食記 】》：原片說明列出MUTAN；依南韓首爾場景／行程核對무탄 압구정 본점（MUTAN 狎鷗亭本店）與完整店址。直接開啟原片3:12 MUTAN所附Naver連結，店卡指定狎鷗亭本店。",
-        "sourceChecks": [
-          "https://naver.me/FgivzDWH"
-        ],
-        "captionEvidenceUrls": [],
-        "originalAddress": "",
-        "verifiedAddress": "南韓 서울 강남구 논현로176길 22 1층",
-        "videoCity": "南韓首爾",
         "checkedAt": "2026-10-27"
       }
     },
@@ -7348,294 +6778,6 @@
         "originalAddress": "",
         "verifiedAddress": "",
         "videoCity": "長野県湯田中温泉",
-        "checkedAt": "2026-10-27"
-      }
-    },
-    {
-      "id": "p_25df44ed84e17565",
-      "name": "대원가 大元家",
-      "normalizedName": "대원가 大元家",
-      "address": "",
-      "mapUrl": "https://naver.me/GG7tsYMV",
-      "searchQuery": "대원가 大元家 Japan",
-      "sourceKeys": [
-        "src_94ad1508ad81476b98"
-      ],
-      "location": null,
-      "google": null,
-      "category": {
-        "key": "other",
-        "label": "其他",
-        "source": "heuristic"
-      },
-      "mentions": [
-        {
-          "id": "feipo1998:GaiHr7M2osk:0",
-          "sourceKey": "src_94ad1508ad81476b98",
-          "channelId": "feipo1998",
-          "channelName": "肥波開吃啦",
-          "videoId": "GaiHr7M2osk",
-          "videoTitle": "濟州島美食地圖，72小時爽吃特輯！EP.1 浮誇鮑魚海鮮鍋、連續十連藍絲帶認證可頌、黑白大廚熟成黑豬、濟州銀帶魚天婦羅、姨母海味下酒菜大餐 【 肥波外食記 】",
-          "videoUrl": "https://www.youtube.com/watch?v=GaiHr7M2osk&t=25s",
-          "published": "2 天前",
-          "views": "觀看次數：5.5萬次",
-          "time": "0:25",
-          "seconds": 25,
-          "mapUrl": "https://naver.me/GG7tsYMV",
-          "sourceReview": "活鮑魚海鮮鍋₩58000 很想二刷指數 5/5 TIME CODE 0:25",
-          "youtubeReview": "品嚐了 活鮑魚海鮮鍋₩58000，很想二刷指數為 5/5。"
-        }
-      ],
-      "review": {
-        "reason": "已依原片城市與Naver店家頁核對分店及完整地址；尚未取得可交叉核實的精確點位，公開地圖搜尋結果的視窗中心不作店址座標。",
-        "method": "原片《濟州島美食地圖，72小時爽吃特輯！EP.1 浮誇鮑魚海鮮鍋、連續十連藍絲帶認證可頌、黑白大廚熟成黑豬、濟州銀帶魚天婦羅、姨母海味下酒菜大餐 【 肥波外食記 】》：原片說明列出대원가 大元家；依南韓濟州島場景／行程核對대원가（大元家）與完整店址。直接讀取濟州原片0:25所附Naver店卡。",
-        "sourceChecks": [
-          "https://naver.me/GG7tsYMV"
-        ],
-        "captionEvidenceUrls": [],
-        "originalAddress": "",
-        "verifiedAddress": "南韓 제주 제주시 도남로16길 15",
-        "videoCity": "南韓濟州島",
-        "checkedAt": "2026-10-27"
-      }
-    },
-    {
-      "id": "p_22bec764f9957b78",
-      "name": "바다술상 大海酒桌",
-      "normalizedName": "바다술상 大海酒桌",
-      "address": "",
-      "mapUrl": "https://naver.me/Gplx7amj",
-      "searchQuery": "바다술상 大海酒桌 Japan",
-      "sourceKeys": [
-        "src_5519ae5cedca749d08"
-      ],
-      "location": null,
-      "google": null,
-      "category": {
-        "key": "other",
-        "label": "其他",
-        "source": "heuristic"
-      },
-      "mentions": [
-        {
-          "id": "feipo1998:GaiHr7M2osk:4",
-          "sourceKey": "src_5519ae5cedca749d08",
-          "channelId": "feipo1998",
-          "channelName": "肥波開吃啦",
-          "videoId": "GaiHr7M2osk",
-          "videoTitle": "濟州島美食地圖，72小時爽吃特輯！EP.1 浮誇鮑魚海鮮鍋、連續十連藍絲帶認證可頌、黑白大廚熟成黑豬、濟州銀帶魚天婦羅、姨母海味下酒菜大餐 【 肥波外食記 】",
-          "videoUrl": "https://www.youtube.com/watch?v=GaiHr7M2osk&t=684s",
-          "published": "2 天前",
-          "views": "觀看次數：5.5萬次",
-          "time": "11:24",
-          "seconds": 684,
-          "mapUrl": "https://naver.me/Gplx7amj",
-          "sourceReview": "姨母無菜單海鮮下酒菜套餐₩99000 很想二刷指數 5/5 TIME CODE 11:24",
-          "youtubeReview": "品嚐了 姨母無菜單海鮮下酒菜套餐₩99000，很想二刷指數為 5/5。"
-        }
-      ],
-      "review": {
-        "reason": "已依原片城市與Naver店家頁核對分店及完整地址；尚未取得可交叉核實的精確點位，公開地圖搜尋結果的視窗中心不作店址座標。",
-        "method": "原片《濟州島美食地圖，72小時爽吃特輯！EP.1 浮誇鮑魚海鮮鍋、連續十連藍絲帶認證可頌、黑白大廚熟成黑豬、濟州銀帶魚天婦羅、姨母海味下酒菜大餐 【 肥波外食記 】》：原片說明列出바다술상 大海酒桌；依南韓濟州島場景／行程核對바다술상（大海酒桌）與完整店址。直接讀取濟州原片11:24所附Naver店卡，確認翰林分店。",
-        "sourceChecks": [
-          "https://naver.me/Gplx7amj"
-        ],
-        "captionEvidenceUrls": [],
-        "originalAddress": "",
-        "verifiedAddress": "南韓 제주 제주시 한림읍 한림해안로 582 1, 2층",
-        "videoCity": "南韓濟州島",
-        "checkedAt": "2026-10-27"
-      }
-    },
-    {
-      "id": "p_d6f93a28e2560a3c",
-      "name": "봉주르마담 Bonjour Madam",
-      "normalizedName": "봉주르마담 bonjour madam",
-      "address": "",
-      "mapUrl": "https://naver.me/xcnaFMth",
-      "searchQuery": "봉주르마담 Bonjour Madam Japan",
-      "sourceKeys": [
-        "src_49e847cddb2195f12d"
-      ],
-      "location": null,
-      "google": null,
-      "category": {
-        "key": "other",
-        "label": "其他",
-        "source": "heuristic"
-      },
-      "mentions": [
-        {
-          "id": "feipo1998:GaiHr7M2osk:2",
-          "sourceKey": "src_49e847cddb2195f12d",
-          "channelId": "feipo1998",
-          "channelName": "肥波開吃啦",
-          "videoId": "GaiHr7M2osk",
-          "videoTitle": "濟州島美食地圖，72小時爽吃特輯！EP.1 浮誇鮑魚海鮮鍋、連續十連藍絲帶認證可頌、黑白大廚熟成黑豬、濟州銀帶魚天婦羅、姨母海味下酒菜大餐 【 肥波外食記 】",
-          "videoUrl": "https://www.youtube.com/watch?v=GaiHr7M2osk&t=359s",
-          "published": "2 天前",
-          "views": "觀看次數：5.5萬次",
-          "time": "5:59",
-          "seconds": 359,
-          "mapUrl": "https://naver.me/xcnaFMth",
-          "sourceReview": "奶油瑞士捲₩5500+青蔥奶油₩4800+巧克力可頌₩4500+香腸麵包₩4500 很想二刷指數 5/5 TIME CODE 5:59",
-          "youtubeReview": "品嚐了 奶油瑞士捲₩5500+青蔥奶油₩4800+巧克力可頌₩4500+香腸麵包₩4500，很想二刷指數為 5/5。"
-        }
-      ],
-      "review": {
-        "reason": "已依原片城市與Naver店家頁核對分店及完整地址；尚未取得可交叉核實的精確點位，公開地圖搜尋結果的視窗中心不作店址座標。",
-        "method": "原片《濟州島美食地圖，72小時爽吃特輯！EP.1 浮誇鮑魚海鮮鍋、連續十連藍絲帶認證可頌、黑白大廚熟成黑豬、濟州銀帶魚天婦羅、姨母海味下酒菜大餐 【 肥波外食記 】》：原片說明列出봉주르마담 Bonjour Madam；依南韓濟州島西歸浦場景／行程核對봉주르마담（Bonjour Madam）與完整店址。直接讀取濟州原片5:59所附Naver店卡，確認西歸浦店址。",
-        "sourceChecks": [
-          "https://naver.me/xcnaFMth"
-        ],
-        "captionEvidenceUrls": [],
-        "originalAddress": "",
-        "verifiedAddress": "南韓 제주 서귀포시 대청로 33 오름빌딩1차 103호",
-        "videoCity": "南韓濟州島西歸浦",
-        "checkedAt": "2026-10-27"
-      }
-    },
-    {
-      "id": "p_a9656fdeb9466caa",
-      "name": "우동카덴 UDON Caden",
-      "normalizedName": "우동카덴 udon caden",
-      "address": "",
-      "mapUrl": "https://naver.me/xSFaZe8U",
-      "searchQuery": "우동카덴 UDON Caden Japan",
-      "sourceKeys": [
-        "src_087b1e57c848a77d25"
-      ],
-      "location": null,
-      "google": null,
-      "category": {
-        "key": "other",
-        "label": "其他",
-        "source": "heuristic"
-      },
-      "mentions": [
-        {
-          "id": "feipo1998:GaiHr7M2osk:1",
-          "sourceKey": "src_087b1e57c848a77d25",
-          "channelId": "feipo1998",
-          "channelName": "肥波開吃啦",
-          "videoId": "GaiHr7M2osk",
-          "videoTitle": "濟州島美食地圖，72小時爽吃特輯！EP.1 浮誇鮑魚海鮮鍋、連續十連藍絲帶認證可頌、黑白大廚熟成黑豬、濟州銀帶魚天婦羅、姨母海味下酒菜大餐 【 肥波外食記 】",
-          "videoUrl": "https://www.youtube.com/watch?v=GaiHr7M2osk&t=181s",
-          "published": "2 天前",
-          "views": "觀看次數：5.5萬次",
-          "time": "3:01",
-          "seconds": 181,
-          "mapUrl": "https://naver.me/xSFaZe8U",
-          "sourceReview": "山藥玉子烏冬₩15000+銀帶魚天婦羅₩34000 很想二刷指數 4.5/5 TIME CODE 3:01",
-          "youtubeReview": "品嚐了 山藥玉子烏冬₩15000+銀帶魚天婦羅₩34000，很想二刷指數為 4.5/5。"
-        }
-      ],
-      "review": {
-        "reason": "已依原片城市與Naver店家頁核對分店及完整地址；尚未取得可交叉核實的精確點位，公開地圖搜尋結果的視窗中心不作店址座標。",
-        "method": "原片《濟州島美食地圖，72小時爽吃特輯！EP.1 浮誇鮑魚海鮮鍋、連續十連藍絲帶認證可頌、黑白大廚熟成黑豬、濟州銀帶魚天婦羅、姨母海味下酒菜大餐 【 肥波外食記 】》：原片說明列出우동카덴 UDON Caden；依南韓濟州島場景／行程核對우동카덴（UDON Caden）與完整店址。直接讀取濟州原片3:01所附Naver店卡，非首爾同品牌店。",
-        "sourceChecks": [
-          "https://naver.me/xSFaZe8U"
-        ],
-        "captionEvidenceUrls": [],
-        "originalAddress": "",
-        "verifiedAddress": "南韓 제주 제주시 조천읍 교래3길 23",
-        "videoCity": "南韓濟州島",
-        "checkedAt": "2026-10-27"
-      }
-    },
-    {
-      "id": "p_c1beeb1427e57099",
-      "name": "이세계",
-      "normalizedName": "이세계",
-      "address": "",
-      "mapUrl": "https://naver.me/xnh0ug8T",
-      "searchQuery": "이세계 Japan",
-      "sourceKeys": [
-        "src_29b883f5b4d6c04a5f"
-      ],
-      "location": null,
-      "google": null,
-      "category": {
-        "key": "other",
-        "label": "其他",
-        "source": "heuristic"
-      },
-      "mentions": [
-        {
-          "id": "feipo1998:aZyad-kMOag:3",
-          "sourceKey": "src_29b883f5b4d6c04a5f",
-          "channelId": "feipo1998",
-          "channelName": "肥波開吃啦",
-          "videoId": "aZyad-kMOag",
-          "videoTitle": "釜山美食西面篇，24小時爽吃特輯四選！西面站一日美食地圖，水芹松阪豬肉捲、韓系海味生鮭魚麵、蜜汁牛尾初體驗、激推烤雞料理專精 【 肥波外食記 】",
-          "videoUrl": "https://www.youtube.com/watch?v=aZyad-kMOag&t=442s",
-          "published": "1 年前",
-          "views": "觀看次數：4.8萬次",
-          "time": "7:22",
-          "seconds": 442,
-          "mapUrl": "https://naver.me/xnh0ug8T",
-          "sourceReview": "",
-          "youtubeReview": "影片描述：招牌綜合拼盤$33000 烤飯糰$3500；很想二刷指數 6\\5"
-        }
-      ],
-      "review": {
-        "reason": "已依原片城市與Naver店家頁核對分店及完整地址；尚未取得可交叉核實的精確點位，公開地圖搜尋結果的視窗中心不作店址座標。",
-        "method": "原片《釜山美食西面篇，24小時爽吃特輯四選！西面站一日美食地圖，水芹松阪豬肉捲、韓系海味生鮭魚麵、蜜汁牛尾初體驗、激推烤雞料理專精  【 肥波外食記 】》：原片說明列出이세계；依南韓釜山場景／行程核對이세계（異世界）與完整店址。直接讀取釜山西面原片7:22所附Naver店卡，確認釜山鎮區同名店。",
-        "sourceChecks": [
-          "https://naver.me/xnh0ug8T"
-        ],
-        "captionEvidenceUrls": [],
-        "originalAddress": "",
-        "verifiedAddress": "南韓 부산 부산진구 동천로107번길 25 1층",
-        "videoCity": "南韓釜山",
-        "checkedAt": "2026-10-27"
-      }
-    },
-    {
-      "id": "p_4417e4fb73c14122",
-      "name": "크라운돼지 CROWN PIG",
-      "normalizedName": "크라운돼지 crown pig",
-      "address": "",
-      "mapUrl": "https://naver.me/Grmaw6AR",
-      "searchQuery": "크라운돼지 CROWN PIG Japan",
-      "sourceKeys": [
-        "src_ddc7303b8be3c6c776"
-      ],
-      "location": null,
-      "google": null,
-      "category": {
-        "key": "other",
-        "label": "其他",
-        "source": "heuristic"
-      },
-      "mentions": [
-        {
-          "id": "feipo1998:GaiHr7M2osk:3",
-          "sourceKey": "src_ddc7303b8be3c6c776",
-          "channelId": "feipo1998",
-          "channelName": "肥波開吃啦",
-          "videoId": "GaiHr7M2osk",
-          "videoTitle": "濟州島美食地圖，72小時爽吃特輯！EP.1 浮誇鮑魚海鮮鍋、連續十連藍絲帶認證可頌、黑白大廚熟成黑豬、濟州銀帶魚天婦羅、姨母海味下酒菜大餐 【 肥波外食記 】",
-          "videoUrl": "https://www.youtube.com/watch?v=GaiHr7M2osk&t=520s",
-          "published": "2 天前",
-          "views": "觀看次數：5.5萬次",
-          "time": "8:40",
-          "seconds": 520,
-          "mapUrl": "https://naver.me/Grmaw6AR",
-          "sourceReview": "戰斧豬排₩34000+熟成五花₩20000+熟成豬頸₩20000 很想二刷指數 4.5/5 TIME CODE 8:40",
-          "youtubeReview": "品嚐了 戰斧豬排₩34000+熟成五花₩20000+熟成豬頸₩20000，很想二刷指數為 4.5/5。"
-        }
-      ],
-      "review": {
-        "reason": "已依原片城市與Naver店家頁核對分店及完整地址；尚未取得可交叉核實的精確點位，公開地圖搜尋結果的視窗中心不作店址座標。",
-        "method": "原片《濟州島美食地圖，72小時爽吃特輯！EP.1 浮誇鮑魚海鮮鍋、連續十連藍絲帶認證可頌、黑白大廚熟成黑豬、濟州銀帶魚天婦羅、姨母海味下酒菜大餐 【 肥波外食記 】》：原片說明列出크라운돼지 CROWN PIG；依南韓濟州島場景／行程核對크라운돼지 제주점（CROWN PIG 濟州店）與完整店址。直接讀取濟州原片8:40所附Naver店卡，確認涯月濟州店。",
-        "sourceChecks": [
-          "https://naver.me/Grmaw6AR"
-        ],
-        "captionEvidenceUrls": [],
-        "originalAddress": "",
-        "verifiedAddress": "南韓 제주 제주시 애월읍 상가목장길 84",
-        "videoCity": "南韓濟州島",
         "checkedAt": "2026-10-27"
       }
     },
