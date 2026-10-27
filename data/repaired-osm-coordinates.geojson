@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "license": "https://opendatacommons.org/licenses/odbl/1-0/",
-  "attribution": "© OpenStreetMap contributors; Minagogo selected and converted these POIs.",
+  "attribution": "© OpenStreetMap contributors; Minagogo selected and converted these points.",
   "features": [
     {
       "type": "Feature",
@@ -15,10 +15,172 @@
       },
       "properties": {
         "name": "1. 南美咖啡",
+        "address": "108 台北市萬華區成都路44號",
         "sourceUrl": "https://www.openstreetmap.org/node/5208155826",
-        "checkedAt": "2026-10-27",
-        "license": "ODbL-1.0",
-        "attribution": "© OpenStreetMap contributors"
+        "precision": "place",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_eadd3a48a540da92",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5039353,
+          25.0389048
+        ]
+      },
+      "properties": {
+        "name": "1. 富特士多早餐店 FOOTD STORE",
+        "address": "108 台北市萬華區昆明街274號1樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/10907761905",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_b7e723edcce9b4af",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5063436,
+          25.0425572
+        ]
+      },
+      "properties": {
+        "name": "2. 蜂大咖啡",
+        "address": "108 台北市萬華區成都路42號",
+        "sourceUrl": "https://www.openstreetmap.org/node/4569821975",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_f71f1789f43c7ad9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5063436,
+          25.0425572
+        ]
+      },
+      "properties": {
+        "name": "2. 蜂大咖啡 Fong Da Coffee",
+        "address": "108 台北市萬華區成都路42號",
+        "sourceUrl": "https://www.openstreetmap.org/node/4569821975",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_7f31e49865b0c93d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5096112,
+          25.0586158
+        ]
+      },
+      "properties": {
+        "name": "22STUDIO_ 二十二工作商店",
+        "address": "103臺北市大同區迪化街一段167號2樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908254580",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_999c8d993c659c97",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5193953,
+          25.0304611
+        ]
+      },
+      "properties": {
+        "name": "3. 三槐堂",
+        "address": "100 台北市中正區羅斯福路一段72巷2號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10828339345",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_7dddfad3460c8ef0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5182695,
+          25.0310124
+        ]
+      },
+      "properties": {
+        "name": "4. 劉仲記食品",
+        "address": "100 台北市中正區寧波西街28號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10828338125",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_c5b06cf0a4dee666",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5155558,
+          25.074505
+        ]
+      },
+      "properties": {
+        "name": "40年老字號包餡雞蛋糕",
+        "address": "103臺北市大同區重慶北路三段335巷56號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908279229",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_47f5b46609261a4c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5127817,
+          25.0441531
+        ]
+      },
+      "properties": {
+        "name": "5. 明星咖啡館",
+        "address": "100 台北市中正區武昌街一段5號2樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/2607298696",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_561c1d2e3dd01fe5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5645246,
+          25.054028
+        ]
+      },
+      "properties": {
+        "name": "6. péakie",
+        "address": "105 台北市松山區健康路268號1樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/10845450496",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
       }
     },
     {
@@ -33,10 +195,136 @@
       },
       "properties": {
         "name": "7. 上上咖啡",
+        "address": "100 台北市中正區延平南路95號",
         "sourceUrl": "https://www.openstreetmap.org/node/9054267421",
-        "checkedAt": "2026-10-27",
-        "license": "ODbL-1.0",
-        "attribution": "© OpenStreetMap contributors"
+        "precision": "place",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_5203a617cf3be622",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5293259,
+          25.0312564
+        ]
+      },
+      "properties": {
+        "name": "8%ICE & CHEESECAKE",
+        "address": "106臺北市大安區永康里永康街14巷4號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826599547",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_fafd63caab662cec",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5021902,
+          25.040378
+        ]
+      },
+      "properties": {
+        "name": "一甲子餐飲",
+        "address": "台北市萬華區康定路79號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10156051671",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_6fdfe46b29a64b9c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1988928,
+          22.9975868
+        ]
+      },
+      "properties": {
+        "name": "一味品碗粿魚羹",
+        "address": "台南市中西區國華街三段177號",
+        "sourceUrl": "https://www.openstreetmap.org/node/4348063893",
+        "precision": "place",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_9a142c29ce5924ac",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.529627,
+          25.0291058
+        ]
+      },
+      "properties": {
+        "name": "一票人票畫空間",
+        "address": "106臺北市大安區錦安里永康街44號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826595504",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_f5a1a6cc223e59c3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5310963,
+          25.0281779
+        ]
+      },
+      "properties": {
+        "name": "一嶼 ISland",
+        "address": "106臺北市大安區青田街6巷10號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826596130",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_c5af8d833d8552d1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5197272,
+          25.0556537
+        ]
+      },
+      "properties": {
+        "name": "卜卜商店",
+        "address": "103臺北市大同區赤峰街49巷2號2樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908293904",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_d88a358b207ea04b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2599304,
+          23.0034316
+        ]
+      },
+      "properties": {
+        "name": "三大牛肉火鍋",
+        "address": "710臺南市永康區國光三街3號",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060389629",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
       }
     },
     {
@@ -51,10 +339,3268 @@
       },
       "properties": {
         "name": "大笨鐘",
+        "address": "",
         "sourceUrl": "https://www.openstreetmap.org/way/123557148",
-        "checkedAt": "2026-10-27",
-        "license": "ODbL-1.0",
-        "attribution": "© OpenStreetMap contributors"
+        "precision": "place",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_ed0fb8255b2915a3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5096996,
+          25.0586345
+        ]
+      },
+      "properties": {
+        "name": "大華行 竹木造咖",
+        "address": "103臺北市大同區大有里迪化街一段161號",
+        "sourceUrl": "https://www.openstreetmap.org/node/3835280157",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_d053888769bb3c43",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5087961,
+          25.0587697
+        ]
+      },
+      "properties": {
+        "name": "大稻埕辜宅",
+        "address": "103臺北市大同區大有里歸綏街303巷9號",
+        "sourceUrl": "https://www.openstreetmap.org/way/360087201",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_fa24cc957b693160",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5099983,
+          25.0549423
+        ]
+      },
+      "properties": {
+        "name": "大稻埕遊客中心",
+        "address": "103臺北市大同區迪化街一段44號",
+        "sourceUrl": "https://www.openstreetmap.org/node/7682149833",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_a7f4383adb47163d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5123958,
+          25.0602398
+        ]
+      },
+      "properties": {
+        "name": "大稻埕慈聖宮",
+        "address": "103臺北市大同區保安街49巷17號",
+        "sourceUrl": "https://www.openstreetmap.org/way/201280859",
+        "precision": "place",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_a616d26e18261d4b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.515513,
+          25.0734265
+        ]
+      },
+      "properties": {
+        "name": "大龍峒保安宮",
+        "address": "103臺北市大同區哈密街61號",
+        "sourceUrl": "https://www.openstreetmap.org/way/1463082589",
+        "precision": "place",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_a95c6edd86cc1516",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5242857,
+          25.0535872
+        ]
+      },
+      "properties": {
+        "name": "大鶴黑寶",
+        "address": "104臺北市中山區南京東路一段13巷7弄9號1樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/10830229177",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_ab9d6119c7d1d1ee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.524265,
+          25.0670288
+        ]
+      },
+      "properties": {
+        "name": "女王漢堡 雙城店",
+        "address": "10461臺北市中山區雙城街38-1號",
+        "sourceUrl": "https://www.openstreetmap.org/node/2293203434",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_cb7a13af09d21956",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5601042,
+          25.0312403
+        ]
+      },
+      "properties": {
+        "name": "小川珈琲所",
+        "address": "110台北市信義區吳興街39號",
+        "sourceUrl": "https://www.openstreetmap.org/node/12622924539",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_b14e44acda4e0d27",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4985978,
+          25.039289
+        ]
+      },
+      "properties": {
+        "name": "小王煮瓜",
+        "address": "台北市萬華區華西街17之4號攤位153號",
+        "sourceUrl": "https://www.openstreetmap.org/node/7497601385",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_c5dc97a9745d0e03",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5710631,
+          24.9906232
+        ]
+      },
+      "properties": {
+        "name": "小廢墟咖啡Ruins Coffee Roasters",
+        "address": "116台北市文山區木柵路三段242號",
+        "sourceUrl": "https://www.openstreetmap.org/node/5964348658",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_beab5c4b9f96d116",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1940189,
+          22.9799964
+        ]
+      },
+      "properties": {
+        "name": "小橙桌 Orange table",
+        "address": "702 臺南市南區三官路63號1樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/11061008509",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_725f465094d7f056",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5297362,
+          25.0292159
+        ]
+      },
+      "properties": {
+        "name": "山海豆花",
+        "address": "106臺北市大安區錦安里永康街63號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826592658",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_e3d327491a05a2b3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.45318,
+          25.0485437
+        ]
+      },
+      "properties": {
+        "name": "中港大排親水步道",
+        "address": "242新北市新莊區自信里中華路二段116號",
+        "sourceUrl": "https://www.openstreetmap.org/node/12082763699",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_3f2ecd9785733327",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5199292,
+          25.0713065
+        ]
+      },
+      "properties": {
+        "name": "円山駅",
+        "address": "103臺北市大同區酒泉街9巷13號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908289378",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_743d72177ca253f1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5319001,
+          25.0712131
+        ]
+      },
+      "properties": {
+        "name": "天使生活館",
+        "address": "10491臺北市中山區濱江街16號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826494492",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_9c229ee65ff425e0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5296873,
+          25.0326521
+        ]
+      },
+      "properties": {
+        "name": "天津蔥抓餅",
+        "address": "106臺北市大安區永康里永康街6巷1號",
+        "sourceUrl": "https://www.openstreetmap.org/node/4888000022",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_c9245771829d13e5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.516404,
+          25.052167
+        ]
+      },
+      "properties": {
+        "name": "日星鑄字行",
+        "address": "103臺北市大同區太原路97巷13號",
+        "sourceUrl": "https://www.openstreetmap.org/node/3663322172",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_4a21b74cf170571d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5654689,
+          24.9826785
+        ]
+      },
+      "properties": {
+        "name": "木柵製冰所",
+        "address": "116臺北市文山區樟腳里木新路二段295-1號",
+        "sourceUrl": "https://www.openstreetmap.org/node/8738031045",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_d3513cf9e02c7d3e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5146946,
+          25.1377448
+        ]
+      },
+      "properties": {
+        "name": "北投麗禧溫泉酒店",
+        "address": "112臺北市北投區幽雅路30號",
+        "sourceUrl": "https://www.openstreetmap.org/way/655068194",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_a3d9f1e646b43cb1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4984937,
+          25.0377363
+        ]
+      },
+      "properties": {
+        "name": "北港甜湯",
+        "address": "台北市萬華區華西街41號(第59攤位)",
+        "sourceUrl": "https://www.openstreetmap.org/node/10907763789",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_b83d3e81b4940743",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5396868,
+          24.9625677
+        ]
+      },
+      "properties": {
+        "name": "北鴨鴨肉羹",
+        "address": "231新北市新店區文明里光明街169號",
+        "sourceUrl": "https://www.openstreetmap.org/node/3408985694",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_67f5ef3385a7f04d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5210089,
+          25.0591946
+        ]
+      },
+      "properties": {
+        "name": "台北市文昌宮",
+        "address": "104臺北市中山區民生西路45巷9號",
+        "sourceUrl": "https://www.openstreetmap.org/way/247419612",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_9fbf84f924840fde",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5198869,
+          25.0557324
+        ]
+      },
+      "properties": {
+        "name": "台北你好百貨",
+        "address": "103臺北市大同區赤峰街49巷5號2 樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908292450",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_4093bd0f8abab3f8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1960658,
+          23.000366
+        ]
+      },
+      "properties": {
+        "name": "台南信義街 硓𥑮石黃宅",
+        "address": "台南市中西區信義街46巷15號",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060943401",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_36cf01a56e8c2f75",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.562136,
+          25.0314488
+        ]
+      },
+      "properties": {
+        "name": "四四南村",
+        "address": "110台北市信義區松勤街52號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10830327325",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_63a06840d363739e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5106087,
+          25.0555835
+        ]
+      },
+      "properties": {
+        "name": "永昌傳統豆花店",
+        "address": "103臺北市大同區永樂里永昌街9號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908238803",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_e18fef8fe2e1907a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1988615,
+          22.9974518
+        ]
+      },
+      "properties": {
+        "name": "永樂米糕",
+        "address": "700臺南市中西區國華街三段171號",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060979945",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_1f1489b35b119fb6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5113986,
+          25.0584164
+        ]
+      },
+      "properties": {
+        "name": "永樂雞捲大王",
+        "address": "103臺北市大同區大有里延平北路二段178號",
+        "sourceUrl": "https://www.openstreetmap.org/node/9661917329",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_edcd4b3e235773a8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1952301,
+          23.0002243
+        ]
+      },
+      "properties": {
+        "name": "目栮物物",
+        "address": "700臺南市中西區兌悅里信義街59號",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060976034",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_52dae70e3d77be20",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2002995,
+          22.9942638
+        ]
+      },
+      "properties": {
+        "name": "冰鄉",
+        "address": "台南市中西區民生路一段160號",
+        "sourceUrl": "https://www.openstreetmap.org/node/2931039553",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_43ebdc0ac031b45f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5092995,
+          25.0601891
+        ]
+      },
+      "properties": {
+        "name": "印花作夥",
+        "address": "103臺北市大同區大有里迪化街一段248號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908254957",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_89c30d2968ae2ed9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5094779,
+          25.0598537
+        ]
+      },
+      "properties": {
+        "name": "合興壹玖肆柒",
+        "address": "103臺北市大同區迪化街一段223號",
+        "sourceUrl": "https://www.openstreetmap.org/node/7911265785",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_58bef6fc0b558d53",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5106335,
+          25.1374704
+        ]
+      },
+      "properties": {
+        "name": "地熱谷（設有步道的秀麗景點，可飽覽周遭熱氣蒸騰的天然溫泉。）",
+        "address": "112臺北市北投區中山路30號之10",
+        "sourceUrl": "https://www.openstreetmap.org/node/10911104410",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_5046c219f3433532",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1600421,
+          23.0033872
+        ]
+      },
+      "properties": {
+        "name": "安平樹屋",
+        "address": "708臺南市安平區王城里古堡街104號",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060238262",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_d4b7c37658a6b04d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5343571,
+          24.9782497
+        ]
+      },
+      "properties": {
+        "name": "旭達豆漿",
+        "address": "231新北市新店區百和里中正路438號",
+        "sourceUrl": "https://www.openstreetmap.org/node/3891423034",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_0c5e513f06884dbb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5091963,
+          25.0613787
+        ]
+      },
+      "properties": {
+        "name": "老綿成燈籠店",
+        "address": "103臺北市大同區迪化街一段298號",
+        "sourceUrl": "https://www.openstreetmap.org/node/14265265901",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_41b002cf7f00e44e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5006892,
+          25.0411565
+        ]
+      },
+      "properties": {
+        "name": "老濟安",
+        "address": "台北市萬華區西昌街84號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10907772284",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_428d02312bd6dea8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1829916,
+          22.9925889
+        ]
+      },
+      "properties": {
+        "name": "肉多多火鍋-台南怡平店",
+        "address": "708臺南市安平區建平里怡平路1號3樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060259916",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_26ce9d10ce5cadc2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5709287,
+          24.9859408
+        ]
+      },
+      "properties": {
+        "name": "自由·之丘",
+        "address": "台北市文山區木新路二段69巷1號1樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/13131122573",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_8ddb9914a1651b3d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2039987,
+          22.9958585
+        ]
+      },
+      "properties": {
+        "name": "利成珍食品行",
+        "address": "700 臺南市中西區忠義路二段154號",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060966772",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_19d06f559d263364",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.50975,
+          25.0568454
+        ]
+      },
+      "properties": {
+        "name": "妙口四神湯.肉包專賣店",
+        "address": "103臺北市大同區民生西路388號",
+        "sourceUrl": "https://www.openstreetmap.org/node/5335045621",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_b2bb2e2ad87ccc0c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5203055,
+          25.0556397
+        ]
+      },
+      "properties": {
+        "name": "志文裝訂行",
+        "address": "103臺北市大同區赤峰街49巷24號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908294064",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_a66b02b7b697248d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5231702,
+          25.0653731
+        ]
+      },
+      "properties": {
+        "name": "批薩謎勒",
+        "address": "104臺北市中山區雙城街18巷16號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826480920",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_1e128df9fb9bcf9b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5096452,
+          25.0584152
+        ]
+      },
+      "properties": {
+        "name": "杜甲 A-Ma",
+        "address": "103臺北市大同區大有里迪化街一段159號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908256642",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_2301b36066644b44",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1960296,
+          22.9978371
+        ]
+      },
+      "properties": {
+        "name": "沃隼釀造 WE Drink Beer Company",
+        "address": "台南市中西區神農街108號",
+        "sourceUrl": "https://www.openstreetmap.org/node/6873273285",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_6850b92b555438f7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5691427,
+          24.9876849
+        ]
+      },
+      "properties": {
+        "name": "豆漿餡餅專賣店",
+        "address": "116臺北市文山區木新里指南路一段15號",
+        "sourceUrl": "https://www.openstreetmap.org/node/13142340389",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_eeda30fe1df46833",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5197272,
+          25.0556537
+        ]
+      },
+      "properties": {
+        "name": "赤丸",
+        "address": "103臺北市大同區赤峰街49巷2號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908293904",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_aa34451e526c467a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4997715,
+          25.0397498
+        ]
+      },
+      "properties": {
+        "name": "亞東甜不辣",
+        "address": "台北市萬華區西園路一段56號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10907795382",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_82cfba80326b8099",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5242857,
+          25.0535872
+        ]
+      },
+      "properties": {
+        "name": "佳賓餅家",
+        "address": "104臺北市中山區南京東路一段13巷7弄9號1樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/10830229177",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_8d281c18b88bc839",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5443068,
+          24.9934929
+        ]
+      },
+      "properties": {
+        "name": "味 自慢",
+        "address": "116台北市文山區景興路118號",
+        "sourceUrl": "https://www.openstreetmap.org/node/3860006658",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_0119f157c036807c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1572038,
+          22.9921295
+        ]
+      },
+      "properties": {
+        "name": "咖啡分子研製社",
+        "address": "708臺南市安平區安億路138號",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060247912",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_a5fea4cc9bd1567f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5243996,
+          25.0536092
+        ]
+      },
+      "properties": {
+        "name": "定置漁場三代目 The Fishery 中山",
+        "address": "104臺北市中山區中山北路二段39巷22號",
+        "sourceUrl": "https://www.openstreetmap.org/node/2993852937",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_65595d88514d34d4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5302156,
+          25.0283931
+        ]
+      },
+      "properties": {
+        "name": "宜德和志（宜和餅店）",
+        "address": "106臺北市大安區潮州街149號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826597064",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_c9f3edbd364cf066",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5438427,
+          24.9764707
+        ]
+      },
+      "properties": {
+        "name": "居米先生",
+        "address": "231新北市新店區永華街31號",
+        "sourceUrl": "https://www.openstreetmap.org/node/12081415729",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_80f89bc77535305a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5220015,
+          25.0491625
+        ]
+      },
+      "properties": {
+        "name": "朋丁 Pon Ding",
+        "address": "104臺北市中山區中山北路一段53巷6號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10830261142",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_41961694acf2bac0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5025897,
+          25.0360662
+        ]
+      },
+      "properties": {
+        "name": "東三水街市場蜆蛤專賣店",
+        "address": "台北市萬華區三水街87號（東三水街市場東28攤）",
+        "sourceUrl": "https://www.openstreetmap.org/node/10907791235",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_e5b7c3857eefc618",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5304622,
+          25.0724309
+        ]
+      },
+      "properties": {
+        "name": "林安泰古厝",
+        "address": "10491臺北市中山區濱江街5號",
+        "sourceUrl": "https://www.openstreetmap.org/relation/6710338",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_247bb37857e292ff",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5587188,
+          25.032305
+        ]
+      },
+      "properties": {
+        "name": "枝枒．氣氛轉換所",
+        "address": "110台北市信義區嘉興街8號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826517959",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_a35a56a6c05ae7e7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5383764,
+          25.0001351
+        ]
+      },
+      "properties": {
+        "name": "河童家 かっぱや",
+        "address": "116臺北市文山區萬隆街19巷1號",
+        "sourceUrl": "https://www.openstreetmap.org/node/5069213521",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_edfa3d83a49bbc10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1982107,
+          22.9964439
+        ]
+      },
+      "properties": {
+        "name": "花樓咖啡 Follow Coffee",
+        "address": "700臺南市中西區民權路三段55號",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060956918",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_82d798cc97635b27",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4539791,
+          25.0346526
+        ]
+      },
+      "properties": {
+        "name": "金合和糕餅",
+        "address": "新北市新莊區新莊路269號",
+        "sourceUrl": "https://www.openstreetmap.org/node/12082496825",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_3de9e90e38ab4442",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1990649,
+          22.9976235
+        ]
+      },
+      "properties": {
+        "name": "金得春捲",
+        "address": "700臺南市中西區民族路三段19號",
+        "sourceUrl": "https://www.openstreetmap.org/node/2284278881",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_7f30a8771ae96c4d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4930456,
+          25.0307516
+        ]
+      },
+      "properties": {
+        "name": "阿伯蛋包麵",
+        "address": "108臺北市萬華區雙園街88號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10907763283",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_8ea657acacc3e068",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2058913,
+          22.9917023
+        ]
+      },
+      "properties": {
+        "name": "阿美嬤紅茶奶－開山店",
+        "address": "700臺南市中西區開山路13號",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060959793",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_ca284f1a915b8aa6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1934817,
+          23.0065769
+        ]
+      },
+      "properties": {
+        "name": "阿興虱目魚",
+        "address": "704臺南市北區文賢路311號",
+        "sourceUrl": "https://www.openstreetmap.org/node/5672863440",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_678bb3c1ef9ef5b2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5309837,
+          25.0275812
+        ]
+      },
+      "properties": {
+        "name": "青田茶館",
+        "address": "106臺北市大安區青田街8巷12號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826599561",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_333fb5d32b7725c5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5295709,
+          25.03255
+        ]
+      },
+      "properties": {
+        "name": "厚里",
+        "address": "106臺北市大安區永康里永康街6巷4號",
+        "sourceUrl": "https://www.openstreetmap.org/node/5815865467",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_eef0fcbc60934423",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1951923,
+          22.9918933
+        ]
+      },
+      "properties": {
+        "name": "品味鱔魚意麵",
+        "address": "台南市中西區尊王路102號",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060964457",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_d4aaf2bbd00c2bc5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4544099,
+          25.0364528
+        ]
+      },
+      "properties": {
+        "name": "响仁和鼓藝工坊",
+        "address": "24243新北市新莊區文德里中正路173號",
+        "sourceUrl": "https://www.openstreetmap.org/node/12082543286",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_1de874e37e1e8876",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5110253,
+          25.0550673
+        ]
+      },
+      "properties": {
+        "name": "姚德和 青草號",
+        "address": "103臺北市大同區民樂街55號57號",
+        "sourceUrl": "https://www.openstreetmap.org/node/8001855985",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_1369d7ac96d3e7f6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5212033,
+          25.0580112
+        ]
+      },
+      "properties": {
+        "name": "建國潤餅",
+        "address": "104臺北市中山區民生西路45巷3弄11號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908290307",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_a774c0225795f210",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5043383,
+          25.1370506
+        ]
+      },
+      "properties": {
+        "name": "拾米屋",
+        "address": "112臺北市北投區泉源路12號右側號",
+        "sourceUrl": "https://www.openstreetmap.org/node/4384259022",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_92c7fa5fb36bbc40",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5293565,
+          25.0285737
+        ]
+      },
+      "properties": {
+        "name": "昭和町文物市集",
+        "address": "106臺北市大安區錦安里永康街60號",
+        "sourceUrl": "https://www.openstreetmap.org/node/2365905451",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_33428f94e96acd28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5101412,
+          25.0592156
+        ]
+      },
+      "properties": {
+        "name": "昭和浪漫洗濯屋",
+        "address": "103臺北市大同區大有里安西街3號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908254937",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_527faf1e0a96abcd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4488489,
+          25.0430097
+        ]
+      },
+      "properties": {
+        "name": "珍品餐飲坊",
+        "address": "242新北市新莊區中和里復興路一段97號",
+        "sourceUrl": "https://www.openstreetmap.org/node/12082691954",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_11166658e7698d0d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1904114,
+          22.9750609
+        ]
+      },
+      "properties": {
+        "name": "美鮮牛肉湯",
+        "address": "台南市南區新興路419號之1號",
+        "sourceUrl": "https://www.openstreetmap.org/node/11061039897",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_4a5fea3342166eff",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5091861,
+          25.0627934
+        ]
+      },
+      "properties": {
+        "name": "迪化街十連棟",
+        "address": "103臺北市大同區迪化街一段362號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908257262",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_fb74680a50dc0f79",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5149385,
+          25.0744729
+        ]
+      },
+      "properties": {
+        "name": "重慶豆漿炸蛋餅",
+        "address": "103臺北市大同區重慶北路三段335巷32號",
+        "sourceUrl": "https://www.openstreetmap.org/node/4452637493",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_b3b98e9f956f34c1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5199788,
+          25.0557427
+        ]
+      },
+      "properties": {
+        "name": "香蕉貓",
+        "address": "103臺北市大同區赤峰街49巷11號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908296896",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_723f1a23950e4fc1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1987262,
+          22.997202
+        ]
+      },
+      "properties": {
+        "name": "修安扁擔豆花",
+        "address": "台南市中西區國華街三段157號",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060979322",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_7850b6a4435a3908",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5242085,
+          25.0531974
+        ]
+      },
+      "properties": {
+        "name": "桑斗早餐 Sundo Breakfast",
+        "address": "104臺北市中山區中山北路二段27巷13號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10830226565",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_23cd0ebe6cd84951",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5202196,
+          25.0552154
+        ]
+      },
+      "properties": {
+        "name": "浮光書店books & cafe",
+        "address": "103臺北市大同區赤峰街47巷16號2樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/8150339517",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_e0d4cc89a2b7833e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5299257,
+          25.0280318
+        ]
+      },
+      "properties": {
+        "name": "珠寶盒法式點心坊 師大麗水店",
+        "address": "106臺北市大安區麗水街33巷19之1號",
+        "sourceUrl": "https://www.openstreetmap.org/node/3445858803",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_c8582ff3b79aa97b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1971166,
+          22.9973756
+        ]
+      },
+      "properties": {
+        "name": "神遊chill___god",
+        "address": "台南市中西區神農街54號",
+        "sourceUrl": "https://www.openstreetmap.org/node/3287419809",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_d03c67050ec2ce8b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5094639,
+          25.0589352
+        ]
+      },
+      "properties": {
+        "name": "高建桶店",
+        "address": "103臺北市大同區迪化街一段204號",
+        "sourceUrl": "https://www.openstreetmap.org/node/3835274357",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_d8f46468d7e8b048",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5030964,
+          25.131591
+        ]
+      },
+      "properties": {
+        "name": "高記茶莊（經營多年的老字號店家，供應特調與季節茶飲以及點心。）",
+        "address": "112臺北市北投區清江路25巷54號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10911085703",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_b5b3c14c46459a05",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5592763,
+          25.0307876
+        ]
+      },
+      "properties": {
+        "name": "曹料理",
+        "address": "110台北市信義區基隆路二段39巷16號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10830328832",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_7269f50f6c713574",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5000404,
+          25.0400438
+        ]
+      },
+      "properties": {
+        "name": "涼粉伯",
+        "address": "台北市萬華區貴陽街二段202號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10907800703",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_123bd98c055e4083",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5098209,
+          25.0605001
+        ]
+      },
+      "properties": {
+        "name": "琅茶 Wolf Tea 大稻埕店",
+        "address": "103臺北市大同區涼州街106號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908257348",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_e6738b81ece6cd62",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5525931,
+          25.0591941
+        ]
+      },
+      "properties": {
+        "name": "琅茶本舖 Wolf Tea Shop + Gallery",
+        "address": "105台北市松山區民生東路四段97巷6弄8號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10845467354",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_1cdd358d1aa1e402",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5298914,
+          25.0313647
+        ]
+      },
+      "properties": {
+        "name": "甜滿",
+        "address": "106臺北市大安區福住里永康街31巷10號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826599556",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_f216a5f0e5dfdf28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5301577,
+          25.0335068
+        ]
+      },
+      "properties": {
+        "name": "習瑞鎮商行XJZ living firm",
+        "address": "106臺北市大安區信義路二段196號5樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/2597965511",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_0608d71d5c2f98cf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2067583,
+          23.0004283
+        ]
+      },
+      "properties": {
+        "name": "連得堂餅家",
+        "address": "704 臺南市北區崇安街54號",
+        "sourceUrl": "https://www.openstreetmap.org/node/4154047864",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_24d7dc2a50b8fcbe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5098256,
+          25.0576169
+        ]
+      },
+      "properties": {
+        "name": "郭怡美書店",
+        "address": "103臺北市大同區迪化街一段129號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908248725",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_d930261351488032",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5119425,
+          25.0755418
+        ]
+      },
+      "properties": {
+        "name": "陳悅記祖宅 | 老師府",
+        "address": "103臺北市大同區延平北路四段231號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908277038",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_f0a5d31106580d34",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4981887,
+          25.0351522
+        ]
+      },
+      "properties": {
+        "name": "陳記腸蚵專業麵線",
+        "address": "台北市萬華區和平西路三段166號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10907762455",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_71f3b62907d876ab",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.533949,
+          25.0140067
+        ]
+      },
+      "properties": {
+        "name": "雪球咖啡（公館店）",
+        "address": "100台北市中正區汀州路三段227號",
+        "sourceUrl": "https://www.openstreetmap.org/node/3854472485",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_f2e06e4c77b6e846",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5094896,
+          25.0594809
+        ]
+      },
+      "properties": {
+        "name": "魚刺人雞蛋糕-大稻埕店",
+        "address": "103臺北市大同區迪化街一段205號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908258231",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_4c6dff1c063eb34d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2049378,
+          22.9955566
+        ]
+      },
+      "properties": {
+        "name": "鳥飛古物店",
+        "address": "700 臺南市中西區忠義路二段158巷62號1樓之1",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060982671",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_74af40922f7a71ff",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2040255,
+          22.9986015
+        ]
+      },
+      "properties": {
+        "name": "握咖啡台南赤崁店",
+        "address": "700臺南市中西區成功路223號與赤崁東街口 早安美芝城巷弄進來第一間後棟",
+        "sourceUrl": "https://www.openstreetmap.org/node/3289528513",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_ef49c94aec1a103d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5118929,
+          25.0540819
+        ]
+      },
+      "properties": {
+        "name": "森高砂咖啡館",
+        "address": "103臺北市大同區延平北路二段1號",
+        "sourceUrl": "https://www.openstreetmap.org/node/4273737290",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_af670aae37da0834",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5118355,
+          25.0547342
+        ]
+      },
+      "properties": {
+        "name": "渭水驛站",
+        "address": "103臺北市大同區延平北路二段27號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908244620",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_78521d457976a9a3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5093879,
+          25.060416
+        ]
+      },
+      "properties": {
+        "name": "滋養和菓子",
+        "address": "10347臺北市大同區迪化街一段247號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908253376",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_f6288040b57e327f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4939067,
+          25.0352416
+        ]
+      },
+      "properties": {
+        "name": "華江整宅",
+        "address": "108臺北市萬華區和平西路三段296號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10907789406",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_93e65d1cee3726fe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.509273,
+          25.0540443
+        ]
+      },
+      "properties": {
+        "name": "菸花Op.118.2",
+        "address": "10343臺北市大同區迪化街一段14巷37號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908241019",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_db2bfffc3326f04c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1876426,
+          22.9784604
+        ]
+      },
+      "properties": {
+        "name": "閒情茗品屋",
+        "address": "702臺南市南區金華里金華路二段57巷97號",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060999119",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_d0d9795af6d8b059",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5023404,
+          25.0328934
+        ]
+      },
+      "properties": {
+        "name": "雲水食堂",
+        "address": "108臺北市萬華區艋舺大道120巷11弄1號",
+        "sourceUrl": "https://www.openstreetmap.org/node/6402119403",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_5ab59f145a7b3572",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5294708,
+          25.03037
+        ]
+      },
+      "properties": {
+        "name": "雲彩軒永康店",
+        "address": "106臺北市大安區永康里永康街32號",
+        "sourceUrl": "https://www.openstreetmap.org/node/5717534177",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_2de27d45f77d2a77",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5220795,
+          25.0747306
+        ]
+      },
+      "properties": {
+        "name": "圓山自然景觀公園",
+        "address": "10491臺北市中山區玉門街33號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908290102",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_0814d76308c810a5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5571946,
+          25.0578
+        ]
+      },
+      "properties": {
+        "name": "微熱山丘 Sunny Hills台北店",
+        "address": "105台北市松山區民生東路五段36巷4弄1號1樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/2563915995",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_6ed071c2477eab54",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4474074,
+          25.0402673
+        ]
+      },
+      "properties": {
+        "name": "新北市立新莊棒球場",
+        "address": "242新北市新莊區立德里和興街66號",
+        "sourceUrl": "https://www.openstreetmap.org/node/12081991525",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_a17d8ee0c0949365",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5125637,
+          25.0571001
+        ]
+      },
+      "properties": {
+        "name": "新芳春茶行",
+        "address": "103臺北市大同區民生西路309號",
+        "sourceUrl": "https://www.openstreetmap.org/node/13305918325",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_aea462a2ab970bd8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5019262,
+          25.0357636
+        ]
+      },
+      "properties": {
+        "name": "新富町文化市場",
+        "address": "台北市萬華區三水街70號",
+        "sourceUrl": "https://www.openstreetmap.org/way/520761591",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_81d2bd880aa3fe5a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5023702,
+          25.1382985
+        ]
+      },
+      "properties": {
+        "name": "新豐綿綿冰",
+        "address": "112臺北市北投區中和街47號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10910854044",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_f55979c2683d6871",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5095419,
+          25.058346
+        ]
+      },
+      "properties": {
+        "name": "源竹隆香",
+        "address": "103臺北市大同區大有里迪化街一段176號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908250187",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_86a91e69a209cd1b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5303589,
+          25.0262451
+        ]
+      },
+      "properties": {
+        "name": "溫州街蘿蔔絲餅達人",
+        "address": "106臺北市大安區和平東路一段186-1號",
+        "sourceUrl": "https://www.openstreetmap.org/node/3939158055",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_8beef56fd15e4ac0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5031791,
+          25.1327922
+        ]
+      },
+      "properties": {
+        "name": "矮仔財滷肉飯（氣氛熱鬧的簡樸小吃店，販賣在地美食。）",
+        "address": "112臺北市北投區磺港路33號D419",
+        "sourceUrl": "https://www.openstreetmap.org/node/10911113227",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_915ca3c913fc816d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5019262,
+          25.0357636
+        ]
+      },
+      "properties": {
+        "name": "萬華世界下午酒場",
+        "address": "台北市萬華區三水街70號",
+        "sourceUrl": "https://www.openstreetmap.org/way/520761591",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_cb3ddede9f25f0a0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5094421,
+          25.0597376
+        ]
+      },
+      "properties": {
+        "name": "裏Ura （已歇業）",
+        "address": "103臺北市大同區迪化街一段219號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908250355",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_61632147c0406309",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4529517,
+          25.0344114
+        ]
+      },
+      "properties": {
+        "name": "慈祐宮",
+        "address": "新北市新莊區新莊路218號",
+        "sourceUrl": "https://www.openstreetmap.org/node/12082496913",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_6fe8b5f041dd1cf3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.529627,
+          25.0291058
+        ]
+      },
+      "properties": {
+        "name": "榕錦時光",
+        "address": "106臺北市大安區錦安里永康街44號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826595504",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_4575a67bcf0fc926",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2004774,
+          22.9953926
+        ]
+      },
+      "properties": {
+        "name": "漢菓方",
+        "address": "700臺南市中西區新美街70號",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060966186",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_e6e9525fd9e7ee0d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4535327,
+          25.0344677
+        ]
+      },
+      "properties": {
+        "name": "熊記燒餅油條",
+        "address": "新北市新莊區新莊路291號",
+        "sourceUrl": "https://www.openstreetmap.org/node/12082496777",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_05ac95683475a4e8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5241981,
+          25.0571109
+        ]
+      },
+      "properties": {
+        "name": "福餃FUKGYO",
+        "address": "104臺北市中山區中山北路二段65巷17號1樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/10830234944",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_ff6702de95fc4577",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.516503,
+          25.0728252
+        ]
+      },
+      "properties": {
+        "name": "臺北孔子廟",
+        "address": "103臺北市大同區大龍街275號",
+        "sourceUrl": "https://www.openstreetmap.org/relation/6082933",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_d80b5423cf1644e9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5319001,
+          25.0712131
+        ]
+      },
+      "properties": {
+        "name": "臺北典藏植物園",
+        "address": "10491臺北市中山區濱江街16號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826494492",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_ed63e8928df34dc4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5340192,
+          25.0279274
+        ]
+      },
+      "properties": {
+        "name": "臺北清真寺",
+        "address": "106臺北市大安區新生南路二段62號",
+        "sourceUrl": "https://www.openstreetmap.org/relation/9078558",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_1273ddb92d13308c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5322319,
+          25.0287135
+        ]
+      },
+      "properties": {
+        "name": "臺灣設計口 Taiwan Design Corner",
+        "address": "106臺北市大安區青田街5巷5號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826592556",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_cf0692ee3b496720",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5151671,
+          25.0591035
+        ]
+      },
+      "properties": {
+        "name": "臺灣新文化運動紀念館",
+        "address": "103臺北市大同區寧夏路87號",
+        "sourceUrl": "https://www.openstreetmap.org/way/544366061",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_986dea0158a6376e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5006345,
+          25.0368371
+        ]
+      },
+      "properties": {
+        "name": "艋舺地藏庵",
+        "address": "台北市萬華區西昌街245號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10907760857",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_916b4a49d3c6d211",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5304889,
+          25.0284598
+        ]
+      },
+      "properties": {
+        "name": "蒔雨雲山 Thètion",
+        "address": "106臺北市大安區青田街2巷25號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826598367",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_41298a5c00ac4de3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5418429,
+          24.974208
+        ]
+      },
+      "properties": {
+        "name": "賓果鋪",
+        "address": "231新北市新店區忠誠里北新路二段97巷17號",
+        "sourceUrl": "https://www.openstreetmap.org/node/12081423084",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_2313acffa9213fc7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5095379,
+          25.0591641
+        ]
+      },
+      "properties": {
+        "name": "澎玉191",
+        "address": "103臺北市大同區迪化街一段191號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908249217",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_4da9bc096d2b7b00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5573112,
+          24.9612344
+        ]
+      },
+      "properties": {
+        "name": "蔡明亮藝術空間",
+        "address": "231新北市新店區美潭里長春路152號",
+        "sourceUrl": "https://www.openstreetmap.org/node/12081339983",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_dd3cc6679a7feedf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5098222,
+          25.0611081
+        ]
+      },
+      "properties": {
+        "name": "賣麵炎仔",
+        "address": "103臺北市大同區南芳里安西街106號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908259154",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_367ea8681a93c116",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5014263,
+          25.1328058
+        ]
+      },
+      "properties": {
+        "name": "燈亮有餅北投山東蔥油餅",
+        "address": "112臺北市北投區中央南路一段16號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10911081679",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_2b13f038aa8b8bcf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51517,
+          25.0730687
+        ]
+      },
+      "properties": {
+        "name": "舉人豆花",
+        "address": "103臺北市大同區哈密街69號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908277098",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_bbe9052ea4fc5552",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4998814,
+          25.0372759
+        ]
+      },
+      "properties": {
+        "name": "龍山寺",
+        "address": "台北市萬華區廣州街211號",
+        "sourceUrl": "https://www.openstreetmap.org/way/198401479",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_4f3a33739dd2a7f6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.497334,
+          25.0351675
+        ]
+      },
+      "properties": {
+        "name": "龍都冰菓專業家",
+        "address": "108臺北市萬華區和平西路三段192號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10907759738",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_9a973e9e865767a1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5612993,
+          25.0608779
+        ]
+      },
+      "properties": {
+        "name": "戴記福建涼麵",
+        "address": "105台北市松山區富錦街427號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10845459038",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_fea3350009d94660",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4982268,
+          25.0338844
+        ]
+      },
+      "properties": {
+        "name": "營養號 西園橋下蚵仔湯",
+        "address": "108臺北市萬華區西園路一段258號之5",
+        "sourceUrl": "https://www.openstreetmap.org/node/10907775593",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_d3f3582e79b71866",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4954406,
+          25.0340326
+        ]
+      },
+      "properties": {
+        "name": "穗月朝食",
+        "address": "108臺北市萬華區大理街163號1樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/10907795776",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_87c4960e2c0bac53",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1810604,
+          22.9895224
+        ]
+      },
+      "properties": {
+        "name": "鴻牛溫體牛肉鍋-安平店",
+        "address": "708臺南市安平區永華路二段349號",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060238124",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_8487ed6c9c850dc6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5296607,
+          25.029705
+        ]
+      },
+      "properties": {
+        "name": "雙連花枝羹",
+        "address": "106臺北市大安區錦安里金華街154號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826596905",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_0347b508c45d8f79",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5260141,
+          25.0304268
+        ]
+      },
+      "properties": {
+        "name": "雙連花枝羹",
+        "address": "106臺北市大安區錦泰里金華街167號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826579127",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_70b603be0306830c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5095921,
+          25.0588286
+        ]
+      },
+      "properties": {
+        "name": "鯉魚 The Carp",
+        "address": "10347臺北市大同區大有里迪化街一段177號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908256805",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_446812634ca85ca1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1969815,
+          22.998379
+        ]
+      },
+      "properties": {
+        "name": "鬍鬚忠牛肉湯",
+        "address": "台南市中西區民族路三段91號",
+        "sourceUrl": "https://www.openstreetmap.org/node/6299490422",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_ce0a4d84f2d468d0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2002278,
+          22.9952048
+        ]
+      },
+      "properties": {
+        "name": "鵺 珈琲",
+        "address": "700臺南市中西區新美街41號1樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060976387",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_85722123bda485b3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5604564,
+          24.9815339
+        ]
+      },
+      "properties": {
+        "name": "寶杏堂",
+        "address": "116臺北市文山區樟腳里木新路三段179號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10785070724",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_0a1287b824da4b1f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5331797,
+          25.0105304
+        ]
+      },
+      "properties": {
+        "name": "寶藏巖國際藝術村",
+        "address": "100台北市中正區汀州路三段230巷14弄2號",
+        "sourceUrl": "https://www.openstreetmap.org/way/504708763",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_6edade3a300879a4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.510624,
+          25.0556359
+        ]
+      },
+      "properties": {
+        "name": "爐鍋咖啡 Luguo Cafe",
+        "address": "103臺北市大同區永樂里民生西路362巷40號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908246025",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_1f1347abcfa9d96b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5203027,
+          25.0593862
+        ]
+      },
+      "properties": {
+        "name": "鐵馬杏仁麵茶",
+        "address": "103臺北市大同區錦西街38巷28號轉角第一間",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908299561",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_00a7efcbc2c7b01a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54093,
+          25.0013687
+        ]
+      },
+      "properties": {
+        "name": "A.B.D. Coffee & Life",
+        "address": "116台北市文山區羅斯福路五段269巷32號1樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/5775287265",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_bd6286b3a9f27acf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5100568,
+          25.054755
+        ]
+      },
+      "properties": {
+        "name": "adidas Originals 大稻埕經典概念店",
+        "address": "103臺北市大同區永樂里迪化街一段36號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908239940",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_872c85492ac513f8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1878509,
+          22.9813611
+        ]
+      },
+      "properties": {
+        "name": "anäyama.穴山",
+        "address": "702臺南市南區金華里惠南街126號",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060990699",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_f3255233c622b5f3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5295559,
+          25.0327194
+        ]
+      },
+      "properties": {
+        "name": "Bao maison寶物",
+        "address": "106臺北市大安區永康街6巷3號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826592380",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_be31886db859c528",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5570753,
+          25.0603749
+        ]
+      },
+      "properties": {
+        "name": "BEAMS 台北店",
+        "address": "105台北市松山區富錦街340號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10845435442",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_bb4ed5c916707f22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5520866,
+          25.0596637
+        ]
+      },
+      "properties": {
+        "name": "but.we love butter",
+        "address": "105台北市松山區富錦街102號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10845467275",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_9882c0d0d315ea2f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.546968,
+          25.0413671
+        ]
+      },
+      "properties": {
+        "name": "Casa & View Hair",
+        "address": "106臺北市大安區忠孝東路四段112號3樓之6",
+        "sourceUrl": "https://www.openstreetmap.org/node/3304641863",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_cd046f9bb9266b83",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5336183,
+          25.0196171
+        ]
+      },
+      "properties": {
+        "name": "COFFEE RED",
+        "address": "台北市大安區新生南路三段68之2號1樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/7420828960",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_bd47753f51a79efd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5258027,
+          25.0304899
+        ]
+      },
+      "properties": {
+        "name": "Coffee S",
+        "address": "106臺北市大安區錦泰里金華街161號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826579545",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_2569337108e3bc83",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5301577,
+          25.0335068
+        ]
+      },
+      "properties": {
+        "name": "COPPII LUMII LIVING COFFEE",
+        "address": "106臺北市大安區福住里信義路二段196號",
+        "sourceUrl": "https://www.openstreetmap.org/node/2597965511",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_b350db656c1b304c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1947923,
+          23.0007499
+        ]
+      },
+      "properties": {
+        "name": "Dano's Brewer Beer Wine",
+        "address": "700台南市中西區信義街108巷3號",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060954209",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_c10ef5e5cc651560",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5571848,
+          25.0582168
+        ]
+      },
+      "properties": {
+        "name": "Design Butik",
+        "address": "105台北市松山區民生東路五段38號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10845457740",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_9124a6867463e48f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5550109,
+          25.0268709
+        ]
+      },
+      "properties": {
+        "name": "DOPENESS ART LAB",
+        "address": "106台北市大安區基隆路二段170號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826519648",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_7cdd4ad5f88abf14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5190595,
+          25.0533907
+        ]
+      },
+      "properties": {
+        "name": "DreAMbition",
+        "address": "103臺北市大同區承德路二段1巷38號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908300047",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_c6bdbdfd277df9af",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5573829,
+          25.0606542
+        ]
+      },
+      "properties": {
+        "name": "FREITAG by FUJIN TREE GROUP",
+        "address": "1105台北市松山區富錦街345號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10845461800",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_dcf91778e494e268",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5297989,
+          25.0292794
+        ]
+      },
+      "properties": {
+        "name": "HENGSHI水晶",
+        "address": "106臺北市大安區錦安里永康街61號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826593895",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_255422f94eec459f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2063541,
+          22.991904
+        ]
+      },
+      "properties": {
+        "name": "here Kyoto 台南",
+        "address": "台南市中西區開山路3巷21號",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060971781",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_6d2336a8cda19623",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2063541,
+          22.991904
+        ]
+      },
+      "properties": {
+        "name": "here Kyoto 台南丨開山・清水",
+        "address": "700 臺南市中西區開山路3巷21號",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060971781",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_14e5b9253437a58f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5316734,
+          25.0282322
+        ]
+      },
+      "properties": {
+        "name": "House of Leica Taipei QingTian 台北徠卡之家",
+        "address": "106臺北市大安區青田街6巷3號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826592089",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_c8e99c7d6abc2023",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5352518,
+          25.0252823
+        ]
+      },
+      "properties": {
+        "name": "Kamaro'an House",
+        "address": "106臺北市大安區新生南路三段11巷2號1樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826603817",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_bf933ab3fecd7b46",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5568207,
+          25.0306649
+        ]
+      },
+      "properties": {
+        "name": "KITE COFFEE",
+        "address": "106台北市大安區光復南路676巷6號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826510317",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_234de5babf473d64",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5095116,
+          25.0593353
+        ]
+      },
+      "properties": {
+        "name": "LE LABO 大稻埕形象店",
+        "address": "103臺北市大同區迪化街一段199號1樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908252251",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_2407bf48d3900552",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5217209,
+          25.0514725
+        ]
+      },
+      "properties": {
+        "name": "LNYPIZZA Little New York Pizzeria Zhongshan",
+        "address": "10491臺北市中山區中山北路一段140巷7號號1樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908297380",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_f2982d70c8138905",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5215027,
+          25.0535964
+        ]
+      },
+      "properties": {
+        "name": "logo_f by fuyue",
+        "address": "104臺北市中山區中山北路二段20巷7號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908290497",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_5aa2ea18a73c3c82",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4591911,
+          25.0525735
+        ]
+      },
+      "properties": {
+        "name": "Meguro Coffee Roasters 目黑咖啡",
+        "address": "新北市新莊區思源路419巷3號",
+        "sourceUrl": "https://www.openstreetmap.org/node/12082609271",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_c6ca06e7936e8301",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5534943,
+          25.0582501
+        ]
+      },
+      "properties": {
+        "name": "MERCER BRUNCH TAIWAN",
+        "address": "105台北市松山區民生東路四段121號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10845472847",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_b28aec9178fc848b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5735597,
+          24.9999676
+        ]
+      },
+      "properties": {
+        "name": "MU Pâtisserie 沐林甜點烘焙坊",
+        "address": "116臺北市文山區博嘉里和平東路四段308號",
+        "sourceUrl": "https://www.openstreetmap.org/node/12765487433",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_84973ae6d7d4c28d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5304285,
+          25.0332781
+        ]
+      },
+      "properties": {
+        "name": "Muhei Bakery 暮黑烘焙",
+        "address": "106臺北市大安區福住里信義路二段198巷3號1樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826597941",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_3d194247f3a88e3b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2031518,
+          22.9909187
+        ]
+      },
+      "properties": {
+        "name": "MUSA泰國料理",
+        "address": "台南市中西區友愛街14號",
+        "sourceUrl": "https://www.openstreetmap.org/way/526152963",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
       }
     },
     {
@@ -69,10 +3615,370 @@
       },
       "properties": {
         "name": "Nachi Falls (Hiro Shrine)",
+        "address": "",
         "sourceUrl": "https://www.openstreetmap.org/node/975026052",
-        "checkedAt": "2026-10-27",
-        "license": "ODbL-1.0",
-        "attribution": "© OpenStreetMap contributors"
+        "precision": "place",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_60937083b2ad426c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5411579,
+          25.0151261
+        ]
+      },
+      "properties": {
+        "name": "NTU FARM COFFEE 農業試驗場農場訪客中心 綠房子",
+        "address": "106臺北市大安區基隆路四段42巷5號",
+        "sourceUrl": "https://www.openstreetmap.org/way/1052288219",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_65c5637bdb529b12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5096762,
+          25.0575
+        ]
+      },
+      "properties": {
+        "name": "OLYMPUS PLAZA TAIPEI ZUIKO STUDIO",
+        "address": "103臺北市大同區大有里迪化街一段142號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908257734",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_121cc25597a7290a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5413792,
+          24.9955891
+        ]
+      },
+      "properties": {
+        "name": "P. COFFEE ROASTER",
+        "address": "116臺北市文山區羅斯福路六段231號",
+        "sourceUrl": "https://www.openstreetmap.org/node/7208404925",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_64aec834cdb2ca3b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5413792,
+          24.9955891
+        ]
+      },
+      "properties": {
+        "name": "P. COFFEE ROASTER 自家烘焙咖啡",
+        "address": "116台北市文山區羅斯福路六段231號",
+        "sourceUrl": "https://www.openstreetmap.org/node/7208404925",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_869597ab81617e7c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.519364,
+          25.0533968
+        ]
+      },
+      "properties": {
+        "name": "PAR STORE",
+        "address": "103臺北市大同區赤峰街3巷1號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908293452",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_72ea9acaa45c5652",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5577735,
+          25.0565127
+        ]
+      },
+      "properties": {
+        "name": "PECKiSH bakery",
+        "address": "105台北市松山區延壽街385號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10845459848",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_d11dd2cb1fd9bda7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1878085,
+          22.9751249
+        ]
+      },
+      "properties": {
+        "name": "Perfe’dough",
+        "address": "台南市南區新興路414號",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060996204",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_2c747f6cc918e6bf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5094063,
+          25.060178
+        ]
+      },
+      "properties": {
+        "name": "Raum三舍",
+        "address": "台北市大同區迪化街一段237號1樓二進",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908254319",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_ebb760538239d8a6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5215965,
+          25.049276
+        ]
+      },
+      "properties": {
+        "name": "Razzle Dazzle 文明放縱鹽酥雞小酒館",
+        "address": "104臺北市中山區中山北路一段51號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10830258766",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_13a8a43c4bb3482f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5197993,
+          25.0532079
+        ]
+      },
+      "properties": {
+        "name": "ReSarah 手作婚鞋",
+        "address": "103臺北市大同區赤峰街3巷16號 2 F",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908295785",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_9ccef9faa7513784",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5300192,
+          25.0321595
+        ]
+      },
+      "properties": {
+        "name": "rooTi",
+        "address": "106臺北市大安區福住里永康街31巷9號1樓",
+        "sourceUrl": "https://www.openstreetmap.org/node/4243661189",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_04117aebe95be660",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1986154,
+          22.9894587
+        ]
+      },
+      "properties": {
+        "name": "SJÓ 咻咖啡",
+        "address": "台南市中西區西門路一段734巷16弄1號",
+        "sourceUrl": "https://www.openstreetmap.org/node/11060952202",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_a648c0d34782bab3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1990649,
+          22.9976235
+        ]
+      },
+      "properties": {
+        "name": "Super Ray Coffee",
+        "address": "700臺南市中西區民族路三段19號之1",
+        "sourceUrl": "https://www.openstreetmap.org/node/2284278881",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_eb8138ca1222529c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1990649,
+          22.9976235
+        ]
+      },
+      "properties": {
+        "name": "Super Ray Coffee",
+        "address": "台南市中西區民族路三段19號之1",
+        "sourceUrl": "https://www.openstreetmap.org/node/2284278881",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_4960e165e3af522c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5203079,
+          25.0566231
+        ]
+      },
+      "properties": {
+        "name": "Supranormal Bakery Cafe 赤峰",
+        "address": "103臺北市大同區赤峰街71巷27號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908297362",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_15842a0eb426f048",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4955132,
+          25.0338879
+        ]
+      },
+      "properties": {
+        "name": "SW CAKE 唯星蛋糕",
+        "address": "108臺北市萬華區大理街144號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10907803784",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_0f8048bc6834b972",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5307205,
+          25.028305
+        ]
+      },
+      "properties": {
+        "name": "TAKEFIVE 五方食藏 青田店",
+        "address": "106臺北市大安區青田街6巷15號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10826595445",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_82432376af9d71bf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5692844,
+          25.0372042
+        ]
+      },
+      "properties": {
+        "name": "TAMED FOX 信義店",
+        "address": "台北市信義區松仁路91號B1",
+        "sourceUrl": "https://www.openstreetmap.org/node/3278033042",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_bfc013ac6b2860a8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1973356,
+          22.9865842
+        ]
+      },
+      "properties": {
+        "name": "The Han-Jia Pairing Dinner 酣呷餐酒",
+        "address": "台南市南區西門路一段669號",
+        "sourceUrl": "https://www.openstreetmap.org/node/11061018419",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_765dacd10e4ccb00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5567436,
+          25.0585046
+        ]
+      },
+      "properties": {
+        "name": "The Rema Space 民生",
+        "address": "105台北市松山區民生東路五段31號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10845433821",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
       }
     },
     {
@@ -87,10 +3993,10 @@
       },
       "properties": {
         "name": "Tokyo Tower",
+        "address": "",
         "sourceUrl": "https://www.openstreetmap.org/relation/4247312",
-        "checkedAt": "2026-10-27",
-        "license": "ODbL-1.0",
-        "attribution": "© OpenStreetMap contributors"
+        "precision": "place",
+        "checkedAt": "2026-10-27"
       }
     },
     {
@@ -105,10 +4011,100 @@
       },
       "properties": {
         "name": "Tsukiji Outer Market",
+        "address": "",
         "sourceUrl": "https://www.openstreetmap.org/way/606978548",
-        "checkedAt": "2026-10-27",
-        "license": "ODbL-1.0",
-        "attribution": "© OpenStreetMap contributors"
+        "precision": "place",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_75bb5fca196e90b5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5613098,
+          25.0610136
+        ]
+      },
+      "properties": {
+        "name": "VINTAGE & DECO",
+        "address": "105台北市松山區富錦街429巷1號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10845460277",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_d79d20971c344c77",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5293084,
+          25.0291704
+        ]
+      },
+      "properties": {
+        "name": "WASHIDA PARK",
+        "address": "106臺北市大安區錦安里麗水街17巷10號",
+        "sourceUrl": "https://www.openstreetmap.org/node/3920000132",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_0b0e89d86511c45e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.519364,
+          25.0533968
+        ]
+      },
+      "properties": {
+        "name": "WASHIDA PARK",
+        "address": "103臺北市大同區赤峰街3巷1號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908293452",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_3a1b269cd80abb07",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5548234,
+          25.0580836
+        ]
+      },
+      "properties": {
+        "name": "Yellow Monday Coffee & Croffle",
+        "address": "105台北市松山區民生東路四段124號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10845467710",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "p_ce1ae11758bcb328",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5213256,
+          25.0539283
+        ]
+      },
+      "properties": {
+        "name": "ZUBIBA 尊比巴 咖啡調飲店",
+        "address": "104臺北市中山區中山北路二段26巷17號",
+        "sourceUrl": "https://www.openstreetmap.org/node/10908297109",
+        "precision": "address",
+        "checkedAt": "2026-10-27"
       }
     }
   ]
